@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>Soc_Demo</identifier>
+    <caption>个人及家庭基本情况调查</caption>
+    <information><![CDATA[　　欢迎您填写本量表，后面的题目列出与您的基本信息相关的问题一些问题，对每项描述，请根据您的实际情况进行填写。
+	
+　　我们向您承诺，我们会严格遵守协议，将您的填写结果将只用于科学研究，绝不会以任何形式泄漏您的隐私。请您放心填写真实信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+		<title>您的性别：</title>
+		<answer aid="m" score="0">男性</answer>
+		<answer aid="f" score="0">女性</answer>
+    </question>
+
+	<question qid="q2" type="text">
+		<title>您的年龄(请填写数字，例如25；请真实填写，此题目将作为甄别填写是否有效的信息)：</title>
+    </question>
+
+	<question qid="q3" type="text">
+		<title>您家有几口人(请填写数字，例如4；请真实填写，此题目将作为甄别填写是否有效的信息)：</title>
+    </question>
+	
+	<question qid="q4">
+		<title>您的政治面貌：</title>
+		<answer aid="a" score="0">无党派</answer>
+		<answer aid="b" score="0">共青团员</answer>
+		<answer aid="c" score="0">中共党员</answer>
+		<answer aid="d" score="0">民主党派</answer>
+    </question>
+	
+	<question qid="q5">
+		<title>您的户口是：</title>
+		<answer aid="a" score="0">非农业户口</answer>
+		<answer aid="b" score="0">农业户口</answer>
+    </question>
+
+	<question qid="q6">
+		<title>您现在居住的地区是：</title>
+		<answer aid="a" score="0">直辖市</answer>
+		<answer aid="b" score="0">省会城市</answer>
+		<answer aid="c" score="0">中小城市</answer>
+		<answer aid="d" score="0">城镇</answer>
+		<answer aid="e" score="0">农村</answer>
+    </question>
+
+	<question qid="q7">
+		<title>您在外地工作的经历如何：</title>
+		<answer aid="a" score="0">经常在外地工作</answer>
+		<answer aid="b" score="0">偶尔在外地工作</answer>
+		<answer aid="c" score="0">几乎不在外地工作</answer>
+    </question>
+	
+	<question qid="q8">
+		<title>您家是否有正在上学的孩子？（如果有的话，请填写年级。）</title>
+		<answer aid="a" score="0">没有</answer>
+		<answer aid="b" type="text" score="0">有，正在上几年级？（填写年级）</answer>
+    </question>
+	
+	<question qid="q9" type="text">
+		<title>您的民族（请具体填写，例如，汉族，回族等）：</title>
+    </question>
+	
+	<question qid="q10">
+		<title>您的职业（如果没有固定职业，就以从事时间较长的为主）：</title>
+		<answer aid="a" score="0">在家务农</answer>
+		<answer aid="b" score="0">企业职工</answer>
+		<answer aid="c" score="0">事业单位人员</answer>
+		<answer aid="d" score="0">党政机关人员</answer>
+		<answer aid="e" score="0">个体经营</answer>
+		<answer aid="f" score="0">外出打工</answer>
+		<answer aid="g" score="0">离退休</answer>
+		<answer aid="h" score="0">无职业/失业</answer>
+		<answer aid="i" score="0">自由职业</answer>
+		<answer aid="j" score="0">学生</answer>
+		<answer aid="k" score="0" type="text">其他职业（请具体说明）</answer>
+    </question>
+	
+	<question qid="q11">
+		<title>您的教育程度</title>
+		<answer aid="a" score="1">不识字</answer>
+		<answer aid="b" score="1">小学（或在读）</answer>
+		<answer aid="c" score="2">初中（或在读）</answer>
+		<answer aid="d" score="3">高中（或在读）</answer>
+		<answer aid="e" score="4">中专（或在读）</answer>
+		<answer aid="f" score="5">大学专科（或在读）</answer>
+		<answer aid="g" score="6">大学本科（或在读）</answer>
+		<answer aid="h" score="7">硕士研究生（或在读）</answer>
+		<answer aid="i" score="8">博士研究生（或在读）</answer>
+    </question>
+	
+	<question qid="q12">
+		<title>您信奉什么宗教：</title>
+		<answer aid="a" score="0">不信</answer>
+		<answer aid="b" score="0">佛教</answer>
+		<answer aid="c" score="0">道教</answer>
+		<answer aid="d" score="0">基督教（天主教、新教、东正教）</answer>
+		<answer aid="e" score="0">伊斯兰教</answer>
+		<answer aid="f" score="0" type="text">其他宗教（请具体填写）</answer>
+    </question>
+
+	<question qid="q13">
+		<title>您每天在电视、报刊或网络上关注时事新闻的平均时间大约为：</title>
+		<answer aid="a" score="0">从来不看</answer>
+		<answer aid="b" score="0">看少于15分钟</answer>
+		<answer aid="c" score="0">15~30分钟</answer>
+		<answer aid="d" score="0">30~45分钟</answer>
+		<answer aid="e" score="0">45~60分钟</answer>
+		<answer aid="f" score="0">一小时以上</answer>
+	</question>
+
+	<question qid="q14" type="text">
+		<title>您家去年一年的现金收入约为多少元？（请精确到百元，例如：45800元）</title>
+    </question>
+	
+	<question qid="q15" type="text">
+		<title>您家去年大约将收入的百分之多少存入银行？（填写百分比，例如：30%）：</title>
+    </question>
+	
+	<question qid="q16" type="text">
+		<title>政府税收主要用于本地县（市）政府行政部门的必要开支和当地公共基础设施建设，您认为税收应占个人收入的百分比为多少？（填写百分比，例如：30%）：</title>
+    </question>
+	
+	<question qid="q17" type="text">
+		<title>如果现在想在您家周围再建或再买一套与目前住房面积同样大小的住房，其总价相当于您家一年现金收入的几倍（填写数字，例如10就表示十倍）：</title>
+    </question>
+	
+	<question qid="q18" type="text">
+		<title>您家去年一年的各种开支合计约为多少元？（精确到百元，例如：31500元）</title>
+    </question>
+	
+	<question qid="q19" type="text">
+		<title>在您家去年一年的各种开支当中，大约有开支的【百分之多少】用于吃饭（粮食，蔬菜，肉蛋奶，油盐酱醋等）？（填写百分比，例如：30%）：</title>
+    </question>
+	
+	<question qid="q20" type="text">
+		<title>在您家去年一年的各种开支当中，大约有开支的【百分之多少】用于教育？（填写百分比，例如：30%）：</title>
+    </question>
+	
+	<question qid="q21" type="text">
+		<title>在您家去年一年的各种开支当中，大约有开支的【百分之多少】用于看病就医？（填写百分比，例如：8%）：</title>
+    </question>
+
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">您的填写结果将用于科学研究，非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

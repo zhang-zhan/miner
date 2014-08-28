@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+	<description>
+		<identifier>SINA_SWLS</identifier>
+		<caption>生活满意度测量量表</caption>
+		<information><![CDATA[请您根据自己的真实意见或感受，不必参考别人的意见，逐项回答您对下列每一语句的同意程度。]]></information>
+		<interfacetype>CompareToAverage</interfacetype>
+	</description>
+
+	<questions>
+		<question qid="q1" tag="S">
+		  <title>在很多方面，我的生活与我的理想很接近。</title>
+		  <answer aid="a1" score="1">非常不同意</answer>
+		  <answer aid="a2" score="2">不同意</answer>
+		  <answer aid="a3" score="3">有些不同意</answer>
+		  <answer aid="a4" score="4">无所谓</answer>
+		  <answer aid="a5" score="5">有些同意</answer>
+		  <answer aid="a6" score="6">同意</answer>
+		  <answer aid="a7" score="7">非常同意</answer>
+		</question>
+
+		<question qid="q2" tag="S">
+		  <title>我的生活状况非常好。</title>
+		  <answer aid="a1" score="1">非常不同意</answer>
+		  <answer aid="a2" score="2">不同意</answer>
+		  <answer aid="a3" score="3">有些不同意</answer>
+		  <answer aid="a4" score="4">无所谓</answer>
+		  <answer aid="a5" score="5">有些同意</answer>
+		  <answer aid="a6" score="6">同意</answer>
+		  <answer aid="a7" score="7">非常同意</answer>
+		</question>
+
+		<question qid="q3" tag="S">
+		  <title>我对自己的生活感到满意。</title>
+		  <answer aid="a1" score="1">非常不同意</answer>
+		  <answer aid="a2" score="2">不同意</answer>
+		  <answer aid="a3" score="3">有些不同意</answer>
+		  <answer aid="a4" score="4">无所谓</answer>
+		  <answer aid="a5" score="5">有些同意</answer>
+		  <answer aid="a6" score="6">同意</answer>
+		  <answer aid="a7" score="7">非常同意</answer>
+		</question>
+
+		<question qid="q4" tag="S">
+		  <title>到目前为止，生活中我已经得到了自己想要的重要的东西。</title>
+		  <answer aid="a1" score="1">非常不同意</answer>
+		  <answer aid="a2" score="2">不同意</answer>
+		  <answer aid="a3" score="3">有些不同意</answer>
+		  <answer aid="a4" score="4">无所谓</answer>
+		  <answer aid="a5" score="5">有些同意</answer>
+		  <answer aid="a6" score="6">同意</answer>
+		  <answer aid="a7" score="7">非常同意</answer>
+		</question>
+
+		<question qid="q5" tag="S">
+		  <title>如果有来世，我几乎不会改变目前的生活方式。</title>
+		  <answer aid="a1" score="1">非常不同意</answer>
+		  <answer aid="a2" score="2">不同意</answer>
+		  <answer aid="a3" score="3">有些不同意</answer>
+		  <answer aid="a4" score="4">无所谓</answer>
+		  <answer aid="a5" score="5">有些同意</answer>
+		  <answer aid="a6" score="6">同意</answer>
+		  <answer aid="a7" score="7">非常同意</answer>
+		</question>
+	
+	</questions>
+	
+	<tags>
+	<tag name="S" label="生活满意度"><![CDATA[本问卷对您的生活满意度进行了测评。]]>
+	</tag>
+   </tags>
+   
+   <remarks>
+    <remark tag="S" minScore="min" maxScore="avg">您的得分低于平均分水平。</remark>
+    <remark tag="S" minScore="avg" maxScore="max">您的得分高于平均分水平。</remark>
+   </remarks>
+
+</questionnaire>

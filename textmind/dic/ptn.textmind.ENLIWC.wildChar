@@ -1,0 +1,2339 @@
+%【说明】本文件内的词语为：LIWC英文词库通配符。
+celebrat*	Achieve	Leisure	Social
+abilit*	Achieve
+able*	Achieve
+acquir*	Achieve
+acquisition*	Achieve
+adequa*	Achieve
+approv*	Achieve
+attain*	Achieve
+attempt*	Achieve
+authorit*	Achieve
+capab*	Achieve
+compet*	Achieve
+conquer*	Achieve
+conscientious*	Achieve
+crown*	Achieve
+diligen*	Achieve
+domote*	Achieve
+effort*	Achieve
+elit*	Achieve
+enabl*	Achieve
+endeav*	Achieve
+fulfill*	Achieve
+gain*	Achieve
+incapab*	Achieve
+incompeten*	Achieve
+irresponsible*	Achieve
+king*	Achieve
+masterful*	Achieve
+mastermind*	Achieve
+medal*	Achieve
+mediocr*	Achieve
+obtain*	Achieve
+overconfiden*	Achieve
+overtak*	Achieve
+perform*	Achieve
+persever*	Achieve
+persist*	Achieve
+planner*	Achieve
+potential*	Achieve
+power*	Achieve
+proficien*	Achieve
+quitt*	Achieve
+recover*	Achieve
+resourceful*	Achieve
+strateg*	Achieve
+striv*	Achieve
+superb*	Achieve
+surviv*	Achieve
+unbeat*	Achieve
+victor*	Achieve
+anyway*	Adverb	Funct
+sooo*	Adverb	Funct
+advantag*	Affect	Achieve	PosEmo
+efficien*	Affect	Achieve	PosEmo
+hero*	Affect	Achieve	PosEmo
+honor*	Affect	Achieve	PosEmo
+honour*	Affect	Achieve	PosEmo
+importan*	Affect	Achieve	PosEmo
+improve*	Affect	Achieve	PosEmo
+incentive*	Affect	Achieve	PosEmo
+opport*	Affect	Achieve	PosEmo
+prize*	Affect	Achieve	PosEmo
+proud*	Affect	Achieve	PosEmo
+reward*	Affect	Achieve	PosEmo
+strength*	Affect	Achieve	PosEmo
+strong*	Affect	Achieve	PosEmo
+triumph*	Affect	Achieve	PosEmo
+winn*	Affect	Achieve	PosEmo
+irrational*	Affect	Anx	NegEmo	CogMech
+phobi*	Affect	Anx	NegEmo	Health	Bio
+miser*	Affect	Anx	NegEmo	Sad
+overwhelm*	Affect	Anx	NegEmo	Sad
+alarm*	Affect	Anx	NegEmo
+anguish*	Affect	Anx	NegEmo
+anxi*	Affect	Anx	NegEmo
+apprehens*	Affect	Anx	NegEmo
+asham*	Affect	Anx	NegEmo
+aversi*	Affect	Anx	NegEmo
+awkward*	Affect	Anx	NegEmo
+craz*	Affect	Anx	NegEmo
+desperat*	Affect	Anx	NegEmo
+discomfort*	Affect	Anx	NegEmo
+distract*	Affect	Anx	NegEmo
+distress*	Affect	Anx	NegEmo
+disturb*	Affect	Anx	NegEmo
+dread*	Affect	Anx	NegEmo
+dwell*	Affect	Anx	NegEmo
+embarrass*	Affect	Anx	NegEmo
+fearful*	Affect	Anx	NegEmo
+frantic*	Affect	Anx	NegEmo
+fright*	Affect	Anx	NegEmo
+guilt*	Affect	Anx	NegEmo
+horr*	Affect	Anx	NegEmo
+impatien*	Affect	Anx	NegEmo
+insecur*	Affect	Anx	NegEmo
+irrita*	Affect	Anx	NegEmo
+nervous*	Affect	Anx	NegEmo
+neurotic*	Affect	Anx	NegEmo
+obsess*	Affect	Anx	NegEmo
+panic*	Affect	Anx	NegEmo
+petrif*	Affect	Anx	NegEmo
+pressur*	Affect	Anx	NegEmo
+restless*	Affect	Anx	NegEmo
+risk*	Affect	Anx	NegEmo
+scare*	Affect	Anx	NegEmo
+shame*	Affect	Anx	NegEmo
+shy*	Affect	Anx	NegEmo
+sicken*	Affect	Anx	NegEmo
+startl*	Affect	Anx	NegEmo
+strain*	Affect	Anx	NegEmo
+stress*	Affect	Anx	NegEmo
+struggl*	Affect	Anx	NegEmo
+tense*	Affect	Anx	NegEmo
+tension*	Affect	Anx	NegEmo
+terror*	Affect	Anx	NegEmo
+timid*	Affect	Anx	NegEmo
+trembl*	Affect	Anx	NegEmo
+uncomfortabl*	Affect	Anx	NegEmo
+uncontrol*	Affect	Anx	NegEmo
+uneas*	Affect	Anx	NegEmo
+upset*	Affect	Anx	NegEmo
+vulnerab*	Affect	Anx	NegEmo
+worr*	Affect	Anx	NegEmo
+alright*	Affect	Assent	PosEmo
+haha*	Affect	Assent	PosEmo
+heh*	Affect	Assent	PosEmo
+grave*	Affect	Death	NegEmo	Sad
+griev*	Affect	Death	NegEmo	Sad
+mourn*	Affect	Death	NegEmo	Sad
+fatal*	Affect	Death	NegEmo
+exhaust*	Affect	Health	NegEmo	Bio
+numb*	Affect	Health	NegEmo	Bio
+painf*	Affect	Health	NegEmo	Bio
+puk*	Affect	Health	NegEmo	Bio
+weak*	Affect	Health	NegEmo	Bio
+avoid*	Affect	Inhibition	Anx	NegEmo	CogMech
+inhib*	Affect	Inhibition	Anx	NegEmo	CogMech
+reluctan*	Affect	Inhibition	Anx	NegEmo	CogMech
+repress*	Affect	Inhibition	Anx	NegEmo	CogMech
+rigid*	Affect	Inhibition	Anx	NegEmo	CogMech
+uptight*	Affect	Inhibition	Anx	NegEmo	CogMech
+forbid*	Affect	Inhibition	NegEmo	CogMech
+ignor*	Affect	Inhibition	NegEmo	CogMech
+abandon*	Affect	Inhibition	NegEmo	Sad	CogMech
+discourag*	Affect	Inhibition	NegEmo	Sad	CogMech
+neglect*	Affect	Inhibition	NegEmo	Sad	CogMech
+careful*	Affect	Inhibition	PosEmo	CogMech
+safe*	Affect	Inhibition	PosEmo	CogMech
+secur*	Affect	Inhibition	PosEmo	CogMech
+suspicio*	Affect	Insight	Anx	NegEmo	CogMech
+determina*	Affect	Insight	PosEmo	Achieve	CogMech
+resolv*	Affect	Insight	PosEmo	Achieve	CogMech
+accepta*	Affect	Insight	PosEmo	CogMech
+appreciat*	Affect	Insight	PosEmo	CogMech
+inspir*	Affect	Insight	PosEmo	CogMech
+amus*	Affect	Leisure	PosEmo
+comed*	Affect	Leisure	PosEmo
+easy*	Affect	Leisure	PosEmo
+entertain*	Affect	Leisure	PosEmo
+joke*	Affect	Leisure	PosEmo
+playful*	Affect	Leisure	PosEmo
+relax*	Affect	Leisure	PosEmo
+defeat*	Affect	NegEmo	Achieve	Sad
+loser*	Affect	NegEmo	Achieve	Sad
+loss*	Affect	NegEmo	Achieve	Sad
+unsuccessful*	Affect	NegEmo	Achieve	Sad
+ineffect*	Affect	NegEmo	Achieve
+lazie*	Affect	NegEmo	Achieve
+liabilit*	Affect	NegEmo	CogMech	Discrep
+mistak*	Affect	NegEmo	CogMech	Discrep
+problem*	Affect	NegEmo	CogMech	Discrep
+devil*	Affect	NegEmo	Religion
+immoral*	Affect	NegEmo	Religion
+agoniz*	Affect	NegEmo	Sad
+damag*	Affect	NegEmo	Sad
+depress*	Affect	NegEmo	Sad
+depriv*	Affect	NegEmo	Sad
+despair*	Affect	NegEmo	Sad
+devastat*	Affect	NegEmo	Sad
+disadvantage*	Affect	NegEmo	Sad
+disappoint*	Affect	NegEmo	Sad
+dishearten*	Affect	NegEmo	Sad
+disillusion*	Affect	NegEmo	Sad
+dissatisf*	Affect	NegEmo	Sad
+dull*	Affect	NegEmo	Sad
+flunk*	Affect	NegEmo	Sad
+gloom*	Affect	NegEmo	Sad
+grim*	Affect	NegEmo	Sad
+heartbreak*	Affect	NegEmo	Sad
+heartbroke*	Affect	NegEmo	Sad
+helpless*	Affect	NegEmo	Sad
+hopeless*	Affect	NegEmo	Sad
+hurt*	Affect	NegEmo	Sad
+inferior*	Affect	NegEmo	Sad
+isolat*	Affect	NegEmo	Sad
+lame*	Affect	NegEmo	Sad
+lone*	Affect	NegEmo	Sad
+longing*	Affect	NegEmo	Sad
+melanchol*	Affect	NegEmo	Sad
+pathetic*	Affect	NegEmo	Sad
+pessimis*	Affect	NegEmo	Sad
+piti*	Affect	NegEmo	Sad
+pity*	Affect	NegEmo	Sad
+reject*	Affect	NegEmo	Sad
+remorse*	Affect	NegEmo	Sad
+resign*	Affect	NegEmo	Sad
+ruin*	Affect	NegEmo	Sad
+sadde*	Affect	NegEmo	Sad
+solemn*	Affect	NegEmo	Sad
+sorrow*	Affect	NegEmo	Sad
+sufferer*	Affect	NegEmo	Sad
+traged*	Affect	NegEmo	Sad
+tragic*	Affect	NegEmo	Sad
+unhapp*	Affect	NegEmo	Sad
+useless*	Affect	NegEmo	Sad
+weep*	Affect	NegEmo	Sad
+whine*	Affect	NegEmo	Sad
+woe*	Affect	NegEmo	Sad
+worthless*	Affect	NegEmo	Sad
+complain*	Affect	NegEmo	Social
+gossip*	Affect	NegEmo	Social
+advers*	Affect	NegEmo
+apath*	Affect	NegEmo
+appall*	Affect	NegEmo
+bashful*	Affect	NegEmo
+bore*	Affect	NegEmo
+burden*	Affect	NegEmo
+careless*	Affect	NegEmo
+daze*	Affect	NegEmo
+defect*	Affect	NegEmo
+degrad*	Affect	NegEmo
+difficult*	Affect	NegEmo
+disagree*	Affect	NegEmo
+disaster*	Affect	NegEmo
+dismay*	Affect	NegEmo
+dork*	Affect	NegEmo
+egotis*	Affect	NegEmo
+excruciat*	Affect	NegEmo
+fault*	Affect	NegEmo
+fool*	Affect	NegEmo
+freak*	Affect	NegEmo
+geek*	Affect	NegEmo
+gross*	Affect	NegEmo
+harmful*	Affect	NegEmo
+impolite*	Affect	NegEmo
+insincer*	Affect	NegEmo
+masochis*	Affect	NegEmo
+mooch*	Affect	NegEmo
+moodi*	Affect	NegEmo
+nerd*	Affect	NegEmo
+peculiar*	Affect	NegEmo
+selfish*	Affect	NegEmo
+severe*	Affect	NegEmo
+shock*	Affect	NegEmo
+smug*	Affect	NegEmo
+stammer*	Affect	NegEmo
+steal*	Affect	NegEmo
+stutter*	Affect	NegEmo
+submissive*	Affect	NegEmo
+terribl*	Affect	NegEmo
+thieve*	Affect	NegEmo
+tough*	Affect	NegEmo
+trauma*	Affect	NegEmo
+trivi*	Affect	NegEmo
+troubl*	Affect	NegEmo
+unfortunate*	Affect	NegEmo
+ungrateful*	Affect	NegEmo
+unimpress*	Affect	NegEmo
+unlov*	Affect	NegEmo
+unwelcom*	Affect	NegEmo
+vulture*	Affect	NegEmo
+weird*	Affect	NegEmo
+wimp*	Affect	NegEmo
+worse*	Affect	NegEmo
+wrong*	Affect	NegEmo
+scream*	Affect	Percept	Hear	NegEmo
+harmon*	Affect	Percept	Hear	PosEmo
+rancid*	Affect	Percept	NegEmo
+reek*	Affect	Percept	NegEmo
+stench*	Affect	Percept	NegEmo
+stink*	Affect	Percept	NegEmo
+unsavo*	Affect	Percept	NegEmo
+delectabl*	Affect	Percept	PosEmo
+delicious*	Affect	Percept	PosEmo
+palatabl*	Affect	Percept	PosEmo
+scrumptious*	Affect	Percept	PosEmo
+sweetness*	Affect	Percept	PosEmo
+beaut*	Affect	Percept	See	PosEmo
+bright*	Affect	Percept	See	PosEmo
+sunshin*	Affect	Percept	See	PosEmo
+bonus*	Affect	PosEmo	Achieve	Money
+create*	Affect	PosEmo	Cause	Achieve	CogMech
+creati*	Affect	PosEmo	Cause	Achieve	CogMech
+perfect*	Affect	PosEmo	CogMech	Achieve	Certain
+ideal*	Affect	PosEmo	CogMech	Achieve	Discrep
+assur*	Affect	PosEmo	CogMech	Certain
+certain*	Affect	PosEmo	CogMech	Certain
+commitment*	Affect	PosEmo	CogMech	Certain
+positiv*	Affect	PosEmo	CogMech	Certain
+sure*	Affect	PosEmo	CogMech	Certain
+truth*	Affect	PosEmo	CogMech	Certain
+painl*	Affect	PosEmo	Health	Bio
+tender*	Affect	PosEmo	Health	Bio
+charit*	Affect	PosEmo	Money
+freeb*	Affect	PosEmo	Money
+rich*	Affect	PosEmo	Money
+wealth*	Affect	PosEmo	Money
+bless*	Affect	PosEmo	Religion
+divin*	Affect	PosEmo	Religion
+faith*	Affect	PosEmo	Religion
+heaven*	Affect	PosEmo	Religion
+worship*	Affect	PosEmo	Religion
+hugg*	Affect	PosEmo	Sexual	Bio
+kiss*	Affect	PosEmo	Sexual	Bio
+passion*	Affect	PosEmo	Sexual	Bio
+active*	Affect	PosEmo
+admir*	Affect	PosEmo
+ador*	Affect	PosEmo
+adventur*	Affect	PosEmo
+affection*	Affect	PosEmo
+agreeab*	Affect	PosEmo
+agreement*	Affect	PosEmo
+amaz*	Affect	PosEmo
+amor*	Affect	PosEmo
+attachment*	Affect	PosEmo
+attract*	Affect	PosEmo
+benefic*	Affect	PosEmo
+benefitt*	Affect	PosEmo
+benevolen*	Affect	PosEmo
+benign*	Affect	PosEmo
+bold*	Affect	PosEmo
+brave*	Affect	PosEmo
+brillian*	Affect	PosEmo
+calm*	Affect	PosEmo
+charm*	Affect	PosEmo
+cheer*	Affect	PosEmo
+cherish*	Affect	PosEmo
+chuckl*	Affect	PosEmo
+clever*	Affect	PosEmo
+comfort*	Affect	PosEmo
+compliment*	Affect	PosEmo
+contented*	Affect	PosEmo
+convinc*	Affect	PosEmo
+courag*	Affect	PosEmo
+cute*	Affect	PosEmo
+cutie*	Affect	PosEmo
+darlin*	Affect	PosEmo
+dear*	Affect	PosEmo
+delicate*	Affect	PosEmo
+deligh*	Affect	PosEmo
+devot*	Affect	PosEmo
+digni*	Affect	PosEmo
+dynam*	Affect	PosEmo
+eager*	Affect	PosEmo
+ease*	Affect	PosEmo
+easie*	Affect	PosEmo
+ecsta*	Affect	PosEmo
+elegan*	Affect	PosEmo
+energ*	Affect	PosEmo
+engag*	Affect	PosEmo
+enjoy*	Affect	PosEmo
+enthus*	Affect	PosEmo
+excit*	Affect	PosEmo
+fabulous*	Affect	PosEmo
+fantastic*	Affect	PosEmo
+favor*	Affect	PosEmo
+favour*	Affect	PosEmo
+fearless*	Affect	PosEmo
+festiv*	Affect	PosEmo
+fiesta*	Affect	PosEmo
+flawless*	Affect	PosEmo
+flirt*	Affect	PosEmo
+freed*	Affect	PosEmo
+frees*	Affect	PosEmo
+funn*	Affect	PosEmo
+genero*	Affect	PosEmo
+giggl*	Affect	PosEmo
+glamor*	Affect	PosEmo
+glamour*	Affect	PosEmo
+glori*	Affect	PosEmo
+gorgeous*	Affect	PosEmo
+graceful*	Affect	PosEmo
+graci*	Affect	PosEmo
+grande*	Affect	PosEmo
+gratef*	Affect	PosEmo
+grati*	Affect	PosEmo
+grinn*	Affect	PosEmo
+handsom*	Affect	PosEmo
+happi*	Affect	PosEmo
+harmless*	Affect	PosEmo
+heartwarm*	Affect	PosEmo
+hoho*	Affect	PosEmo
+honest*	Affect	PosEmo
+humor*	Affect	PosEmo
+humour*	Affect	PosEmo
+hurra*	Affect	PosEmo
+impress*	Affect	PosEmo
+innocen*	Affect	PosEmo
+intell*	Affect	PosEmo
+interest*	Affect	PosEmo
+invigor*	Affect	PosEmo
+joll*	Affect	PosEmo
+joy*	Affect	PosEmo
+keen*	Affect	PosEmo
+kindn*	Affect	PosEmo
+laugh*	Affect	PosEmo
+libert*	Affect	PosEmo
+likeab*	Affect	PosEmo
+livel*	Affect	PosEmo
+loyal*	Affect	PosEmo
+magnific*	Affect	PosEmo
+merit*	Affect	PosEmo
+merr*	Affect	PosEmo
+neat*	Affect	PosEmo
+nice*	Affect	PosEmo
+nurtur*	Affect	PosEmo
+openminded*	Affect	PosEmo
+optimal*	Affect	PosEmo
+optimi*	Affect	PosEmo
+peace*	Affect	PosEmo
+pleasant*	Affect	PosEmo
+please*	Affect	PosEmo
+pleasur*	Affect	PosEmo
+popular*	Affect	PosEmo
+precious*	Affect	PosEmo
+prettie*	Affect	PosEmo
+privileg*	Affect	PosEmo
+promis*	Affect	PosEmo
+radian*	Affect	PosEmo
+reliev*	Affect	PosEmo
+revigor*	Affect	PosEmo
+romanc*	Affect	PosEmo
+romantic*	Affect	PosEmo
+satisf*	Affect	PosEmo
+sentimental*	Affect	PosEmo
+silli*	Affect	PosEmo
+sincer*	Affect	PosEmo
+smart*	Affect	PosEmo
+smil*	Affect	PosEmo
+sociab*	Affect	PosEmo
+splend*	Affect	PosEmo
+superior*	Affect	PosEmo
+supporter*	Affect	PosEmo
+supportive*	Affect	PosEmo
+suprem*	Affect	PosEmo
+surpris*	Affect	PosEmo
+talent*	Affect	PosEmo
+terrific*	Affect	PosEmo
+thankf*	Affect	PosEmo
+thoughtful*	Affect	PosEmo
+thrill*	Affect	PosEmo
+toleran*	Affect	PosEmo
+tranquil*	Affect	PosEmo
+treasur*	Affect	PosEmo
+trust*	Affect	PosEmo
+useful*	Affect	PosEmo
+valuabl*	Affect	PosEmo
+vigor*	Affect	PosEmo
+vigour*	Affect	PosEmo
+virtue*	Affect	PosEmo
+virtuo*	Affect	PosEmo
+vital*	Affect	PosEmo
+wise*	Affect	PosEmo
+wonderf*	Affect	PosEmo
+wow*	Affect	PosEmo
+ache*	Affect	Sad	Health	NegEmo	Bio
+fatigu*	Affect	Sad	Health	NegEmo	Bio
+regret*	Affect	Sad	NegEmo	CogMech	Discrep
+yearn*	Affect	Sad	NegEmo	CogMech	Discrep
+homesick*	Affect	Sad	NegEmo	Home
+doom*	Affect	Sad	NegEmo	Religion
+perver*	Affect	Sexual	NegEmo	Bio
+slut*	Affect	Sexual	NegEmo	Bio
+whore*	Affect	Sexual	NegEmo	Bio
+friend*	Affect	Social	Friend	PosEmo
+soulmate*	Affect	Social	Friend	PosEmo
+sweetheart*	Affect	Social	Friend	PosEmo
+sweetie*	Affect	Social	Friend	PosEmo
+forgiv*	Affect	Social	Insight	CogMech	PosEmo
+partie*	Affect	Social	Leisure	PosEmo
+party*	Affect	Social	Leisure	PosEmo
+compassion*	Affect	Social	PosEmo
+encourag*	Affect	Social	PosEmo
+flatter*	Affect	Social	PosEmo
+giver*	Affect	Social	PosEmo
+helper*	Affect	Social	PosEmo
+helpful*	Affect	Social	PosEmo
+loving*	Affect	Social	PosEmo
+reassur*	Affect	Social	PosEmo
+welcom*	Affect	Social	PosEmo
+prais*	Affect	Social	Religion	Achieve	PosEmo
+confus*	Affect	Tentat	Anx	NegEmo	CogMech
+doubt*	Affect	Tentat	Anx	NegEmo	CogMech
+indecis*	Affect	Tentat	Anx	NegEmo	CogMech
+shaki*	Affect	Tentat	Anx	NegEmo	CogMech
+uncertain*	Affect	Tentat	Anx	NegEmo	CogMech
+unsure*	Affect	Tentat	Anx	NegEmo	CogMech
+luckless*	Affect	Tentat	NegEmo	CogMech
+lucki*	Affect	Tentat	PosEmo	CogMech
+award*	Affect	Work	Achieve	PosEmo
+challeng*	Affect	Work	Achieve	PosEmo
+champ*	Affect	Work	Achieve	PosEmo
+excel*	Affect	Work	Achieve	PosEmo
+succeed*	Affect	Work	Achieve	PosEmo
+success*	Affect	Work	Achieve	PosEmo
+fail*	Affect	Work	NegEmo	Achieve	Sad
+credit*	Affect	Work	PosEmo	Money
+profit*	Affect	Work	PosEmo	Money
+humiliat*	Anger	Affect	Anx	NegEmo
+aggravat*	Anger	Affect	Cause	NegEmo	CogMech
+kill*	Anger	Affect	Death	NegEmo
+murder*	Anger	Affect	Death	NegEmo
+poison*	Anger	Affect	Health	NegEmo	Bio
+defenc*	Anger	Affect	Inhibition	NegEmo	CogMech
+defens*	Anger	Affect	Inhibition	NegEmo	CogMech
+stubborn*	Anger	Affect	Inhibition	NegEmo	CogMech
+domina*	Anger	Affect	NegEmo	Achieve
+greed*	Anger	Affect	NegEmo	Money
+argu*	Anger	Affect	NegEmo	Social
+blam*	Anger	Affect	NegEmo	Social
+enemie*	Anger	Affect	NegEmo	Social
+enemy*	Anger	Affect	NegEmo	Social
+feud*	Anger	Affect	NegEmo	Social
+fight*	Anger	Affect	NegEmo	Social
+insult*	Anger	Affect	NegEmo	Social
+interrup*	Anger	Affect	NegEmo	Social
+teas*	Anger	Affect	NegEmo	Social
+abuse*	Anger	Affect	NegEmo
+abusi*	Anger	Affect	NegEmo
+aggress*	Anger	Affect	NegEmo
+agitat*	Anger	Affect	NegEmo
+anger*	Anger	Affect	NegEmo
+angr*	Anger	Affect	NegEmo
+annoy*	Anger	Affect	NegEmo
+antagoni*	Anger	Affect	NegEmo
+argh*	Anger	Affect	NegEmo
+arrogan*	Anger	Affect	NegEmo
+assault*	Anger	Affect	NegEmo
+attack*	Anger	Affect	NegEmo
+battl*	Anger	Affect	NegEmo
+bother*	Anger	Affect	NegEmo
+brutal*	Anger	Affect	NegEmo
+cheat*	Anger	Affect	NegEmo
+confront*	Anger	Affect	NegEmo
+contempt*	Anger	Affect	NegEmo
+critici*	Anger	Affect	NegEmo
+crude*	Anger	Affect	NegEmo
+cruel*	Anger	Affect	NegEmo
+danger*	Anger	Affect	NegEmo
+despis*	Anger	Affect	NegEmo
+destroy*	Anger	Affect	NegEmo
+destruct*	Anger	Affect	NegEmo
+disgust*	Anger	Affect	NegEmo
+distrust*	Anger	Affect	NegEmo
+dump*	Anger	Affect	NegEmo
+enrag*	Anger	Affect	NegEmo
+envie*	Anger	Affect	NegEmo
+envy*	Anger	Affect	NegEmo
+evil*	Anger	Affect	NegEmo
+feroc*	Anger	Affect	NegEmo
+foe*	Anger	Affect	NegEmo
+frustrat*	Anger	Affect	NegEmo
+fume*	Anger	Affect	NegEmo
+furious*	Anger	Affect	NegEmo
+grouch*	Anger	Affect	NegEmo
+grr*	Anger	Affect	NegEmo
+harass*	Anger	Affect	NegEmo
+hateful*	Anger	Affect	NegEmo
+hater*	Anger	Affect	NegEmo
+heartless*	Anger	Affect	NegEmo
+hostil*	Anger	Affect	NegEmo
+idiot*	Anger	Affect	NegEmo
+intimidat*	Anger	Affect	NegEmo
+jealous*	Anger	Affect	NegEmo
+liar*	Anger	Affect	NegEmo
+lous*	Anger	Affect	NegEmo
+ludicrous*	Anger	Affect	NegEmo
+maniac*	Anger	Affect	NegEmo
+mocker*	Anger	Affect	NegEmo
+molest*	Anger	Affect	NegEmo
+moron*	Anger	Affect	NegEmo
+nag*	Anger	Affect	NegEmo
+nast*	Anger	Affect	NegEmo
+obnoxious*	Anger	Affect	NegEmo
+offence*	Anger	Affect	NegEmo
+offend*	Anger	Affect	NegEmo
+offens*	Anger	Affect	NegEmo
+outrag*	Anger	Affect	NegEmo
+paranoi*	Anger	Affect	NegEmo
+pettie*	Anger	Affect	NegEmo
+petty*	Anger	Affect	NegEmo
+prejudic*	Anger	Affect	NegEmo
+punish*	Anger	Affect	NegEmo
+rage*	Anger	Affect	NegEmo
+rebel*	Anger	Affect	NegEmo
+resent*	Anger	Affect	NegEmo
+revenge*	Anger	Affect	NegEmo
+ridicul*	Anger	Affect	NegEmo
+rude*	Anger	Affect	NegEmo
+sarcas*	Anger	Affect	NegEmo
+savage*	Anger	Affect	NegEmo
+sceptic*	Anger	Affect	NegEmo
+skeptic*	Anger	Affect	NegEmo
+smother*	Anger	Affect	NegEmo
+snob*	Anger	Affect	NegEmo
+spite*	Anger	Affect	NegEmo
+stupid*	Anger	Affect	NegEmo
+sucker*	Anger	Affect	NegEmo
+tantrum*	Anger	Affect	NegEmo
+threat*	Anger	Affect	NegEmo
+tortur*	Anger	Affect	NegEmo
+trick*	Anger	Affect	NegEmo
+ugl*	Anger	Affect	NegEmo
+vicious*	Anger	Affect	NegEmo
+victim*	Anger	Affect	NegEmo
+villain*	Anger	Affect	NegEmo
+violat*	Anger	Affect	NegEmo
+violent*	Anger	Affect	NegEmo
+warfare*	Anger	Affect	NegEmo
+weapon*	Anger	Affect	NegEmo
+wicked*	Anger	Affect	NegEmo
+bitter*	Anger	Affect	Percept	NegEmo
+rape*	Anger	Affect	Sexual	NegEmo	Bio
+rapist*	Anger	Affect	Sexual	NegEmo	Bio
+asshole*	Anger	Affect	Swear	NegEmo
+bastard*	Anger	Affect	Swear	NegEmo
+bitch*	Anger	Affect	Swear	NegEmo
+cunt*	Anger	Affect	Swear	NegEmo
+damn*	Anger	Affect	Swear	NegEmo
+dumb*	Anger	Affect	Swear	NegEmo
+goddam*	Anger	Affect	Swear	NegEmo
+hm*	Assent	Nonfl
+mm*	Assent
+okey*	Assent
+uhhu*	Assent
+yep*	Assent
+fucked*	Bio	enPast	Verb	Swear	Anger	Affect	Sexual	NegEmo
+alcohol*	Bio	Health	Ingest
+anorexi*	Bio	Health	Ingest
+binge*	Bio	Health	Ingest
+bulimi*	Bio	Health	Ingest
+digest*	Bio	Health	Ingest
+ingest*	Bio	Health	Ingest
+obes*	Bio	Health	Ingest
+exercis*	Bio	Health	Leisure
+abortion*	Bio	Health	Sexual
+pregnan*	Bio	Health	Sexual
+std*	Bio	Health	Sexual
+syphili*	Bio	Health	Sexual
+addict*	Bio	Health
+allerg*	Bio	Health
+amput*	Bio	Health
+antacid*	Bio	Health
+antidepressant*	Bio	Health
+appendic*	Bio	Health
+arthr*	Bio	Health
+aspirin*	Bio	Health
+asthma*	Bio	Health
+bandage*	Bio	Health
+bleed*	Bio	Health
+bronchi*	Bio	Health
+burp*	Bio	Health
+cancer*	Bio	Health
+cardia*	Bio	Health
+cardio*	Bio	Health
+checkup*	Bio	Health
+chiropract*	Bio	Health
+chok*	Bio	Health
+cholester*	Bio	Health
+chronic*	Bio	Health
+clinic*	Bio	Health
+colono*	Bio	Health
+coma*	Bio	Health
+congest*	Bio	Health
+constipat*	Bio	Health
+contag*	Bio	Health
+coronar*	Bio	Health
+cough*	Bio	Health
+cramp*	Bio	Health
+cyst*	Bio	Health
+decongest*	Bio	Health
+dentist*	Bio	Health
+derma*	Bio	Health
+detox*	Bio	Health
+diabet*	Bio	Health
+diagnos*	Bio	Health
+diarr*	Bio	Health
+disease*	Bio	Health
+dizz*	Bio	Health
+dose*	Bio	Health
+drows*	Bio	Health
+drug*	Bio	Health
+emphysem*	Bio	Health
+enema*	Bio	Health
+estrogen*	Bio	Health
+faint*	Bio	Health
+fever*	Bio	Health
+gland*	Bio	Health
+gynaecolog*	Bio	Health
+gynecolog*	Bio	Health
+gyno*	Bio	Health
+hallucinat*	Bio	Health
+hangover*	Bio	Health
+headache*	Bio	Health
+healer*	Bio	Health
+health*	Bio	Health
+heartburn*	Bio	Health
+hemor*	Bio	Health
+hiccup*	Bio	Health
+hormone*	Bio	Health
+hospital*	Bio	Health
+hyperten*	Bio	Health
+hypotherm*	Bio	Health
+illness*	Bio	Health
+immun*	Bio	Health
+infect*	Bio	Health
+inflam*	Bio	Health
+injur*	Bio	Health
+insomnia*	Bio	Health
+intox*	Bio	Health
+leuke*	Bio	Health
+lozenge*	Bio	Health
+lymph*	Bio	Health
+manicdep*	Bio	Health
+medic*	Bio	Health
+migrain*	Bio	Health
+miscar*	Bio	Health
+myopi*	Bio	Health
+nause*	Bio	Health
+neurolog*	Bio	Health
+nurse*	Bio	Health
+nutrition*	Bio	Health
+optometr*	Bio	Health
+orthodon*	Bio	Health
+orthoped*	Bio	Health
+paraly*	Bio	Health
+patholog*	Bio	Health
+pediatr*	Bio	Health
+pharmac*	Bio	Health
+physical*	Bio	Health
+physician*	Bio	Health
+pimple*	Bio	Health
+podiatr*	Bio	Health
+prescri*	Bio	Health
+prognos*	Bio	Health
+queas*	Bio	Health
+rehab*	Bio	Health
+scab*	Bio	Health
+schizophren*	Bio	Health
+scrape*	Bio	Health
+seizure*	Bio	Health
+sickness*	Bio	Health
+sinus*	Bio	Health
+sore*	Bio	Health
+strept*	Bio	Health
+sunburn*	Bio	Health
+surgeon*	Bio	Health
+surger*	Bio	Health
+symptom*	Bio	Health
+syndrome*	Bio	Health
+tendoni*	Bio	Health
+testosterone*	Bio	Health
+therap*	Bio	Health
+thermometer*	Bio	Health
+throb*	Bio	Health
+thyroid*	Bio	Health
+tingl*	Bio	Health
+tire*	Bio	Health
+tox*	Bio	Health
+tumo*	Bio	Health
+twitch*	Bio	Health
+ulcer*	Bio	Health
+unhealth*	Bio	Health
+vitamin*	Bio	Health
+vomit*	Bio	Health
+wheez*	Bio	Health
+wound*	Bio	Health
+xray*	Bio	Health
+yawn*	Bio	Health
+bake*	Bio	Ingest	Home
+kitchen*	Bio	Ingest	Home
+beer*	Bio	Ingest	Leisure
+cocktail*	Bio	Ingest	Leisure
+coffee*	Bio	Ingest	Leisure
+cook*	Bio	Ingest	Leisure
+drink*	Bio	Ingest	Leisure
+drunk*	Bio	Ingest	Leisure
+liquor*	Bio	Ingest	Leisure
+restau*	Bio	Ingest	Leisure
+whiskey*	Bio	Ingest	Leisure
+whisky*	Bio	Ingest	Leisure
+appeti*	Bio	Ingest
+boil*	Bio	Ingest
+booz*	Bio	Ingest
+breakfast*	Bio	Ingest
+brunch*	Bio	Ingest
+caf*	Bio	Ingest
+candie*	Bio	Ingest
+chew*	Bio	Ingest
+chow*	Bio	Ingest
+cigar*	Bio	Ingest
+coke*	Bio	Ingest
+dessert*	Bio	Ingest
+diet*	Bio	Ingest
+dinner*	Bio	Ingest
+egg*	Bio	Ingest
+espresso*	Bio	Ingest
+feeder*	Bio	Ingest
+feeding*	Bio	Ingest
+food*	Bio	Ingest
+fry*	Bio	Ingest
+glutton*	Bio	Ingest
+gobble*	Bio	Ingest
+grocer*	Bio	Ingest
+gulp*	Bio	Ingest
+hunger*	Bio	Ingest
+hungr*	Bio	Ingest
+lunch*	Bio	Ingest
+meal*	Bio	Ingest
+milk*	Bio	Ingest
+overeat*	Bio	Ingest
+pasta*	Bio	Ingest
+pizza*	Bio	Ingest
+salad*	Bio	Ingest
+sandwich*	Bio	Ingest
+skinny*	Bio	Ingest
+smok*	Bio	Ingest
+snack*	Bio	Ingest
+soda*	Bio	Ingest
+starve*	Bio	Ingest
+supper*	Bio	Ingest
+swallow*	Bio	Ingest
+veget*	Bio	Ingest
+veggie*	Bio	Ingest
+weighing*	Bio	Ingest
+blind*	Bio	Percept	Health	See
+deaf*	Bio	Percept	Hear	Health
+fruit*	Bio	Percept	Ingest
+sugar*	Bio	Percept	Ingest
+tast*	Bio	Percept	Ingest
+lover*	Bio	PosEmo	Social	Affect	Sexual	Friend
+boner*	Bio	Sexual
+cuddl*	Bio	Sexual
+erotic*	Bio	Sexual
+homosexual*	Bio	Sexual
+hump*	Bio	Sexual
+incest*	Bio	Sexual
+lesbian*	Bio	Sexual
+libid*	Bio	Sexual
+lust*	Bio	Sexual
+makeout*	Bio	Sexual
+porn*	Bio	Sexual
+prostitu*	Bio	Sexual
+seduc*	Bio	Sexual
+sex*	Bio	Sexual
+virgin*	Bio	Sexual
+fucker*	Bio	Swear	Anger	Affect	Sexual	NegEmo
+fuckin*	Bio	Swear	Anger	Affect	Sexual	NegEmo
+screw*	Bio	Swear	Anger	Affect	Sexual	NegEmo
+dyke*	Bio	Swear	Sexual
+queer*	Bio	Swear	Sexual
+doctor*	Bio	Work	Health
+sickday*	Bio	Work	Health
+sickleave*	Bio	Work	Health
+fatt*	Body	Bio	Health	Ingest
+itch*	Body	Bio	Health
+skinni*	Body	Bio	Ingest
+thirst*	Body	Bio	Ingest
+waist*	Body	Bio	Ingest
+finger*	Body	Bio	Percept	Feel
+hair*	Body	Bio	Percept	Feel
+eye*	Body	Bio	Percept	See
+drool*	Body	Bio	Percept
+nose*	Body	Bio	Percept
+nostril*	Body	Bio	Percept
+saliv*	Body	Bio	Percept
+tongue*	Body	Bio	Percept
+arous*	Body	Bio	Sexual
+breast*	Body	Bio	Sexual
+erection*	Body	Bio	Sexual
+genital*	Body	Bio	Sexual
+hornie*	Body	Bio	Sexual
+nipple*	Body	Bio	Sexual
+nude*	Body	Bio	Sexual
+orgasm*	Body	Bio	Sexual
+ovar*	Body	Bio	Sexual
+penis*	Body	Bio	Sexual
+prostat*	Body	Bio	Sexual
+vagina*	Body	Bio	Sexual
+womb*	Body	Bio	Sexual
+piss*	Body	Bio	Swear	Anger	Affect	NegEmo
+prick*	Body	Bio	Swear	Anger	Affect	NegEmo
+shit*	Body	Bio	Swear	Anger	Affect	NegEmo
+boob*	Body	Bio	Swear	Sexual
+cocks*	Body	Bio	Swear	Sexual
+pussy*	Body	Bio	Swear	Sexual
+abdomen*	Body	Bio
+ankle*	Body	Bio
+anus*	Body	Bio
+armpit*	Body	Bio
+arms*	Body	Bio
+arter*	Body	Bio
+bicep*	Body	Bio
+bladder*	Body	Bio
+bodi*	Body	Bio
+body*	Body	Bio
+bowel*	Body	Bio
+brain*	Body	Bio
+breath*	Body	Bio
+cheek*	Body	Bio
+chest*	Body	Bio
+cornea*	Body	Bio
+elbow*	Body	Bio
+facial*	Body	Bio
+flesh*	Body	Bio
+forearm*	Body	Bio
+forehead*	Body	Bio
+goosebump*	Body	Bio
+hamstring*	Body	Bio
+heel*	Body	Bio
+intestin*	Body	Bio
+jaw*	Body	Bio
+kidney*	Body	Bio
+knee*	Body	Bio
+knuckle*	Body	Bio
+legs*	Body	Bio
+lips*	Body	Bio
+liver*	Body	Bio
+lung*	Body	Bio
+mouth*	Body	Bio
+mucous*	Body	Bio
+muscle*	Body	Bio
+nerve*	Body	Bio
+neural*	Body	Bio
+neuron*	Body	Bio
+nudi*	Body	Bio
+pelvi*	Body	Bio
+perspir*	Body	Bio
+poop*	Body	Bio
+rash*	Body	Bio
+retina*	Body	Bio
+shirt*	Body	Bio
+shoe*	Body	Bio
+shoulder*	Body	Bio
+skelet*	Body	Bio
+sleep*	Body	Bio
+slender*	Body	Bio
+stomach*	Body	Bio
+sweat*	Body	Bio
+teeth*	Body	Bio
+thigh*	Body	Bio
+throat*	Body	Bio
+toenail*	Body	Bio
+tooth*	Body	Bio
+tricep*	Body	Bio
+urin*	Body	Bio
+uter*	Body	Bio
+vein*	Body	Bio
+wrist*	Body	Bio
+founder*	CogMech	Cause	Achieve
+originat*	CogMech	Cause	Achieve
+outcome*	CogMech	Cause	Achieve
+purpose*	CogMech	Cause	Achieve
+activat*	CogMech	Cause
+allow*	CogMech	Cause
+attribut*	CogMech	Cause
+caus*	CogMech	Cause
+compel*	CogMech	Cause
+complie*	CogMech	Cause
+comply*	CogMech	Cause
+consequen*	CogMech	Cause
+elicit*	CogMech	Cause
+force*	CogMech	Cause
+foundation*	CogMech	Cause
+generate*	CogMech	Cause
+generator*	CogMech	Cause
+ignit*	CogMech	Cause
+implica*	CogMech	Cause
+implie*	CogMech	Cause
+imply*	CogMech	Cause
+inact*	CogMech	Cause
+independ*	CogMech	Cause
+influenc*	CogMech	Cause
+intend*	CogMech	Cause
+intent*	CogMech	Cause
+launch*	CogMech	Cause
+maker*	CogMech	Cause
+manipul*	CogMech	Cause
+misle*	CogMech	Cause
+obedien*	CogMech	Cause
+obey*	CogMech	Cause
+permit*	CogMech	Cause
+provoc*	CogMech	Cause
+provok*	CogMech	Cause
+react*	CogMech	Cause
+response*	CogMech	Cause
+result*	CogMech	Cause
+root*	CogMech	Cause
+source*	CogMech	Cause
+stimul*	CogMech	Cause
+therefor*	CogMech	Cause
+trigger*	CogMech	Cause
+fundamentalis*	CogMech	Certain	Religion
+accura*	CogMech	Certain
+blatant*	CogMech	Certain
+committ*	CogMech	Certain
+correct*	CogMech	Certain
+definitive*	CogMech	Certain
+distinct*	CogMech	Certain
+evident*	CogMech	Certain
+exact*	CogMech	Certain
+explicit*	CogMech	Certain
+factual*	CogMech	Certain
+guarant*	CogMech	Certain
+implicit*	CogMech	Certain
+inevitab*	CogMech	Certain
+infallib*	CogMech	Certain
+invariab*	CogMech	Certain
+irrefu*	CogMech	Certain
+necessar*	CogMech	Certain
+obvious*	CogMech	Certain
+precis*	CogMech	Certain
+pure*	CogMech	Certain
+unambigu*	CogMech	Certain
+undeniab*	CogMech	Certain
+undoubt*	CogMech	Certain
+unquestion*	CogMech	Certain
+desir*	CogMech	Discrep
+expect*	CogMech	Discrep
+impossib*	CogMech	Discrep
+undesire*	CogMech	Discrep
+unneccess*	CogMech	Discrep
+unneed*	CogMech	Discrep
+unwant*	CogMech	Discrep
+exclu*	CogMech	Exclusive
+entire*	CogMech	Funct	Quant	Certain
+lack*	CogMech	Funct	Quant	Discrep
+addit*	CogMech	Inclusive
+inclu*	CogMech	Inclusive
+requir*	CogMech	Inhibition	Achieve	Work
+responsib*	CogMech	Inhibition	Achieve	Work
+limit*	CogMech	Inhibition	Achieve
+control*	CogMech	Inhibition	Cause	Achieve
+stiff*	CogMech	Inhibition	Health	Bio
+prudish*	CogMech	Inhibition	Sexual	Bio
+contradic*	CogMech	Inhibition	Social	Anger	Affect	NegEmo
+refus*	CogMech	Inhibition	Social
+duti*	CogMech	Inhibition	Work
+abstain*	CogMech	Inhibition
+avert*	CogMech	Inhibition
+barrier*	CogMech	Inhibition
+blocker*	CogMech	Inhibition
+bound*	CogMech	Inhibition
+brake*	CogMech	Inhibition
+bridle*	CogMech	Inhibition
+caut*	CogMech	Inhibition
+compulsiv*	CogMech	Inhibition
+confin*	CogMech	Inhibition
+conflict*	CogMech	Inhibition
+conserv*	CogMech	Inhibition
+constrain*	CogMech	Inhibition
+constrict*	CogMech	Inhibition
+contain*	CogMech	Inhibition
+curb*	CogMech	Inhibition
+curtail*	CogMech	Inhibition
+denia*	CogMech	Inhibition
+denie*	CogMech	Inhibition
+deny*	CogMech	Inhibition
+disciplin*	CogMech	Inhibition
+disregard*	CogMech	Inhibition
+fenc*	CogMech	Inhibition
+forget*	CogMech	Inhibition
+guard*	CogMech	Inhibition
+halt*	CogMech	Inhibition
+hangup*	CogMech	Inhibition
+harness*	CogMech	Inhibition
+hold*	CogMech	Inhibition
+interfer*	CogMech	Inhibition
+keeping*	CogMech	Inhibition
+obstac*	CogMech	Inhibition
+oppos*	CogMech	Inhibition
+prevent*	CogMech	Inhibition
+prohib*	CogMech	Inhibition
+protect*	CogMech	Inhibition
+refrain*	CogMech	Inhibition
+rein*	CogMech	Inhibition
+restrain*	CogMech	Inhibition
+restrict*	CogMech	Inhibition
+retain*	CogMech	Inhibition
+subdue*	CogMech	Inhibition
+suppress*	CogMech	Inhibition
+taboo*	CogMech	Inhibition
+tidi*	CogMech	Inhibition
+withhold*	CogMech	Inhibition
+yield*	CogMech	Inhibition
+conclus*	CogMech	Insight	Achieve
+lesson*	CogMech	Insight	Achieve
+motiv*	CogMech	Insight	Cause	Achieve	Work
+conclud*	CogMech	Insight	Cause	Achieve
+effect*	CogMech	Insight	Cause	Achieve
+solution*	CogMech	Insight	Cause	Achieve
+deduc*	CogMech	Insight	Cause
+induc*	CogMech	Insight	Cause
+inferr*	CogMech	Insight	Cause
+justif*	CogMech	Insight	Cause
+rational*	CogMech	Insight	Cause
+reason*	CogMech	Insight	Cause
+prove*	CogMech	Insight	Certain
+prefer*	CogMech	Insight	Discrep
+belief*	CogMech	Insight	Religion
+disclo*	CogMech	Insight	Social
+learn*	CogMech	Insight	Work
+acknowledg*	CogMech	Insight
+adjust*	CogMech	Insight
+analy*	CogMech	Insight
+answer*	CogMech	Insight
+attent*	CogMech	Insight
+aware*	CogMech	Insight
+categor*	CogMech	Insight
+choice*	CogMech	Insight
+choos*	CogMech	Insight
+clarif*	CogMech	Insight
+cohere*	CogMech	Insight
+complex*	CogMech	Insight
+complica*	CogMech	Insight
+compreh*	CogMech	Insight
+concentrat*	CogMech	Insight
+conscious*	CogMech	Insight
+contemplat*	CogMech	Insight
+correlat*	CogMech	Insight
+curio*	CogMech	Insight
+decid*	CogMech	Insight
+decis*	CogMech	Insight
+differentiat*	CogMech	Insight
+discern*	CogMech	Insight
+discover*	CogMech	Insight
+distinguish*	CogMech	Insight
+enlighten*	CogMech	Insight
+evaluat*	CogMech	Insight
+examin*	CogMech	Insight
+explanat*	CogMech	Insight
+figur*	CogMech	Insight
+find*	CogMech	Insight
+grasp*	CogMech	Insight
+identif*	CogMech	Insight
+imagin*	CogMech	Insight
+informative*	CogMech	Insight
+inquir*	CogMech	Insight
+insight*	CogMech	Insight
+interpret*	CogMech	Insight
+knowab*	CogMech	Insight
+knower*	CogMech	Insight
+knowledg*	CogMech	Insight
+link*	CogMech	Insight
+logic*	CogMech	Insight
+meaning*	CogMech	Insight
+memor*	CogMech	Insight
+misunder*	CogMech	Insight
+notice*	CogMech	Insight
+perceiv*	CogMech	Insight
+percept*	CogMech	Insight
+ponder*	CogMech	Insight
+presum*	CogMech	Insight
+quer*	CogMech	Insight
+realis*	CogMech	Insight
+realiz*	CogMech	Insight
+rearrang*	CogMech	Insight
+recall*	CogMech	Insight
+reckon*	CogMech	Insight
+recogni*	CogMech	Insight
+recollect*	CogMech	Insight
+reconcil*	CogMech	Insight
+reconsider*	CogMech	Insight
+reconstruct*	CogMech	Insight
+reevaluat*	CogMech	Insight
+refer*	CogMech	Insight
+reflect*	CogMech	Insight
+relate*	CogMech	Insight
+rememb*	CogMech	Insight
+reorgani*	CogMech	Insight
+resolu*	CogMech	Insight
+restructur*	CogMech	Insight
+rethink*	CogMech	Insight
+reveal*	CogMech	Insight
+revelat*	CogMech	Insight
+statement*	CogMech	Insight
+suspect*	CogMech	Insight
+thinker*	CogMech	Insight
+thinking*	CogMech	Insight
+unaccept*	CogMech	Insight
+unaware*	CogMech	Insight
+understandab*	CogMech	Insight
+understanding*	CogMech	Insight
+unrelat*	CogMech	Insight
+everybod*	CogMech	Pronoun	Funct	iPron	Certain	Social
+everything*	CogMech	Pronoun	Funct	iPron	Certain	Social
+difference*	CogMech	Quant	Funct
+inadequa*	CogMech	Sad	Discrep	Affect	Anx	NegEmo	Achieve
+confess*	CogMech	Social	Insight	Religion
+word*	CogMech	Social
+hesita*	CogMech	Tentat	Inhibition	Affect	Anx	NegEmo
+question*	CogMech	Tentat	Insight	Social
+assum*	CogMech	Tentat	Insight
+seeming*	CogMech	Tentat	Insight
+anybod*	CogMech	Tentat	Pronoun	Funct	iPron	Social
+anyone*	CogMech	Tentat	Pronoun	Funct	iPron	Social
+somebod*	CogMech	Tentat	Pronoun	Funct	iPron	Social
+someone*	CogMech	Tentat	Pronoun	Funct	iPron	Social
+ambigu*	CogMech	Tentat
+approximat*	CogMech	Tentat
+arbitrar*	CogMech	Tentat
+blur*	CogMech	Tentat
+borderline*	CogMech	Tentat
+contingen*	CogMech	Tentat
+disorient*	CogMech	Tentat
+dubious*	CogMech	Tentat
+halfass*	CogMech	Tentat
+hazie*	CogMech	Tentat
+hypothes*	CogMech	Tentat
+hypothetic*	CogMech	Tentat
+incomplet*	CogMech	Tentat
+indefinit*	CogMech	Tentat
+indetermin*	CogMech	Tentat
+indirect*	CogMech	Tentat
+likel*	CogMech	Tentat
+marginal*	CogMech	Tentat
+myster*	CogMech	Tentat
+obscur*	CogMech	Tentat
+possib*	CogMech	Tentat
+probablistic*	CogMech	Tentat
+puzzl*	CogMech	Tentat
+random*	CogMech	Tentat
+supposition*	CogMech	Tentat
+tentativ*	CogMech	Tentat
+theor*	CogMech	Tentat
+unclear*	CogMech	Tentat
+undecided*	CogMech	Tentat
+undetermin*	CogMech	Tentat
+unknow*	CogMech	Tentat
+unlikel*	CogMech	Tentat
+unluck*	CogMech	Tentat
+unresolv*	CogMech	Tentat
+unsettl*	CogMech	Tentat
+vague*	CogMech	Tentat
+variab*	CogMech	Tentat
+organiz*	CogMech	Work	Achieve	Social
+produc*	CogMech	Work	Cause	Achieve
+boss*	CogMech	Work	Cause
+lead*	CogMech	Work	Relative	Motion	Cause	Achieve
+matter*	CogMech
+autops*	Death
+bereave*	Death
+burial*	Death
+casket*	Death
+casualt*	Death
+cemet*	Death
+coffin*	Death
+coroner*	Death
+corpse*	Death
+cremat*	Death
+crypt*	Death
+death*	Death
+decease*	Death
+drown*	Death
+embalm*	Death
+epidemic*	Death
+execution*	Death
+exterminat*	Death
+funer*	Death
+genocid*	Death
+ghost*	Death
+hearse*	Death
+holocaust*	Death
+homocid*	Death
+lethal*	Death
+lynch*	Death
+manslaughter*	Death
+massacre*	Death
+mausoleum*	Death
+morgue*	Death
+mortal*	Death
+mortician*	Death
+obit*	Death
+pallbearer*	Death
+plague*	Death
+reaper*	Death
+slaughter*	Death
+suicid*	Death
+tomb*	Death
+urn*	Death
+something*	Exclusive	Tentat	Pronoun	Funct	iPron	CogMech
+aunt*	Family	Social
+brother*	Family	Social
+cousin*	Family	Social
+dad*	Family	Social
+daughter*	Family	Social
+exhubby*	Family	Social
+exhusband*	Family	Social
+exwife*	Family	Social
+exwive*	Family	Social
+father*	Family	Social
+grandchil*	Family	Social
+granddad*	Family	Social
+granddau*	Family	Social
+grandf*	Family	Social
+grandkid*	Family	Social
+grandm*	Family	Social
+grandpa*	Family	Social
+grandson*	Family	Social
+husband*	Family	Social
+marrie*	Family	Social
+momma*	Family	Social
+mommy*	Family	Social
+mummy*	Family	Social
+nephew*	Family	Social
+niece*	Family	Social
+parent*	Family	Social
+sister*	Family	Social
+spous*	Family	Social
+stepchild*	Family	Social
+stepfat*	Family	Social
+stepkid*	Family	Social
+stepmot*	Family	Social
+wife*	Family	Social
+wive*	Family	Social
+flexib*	Feel	Affect	Percept	PosEmo
+warm*	Feel	Affect	Percept	PosEmo
+skin'*	Feel	Bio	Percept	Body
+stroke*	Feel	Bio	Percept	Health
+tight*	Feel	CogMech	Percept	Inhibition
+feeling*	Feel	CogMech	Percept	Insight
+fuzz*	Feel	CogMech	Tentat	Percept
+weightlift*	Feel	Percept	Leisure
+round*	Feel	Percept	See
+brush*	Feel	Percept
+caress*	Feel	Percept
+cold*	Feel	Percept
+drie*	Feel	Percept
+dry*	Feel	Percept
+fragil*	Feel	Percept
+freez*	Feel	Percept
+froze*	Feel	Percept
+grab*	Feel	Percept
+gripp*	Feel	Percept
+handful*	Feel	Percept
+harde*	Feel	Percept
+heavie*	Feel	Percept
+heavy*	Feel	Percept
+hott*	Feel	Percept
+leather*	Feel	Percept
+limp*	Feel	Percept
+loose*	Feel	Percept
+presser*	Feel	Percept
+rough*	Feel	Percept
+scratch*	Feel	Percept
+sharp*	Feel	Percept
+silk*	Feel	Percept
+smooth*	Feel	Percept
+soft*	Feel	Percept
+squeez*	Feel	Percept
+stroki*	Feel	Percept
+touch*	Feel	Percept
+weightless*	Feel	Percept
+oranything*	Filler
+orsomething*	Filler
+orwhatever*	Filler
+rr*	Filler
+yakn*	Filler
+ykn*	Filler
+youknow*	Filler
+acquainta*	Friend	Social
+amigo*	Friend	Social
+bf*	Friend	Social
+boyf*	Friend	Social
+buddies*	Friend	Social
+buddy*	Friend	Social
+comrad*	Friend	Social
+exbf*	Friend	Social
+exboyfriend*	Friend	Social
+exgf*	Friend	Social
+exgirl*	Friend	Social
+fellow*	Friend	Social
+fiance*	Friend	Social
+gf*	Friend	Social
+girlfriend*	Friend	Social
+guest*	Friend	Social
+neighbour*	Friend	Social
+families*	Home	Family	Leisure	Social
+neighbor*	Home	Friend	Social
+apartment*	Home	Leisure
+bath*	Home	Leisure
+garage*	Home	Leisure
+garden*	Home	Leisure
+lease*	Home	Money
+leasing*	Home	Money
+mortg*	Home	Money
+rent*	Home	Money
+dorm*	Home	Work
+homework*	Home	Work
+balcon*	Home
+bedroom*	Home
+blender*	Home
+broom*	Home
+carpet*	Home
+chore*	Home
+clean*	Home
+condominium*	Home
+couch*	Home
+curtain*	Home
+dishwasher*	Home
+doghouse*	Home
+domestic*	Home
+door*	Home
+drape*	Home
+dresser*	Home
+driveway*	Home
+duplex*	Home
+fireplace*	Home
+fridge*	Home
+futon*	Home
+gate*	Home
+house*	Home
+landlord*	Home
+lawn*	Home
+loveseat*	Home
+maid*	Home
+mattress*	Home
+microwave*	Home
+oven*	Home
+patio*	Home
+pillow*	Home
+remodel*	Home
+renovat*	Home
+residen*	Home
+shower*	Home
+sofa*	Home
+stove*	Home
+sweep*	Home
+tenant*	Home
+toaster*	Home
+vacuum*	Home
+window*	Home
+partner*	Humans	Friend	Social
+babe*	Humans	Social
+baby*	Humans	Social
+bambino*	Humans	Social
+boys*	Humans	Social
+chick'*	Humans	Social
+children*	Humans	Social
+citizen'*	Humans	Social
+female*	Humans	Social
+gentlem*	Humans	Social
+girls*	Humans	Social
+grownup*	Humans	Social
+guy*	Humans	Social
+human*	Humans	Social
+individual*	Humans	Social
+infants*	Humans	Social
+kid'*	Humans	Social
+kids*	Humans	Social
+men'*	Humans	Social
+newborn*	Humans	Social
+participant*	Humans	Social
+people*	Humans	Social
+societ*	Humans	Social
+women*	Humans	Social
+everyone*	iPron	Funct	Pronoun	Social
+thing*	iPron	Pronoun	Funct
+chat*	Leisure	Social
+game*	Leisure	Social
+actor*	Leisure
+actress*	Leisure
+aerobic*	Leisure
+artist*	Leisure
+athletic*	Leisure
+ballet*	Leisure
+baseball*	Leisure
+basketball*	Leisure
+beach*	Leisure
+bicyc*	Leisure
+bike*	Leisure
+birdie*	Leisure
+blockbuster*	Leisure
+blog*	Leisure
+cd*	Leisure
+celebrit*	Leisure
+channel*	Leisure
+chillin*	Leisure
+cinema*	Leisure
+club*	Leisure
+coach*	Leisure
+comic*	Leisure
+decorat*	Leisure
+dj*	Leisure
+dream*	Leisure
+drumm*	Leisure
+dvd*	Leisure
+fantasi*	Leisure
+film*	Leisure
+flatscreen*	Leisure
+football*	Leisure
+frisbee*	Leisure
+golf*	Leisure
+guitar*	Leisure
+gym*	Leisure
+hangin*	Leisure
+hangout*	Leisure
+hobb*	Leisure
+hockey*	Leisure
+holiday*	Leisure
+hotel*	Leisure
+intramural*	Leisure
+ipod*	Leisure
+jazz*	Leisure
+magazine*	Leisure
+marathon*	Leisure
+margarita*	Leisure
+martini*	Leisure
+motel*	Leisure
+movie*	Leisure
+mtv*	Leisure
+museum*	Leisure
+nintendo*	Leisure
+opera*	Leisure
+pitcher*	Leisure
+playstation*	Leisure
+pool*	Leisure
+pretend*	Leisure
+radio*	Leisure
+recording*	Leisure
+recreation*	Leisure
+roller*	Leisure
+rugby*	Leisure
+scrapbook*	Leisure
+sculpt*	Leisure
+skat*	Leisure
+skier*	Leisure
+soccer*	Leisure
+sport*	Leisure
+sunbath*	Leisure
+symphon*	Leisure
+television*	Leisure
+tennis*	Leisure
+theat*	Leisure
+ticket*	Leisure
+tivo*	Leisure
+toy*	Leisure
+triathl*	Leisure
+tv*	Leisure
+unwind*	Leisure
+vacation*	Leisure
+vcr*	Leisure
+video*	Leisure
+vodka*	Leisure
+volleyb*	Leisure
+workout*	Leisure
+xbox*	Leisure
+casino*	Money	Leisure
+shopaholic*	Money	Leisure
+shopp*	Money	Leisure
+broker*	Money	Work
+business*	Money	Work
+consumer*	Money	Work
+corporat*	Money	Work
+customer*	Money	Work
+dividend*	Money	Work
+econ*	Money	Work
+financ*	Money	Work
+franchis*	Money	Work
+income*	Money	Work
+pay*	Money	Work
+salar*	Money	Work
+scholarship*	Money	Work
+stipend*	Money	Work
+taxa*	Money	Work
+trade*	Money	Work
+account*	Money
+auction*	Money
+bank*	Money
+bargain*	Money
+beggar*	Money
+billing*	Money
+borrow*	Money
+budget*	Money
+buy*	Money
+cash*	Money
+cheap*	Money
+chequ*	Money
+compensat*	Money
+cost*	Money
+coupon*	Money
+currenc*	Money
+debit*	Money
+debt*	Money
+deposit*	Money
+dime*	Money
+dinar*	Money
+discount*	Money
+dollar*	Money
+donat*	Money
+embezzl*	Money
+exchang*	Money
+expens*	Money
+fortune*	Money
+gambl*	Money
+inexpens*	Money
+inherit*	Money
+invest*	Money
+jackpot*	Money
+kopek*	Money
+kron*	Money
+loan*	Money
+lotter*	Money
+mastercard*	Money
+merchant*	Money
+money*	Money
+monopol*	Money
+nickel*	Money
+poor*	Money
+portfolio*	Money
+poverty*	Money
+price*	Money
+prici*	Money
+purchas*	Money
+rebate*	Money
+recession*	Money
+refund*	Money
+reimburs*	Money
+retail*	Money
+revenue*	Money
+ruble*	Money
+rupee*	Money
+saving*	Money
+seller*	Money
+shilling*	Money
+thrift*	Money
+visa*	Money
+wager*	Money
+shake*	Motion	Affect	Anx	NegEmo	Relative
+stopper*	Motion	CogMech	Inhibition	Relative	Time
+explor*	Motion	CogMech	Insight	Relative
+advanc*	Motion	Relative	Achieve
+climb*	Motion	Relative	Achieve
+cruis*	Motion	Relative	Leisure
+danc*	Motion	Relative	Leisure
+hik*	Motion	Relative	Leisure
+jog*	Motion	Relative	Leisure
+runner*	Motion	Relative	Leisure
+swim*	Motion	Relative	Leisure
+travel*	Motion	Relative	Leisure
+visit*	Motion	Relative	Social
+forward*	Motion	Relative	Space	Time
+action*	Motion	Relative
+approach*	Motion	Relative
+arrival*	Motion	Relative
+brief*	Motion	Relative
+carrier*	Motion	Relative
+cross*	Motion	Relative
+deliver*	Motion	Relative
+departure*	Motion	Relative
+disappear*	Motion	Relative
+drift*	Motion	Relative
+flee*	Motion	Relative
+flow*	Motion	Relative
+jump*	Motion	Relative
+motion*	Motion	Relative
+movement*	Motion	Relative
+mover*	Motion	Relative
+pull*	Motion	Relative
+push*	Motion	Relative
+remov*	Motion	Relative
+replace*	Motion	Relative
+rise*	Motion	Relative
+rush*	Motion	Relative
+stepp*	Motion	Relative
+throw*	Motion	Relative
+transport*	Motion	Relative
+negat*	Negate	Funct
+nobod*	Negate	iPron	Pronoun	Funct
+umm*	Nonfl
+zz*	Nonfl
+billion*	Number	Funct
+dozen*	Number	Funct
+eight*	Number	Funct
+fift*	Number	Funct
+four*	Number	Funct
+hundred*	Number	Funct
+million*	Number	Funct
+nine*	Number	Funct
+quarter*	Number	Funct
+seven*	Number	Funct
+six*	Number	Funct
+thirt*	Number	Funct
+thousand*	Number	Funct
+trillion*	Number	Funct
+twel*	Number	Funct
+twent*	Number	Funct
+zillion*	Number	Funct
+spoke*	Percept	enPast	Hear	Verb	Social
+choir*	Percept	Hear	Leisure
+concert*	Percept	Hear	Leisure
+song*	Percept	Hear	Leisure
+listener*	Percept	Hear	Social
+say*	Percept	Hear	Social
+audibl*	Percept	Hear
+audio*	Percept	Hear
+boom*	Percept	Hear
+fizz*	Percept	Hear
+hush*	Percept	Hear
+inaudibl*	Percept	Hear
+loud*	Percept	Hear
+quiet*	Percept	Hear
+shout*	Percept	Hear
+silen*	Percept	Hear
+sound*	Percept	Hear
+speaker*	Percept	Hear
+speech*	Percept	Hear
+thunder*	Percept	Hear
+voic*	Percept	Hear
+whisper*	Percept	Hear
+blacke*	Percept	See
+blackish*	Percept	See
+blond*	Percept	See
+blue*	Percept	See
+brown*	Percept	See
+candle*	Percept	See
+click*	Percept	See
+color*	Percept	See
+colour*	Percept	See
+column*	Percept	See
+gaz*	Percept	See
+glanc*	Percept	See
+glow*	Percept	See
+gray*	Percept	See
+green*	Percept	See
+grey*	Percept	See
+image*	Percept	See
+looker*	Percept	See
+orange*	Percept	See
+pink*	Percept	See
+purpl*	Percept	See
+rectang*	Percept	See
+redde*	Percept	See
+reddish*	Percept	See
+scann*	Percept	See
+shini*	Percept	See
+sight*	Percept	See
+squar*	Percept	See
+stare*	Percept	See
+sunli*	Percept	See
+triang*	Percept	See
+viewer*	Percept	See
+viewing*	Percept	See
+vivid*	Percept	See
+watch*	Percept	See
+white*	Percept	See
+whitish*	Percept	See
+yellow*	Percept	See
+acid*	Percept
+acrid*	Percept
+aroma*	Percept
+butter*	Percept
+caramel*	Percept
+chocolate*	Percept
+citrus*	Percept
+cologne*	Percept
+deoder*	Percept
+experienc*	Percept
+fetid*	Percept
+flavor*	Percept
+flavour*	Percept
+fragran*	Percept
+greas*	Percept
+inhal*	Percept
+lick*	Percept
+mint*	Percept
+odor*	Percept
+odour*	Percept
+oil*	Percept
+perfum*	Percept
+pungen*	Percept
+salt*	Percept
+sampl*	Percept
+savor*	Percept
+savour*	Percept
+scent*	Percept
+smell*	Percept
+sniff*	Percept
+snort*	Percept
+soure*	Percept
+souri*	Percept
+sumptuous*	Percept
+waft*	Percept
+whiff*	Percept
+yum*	Percept
+their*	PPron	Funct	Pronoun	They	Social
+through*	Preps	Funct
+doubl*	Quant	Funct
+equal*	Quant	Funct
+example*	Quant	Funct
+few*	Quant	Funct
+item*	Quant	Funct
+piec*	Quant	Funct
+singl*	Quant	Funct
+tripl*	Quant	Funct
+amount*	Quant
+simple*	Quant
+version*	Quant
+initiat*	Relative	Achieve	Time
+decay*	Relative	Affect	NegEmo	Time
+empt*	Relative	Affect	Sad	NegEmo	Space
+low*	Relative	Affect	Sad	NegEmo	Space
+enclos*	Relative	CogMech	Inhibition	Space
+cease*	Relative	CogMech	Inhibition	Time
+delay*	Relative	CogMech	Inhibition	Time
+afterthought*	Relative	CogMech	Insight	Time
+occasional*	Relative	CogMech	Tentat	Time
+tempora*	Relative	CogMech	Tentat	Time
+thick*	Relative	Feel	Percept	Space
+thinn*	Relative	Feel	Percept	Space
+quick*	Relative	Funct	Adverb	Time
+infinit*	Relative	Funct	Number	Time
+among*	Relative	Funct	Preps	Space
+toward*	Relative	Funct	Preps	Space
+full*	Relative	Funct	Quant	Space
+roomate*	Relative	Home	Social	Friend	Space
+roomie*	Relative	Home	Social	Friend	Space
+roommate*	Relative	Home	Social	Friend	Space
+weekend*	Relative	Leisure	Time
+increas*	Relative	Motion	Quant
+receiv*	Relative	Motion	Social
+send*	Relative	Motion	Social
+transact*	Relative	Motion	Social
+behavio*	Relative	Motion
+fill*	Relative	Motion
+journey*	Relative	Motion
+immortal*	Relative	Religion	Death	Time
+afterlife*	Relative	Religion	Time
+christmas*	Relative	Religion	Time
+area*	Relative	Space
+backward*	Relative	Space
+bottom*	Relative	Space
+broad*	Relative	Space
+capacit*	Relative	Space
+ceiling*	Relative	Space
+center*	Relative	Space
+centre*	Relative	Space
+connection*	Relative	Space
+countr*	Relative	Space
+deep*	Relative	Space
+densit*	Relative	Space
+depth*	Relative	Space
+diagonal*	Relative	Space
+distan*	Relative	Space
+downward*	Relative	Space
+east*	Relative	Space
+encompass*	Relative	Space
+enorm*	Relative	Space
+entrance*	Relative	Space
+environment*	Relative	Space
+exit*	Relative	Space
+exterior*	Relative	Space
+floor*	Relative	Space
+further*	Relative	Space
+giant*	Relative	Space
+global*	Relative	Space
+ground*	Relative	Space
+height*	Relative	Space
+highe*	Relative	Space
+horizontal*	Relative	Space
+huge*	Relative	Space
+inch*	Relative	Space
+inner*	Relative	Space
+interior*	Relative	Space
+internal*	Relative	Space
+internation*	Relative	Space
+intersect*	Relative	Space
+kilometer*	Relative	Space
+km*	Relative	Space
+large*	Relative	Space
+ledge*	Relative	Space
+littl*	Relative	Space
+local*	Relative	Space
+longitud*	Relative	Space
+meter*	Relative	Space
+metre*	Relative	Space
+middl*	Relative	Space
+mile*	Relative	Space
+narrow*	Relative	Space
+nation*	Relative	Space
+north*	Relative	Space
+opening*	Relative	Space
+outer*	Relative	Space
+outward*	Relative	Space
+overflow*	Relative	Space
+overlap*	Relative	Space
+place*	Relative	Space
+placing*	Relative	Space
+platform*	Relative	Space
+position*	Relative	Space
+remote*	Relative	Space
+road*	Relative	Space
+separat*	Relative	Space
+shape*	Relative	Space
+shaping*	Relative	Space
+short*	Relative	Space
+sky*	Relative	Space
+small*	Relative	Space
+south*	Relative	Space
+spaci*	Relative	Space
+spann*	Relative	Space
+stair*	Relative	Space
+street*	Relative	Space
+stretch*	Relative	Space
+surfac*	Relative	Space
+surround*	Relative	Space
+territor*	Relative	Space
+undersid*	Relative	Space
+universe*	Relative	Space
+vast*	Relative	Space
+verg*	Relative	Space
+vertical*	Relative	Space
+west*	Relative	Space
+wide*	Relative	Space
+width*	Relative	Space
+abrupt*	Relative	Time
+aftermath*	Relative	Time
+afternoon*	Relative	Time
+afterward*	Relative	Time
+ancient*	Relative	Time
+annual*	Relative	Time
+beginn*	Relative	Time
+biannu*	Relative	Time
+bimonth*	Relative	Time
+birth*	Relative	Time
+biweek*	Relative	Time
+centur*	Relative	Time
+clock*	Relative	Time
+continu*	Relative	Time
+current*	Relative	Time
+cycle*	Relative	Time
+dail*	Relative	Time
+date*	Relative	Time
+day*	Relative	Time
+decade*	Relative	Time
+earli*	Relative	Time
+etern*	Relative	Time
+evening*	Relative	Time
+fade*	Relative	Time
+fading*	Relative	Time
+finish*	Relative	Time
+followup*	Relative	Time
+former*	Relative	Time
+friday*	Relative	Time
+futur*	Relative	Time
+generation*	Relative	Time
+histor*	Relative	Time
+hour*	Relative	Time
+hurrie*	Relative	Time
+hurry*	Relative	Time
+inciden*	Relative	Time
+initial*	Relative	Time
+instan*	Relative	Time
+interval*	Relative	Time
+last*	Relative	Time
+longe*	Relative	Time
+march*	Relative	Time
+minute*	Relative	Time
+modern*	Relative	Time
+moment*	Relative	Time
+monday*	Relative	Time
+month*	Relative	Time
+morning*	Relative	Time
+noon*	Relative	Time
+oclock*	Relative	Time
+o'clock*	Relative	Time
+period*	Relative	Time
+perpetual*	Relative	Time
+preced*	Relative	Time
+proceed*	Relative	Time
+recent*	Relative	Time
+recur*	Relative	Time
+repeat*	Relative	Time
+repetit*	Relative	Time
+return*	Relative	Time
+rhythm*	Relative	Time
+saturday*	Relative	Time
+schedul*	Relative	Time
+season*	Relative	Time
+september*	Relative	Time
+sequen*	Relative	Time
+simultaneous*	Relative	Time
+slow*	Relative	Time
+soone*	Relative	Time
+speed*	Relative	Time
+starter*	Relative	Time
+startup*	Relative	Time
+subsequen*	Relative	Time
+sudden*	Relative	Time
+summer*	Relative	Time
+sunday*	Relative	Time
+synch*	Relative	Time
+terminat*	Relative	Time
+thursday*	Relative	Time
+time*	Relative	Time
+today*	Relative	Time
+tomorrow*	Relative	Time
+tonight*	Relative	Time
+tuesday*	Relative	Time
+updat*	Relative	Time
+wednesday*	Relative	Time
+week'*	Relative	Time
+weekl*	Relative	Time
+winter*	Relative	Time
+yesterday*	Relative	Time
+young*	Relative	Time
+youth*	Relative	Time
+senior*	Relative	Work	Time
+stay*	Relative
+system*	Relative
+meditat*	Religion	Leisure
+musi*	Religion	Percept	Hear	Leisure
+agnost*	Religion
+allah*	Religion
+altar*	Religion
+angelic*	Religion
+baptis*	Religion
+baptiz*	Religion
+bible*	Religion
+biblic*	Religion
+bishop*	Religion
+buddh*	Religion
+catholic*	Religion
+chapel*	Religion
+chaplain*	Religion
+christian*	Religion
+church*	Religion
+crucifi*	Religion
+crusade*	Religion
+demon*	Religion
+episcopal*	Religion
+evangel*	Religion
+gentile*	Religion
+god'*	Religion
+gospel*	Religion
+hindu*	Religion
+holie*	Religion
+hymn*	Religion
+islam*	Religion
+jesuit*	Religion
+jewish*	Religion
+jihad*	Religion
+juda*	Religion
+krishna*	Religion
+krisna*	Religion
+lord*	Religion
+lutheran*	Religion
+mercif*	Religion
+methodis*	Religion
+minister*	Religion
+ministr*	Religion
+missionar*	Religion
+mitzvah*	Religion
+mohamm*	Religion
+monast*	Religion
+monk*	Religion
+mormon*	Religion
+mosque*	Religion
+muhamm*	Religion
+mujahid*	Religion
+orthodox*	Religion
+pagan*	Religion
+pastor*	Religion
+pentecost*	Religion
+pilgrim*	Religion
+pope*	Religion
+pray*	Religion
+preach*	Religion
+presbyterian*	Religion
+priest*	Religion
+prophe*	Religion
+protestant*	Religion
+psalm*	Religion
+purgator*	Religion
+puritan*	Religion
+quran*	Religion
+qur'an*	Religion
+religio*	Religion
+ritual*	Religion
+roshashan*	Religion
+sabbath*	Religion
+sacrific*	Religion
+saint*	Religion
+satan*	Religion
+scriptur*	Religion
+seminar*	Religion
+shi'*	Religion
+shiite*	Religion
+shrine*	Religion
+sikh*	Religion
+sinn*	Religion
+spirit*	Religion
+temple*	Religion
+testament*	Religion
+theolog*	Religion
+vatican*	Religion
+veil*	Religion
+zion*	Religion
+affair*	Social
+apolog*	Social
+assembl*	Social
+caller*	Social
+cellphon*	Social
+cellular*	Social
+comment*	Social
+commun*	Social
+companionship*	Social
+congregat*	Social
+contact*	Social
+convers*	Social
+crowd*	Social
+cultur*	Social
+discuss*	Social
+divorc*	Social
+email'*	Social
+emailer*	Social
+excus*	Social
+express*	Social
+gather*	Social
+group*	Social
+grudge*	Social
+hello*	Social
+interact*	Social
+involv*	Social
+language*	Social
+mailer*	Social
+marriag*	Social
+mention*	Social
+messag*	Social
+mobb*	Social
+offer*	Social
+outsider*	Social
+overhear*	Social
+owner*	Social
+participat*	Social
+persua*	Social
+phone*	Social
+relationship*	Social
+replie*	Social
+reply*	Social
+request*	Social
+respond*	Social
+role*	Social
+rumor*	Social
+rumour*	Social
+secretive*	Social
+social*	Social
+suggest*	Social
+talkative*	Social
+talker*	Social
+telephon*	Social
+wedding*	Social
+arsehole*	Swear
+motherf*	Swear
+nigger*	Swear
+sonofa*	Swear
+wanker*	Swear
+forgot*	Verb	CogMech	enPast	Inhibition
+team*	Work	Achieve	Leisure	Social
+accomplish*	Work	Achieve
+achiev*	Work	Achieve
+ambiti*	Work	Achieve
+burnout*	Work	Achieve
+dropout*	Work	Achieve
+earn*	Work	Achieve
+finaliz*	Work	Achieve
+goal*	Work	Achieve
+presiden*	Work	Achieve
+promot*	Work	Achieve
+unproduc*	Work	Achieve
+workabl*	Work	Achieve
+worker*	Work	Achieve
+working*	Work	Achieve
+colleague*	Work	Friend	Social
+book*	Work	Leisure
+advis*	Work	Social
+consult*	Work	Social
+counc*	Work	Social
+couns*	Work	Social
+coworker*	Work	Social
+interview*	Work	Social
+meeting*	Work	Social
+negotiat*	Work	Social
+absent*	Work
+academ*	Work
+administrat*	Work
+applicant*	Work
+applicat*	Work
+apprentic*	Work
+assign*	Work
+assistan*	Work
+associat*	Work
+auditorium*	Work
+biolog*	Work
+blackboard*	Work
+bldg*	Work
+bureau*	Work
+campus*	Work
+career*	Work
+ceo*	Work
+certif*	Work
+chairm*	Work
+classmate*	Work
+classroom*	Work
+collab*	Work
+colleg*	Work
+commerc*	Work
+commute*	Work
+comput*	Work
+conferenc*	Work
+conglom*	Work
+course*	Work
+credential*	Work
+cubicle*	Work
+curricul*	Work
+cv*	Work
+deadline*	Work
+dean*	Work
+delegat*	Work
+demote*	Work
+department*	Work
+desk*	Work
+diplom*	Work
+director*	Work
+dissertat*	Work
+downsiz*	Work
+edit*	Work
+educat*	Work
+employ*	Work
+executive*	Work
+expel*	Work
+expulsion*	Work
+facult*	Work
+fax*	Work
+fratern*	Work
+freshm*	Work
+govern*	Work
+grade*	Work
+graduat*	Work
+hardwork*	Work
+headhunter*	Work
+highschool*	Work
+hire*	Work
+incorp*	Work
+industr*	Work
+instruct*	Work
+job*	Work
+junior*	Work
+keyboard*	Work
+kinderg*	Work
+labor*	Work
+labour*	Work
+laptop*	Work
+lawyer*	Work
+layoff*	Work
+lectur*	Work
+legal*	Work
+librar*	Work
+mailroom*	Work
+manag*	Work
+manufact*	Work
+market*	Work
+math*	Work
+mentor*	Work
+merger*	Work
+midterm*	Work
+nonprofit*	Work
+occupa*	Work
+office*	Work
+outlin*	Work
+outsourc*	Work
+paper*	Work
+pc*	Work
+pencil*	Work
+pension*	Work
+phd*	Work
+photocop*	Work
+pledg*	Work
+prereq*	Work
+presentation*	Work
+procrastin*	Work
+profession*	Work
+professor*	Work
+program*	Work
+projector*	Work
+psychol*	Work
+qualifi*	Work
+quiz*	Work
+recruit*	Work
+register*	Work
+registra*	Work
+report*	Work
+research*	Work
+retire*	Work
+review*	Work
+rhetor*	Work
+scholastic*	Work
+school*	Work
+scien*	Work
+secretar*	Work
+sector*	Work
+semester*	Work
+servic*	Work
+session*	Work
+sophom*	Work
+sororit*	Work
+staff*	Work
+stapl*	Work
+student*	Work
+study*	Work
+supervis*	Work
+syllabus*	Work
+teach*	Work
+tenure*	Work
+textbook*	Work
+transcript*	Work
+transfer*	Work
+tutor*	Work
+type*	Work
+undergrad*	Work
+unemploy*	Work
+universit*	Work
+upperclass*	Work
+varsit*	Work
+vocation*	Work
+vp*	Work
+warehous*	Work
+xerox*	Work							

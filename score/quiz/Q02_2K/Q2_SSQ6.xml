@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	状态-特质焦虑量表，原问卷共有40道题目（状态、特质各20题），
+	插入了11道测谎题和自我粉饰题，用tag=M和tag=E标出。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q2_MBSupport</identifier>
+    <caption>微博使用社会支持感测试问卷</caption>
+    <information><![CDATA[　　下列问题描述了你自己在使用微博时可能会从其它用户那里获得的帮助或支持。每个问题都需要你回答两部分的内容。
+
+　　第一部分，请你填写自己在使用微博时能够像题目中描述得那样向你提供该种帮助或支持的用户人数（填写的人数需要能够清晰地对应到每个具体的用户）。
+　　第二部分，请你标出自己在总体上对于能够从其它用户那里获得该种帮助或支持的情况的满意度。
+
+　　请您在不受外界打扰的情况下，认真、真实地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1" type="text">
+		<title>当你感觉精神紧张时，在微博上有一些人能够帮你从烦恼中解脱出来，这样的人的人数有：</title>
+	</question>
+
+	<question qid="q2">
+		<title>像上一题描述的那样，当你感觉精神紧张，而在微博上有那些人能够帮你从烦恼中解脱出来时，你对能从他们那里获得的帮助感到：</title>
+		<answer aid="a" score="1">非常不满意</answer>
+		<answer aid="b" score="2">比较不满意</answer>
+		<answer aid="c" score="3">不满意</answer>
+		<answer aid="d" score="4">满意</answer>
+		<answer aid="e" score="5">比较满意</answer>
+		<answer aid="f" score="6">非常满意</answer>
+	</question>
+
+	<question qid="q3" type="text">
+		<title>当你感觉压力或焦虑时，在微博上有一些人能够帮使你的心情放松，这样的人的人数有：</title>
+	</question>
+
+	<question qid="q4">
+		<title>像上一题描述的那样，当你感觉精神紧张，而在微博上有那些人能够使你放松时，你对能从他们那里获得的帮助感到：</title>
+		<answer aid="a" score="1">非常不满意</answer>
+		<answer aid="b" score="2">比较不满意</answer>
+		<answer aid="c" score="3">不满意</answer>
+		<answer aid="d" score="4">满意</answer>
+		<answer aid="e" score="5">比较满意</answer>
+		<answer aid="f" score="6">非常满意</answer>
+	</question>
+	
+	<question qid="q5" type="text">
+		<title>在微博上有人能够完全接纳你，包括你的优点和缺点，这样的人的人数为：</title>
+	</question>
+
+	<question qid="q6">
+		<title>像上一题描述的那样，对于那些在微博上有那些能够完全接纳你的人，包括你的优点和缺点，你对能从他们那里获得的帮助感到：</title>
+		<answer aid="a" score="1">非常不满意</answer>
+		<answer aid="b" score="2">比较不满意</answer>
+		<answer aid="c" score="3">不满意</answer>
+		<answer aid="d" score="4">满意</answer>
+		<answer aid="e" score="5">比较满意</answer>
+		<answer aid="f" score="6">非常满意</answer>
+	</question>
+	
+	<question qid="q7" type="text">
+		<title>无论你发生了什么，在微博上有一些人会关心你，这样的人的人数为：</title>
+	</question>
+
+	<question qid="q8">
+		<title>像上一题描述的那样，对于那些无论发生什么，在微博上都会关心你的那些人，你对他们提供的帮助感到：</title>
+		<answer aid="a" score="1">非常不满意</answer>
+		<answer aid="b" score="2">比较不满意</answer>
+		<answer aid="c" score="3">不满意</answer>
+		<answer aid="d" score="4">满意</answer>
+		<answer aid="e" score="5">比较满意</answer>
+		<answer aid="f" score="6">非常满意</answer>
+	</question>
+	
+	<question qid="q9" type="text">
+		<title>当你感觉情绪低落时，在微博上有人能够使你的心情愉快一些，这样的人的人数为：</title>
+	</question>
+
+	<question qid="q10">
+		<title>像上一题描述的那样，当你感觉情绪低落，而那些在微博上有那些人能够使你的心情愉快时，你对他们给你提供的帮助感到：</title>
+		<answer aid="a" score="1">非常不满意</answer>
+		<answer aid="b" score="2">比较不满意</answer>
+		<answer aid="c" score="3">不满意</answer>
+		<answer aid="d" score="4">满意</answer>
+		<answer aid="e" score="5">比较满意</answer>
+		<answer aid="f" score="6">非常满意</answer>
+	</question>
+	
+	<question qid="q11" type="text">
+		<title>当你感觉心烦意乱时，在微博上有一些人能够安慰你，这样的人的人数为：</title>
+	</question>
+
+	<question qid="q12">
+		<title>像上一题描述的那样，当你感觉心烦意乱，而在微博上有那些人能够安慰你时，你对能从他们那里获得的帮助感到：</title>
+		<answer aid="a" score="1">非常不满意</answer>
+		<answer aid="b" score="2">比较不满意</answer>
+		<answer aid="c" score="3">不满意</answer>
+		<answer aid="d" score="4">满意</answer>
+		<answer aid="e" score="5">比较满意</answer>
+		<answer aid="f" score="6">非常满意</answer>
+	</question>
+	
+  </questions>
+
+  <remarks>
+	<remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

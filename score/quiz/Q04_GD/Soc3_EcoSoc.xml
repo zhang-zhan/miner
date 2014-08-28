@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>Soc_EcoSoc</identifier>
+    <caption>经济发展与社会问题观点调查</caption>
+   <information><![CDATA[　　欢迎您填写本问卷，后面的题目列出了与我国经济发展状况及一些社会问题相关的题目，对每项描述，请指出您具有哪种感受，选择您认同的选项。
+　　提示：本问卷为调查性问卷，收集的数据用于科学研究，您如实填写完后会发放报酬，但是本问卷【没有反馈信息】，我们同时依照协议严格保护您的个人信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="E1" tag="E">
+		<title>您认为我国目前的经济发展状况如何？</title>
+		<answer aid="a" score="1">非常差</answer>
+		<answer aid="b" score="2">比较差</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较好</answer>
+		<answer aid="e" score="5">非常好</answer>
+    </question>
+  
+	<question qid="E2" tag="E">
+		<title>您预计明年我国的经济发展状况将会怎样？</title>
+		<answer aid="a" score="1">较大恶化</answer>
+		<answer aid="b" score="2">略有恶化</answer>
+		<answer aid="c" score="3">趋势不明</answer>
+		<answer aid="d" score="4">略有改善</answer>
+		<answer aid="e" score="5">较大改善</answer>
+    </question>
+	
+	<question qid="E3" tag="E">
+		<title>您认为本地目前的经济发展状况如何？</title>
+		<answer aid="a" score="1">非常差</answer>
+		<answer aid="b" score="2">比较差</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较好</answer>
+		<answer aid="e" score="5">非常好</answer>
+    </question>
+	
+	<question qid="E4" tag="E">
+		<title>您预计明年本地的经济发展状况将会怎样？</title>
+		<answer aid="a" score="1">较大恶化</answer>
+		<answer aid="b" score="2">略有恶化</answer>
+		<answer aid="c" score="3">趋势不明</answer>
+		<answer aid="d" score="4">略有改善</answer>
+		<answer aid="e" score="5">较大改善</answer>
+    </question>
+	
+	<!--
+		上面四道题是《第三部分是关于您对我国经济发展状况的一些看法》的题目，下面的题目是《第四部分是关于您对一些社会问题的看法》的题目。
+	-->
+	
+	<question qid="S1" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【社会治安不佳】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S2" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【社会风气不良】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S3" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【环境污染】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S4" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【腐败】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S5" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【贫富差距大】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S6" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【就业困难】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S7" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【制假售假】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S8" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【不合理收费】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S9" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【看病就医难】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S10" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【社会保障缺乏】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S11" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【物价上涨】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S12" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【干部工作作风不良】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S13" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【食品安全性差】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S14" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【城乡差距大】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S15" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【官民差异大】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S16" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【恶性拆迁】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S17" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【生产事故频发】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S18" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【信仰危机】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S19" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【交通拥堵】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S20" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【住房问题】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="S21" tag="S">
+		<title>当前社会可能存在各种各样的社会问题，您认为【教育资源分配不均】问题是否严重：</title>
+		<answer aid="a" score="1">一点也不严重</answer>
+		<answer aid="b" score="2">不严重</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较严重</answer>
+		<answer aid="e" score="5">很严重</answer>
+    </question>
+	
+	<question qid="J1" tag="J">
+		<title>您觉得社会是否会变得越来越公正？</title>
+		<answer aid="a" score="5">肯定不会</answer>
+		<answer aid="b" score="4">可能不会</answer>
+		<answer aid="c" score="3">不确定</answer>
+		<answer aid="d" score="2">可能会</answer>
+		<answer aid="e" score="1">肯定会</answer>
+    </question>
+	
+	<question qid="J2" tag="J">
+		<title>您觉得社会是否会变得越来越有秩序？</title>
+		<answer aid="a" score="5">肯定不会</answer>
+		<answer aid="b" score="4">可能不会</answer>
+		<answer aid="c" score="3">不确定</answer>
+		<answer aid="d" score="2">可能会</answer>
+		<answer aid="e" score="1">肯定会</answer>
+    </question>
+	
+	<question qid="J3" tag="J">
+		<title>您觉得人们的社会地位是否会越来越平等？</title>
+		<answer aid="a" score="5">肯定不会</answer>
+		<answer aid="b" score="4">可能不会</answer>
+		<answer aid="c" score="3">不确定</answer>
+		<answer aid="d" score="2">可能会</answer>
+		<answer aid="e" score="1">肯定会</answer>
+    </question>
+	
+	<question qid="J4" tag="J">
+		<title>您觉得社会矛盾是否会越来越少？</title>
+		<answer aid="a" score="5">肯定不会</answer>
+		<answer aid="b" score="4">可能不会</answer>
+		<answer aid="c" score="3">不确定</answer>
+		<answer aid="d" score="2">可能会</answer>
+		<answer aid="e" score="1">肯定会</answer>
+    </question>
+	
+	<question qid="J5" tag="J">
+		<title>您觉得人们的生活是否会越来越好？</title>
+		<answer aid="a" score="5">肯定不会</answer>
+		<answer aid="b" score="4">可能不会</answer>
+		<answer aid="c" score="3">不确定</answer>
+		<answer aid="d" score="2">可能会</answer>
+		<answer aid="e" score="1">肯定会</answer>
+    </question>
+	
+	<question qid="J6" tag="J">
+		<title>您觉得国家的经济发展是否会越来越好？</title>
+		<answer aid="a" score="5">肯定不会</answer>
+		<answer aid="b" score="4">可能不会</answer>
+		<answer aid="c" score="3">不确定</answer>
+		<answer aid="d" score="2">可能会</answer>
+		<answer aid="e" score="1">肯定会</answer>
+    </question>
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

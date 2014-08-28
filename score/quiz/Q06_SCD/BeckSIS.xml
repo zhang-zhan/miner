@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+自杀意念量表
+
+评分规则：
+量表答案的选项为 3个，从左至右对应得分为 1、 2、 3。总得分越高，自杀意念越强烈。
+测试者首先完成前 5 个题，如果第4 和第 5 个项目的选择答案都是“ 没有” , 那么则视为没有自杀意念，问卷结束。如果第 4 或者第 5 个项目任意 1 个选择答案是“ 弱” 或者“ 中等到强烈” ，那么就认定为有自杀意念，需要继续完成后面的 14 个项目。
+对后 14 个项目修订时，为了方便评估，对个别项目(如 6、 7、 11、 13 和 19)的答案增加 1 个“ 近 1 周无自杀想法” 的选项,其对应得分为“ 0” 。
+
+sI 自杀意念
+自杀意念的强度是根据量表 1～5 项的均值所得，分数越高, 自杀意念的强度越大。
+
+sD 自杀危险
+自杀危险是依据量表的 6～19项来评估有自杀意念的被试真正实施自杀的可能性的大小。
+总分的计算公式是[ ( 条目 6～19 的得分之和- 9) / 33] * 100,得分在 0～100 之间变化。分数越高，自杀危险性越大。
+
+【备注】程序计分提示：
+因程序目前尚未支持自动跳转，而本问卷的计分要求根据用户对第4、5题的选择来进行计分跳转；
+故在这里使用要求如果用户第4、5题选择为结束跳转选项（都没有自杀意念）的情况下， 要求用户在后续题目当中都填写无，
+后面的14道题目中有5道第一项为0，有9道第一项为1，故在题目qid="dem"中设置-9分，则sD维度得分自动为0。
+如果用户需要填写后14道题目，则根据计分规则，也是将6~19道题的得分总和-9，然后再除以100/33，故最后给出的该维度的得分应当为sD*100/33。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>BeckSIS</identifier>
+    <caption>Beck自杀意念量表</caption>
+    <information><![CDATA[　　欢迎您填写本量表，以下陈述是用来描述个人感觉和行为的，请仔细阅读每个句子，并选择适合你陈述。请根据您的实际情况进行填写，确保填好每个题目。
+	【温馨提示】没有反馈信息。
+　　本问卷为调查性问卷，我们向您承诺，我们会严格遵守协议，将您的填写结果将只用于科学研究，绝不会以任何形式泄漏您的隐私。请您放心填写真实信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+
+	<question qid="q1" tag="sI">
+		<title>您希望活下去的程度如何？</title>
+		<answer aid="a" score="0">中等到强烈</answer>
+		<answer aid="b" score="0">弱</answer>
+		<answer aid="c" score="0">没有活着的欲望</answer>
+    </question>
+
+	<question qid="q2" tag="sI">
+		<title>您希望死去的程度如何？</title>
+		<answer aid="a" score="0">没有死去的欲望</answer>
+		<answer aid="b" score="0">弱</answer>
+		<answer aid="c" score="0">中等到强烈</answer>
+    </question>
+	
+	<question qid="q3" tag="sI">
+		<title>我觉得我容易冲动</title>
+		<answer aid="a" score="0">要活下去胜过要死去</answer>
+		<answer aid="b" score="0">二者相当</answer>
+		<answer aid="c" score="0">要死去胜过要活下来</answer>
+    </question>
+	
+	<question qid="q4" tag="sI">
+		<title>您主动尝试自杀的愿望程度如何？</title>
+		<answer aid="a" score="0">没有</answer>
+		<answer aid="b" score="0">弱</answer>
+		<answer aid="c" score="0">中等到强烈</answer>
+    </question>
+	
+	<question qid="q5" tag="sI">
+		<title>您希望外力结束自己生命，即有“被动自杀愿望”的程度如何？（如，希望一直睡下去不再醒来、意外地死去等）</title>
+		<answer aid="a" score="0">没有</answer>
+		<answer aid="b" score="0">弱</answer>
+		<answer aid="c" score="0">中等到强烈</answer>
+    </question>
+	
+	<question qid="q6" tag="sD">
+		<title>您的这种自杀想法持续存在多长时间？</title>
+		<answer aid="_" score="0">近一周无自杀想法</answer>
+		<answer aid="a" score="1">短暂、一闪即逝</answer>
+		<answer aid="b" score="2">较长时间</answer>
+		<answer aid="c" score="3">持续或几乎是持续的</answer>
+    </question>
+	
+	<question qid="q7" tag="sD">
+		<title>您自杀想法出现的频度如何？</title>
+		<answer aid="_" score="0">近一周无自杀想法</answer>
+		<answer aid="a" score="1">极少、偶尔</answer>
+		<answer aid="b" score="2">有时</answer>
+		<answer aid="c" score="3">经常或持续</answer>
+    </question>
+	
+	<question qid="q8" tag="sD">
+		<title>您对自杀持什么态度？</title>
+		<answer aid="a" score="1">排斥</answer>
+		<answer aid="b" score="2">矛盾或无所谓</answer>
+		<answer aid="c" score="3">接受</answer>
+    </question>
+	
+	<question qid="q9" tag="sD">
+		<title>您觉得自己控制自杀想法、不把它变成行动的能力如何？</title>
+		<answer aid="a" score="1">能控制</answer>
+		<answer aid="b" score="2">不知能否控制</answer>
+		<answer aid="c" score="3">不能控制</answer>
+    </question>
+	
+	<question qid="q10" tag="sD">
+		<title>如果出现自杀想法，某些顾虑（如顾及家人、死亡不可逆转等）在多大程度上能阻止您自杀？</title>
+		<answer aid="a" score="1">能阻止自杀</answer>
+		<answer aid="b" score="2">能减少自杀的危险</answer>
+		<answer aid="c" score="3">无顾虑或无影响</answer>
+    </question>
+	
+	<question qid="q11" tag="sD">
+		<title>当您想自杀时，主要是为了什么？</title>
+		<answer aid="_" score="0">近一周无自杀想法</answer>
+		<answer aid="a" score="1">控制形势、寻求关注、报复</answer>
+		<answer aid="b" score="2">逃避、减轻痛苦、解决问题</answer>
+		<answer aid="e" score="3">前两种情况均有</answer>
+    </question>
+	
+	<question qid="q12" tag="sD">
+		<title>您想过结束自己生命的方法了吗？</title>
+		<answer aid="a" score="1">没想过</answer>
+		<answer aid="b" score="2">想过，但没制订出具体细节</answer>
+		<answer aid="c" score="3">制订出具体细节或计划得很周详</answer>
+    </question>
+	
+	<question qid="q13" tag="sD">
+		<title>您把自杀想法落实的条件或机会如何？</title>
+		<answer aid="_" score="0">近一周无自杀想法</answer>
+		<answer aid="a" score="1">没有现成的方法、没有机会</answer>
+		<answer aid="b" score="2">需要时间或精力准备自杀工具</answer>
+		<answer aid="c" score="3">有现成的方法和机会或预计将来有方法和机会</answer>
+    </question>
+	
+	<question qid="q14" tag="sD">
+		<title>您相信自己有能力并且有勇气去自杀吗？</title>
+		<answer aid="a" score="1">没有勇气、太软弱、害怕、没有能力</answer>
+		<answer aid="b" score="2">不确信自己有无能力、勇气</answer>
+		<answer aid="c" score="3">确信自己有能力、有勇气</answer>
+    </question>
+	
+	<question qid="q15" tag="sD">
+		<title>您预计某一时间您确实会尝试自杀吗？</title>
+		<answer aid="a" score="1">不会</answer>
+		<answer aid="b" score="2">不确定</answer>
+		<answer aid="c" score="3">会</answer>
+    </question>
+	
+	<question qid="q16" tag="sD">
+		<title>为了自杀，您的准备行动完成得怎样？</title>
+		<answer aid="a" score="1">没有准备</answer>
+		<answer aid="b" score="2">部分完成（如，开始收集药片）</answer>
+		<answer aid="c" score="3">全部完成（如，有药片、刀片、有子弹的枪）</answer>
+    </question>
+	
+	<question qid="q17" tag="sD">
+		<title>您已着手写自杀遗言了吗？</title>
+		<answer aid="a" score="1">没有考虑</answer>
+		<answer aid="b" score="2">仅仅考虑、开始但未写完</answer>
+		<answer aid="c" score="3">写完</answer>
+    </question>
+	
+	<question qid="q18" tag="sD">
+		<title>您是否因为预计要结束自己的生命而抓紧处理一些事情？如买保险或准备遗嘱。</title>
+		<answer aid="a" score="1">没有</answer>
+		<answer aid="b" score="2">考虑过或做了一些安排</answer>
+		<answer aid="c" score="3">有肯定的计划或安排完毕</answer>
+    </question>
+	
+	<question qid="q19" tag="sD">
+		<title>您是否让人知道自己的自杀想法？</title>
+		<answer aid="_" score="0">近一周无自杀想法</answer>
+		<answer aid="a" score="1">坦率主动说出想法</answer>
+		<answer aid="b" score="2">不主动说出</answer>
+		<answer aid="c" score="3">试图欺骗、隐瞒</answer>
+    </question>
+
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">您的填写结果将用于科学研究，非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

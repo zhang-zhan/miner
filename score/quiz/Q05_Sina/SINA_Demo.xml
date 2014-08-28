@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>SINA_Demo</identifier>
+    <caption>个人及家庭基本情况调查</caption>
+    <information><![CDATA[　　欢迎您填写本量表，后面的题目列出与您的基本信息相关的问题一些问题，对每项描述，请根据您的实际情况进行填写。
+	【温馨提示】没有反馈信息。
+　　本问卷为调查性问卷，我们向您承诺，我们会严格遵守协议，将您的填写结果将只用于科学研究，绝不会以任何形式泄漏您的隐私。请您放心填写真实信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+
+	<question qid="q1" type="text">
+		<title>您的年龄(请填写数字，例如25；请真实填写，此题目将作为甄别填写是否有效的信息)：</title>
+    </question>
+
+	<question qid="q2">
+		<title>您的性别：</title>
+		<answer aid="m" score="0">男性</answer>
+		<answer aid="f" score="0">女性</answer>
+    </question>
+
+	<question qid="q3" type="text">
+		<title>您的民族（请具体填写，例如，汉族，回族等）：</title>
+    </question>
+	
+	<question qid="q4">
+		<title>是否为独生子女：</title>
+		<answer aid="y" score="0">是</answer>
+		<answer aid="n" score="0">否</answer>
+    </question>
+
+	<question qid="q5">
+		<title>您的文化程度</title>
+		<answer aid="a" score="1">小学及以下（或在读）</answer>
+		<answer aid="b" score="2">初中（或在读）</answer>
+		<answer aid="c" score="3">高中（或在读）</answer>
+		<answer aid="d" score="4">中专（或在读）</answer>
+		<answer aid="e" score="5">本科（或在读）</answer>
+		<answer aid="f" score="6">大转（或在读）</answer>
+		<answer aid="g" score="7">硕士（或在读）</answer>
+		<answer aid="h" score="8">博士（或在读）</answer>
+    </question>
+
+	<question qid="q6">
+		<title>个人婚姻状况：</title>
+		<answer aid="a" score="0">已婚</answer>
+		<answer aid="b" score="0">恋爱</answer>
+		<answer aid="c" score="0">（婚后）分居</answer>
+		<answer aid="d" score="0">离异</answer>
+		<answer aid="e" score="0">丧偶</answer>
+		<answer aid="f" score="0">（未婚）单身</answer>
+    </question>
+
+	<question qid="q7">
+		<title>是否生育子女：</title>
+		<answer aid="a" score="0">是</answer>
+		<answer aid="b" score="0">否</answer>
+    </question>	
+	
+	<question qid="q8">
+		<title>您的职业：</title>
+		<answer aid="a" score="0">工人</answer>
+		<answer aid="b" score="0">农民</answer>
+		<answer aid="c" score="0">公务员</answer>
+		<answer aid="d" score="0">医生/护士</answer>
+		<answer aid="e" score="0">职员</answer>
+		<answer aid="f" score="0">媒体从业人员</answer>
+		<answer aid="g" score="0">学生</answer>
+		<answer aid="h" score="0">科研人员/教师</answer>
+		<answer aid="i" score="0">军人武警</answer>
+		<answer aid="j" score="0">自主经营者</answer>
+		<answer aid="k" score="0">自由职业者</answer>
+		<answer aid="l" score="0">失业人群</answer>
+		<answer aid="m" score="0">其他</answer>
+    </question>
+
+	<question qid="q9">
+		<title>家庭人均月收入：</title>
+		<answer aid="a" score="0">2千元以下</answer>
+		<answer aid="b" score="0">2千—4千元</answer>
+		<answer aid="c" score="0">4千—6千元</answer>
+		<answer aid="d" score="0">6千—8千元</answer>
+		<answer aid="e" score="0">8千—1万元</answer>
+		<answer aid="f" score="0">1万元以上</answer>
+	</question>
+
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">您的填写结果将用于科学研究，非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

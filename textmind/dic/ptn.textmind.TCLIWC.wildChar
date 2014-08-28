@@ -1,0 +1,266 @@
+%【说明】本文件内的词语为：TCLIWC词库通配符。
+贏*	achieve
+獎*	affect	achieve	posemo
+讚*	affect	achieve	posemo
+愁*	affect	anx	negemo	sad
+憂*	affect	anx	negemo	sad
+慌*	affect	anx	negemo
+惶*	affect	anx	negemo
+愧*	affect	anx	negemo
+忐忑*	affect	anx	negemo
+危*	affect	anx	negemo
+嚇*	affect	anx	negemo
+羞*	affect	anx	negemo
+疑*	affect	anx	negemo
+困*	affect	inhibition	anx	negemo	cogmech
+哀*	affect	negemo	sad
+懊*	affect	negemo	sad
+悲*	affect	negemo	sad
+孤*	affect	negemo	sad
+悔*	affect	negemo	sad
+寂*	affect	negemo	sad
+哭*	affect	negemo	sad
+笨*	affect	negemo
+慘*	affect	negemo
+嘲*	affect	negemo
+遲疑*	affect	negemo
+醜*	affect	negemo
+呆*	affect	negemo
+毒*	affect	negemo
+噁*	affect	negemo
+瘋*	affect	negemo
+腐*	affect	negemo
+壞*	affect	negemo
+毀*	affect	negemo
+昏*	affect	negemo
+禍*	affect	negemo
+譏*	affect	negemo
+艱*	affect	negemo
+賤*	affect	negemo
+僵*	affect	negemo
+劣*	affect	negemo
+懦*	affect	negemo
+疲*	affect	negemo
+貧*	affect	negemo
+竊*	affect	negemo
+缺*	affect	negemo
+瘸*	affect	negemo
+忍*	affect	negemo
+喪*	affect	negemo
+傷*	affect	negemo
+衰*	affect	negemo
+死*	affect	negemo
+損*	affect	negemo
+貪*	affect	negemo
+違*	affect	negemo
+凶*	affect	negemo
+兇*	affect	negemo
+厭*	affect	negemo
+災*	affect	negemo
+髒*	affect	negemo
+糟*	affect	negemo
+賊*	affect	negemo
+窒*	affect	negemo
+罪*	affect	negemo
+歡*	affect	posemo
+佳*	affect	posemo
+良*	affect	posemo
+美夢*	affect	posemo
+仁*	affect	posemo
+爽*	affect	posemo
+恬*	affect	posemo
+甜*	affect	posemo
+嘻*	affect	posemo
+喜*	affect	posemo
+欣*	affect	posemo
+友*	affect	posemo
+愉*	affect	posemo
+樂*	affect	posemo
+摯*	affect	posemo
+驚*	affect
+嘆*	affect
+無能*	affect
+鄙*	anger	affect	negemo
+仇*	anger	affect	negemo
+蠢*	anger	affect	negemo
+敵*	anger	affect	negemo
+惡*	anger	affect	negemo
+煩*	anger	affect	negemo
+憤*	anger	affect	negemo
+恨*	anger	affect	negemo
+嫉*	anger	affect	negemo
+惱*	anger	affect	negemo
+怒*	anger	affect	negemo
+騙*	anger	affect	negemo
+欺*	anger	affect	negemo
+嫌*	anger	affect	negemo
+憎*	anger	affect	negemo
+損人*	anger
+驚慌*	anx	negemo
+每*	certain	cogmech	inclusive
+肇*	cogmech	cause
+恆*	cogmech	certain
+全*	cogmech	certain
+確*	cogmech	certain
+直接*	cogmech	certain
+沿*	cogmech	inclusive
+綁*	cogmech	inhibition
+保*	cogmech	inhibition
+避*	cogmech	inhibition
+纏*	cogmech	inhibition
+懲*	cogmech	inhibition
+抵*	cogmech	inhibition
+砥*	cogmech	inhibition
+遏*	cogmech	inhibition
+防*	cogmech	inhibition
+封*	cogmech	inhibition
+禁*	cogmech	inhibition
+拘*	cogmech	inhibition
+侷*	cogmech	inhibition
+拒*	cogmech	inhibition
+迫*	cogmech	inhibition
+縮*	cogmech	inhibition
+停*	cogmech	inhibition
+限*	cogmech	inhibition
+陷*	cogmech	inhibition
+制*	cogmech	inhibition
+抓*	cogmech	inhibition
+阻*	cogmech	inhibition
+思*	cogmech	insight
+意*	cogmech	insight
+殯*	death
+棺*	death
+屍*	death
+弟*	family	social
+姐*	family	social
+舅*	family	social
+妻*	family	social
+嬸*	family	social
+叔*	family	social
+姨*	family	social
+侄*	family	social
+姪*	family	social
+姊*	family	social
+乾*	feel	percept
+溼*	feel	percept
+痠*	feel	percept
+聽*	hear
+男*	humans	social
+女*	humans	social
+想*	insight
+電影*	leisure
+高爾夫*	leisure
+高粱*	leisure
+歌舞*	leisure
+逛*	leisure
+爵士*	leisure
+雷鬼*	leisure
+錄影*	leisure
+撲克*	leisure
+慶*	leisure
+體育*	leisure
+搖滾*	leisure
+藝術*	leisure
+飲酒*	leisure
+遊戲*	leisure
+游泳*	leisure
+運動*	leisure
+不*	negate	funct
+沒*	negate	funct
+無*	negate	funct
+勿*	negate	funct
+侵*	negemo
+八百*	number	funct
+八千*	number	funct
+八十*	number	funct
+八萬*	number	funct
+八億*	number	funct
+八兆*	number	funct
+第*	number	funct
+二百*	number	funct
+二千*	number	funct
+二十*	number	funct
+二萬*	number	funct
+二億*	number	funct
+二兆*	number	funct
+幾十*	number	funct
+九百*	number	funct
+九千*	number	funct
+九十*	number	funct
+九萬*	number	funct
+九億*	number	funct
+九兆*	number	funct
+兩千*	number	funct
+兩萬*	number	funct
+兩億*	number	funct
+兩兆*	number	funct
+六百*	number	funct
+六千*	number	funct
+六十*	number	funct
+六萬*	number	funct
+六億*	number	funct
+六兆*	number	funct
+七百*	number	funct
+七千*	number	funct
+七十*	number	funct
+七萬*	number	funct
+七億*	number	funct
+七兆*	number	funct
+三百*	number	funct
+三千*	number	funct
+三十*	number	funct
+三萬*	number	funct
+三億*	number	funct
+三兆*	number	funct
+十八*	number	funct
+十二*	number	funct
+十九*	number	funct
+十六*	number	funct
+十七*	number	funct
+十三*	number	funct
+十四*	number	funct
+十萬*	number	funct
+十五*	number	funct
+十一*	number	funct
+十億*	number	funct
+十兆*	number	funct
+數十*	number	funct
+四百*	number	funct
+四千*	number	funct
+四十*	number	funct
+四萬*	number	funct
+四億*	number	funct
+四兆*	number	funct
+五百*	number	funct
+五千*	number	funct
+五十*	number	funct
+五萬*	number	funct
+五億*	number	funct
+五兆*	number	funct
+一百*	number	funct
+一千*	number	funct
+一萬*	number	funct
+一億*	number	funct
+億*	number	funct
+一兆*	number
+看*	percept	see
+目*	percept	see
+視*	percept	see
+艷*	percept	see
+吐*	percept
+吞*	percept
+驚喜*	posemo
+奔*	relative	motion
+遞*	relative	motion
+逃*	relative	motion
+匆*	relative	time
+空前*	relative	time
+年*	relative	time
+時*	relative	time
+晚*	relative	time
+星期*	relative	time
+早*	relative	time
+週*	relative	time
+鬼*	religion
+觀*	see
+倏*	time

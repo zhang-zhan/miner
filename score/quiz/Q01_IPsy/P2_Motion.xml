@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	此问卷由心理所提供，问题参见Word文档《第二部分 行为动机》。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q1_Motion</identifier>
+    <caption>微博使用行为动机调查</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对微博使用行为动机调查而设计的。
+您填写的信息结果将用于我们进行科学研究，十分感谢您的合作！]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+      <title>我认为微博能随时记录、分享我的日常生活状态</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+  
+    <question qid="q2">
+      <title>我使用微博在很大程度上是因为受了家人的影响</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q3">
+      <title>我觉得使用微博的过程很愉快</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q4">
+      <title>我的家人推荐我使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q5">
+      <title>对我来说重要的人期望我使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q6">
+      <title>对我来说，学会使用微博是一件很容易的事</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q7">
+      <title>我认为我是一名微博用户</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q8">
+      <title>我觉得我能很好得融入使用微博的朋友圈</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q9">
+      <title>我打算使用微博分享我的生活状态</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q10">
+      <title>我觉得微博对我有帮助</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q11">
+      <title>我的朋友推荐我使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q12">
+      <title>我使用微博在很大程度上是因为受了领导的影响</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q13">
+      <title>我熟悉微博的各种操作</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q14">
+      <title>大部分我熟悉的朋友都使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q15">
+      <title>作为一名微博用户，我感觉不错</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q16">
+      <title>我喜欢与朋友一起使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q17">
+      <title>我打算使用微博与他人保持联系</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q18">
+      <title>我认为微博能提供一个普通人了解名人生活的平台</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q19">
+      <title>社会上很多人都在使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q20">
+      <title>我使用微博在很大程度上是因为受了同学（同事）的影响</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q21">
+      <title>我觉得微博是有趣的</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q22">
+      <title>我认为微博能够帮助我解决学习、工作和生活上遇到的问题</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q23">
+      <title>我能够通过微博达到我的目的</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q24">
+      <title>对我有重要影响的他人支持我使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q25">
+      <title>我喜欢别人称我为一名微博用户</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q26">
+      <title>我打算使用微博查找信息</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q27">
+      <title>和朋友在一起时，我们经常讨论微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q28">
+      <title>我认为微博能提供给我相关领域的最新报道</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q29">
+      <title>我能够合理安排时间以使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q30">
+      <title>我的同学（同事）推荐我使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q31">
+      <title>融入使用微博的朋友圈对我来说很重要</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q32">
+      <title>我打算使用微博了解相关领域的最新报道</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q33">
+      <title>我使用微博在很大程度上是因为受了朋友的影响</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q34">
+      <title>我认为微博能帮助我便捷地与他人保持联系</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q35">
+      <title>对我来说重要的人推荐我使用微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q36">
+      <title>我认为微博能使我比较快速地了解其他用户对重大社会事件的看法</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q37">
+      <title>我觉得我是使用微博的朋友圈中的一员</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q38">
+      <title>我认为微博能够帮助我找到有价值的信息，能使我从中有所收获</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q39">
+      <title>随时记录、分享我的日常生活状态是</title>
+      <answer aid="a" score="1">非常不重要</answer>
+      <answer aid="b" score="2">比较不重要</answer>
+	  <answer aid="c" score="3">不太重要</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">重要</answer>
+	  <answer aid="f" score="6">比较重要</answer>
+	  <answer aid="g" score="7">非常重要</answer>
+    </question>
+	
+	<question qid="q40">
+      <title>便捷地与他人保持联系是</title>
+      <answer aid="a" score="1">非常不重要</answer>
+      <answer aid="b" score="2">比较不重要</answer>
+	  <answer aid="c" score="3">不太重要</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">重要</answer>
+	  <answer aid="f" score="6">比较重要</answer>
+	  <answer aid="g" score="7">非常重要</answer>
+    </question>
+	
+	<question qid="q41">
+      <title>找到有价值的信息并从中有所收获是</title>
+      <answer aid="a" score="1">非常不重要</answer>
+      <answer aid="b" score="2">比较不重要</answer>
+	  <answer aid="c" score="3">不太重要</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">重要</answer>
+	  <answer aid="f" score="6">比较重要</answer>
+	  <answer aid="g" score="7">非常重要</answer>
+    </question>
+
+	<question qid="q42">
+      <title>了解相关领域的最新报道是</title>
+      <answer aid="a" score="1">非常不重要</answer>
+      <answer aid="b" score="2">比较不重要</answer>
+	  <answer aid="c" score="3">不太重要</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">重要</answer>
+	  <answer aid="f" score="6">比较重要</answer>
+	  <answer aid="g" score="7">非常重要</answer>
+    </question>
+
+	<question qid="q43">
+      <title>比较快速地了解其他用户对重大社会事件的看法，这对我来说是</title>
+      <answer aid="a" score="1">非常不重要</answer>
+      <answer aid="b" score="2">比较不重要</answer>
+	  <answer aid="c" score="3">不太重要</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">重要</answer>
+	  <answer aid="f" score="6">比较重要</answer>
+	  <answer aid="g" score="7">非常重要</answer>
+    </question>
+	
+	<question qid="q44">
+      <title>解决学习、工作和生活上遇到的问题，这对我来说是</title>
+      <answer aid="a" score="1">非常不重要</answer>
+      <answer aid="b" score="2">比较不重要</answer>
+	  <answer aid="c" score="3">不太重要</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">重要</answer>
+	  <answer aid="f" score="6">比较重要</answer>
+	  <answer aid="g" score="7">非常重要</answer>
+    </question>
+	
+	<question qid="q45">
+      <title>与名人对话，了解他们的生活，这对我来说是</title>
+      <answer aid="a" score="1">非常不重要</answer>
+      <answer aid="b" score="2">比较不重要</answer>
+	  <answer aid="c" score="3">不太重要</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">重要</answer>
+	  <answer aid="f" score="6">比较重要</answer>
+	  <answer aid="g" score="7">非常重要</answer>
+    </question>
+  </questions>
+  
+  <tags>
+	<tag name="" label="致谢"><![CDATA[非常感谢您填写我们的问卷调查！]]></tag>
+  </tags>
+
+  <remarks>
+    <remark minScore="min" maxScore="max">您的填写结果将用作科学研究。</remark>
+  </remarks>
+
+</questionnaire>

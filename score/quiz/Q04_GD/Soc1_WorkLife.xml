@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>Soc_WorkLife</identifier>
+    <caption>工作和生活状况调查</caption>
+    <information><![CDATA[　　欢迎您填写本问卷，后面的题目列出了与您目前的工作与生活状况相关的一些问题，对每项描述，请指出您具有哪种感受，选择您认同的选项。
+　　提示：本问卷为调查性问卷，收集的数据用于科学研究，您如实填写完后会发放报酬，但是本问卷【没有反馈信息】，我们同时依照协议严格保护您的个人信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1.1">
+		<title>总的来说，我对我的生活很满意。</title>
+		<answer aid="a" score="1">非常不同意</answer>
+		<answer aid="b" score="2">基本不同意</answer>
+		<answer aid="c" score="3">不确定</answer>
+		<answer aid="d" score="4">基本同意</answer>
+		<answer aid="e" score="5">非常同意</answer>
+    </question>
+  
+    <question qid="q1.2">
+		<title>总的来说，我对我的工作很满意。</title>
+		<answer aid="a" score="1">非常不同意</answer>
+		<answer aid="b" score="2">基本不同意</answer>
+		<answer aid="c" score="3">不确定</answer>
+		<answer aid="d" score="4">基本同意</answer>
+		<answer aid="e" score="5">非常同意</answer>
+    </question>
+	
+	<question qid="q2">
+		<title>您家这一年的生活状况，比起前一年如何？</title>
+		<answer aid="a" score="1">差很多</answer>
+		<answer aid="b" score="2">稍差</answer>
+		<answer aid="c" score="3">没有变化</answer>
+		<answer aid="d" score="4">稍好</answer>
+		<answer aid="e" score="5">好很多</answer>
+    </question>
+	
+	<question qid="q3">
+		<title>您认为您家今后一年的生活状况，比起现在如何？</title>
+		<answer aid="a" score="1">差很多</answer>
+		<answer aid="b" score="2">稍差</answer>
+		<answer aid="c" score="3">没有变化</answer>
+		<answer aid="d" score="4">稍好</answer>
+		<answer aid="e" score="5">好很多</answer>
+    </question>
+	
+	<question qid="q4.1">
+		<title>您目前感受到的压力，来自【吃饭穿衣】的压力有多大：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+	
+	<question qid="q4.2">
+		<title>您目前感受到的压力，来自【子女教育】的压力有多大：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+	
+	<question qid="q4.3">
+		<title>您目前感受到的压力，来自【住房问题】的压力有多大：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+	
+	<question qid="q4.4">
+		<title>您目前感受到的压力，来自【务工就业】的压力有多大：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+	
+	<question qid="q4.5">
+		<title>您目前感受到的压力，来自【养老问题】的压力有多大：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+	
+	<question qid="q4.6">
+		<title>您目前感受到的压力，来自【看病就医】的压力有多大：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+	
+	<question qid="q4.7">
+		<title>您目前感受到的压力，来自【税费负担】的压力有多大：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+	
+	<question qid="q4.8">
+		<title>您目前感受到的压力，来自【赡养老人】的压力有多大：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+	
+	<question qid="q4.9">
+		<title>您目前感受到的压力，来自【交通问题】的压力有多大：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+	
+	<question qid="q5">
+		<title>您认为您家的收入，在当地属于哪个水平？</title>
+		<answer aid="a" score="1">低收入</answer>
+		<answer aid="b" score="2">中低收入</answer>
+		<answer aid="c" score="3">中等收入</answer>
+		<answer aid="d" score="4">中高收入</answer>
+		<answer aid="e" score="5">高收入</answer>
+    </question>
+	
+	<question qid="q6">
+		<title>你对您家现在的收入水平是否满意？</title>
+		<answer aid="a" score="1">很不满意</answer>
+		<answer aid="b" score="2">较不满意</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较满意</answer>
+		<answer aid="e" score="5">很满意</answer>
+    </question>
+
+	<question qid="q7">
+		<title>与周围人相比，您觉得自己的社会地位在当地属于那个层次？</title>
+		<answer aid="a" score="1">下层</answer>
+		<answer aid="b" score="2">中下层</answer>
+		<answer aid="c" score="3">中层</answer>
+		<answer aid="d" score="4">中上层</answer>
+		<answer aid="e" score="5">上层</answer>
+	</question>
+
+	<question qid="q8">
+		<title>您对自己当前的社会地位是否满意？</title>
+		<answer aid="a" score="1">很不满意</answer>
+		<answer aid="b" score="2">较不满意</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较满意</answer>
+		<answer aid="e" score="5">很满意</answer>
+    </question>
+  </questions>
+
+  <remarks>
+    <remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！您填写的信息将仅用于科学研究。</remark>
+  </remarks>
+
+</questionnaire>

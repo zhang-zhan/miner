@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>Q2_Demographic</identifier>
+    <caption>基本信息调查问卷</caption>
+    <information><![CDATA[　　欢迎您填写本量表，后面的题目列出与您的基本信息相关的问题一些问题，对每项描述，请根据您的实际情况进行填写。
+	
+　　我们向您承诺，我们会严格遵守协议，将您的填写结果将只用于科学研究，绝不会以任何形式泄漏您的隐私。请您放心填写真实信息。
+
+　　请您在不受外界打扰的情况下，认真、真实地填写完成本问卷。
+]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1" type="text">
+		<title>您的年龄(请填写数字，例如25；请真实填写，此题目将作为甄别填写是否有效的信息)：</title>
+    </question>
+  
+    <question qid="q2">
+		<title>您的性别：</title>
+		<answer aid="m" score="0">男性</answer>
+		<answer aid="f" score="0">女性</answer>
+    </question>
+	
+	<question qid="q3">
+		<title>您的民族：</title>
+		<answer aid="a" score="0">汉族</answer>
+		<answer aid="b" score="0">其他少数民族</answer>
+    </question>
+	
+	<question qid="q4">
+		<title>您的国籍：</title>
+		<answer aid="a" score="0">中国</answer>
+		<answer aid="b" score="0">外国</answer>
+    </question>
+	
+	<question qid="q5">
+		<title>您的文化程度</title>
+		<answer aid="a" score="1">小学及以下（或在读）</answer>
+		<answer aid="b" score="2">初中（或在读）</answer>
+		<answer aid="c" score="3">高中（或在读）</answer>
+		<answer aid="d" score="4">中专（或在读）</answer>
+		<answer aid="f" score="5">大专（或在读）</answer>
+		<answer aid="e" score="6">本科（或在读）</answer>
+		<answer aid="g" score="7">硕士研究生（或在读）</answer>
+		<answer aid="h" score="8">博士研究生（或在读）</answer>
+    </question>
+	
+	<question qid="q6">
+		<title>您父亲的文化程度：</title>
+		<answer aid="a" score="1">小学及以下</answer>
+		<answer aid="b" score="2">初中</answer>
+		<answer aid="c" score="3">高中</answer>
+		<answer aid="d" score="4">中专</answer>
+		<answer aid="f" score="5">大专（或在读）</answer>
+		<answer aid="e" score="6">本科（或在读）</answer>
+		<answer aid="g" score="7">硕士研究生（或在读）</answer>
+		<answer aid="h" score="8">博士研究生（或在读）</answer>
+    </question>
+	
+	<question qid="q7">
+		<title>您母亲的文化程度：</title>
+		<answer aid="a" score="1">小学及以下</answer>
+		<answer aid="b" score="2">初中</answer>
+		<answer aid="c" score="3">高中</answer>
+		<answer aid="d" score="4">中专</answer>
+		<answer aid="f" score="5">大专（或在读）</answer>
+		<answer aid="e" score="6">本科（或在读）</answer>
+		<answer aid="g" score="7">硕士研究生（或在读）</answer>
+		<answer aid="h" score="8">博士研究生（或在读）</answer>
+    </question>
+	
+	<question qid="q8">
+		<title>您个人的婚姻状况：</title>
+		<answer aid="a" score="0">已婚</answer>
+		<answer aid="b" score="0">恋爱</answer>
+		<answer aid="c" score="0">（婚后）分居</answer>
+		<answer aid="d" score="0">离异</answer>
+		<answer aid="e" score="0">丧偶</answer>
+		<answer aid="f" score="0">（未婚）单身</answer>
+    </question>
+
+	<question qid="q9">
+		<title>您是否生育子女：</title>
+		<answer aid="a" score="0">是</answer>
+		<answer aid="b" score="0">否</answer>
+	</question>
+
+	<question qid="q10">
+		<title>您的职业：</title>
+		<answer aid="a" score="0">工人</answer>
+		<answer aid="b" score="0">农民</answer>
+		<answer aid="c" score="2">公务员</answer>
+		<answer aid="d" score="2">医生/护士</answer>
+		<answer aid="e" score="1">职员</answer>
+		<answer aid="f" score="2">媒体从业人员</answer>
+		<answer aid="g" score="2">学生</answer>
+		<answer aid="h" score="3">科研人员/教师</answer>
+		<answer aid="i" score="1">军人武警</answer>
+		<answer aid="j" score="0">自主经营者</answer>
+		<answer aid="k" score="0">自由职业者</answer>
+		<answer aid="l" score="0">失业人群</answer>
+		<answer aid="m" score="0">其他</answer>
+    </question>
+	
+	<question qid="q11">
+		<title>您是否为独生子女：</title>
+		<answer aid="a" score="0">是</answer>
+		<answer aid="b" score="0">否</answer>
+    </question>
+	
+	<question qid="q12">
+		<title>您幼年成长所在地：</title>
+		<answer aid="a" score="4">直辖市及省会</answer>
+		<answer aid="b" score="3">一般城市</answer>
+		<answer aid="c" score="2">乡镇</answer>
+		<answer aid="d" score="1">农村</answer>
+    </question>
+	
+	<question qid="q13">
+		<title>您目前工作（学习）所在的国家：</title>
+		<answer aid="a" score="0">中国</answer>
+		<answer aid="b" score="0">外国</answer>
+    </question>
+	
+	<question qid="q14">
+		<title>您目前工作（学习）的所在地：</title>
+		<answer aid="a" score="4">直辖市及省会</answer>
+		<answer aid="b" score="3">一般城市</answer>
+		<answer aid="c" score="2">乡镇</answer>
+		<answer aid="d" score="1">农村</answer>
+    </question>
+	
+	<question qid="q15">
+		<title>您在目前工作（学习）所在地的居住时间为：</title>
+		<answer aid="a" score="1">1年及以下</answer>
+		<answer aid="b" score="2">1年~3年</answer>
+		<answer aid="c" score="3">3年~5年</answer>
+		<answer aid="d" score="4">5年~10年</answer>
+		<answer aid="e" score="5">10年以上</answer>
+	</question>
+	
+	<question qid="q16">
+		<title>您的家庭人均月收入大约为：</title>
+		<answer aid="a" score="1">2千元以下</answer>
+		<answer aid="b" score="2">2千~4千元</answer>
+		<answer aid="c" score="3">4千~6千元</answer>
+		<answer aid="d" score="4">6千~8千元</answer>
+		<answer aid="e" score="5">8千~1万元</answer>
+		<answer aid="f" score="6">1万元以上</answer>
+    </question>
+	
+	<question qid="q17">
+		<title>您是否接受过心理咨询服务：</title>
+		<answer aid="a" score="0">是</answer>
+		<answer aid="b" score="0">否</answer>
+    </question>
+	
+	<question qid="q18">
+		<title>您的个人健康状况是否良好：</title>
+		<answer aid="a" score="0">是</answer>
+		<answer aid="b" score="0">否</answer>
+    </question>
+	
+	<question qid="q19">
+		<title>您是否患有慢性疾病：</title>
+		<answer aid="a" score="0">是</answer>
+		<answer aid="b" score="0">否</answer>
+    </question>
+	
+	<question qid="q20">
+		<title>您有无家族遗传病史：</title>
+		<answer aid="a" score="0">有</answer>
+		<answer aid="b" score="0">无</answer>
+    </question>
+	
+	<question qid="q21">
+		<title>您目前居住状况：</title>
+		<answer aid="a" score="0">个人独居</answer>
+		<answer aid="b" score="0">和恋人一同居住</answer>
+		<answer aid="c" score="0">和亲人一同居住</answer>
+		<answer aid="d" score="0">和朋友一同居住</answer>
+		<answer aid="e" score="0">和其他人一同居住</answer>
+    </question>
+	
+	<question qid="q22">
+		<title>您有无个人宗教信仰：</title>
+		<answer aid="a" score="0">有</answer>
+		<answer aid="b" score="0">无</answer>
+    </question>
+	
+	<question qid="q23">
+		<title>在您幼年时，您的父母有无宗教信仰：</title>
+		<answer aid="a" score="0">有</answer>
+		<answer aid="b" score="0">无</answer>
+    </question>
+	
+	<question qid="q24">
+		<title>在您需要帮助时，自己是否能够如愿获得亲人或朋友在物质与情感等方面的支持：</title>
+		<answer aid="a" score="0">是</answer>
+		<answer aid="b" score="0">否</answer>
+    </question>
+
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">您的填写结果将用于科学研究，非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

@@ -1,0 +1,788 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+主观幸福感：
+	sa Self-acceptance 自我接纳
+	pl Purpose in Life 生活目标
+	em Environmental mastery 环境控制
+	pg Personal growth 个人成长
+	pr Positive relations 与他人的积极关系
+	ai Autonomy items 自主性
+
+	ss Society satisfactory 生活满意度
+
+	pp Positive 积极情绪
+	nn Negitive 消极情绪
+
+	oh Oxford Happiness
+
+
+	01-18	sa sa pl em sa			pr pl em em pl
+			pg pg pr pg ai			pr ai ai
+	19-23	avg
+	24-44	pn	pnpnn	nppnp	npnpp	npn
+	45-72	oh
+-->
+
+<questionnaire>
+  <description>
+    <identifier>SWB</identifier>
+    <caption>主观幸福感</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对微博使用而设计的。通过填写本量表，您可以评测您的心理幸福感。]]>
+	</information>
+    <interfacetype>CompareToAverage</interfacetype>
+  </description>
+
+  <questions>
+  
+	<question qid="q01" tag="sa">
+      <title>我对自己的性格大致感到满意。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+  
+    <question qid="q02" tag="sa">
+      <title>每当我回顾自己的过去时，我对那些经历和结果都感到满意。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q03" tag="pl">
+      <title>有些人生活没有目标，但我不是这样的人。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q04" tag="em">
+      <title>日常生活的需求常令我感到沮丧。</title>
+      <answer aid="a0" score="6">非常不同意</answer>
+      <answer aid="a1" score="5">不同意</answer>
+	  <answer aid="a2" score="4">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="2">有些同意</answer>
+	  <answer aid="a5" score="1">同意</answer>
+	  <answer aid="a6" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q05" tag="sa">
+      <title>到目前为止，我在很多方面都对自己的成就感到失望。</title>
+      <answer aid="a0" score="6">非常不同意</answer>
+      <answer aid="a1" score="5">不同意</answer>
+	  <answer aid="a2" score="4">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="2">有些同意</answer>
+	  <answer aid="a5" score="1">同意</answer>
+	  <answer aid="a6" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q06" tag="pr">
+      <title>对我来说，与人保持密切的关系很困难，而且令我感到沮丧。</title>
+      <answer aid="a0" score="6">非常不同意</answer>
+      <answer aid="a1" score="5">不同意</answer>
+	  <answer aid="a2" score="4">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="2">有些同意</answer>
+	  <answer aid="a5" score="1">同意</answer>
+	  <answer aid="a6" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q07" tag="pl">
+      <title>我得过且过，从未真正地思考过未来。</title>
+      <answer aid="a0" score="6">非常不同意</answer>
+      <answer aid="a1" score="5">不同意</answer>
+	  <answer aid="a2" score="4">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="2">有些同意</answer>
+	  <answer aid="a5" score="1">同意</answer>
+	  <answer aid="a6" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q08" tag="em">
+      <title>总的来说，我认为我能够把握自己的生活。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q09" tag="em">
+      <title>我对于日常生活中许多职责都处理得很好。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q10" tag="pl">
+      <title>有时我感到已经做完了一生中所有要做的事情。</title>
+      <answer aid="a0" score="6">非常不同意</answer>
+      <answer aid="a1" score="5">不同意</answer>
+	  <answer aid="a2" score="4">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="2">有些同意</answer>
+	  <answer aid="a5" score="1">同意</answer>
+	  <answer aid="a6" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q11" tag="pg">
+      <title>对我来说，生活是一个不断学习、变化和成长的过程。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q12" tag="pg">
+      <title>我认为，获得新经验是十分重要的，这些经验可以挑战我们对自己和对世界的既定看法。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q13" tag="pr">
+      <title>人们认为我是一个肯付出且愿意和他人分享自己的时间的人。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q14" tag="pg">
+      <title>我早就不想对自己的生活做出重大的改善或改变了。</title>
+      <answer aid="a0" score="6">非常不同意</answer>
+      <answer aid="a1" score="5">不同意</answer>
+	  <answer aid="a2" score="4">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="2">有些同意</answer>
+	  <answer aid="a5" score="1">同意</answer>
+	  <answer aid="a6" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q15"  tag="ai">
+      <title>我很容易被那些很有主见的人影响。</title>
+      <answer aid="a0" score="6">非常不同意</answer>
+      <answer aid="a1" score="5">不同意</answer>
+	  <answer aid="a2" score="4">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="2">有些同意</answer>
+	  <answer aid="a5" score="1">同意</answer>
+	  <answer aid="a6" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q16" tag="pr">
+      <title>我很少与别人有彼此关怀、互相信任的关系。</title>
+      <answer aid="a0" score="6">非常不同意</answer>
+      <answer aid="a1" score="5">不同意</answer>
+	  <answer aid="a2" score="4">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="2">有些同意</answer>
+	  <answer aid="a5" score="1">同意</answer>
+	  <answer aid="a6" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q17"  tag="ai">
+      <title>即使与多数人的意见分歧，我也不怕发表自己的意见。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q18" tag="ai">
+      <title>我不按别人的标准，而是按自己认为重要的标准来衡量自己。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q19" tag="avg">
+      <title>在很多方面，我的生活与我的理想很接近。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q20" tag="avg">
+      <title>我的生活状况非常好。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q21" tag="avg">
+      <title>我对自己的生活感到满意。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q22" tag="avg">
+      <title>到目前为止，生活中我已经得到了我想要的重要的东西。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q23" tag="avg">
+      <title>如果有来世，我几乎不会改变目前的生活方式。</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">不同意</answer>
+	  <answer aid="a2" score="2">有些不同意</answer>
+	  <answer aid="a3" score="3">不确定</answer>
+	  <answer aid="a4" score="4">有些同意</answer>
+	  <answer aid="a5" score="5">同意</answer>
+	  <answer aid="a6" score="6">非常同意</answer>
+    </question>
+	
+	<question qid="q24"  tag="pp">
+      <title>感兴趣的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q25" tag="nn">
+      <title>心烦的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q26" tag="pp">
+      <title>精神活力高的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q27" tag="nn">
+      <title>心神不定的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q28" tag="pp">
+      <title>劲头足的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q29" tag="nn">
+      <title>内疚的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q30" tag="nn">
+      <title>恐惧的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q31" tag="nn">
+      <title>敌意的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q32" tag="pp">
+      <title>热情的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q33" tag="pp">
+      <title>自豪的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q34" tag="nn">
+      <title>易怒的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q35" tag="pp">
+      <title>警觉性高的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q36" tag="nn">
+      <title>害羞的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q37" tag="pp">
+      <title>备受鼓舞的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q38" tag="nn">
+      <title>紧张的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q39" tag="pp">
+      <title>意志坚定的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q40" tag="pp">
+      <title>注意力集中的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q41" tag="nn">
+      <title>坐立不安的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q42" tag="pp">
+      <title>有活力的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+	
+	<question qid="q43" tag="nn">
+      <title>害怕的</title>
+      <answer aid="a0" score="0">几乎没有</answer>
+      <answer aid="a1" score="1">比较少</answer>
+	  <answer aid="a2" score="2">中等程度</answer>
+	  <answer aid="a3" score="3">比较多</answer>
+	  <answer aid="a4" score="4">极其多</answer>
+    </question>
+
+    <question qid="q44" tag="oh">
+      <title>我对自己的生活方式感到不满意</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q45" tag="oh">
+      <title>我对他人很有好感</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q46" tag="oh">
+      <title>我觉得生活的价值非凡</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q47" tag="oh">
+      <title>我对几乎所有人都充满着温情</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q48" tag="oh">
+      <title>我起床时很少感到休息得很好</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q49" tag="oh">
+      <title>我对未来的感觉不是很乐观</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q50" tag="oh">
+      <title>我觉得生活中的大多数事物都令人十分开心</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q51" tag="oh">
+      <title>我总是尽职尽责全身心投入</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q52" tag="oh">
+      <title>生活是美好的</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q53" tag="oh">
+      <title>我觉得世界并不美好</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q54" tag="oh">
+      <title>我笑口常开</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q55" tag="oh">
+      <title>我对生活中的一切感到满意</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q56" tag="oh">
+      <title>我认为自己并没有什么魅力</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q57" tag="oh">
+      <title>我所做的事情并不是自己想要做的</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q58" tag="oh">
+      <title>我觉得很幸福</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q59" tag="oh">
+      <title>我能够发觉事物之中的美</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q60" tag="oh">
+      <title>我总是能让他人感到快乐</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+    
+    <question qid="q61" tag="oh">
+      <title>我能够胜任于自己想要做的一切</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q62" tag="oh">
+      <title>我觉得我一点也不能掌控自己的生活</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q63" tag="oh">
+      <title>我觉得自己有能力应对各种挑战和问题</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q64" tag="oh">
+      <title>我觉得自己的思维非常机敏</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q65" tag="oh">
+      <title>我经常处于一种喜悦和兴高采烈的状态</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q66" tag="oh">
+      <title>我觉得做决断很困难</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q67" tag="oh">
+      <title>我觉得生活没有什么意义和目标</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q68" tag="oh">
+      <title>我觉得自己精力很充沛</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q69" tag="oh">
+      <title>我通常对周围事件有好的影响</title>
+      <answer aid="a0" score="0">非常不同意</answer>
+      <answer aid="a1" score="1">比较不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">有点同意</answer>
+      <answer aid="a4" score="4">比较同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q70" tag="oh">
+      <title>和他人相处，我并不觉得开心</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q71" tag="oh">
+      <title>我觉得自己的身体并不十分健康</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+
+    <question qid="q72" tag="oh">
+      <title>对于过去，我并没有留下什么特别幸福的记忆</title>
+      <answer aid="a0" score="5">非常不同意</answer>
+      <answer aid="a1" score="4">比较不同意</answer>
+      <answer aid="a2" score="3">有点不同意</answer>
+      <answer aid="a3" score="2">有点同意</answer>
+      <answer aid="a4" score="1">比较同意</answer>
+      <answer aid="a5" score="0">非常同意</answer>
+    </question>
+    
+  </questions>
+  
+  <tags>
+	<tag name="sa" label="自我接纳"><![CDATA[低分组对自我感到十分不满意，对自己过去的生活感到失望，对自我身上的个性品质感到苦恼，希望能够改变自己的现状。高分组对自我持有积极的态度，承认并包容自己的优缺点，对自己过去的生活感到满意。]]></tag>
+	<tag name="pr" label="人际关系"><![CDATA[低分组与他人的关系并不亲密、融洽，很难做到关心、信任他人，在人际关系中时常有被孤立和挫败的感觉，不愿去承诺与他人建立起重要的纽带关系。高分组与他人能够建立令人满意的人际关系，温馨热烈而又充满着信任感，关心他人，时常会产生心灵相通的感觉，并能够在人际关系中体验到喜悦感和亲密感，了解如何在人际关系中互相迁就进而保持关系稳定。]]></tag>
+	<tag name="ai" label="独立自主"><![CDATA[低分组在乎他人对自身的评价和期望，做决断时常会依赖于他人的看法，个人言行方式常因社会压力而屈从于特定的标准。高分组独立果断，个人的言行方式不会因社会压力而做出改变，常会根据内心的个人标准来约束、评价自身。]]></tag>
+	<tag name="em" label="掌控外部环境"><![CDATA[低分组不擅于规划日常事务，无法有效改变或改进外部环境，对周围的机遇毫无觉察，对外部世界缺乏控制感。高分组在掌控外部环境时感到游刃有余，能有效统筹规划复杂的外部事物，会充分利用周围的机遇，擅于通过选择、营造合适的外部环境来满足个人的需求与价值观。]]></tag>
+	<tag name="pl" label="生活目标"><![CDATA[低分组生活的目标、志向明确，感觉当下和过去的生活充满意义，持有积极的信念来赋予、明确生活的目标和方向。高分组生活的目标、志向明确，感觉当下和过去的生活充满意义，持有积极的信念来赋予、明确生活的目标和方向。]]></tag>
+	<tag name="pg" label="个人成长"><![CDATA[低分组感觉到自身成长的停滞，无法体验到自己身上的成长变化，感到对生活不满和厌倦。高分组感觉到持续性的成长，将自我看作是能够不断成长发展的，对新鲜事物保持开放的态度，能够意识到自身的潜力，能够看到自己身上所发生的成长变化。]]></tag>
+  </tags>
+
+  <remarks>
+	<remark tag="sa" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="sa" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="pr" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="pr" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="ai" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="ai" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="em" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="em" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="pl" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="pl" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="pg" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="pg" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+  </remarks>
+
+</questionnaire>

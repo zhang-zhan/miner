@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>Q1_CellPhone</identifier>
+    <caption>手机使用状况调查</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是在当今手机使用日益普及、移动互联网快速发展的背景下设计的，意在调查广大用户的手机使用习惯。您填写的信息结果将用于我们进行科学研究，我们将对您的所有信息严格保密，仅用于科研，十分感谢您的合作！
+	当今社会手机已经逐渐融入到人们的日常生活之中。您了解自己的手机使用情况吗？下面的题目描述了您在手机使用过程中可能会表现出的一些行为，请您根据日常的实际使用情况在相应的数字上标出自己对这些描述的赞同程度。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+		<title>我认为自己是一名熟练的手机用户</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+  
+    <question qid="q2">
+		<title>发送短信与接收短信的数量哪个更多</title>
+		<answer aid="a" score="1">发送短信更多</answer>
+		<answer aid="b" score="0">接收短信更多</answer>
+    </question>
+	
+	<question qid="q3">
+		<title>发送短信与接收短信的数量相差很大</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q4">
+		<title>主动拨打电话与被动接听电话的次数哪个更多</title>
+		<answer aid="a" score="1">拨打电话更多</answer>
+		<answer aid="b" score="0">接听电话更多</answer>
+    </question>
+	
+	<question qid="q5">
+		<title>主动拨打电话与被动接听电话的次数相差很大</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q6">
+		<title>一般来说，主动拨打电话与被动接听电话的通话持续时间哪个更长</title>
+		<answer aid="a" score="1">拨打电话的通话时间更长</answer>
+		<answer aid="b" score="0">接听电话的通话时间更长</answer>
+    </question>
+	
+	<question qid="q7">
+		<title>主动拨打电话与被动接听电话的通话时长一般相差很大</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q8">
+		<title>发送的短信内容通常篇幅很长</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+
+	<question qid="q9">
+		<title>发送的短信内容通常包括很多表情符号</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+
+	<question qid="q10">
+		<title>发送的短信内容通常很少有错别字</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q11">
+		<title>频繁使用网络购物类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q12">
+		<title>频繁使用交通导航类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q13">
+		<title>频繁使用金融理财类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q14">
+		<title>频繁使用新闻资讯类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q15">
+		<title>频繁使用聊天通信类手机应用程序（比如，QQ、短信、电子邮件等）</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q16">
+		<title>频繁使用电子办公类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q17">
+		<title>频繁使用健康医疗类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q18">
+		<title>频繁使用影音播放类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q19">
+		<title>频繁使用拍照摄影类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q20">
+		<title>频繁使用效率管理类手机应用程序（比如，电子日历、备忘录等）</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q21">
+		<title>频繁使用游戏娱乐类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q22">
+		<title>频繁使用网络浏览搜索类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q23">
+		<title>频繁使用安全防护类手机应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q24">
+		<title>频繁利用手机下载应用程序</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q25">
+		<title>频繁利用手机下载彩铃</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	<question qid="q26">
+		<title>频繁利用手机下载铃声</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	<question qid="q27">
+		<title>频繁利用手机下载电子书籍</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	<question qid="q28">
+		<title>频繁利用手机下载图片</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q29">
+		<title>频繁利用手机下载音乐</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q30">
+		<title>频繁利用手机下载视频</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q31">
+		<title>频繁利用手机下载游戏</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q32">
+		<title>频繁通过发短信与他人联络</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q33">
+		<title>频繁通过打电话与他人联络</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q34">
+		<title>通过发短信与很多不同的联系人联络（群发短信的情况除外）</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q35">
+		<title>通过打电话与很多不同的联系人联络</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q36">
+		<title>在电话簿中保存很多联系人的电话号码</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q37">
+		<title>频繁清理、删除手机中的短信内容</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q38">
+		<title>频繁清理、删除手机中的通话记录</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q39">
+		<title>手机中经常有熟人的未接来电记录</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+	
+	<question qid="q40">
+		<title>在通过短信和他人交流时，通常会以我发送的最后一条短信作为双方谈话结束的标志</title>
+		<answer aid="a" score="1">完全不符合</answer>
+		<answer aid="b" score="2">比较不符合</answer>
+		<answer aid="c" score="3">无法确定</answer>
+		<answer aid="d" score="4">比较符合</answer>
+		<answer aid="e" score="5">完全符合</answer>
+    </question>
+
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

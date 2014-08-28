@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	状态-特质焦虑量表，原问卷共有40道题目（状态、特质各20题），
+	插入了11道测谎题和自我粉饰题，用tag=M和tag=E标出。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q2_STAnx</identifier>
+    <caption>状态与特质焦虑调查问卷</caption>
+    <information><![CDATA[　　欢迎您填写本量表，后面的题目列出与您使用互联网相关的一些问题，对每项描述，请指出你具有那种感受的频度，选择你认同的选项。
+
+　　请您在不受外界打扰的情况下，认真、真实地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="s1" tag="s-ai">
+		<title>我现在感到心情平静</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+    </question>
+
+    <question qid="s2" tag="s-ai">
+		<title>我现在感到安全</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+    </question>
+
+	<question qid="s3" tag="s-ai">
+		<title>我现在是紧张的</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+    </question>
+
+	<question qid="s4" tag="s-ai">
+		<title>我现在感到紧张束缚</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+    </question>
+	
+	<question qid="M134" tag="M">
+		<title>有时我的思想跑得太快都来不及表达出来。</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+	<question qid="s5" tag="s-ai">
+		<title>我现在感到安逸</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+    </question>
+
+	<question qid="s6" tag="s-ai">
+		<title>我现在感到烦乱</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+    </question>
+	
+	<question qid="s7" tag="s-ai">
+		<title>我现在正烦恼，感到这种烦恼超过了可能的不幸程度</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+    </question>
+	
+	<question qid="s8" tag="s-ai">
+		<title>我现在感到满意</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+    </question>
+	
+	<question qid="M272" tag="M">
+		<title>我有时精力充沛</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+	<question qid="s9" tag="s-ai">
+		<title>我现在感到害怕</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+	</question>
+
+	<question qid="s10" tag="s-ai">
+		<title>我现在感到舒适</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+    </question>
+		
+	<question qid="M296" tag="M">
+		<title>有些时候，我会无缘无故地觉得非常愉快</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+	<question qid="s11" tag="s-ai">
+		<title>我现在有自信心</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+    </question>
+	
+	<question qid="s12" tag="s-ai">
+		<title>我现在觉得神经过敏</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+    </question>
+	
+	<question qid="s13" tag="s-ai">
+		<title>我现在极度紧张不安</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+    </question>
+	
+	<question qid="s14" tag="s-ai">
+		<title>我现在优柔寡断</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+    </question>
+	
+	<question qid="M398" tag="M">
+		<title>面对困难或危险的时候，我总退缩不前</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="s15" tag="s-ai">
+		<title>我现在是轻松的</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+	</question>
+	
+	<question qid="s16" tag="s-ai">
+		<title>我现在感到心满意足</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+    </question>
+	
+	<question qid="s17" tag="s-ai">
+		<title>我现在是烦恼的</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+    </question>
+	
+	<question qid="M96" tag="M">
+		<title>我几乎没有和家里人吵过嘴。</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+	
+	<question qid="s18" tag="s-ai">
+		<title>我现在感到慌乱</title>
+		<answer aid="a" score="1">完全没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">中等程度</answer>
+		<answer aid="d" score="4">非常明显</answer>
+    </question>
+	
+	<question qid="s19" tag="s-ai">
+		<title>我现在感觉镇定</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+    </question>
+	
+	<question qid="s20" tag="s-ai">
+		<title>我感到愉快</title>
+		<answer aid="a" score="4">完全没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">中等程度</answer>
+		<answer aid="d" score="1">非常明显</answer>
+    </question>
+	
+	<question qid="M502" tag="M">
+		<title>风暴使我惊慌</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+	
+	<question qid="t1" tag="t-ai">
+		<title>我经常感到愉快</title>
+		<answer aid="a" score="4">几乎没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">经常</answer>
+		<answer aid="d" score="1">几乎总是如此</answer>
+    </question>
+  
+    <question qid="t2" tag="t-ai">
+		<title>我经常感到神经过敏和不安</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+	
+	<question qid="t3" tag="t-ai">
+		<title>我经常感到自我满足</title>
+		<answer aid="a" score="4">几乎没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">经常</answer>
+		<answer aid="d" score="1">几乎总是如此</answer>
+    </question>
+	
+	<question qid="t4" tag="t-ai">
+		<title>我经常希望能像别人那样高兴</title>
+		<answer aid="a" score="4">几乎没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">经常</answer>
+		<answer aid="d" score="1">几乎总是如此</answer>
+    </question>
+	
+	<question qid="M183" tag="M">
+		<title>我反对把钱给乞丐</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="t5" tag="t-ai">
+		<title>我经常感到我像衰竭一样</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+	
+	<question qid="t6" tag="t-ai">
+		<title>我经常感到很宁静</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+	
+	<question qid="t7" tag="t-ai">
+		<title>我经常是平静的、冷静的和泰然自若的</title>
+		<answer aid="a" score="4">几乎没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">经常</answer>
+		<answer aid="d" score="1">几乎总是如此</answer>
+    </question>
+	
+	<question qid="E15" tag="E">
+		<title>你是否有过自己做错事反倒责备别人的时候？</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="t8" tag="t-ai">
+		<title>我经常感到困难一一堆集起来，因此无法克服</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+
+	<question qid="t9" tag="t-ai">
+		<title>我经常过分忧虑一些事，实际这些事无关紧要</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+	</question>
+	
+	<question qid="M322" tag="M">
+		<title>我为金钱和事业忧虑</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+	<question qid="t10" tag="t-ai">
+		<title>我经常是高兴的</title>
+		<answer aid="a" score="4">几乎没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">经常</answer>
+		<answer aid="d" score="1">几乎总是如此</answer>
+    </question>
+	
+	<question qid="t11" tag="t-ai">
+		<title>我的思想经常处于混乱状态</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+	
+	<question qid="t12" tag="t-ai">
+		<title>我经常缺乏自信心</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+	
+	<question qid="E75" tag="E">
+		<title>你有时会把今天应做的事拖到明天吗？</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+	
+	<question qid="t13" tag="t-ai">
+		<title>我经常感到安全</title>
+		<answer aid="a" score="4">几乎没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">经常</answer>
+		<answer aid="d" score="1">几乎总是如此</answer>
+    </question>
+	
+	<question qid="t14" tag="t-ai">
+		<title>我容易做出决断</title>
+		<answer aid="a" score="4">几乎没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">经常</answer>
+		<answer aid="d" score="1">几乎总是如此</answer>
+    </question>
+	
+	<question qid="t15" tag="t-ai">
+		<title>我经常感到不合适</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+	</question>
+	
+	<question qid="t16" tag="t-ai">
+		<title>我经常是满足的</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+	
+	<question qid="t17" tag="t-ai">
+		<title>一些不重要的思想总缠绕着我，并打扰我</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+
+	<question qid="E48" tag="E">
+		<title>你饭前必定洗手吗？</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+
+	<question qid="t18" tag="t-ai">
+		<title>我产生的沮丧是如此强烈，以致我不能从思想中排除它们</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+
+	<question qid="t19" tag="t-ai">
+		<title>我是一个镇定的人</title>
+		<answer aid="a" score="4">几乎没有</answer>
+		<answer aid="b" score="3">有些</answer>
+		<answer aid="c" score="2">经常</answer>
+		<answer aid="d" score="1">几乎总是如此</answer>
+    </question>
+
+	<question qid="t20" tag="t-ai">
+		<title>当我考虑我目前的事情和利益时，我就陷入紧张状态</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">有些</answer>
+		<answer aid="c" score="3">经常</answer>
+		<answer aid="d" score="4">几乎总是如此</answer>
+    </question>
+  </questions>
+
+  <remarks>
+    <remark tag="s-ai" minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+	<remark tag="t-ai" minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

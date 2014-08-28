@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	此问卷由心理所提供，问题参见Word文档《情绪智力网络测量方案》。
+	共四个维度，每个维度4道题，在李克特五点量表上评分，计算平均分。所有题汇总，有一个情绪智力的总平均分，即：
+
+	情绪智力：1-16题
+	自我情绪评估：1-4题
+	他人情绪评估：5-8题
+	情绪使用：9-12题
+	情绪调节：13-16题
+-->
+
+<questionnaire>
+  <description>
+    <identifier>EQ</identifier>
+    <caption>情绪智力网络测量</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对情绪智力网络调查而设计的。您填写的信息结果将用于我们进行科学研究，十分感谢您的合作！
+	
+	情绪智力于1990年由美国耶鲁大学心理学家Salovey和Mayer提出来。1995年，美国哈佛大学心理学教授Goleman出版了《情商：为什么情商比智商更重要》一书，真正引发了社会的广泛关注和学术界的大量研究。Goleman教授的书中，情绪智力被翻译为更容易引起社会关注的“情商”，其英文与情绪智力相同，都是Emotional Intelligence。情绪智力概念的出现，在一定程度上解释了“有的人非常聪明但缺乏自我控制能力，很难与别人融洽相处，而有的人资质平平却可以获得成果”的现象。情绪智力对人的职业生涯发展和心理、生活健康的影响可能比我们现在实证研究得到的统计学上的贡献率更高。Goleman教授的研究显示，领导力的竞争力模式通常包含以情商为基础的各项能力，贡献率为80%-100%不等。情绪智力在国外已经引起了广泛重视，积累了大量的覆盖各类职业人群的实证研究数据，但在中国，关于“情商”的热潮仍然还停留在感性阶段，与情绪智力有关的实证研究少之又少。]]>
+	</information>
+	<interfacetype>CompareToAverage</interfacetype>
+  </description>
+
+  <questions>
+	<question qid="q1" tag="sa ei">
+		<title>大部分时候我都很清楚自己为什么会有某种感受</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+  
+    <question qid="q2" tag="sa ei">
+		<title>我很了解自己的情绪</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q3" tag="sa ei">
+		<title>我明白自己的感受</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q4" tag="sa ei">
+		<title>我总是知道自己是不是高兴</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q5" tag="oa ei">
+		<title>我总是能从朋友的行为中感受到他/她的情绪</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q6" tag="oa ei">
+		<title>对于别人的情绪，我是个很好的观察者</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q7" tag="oa ei">
+		<title>我对别人的情绪和感受很敏感</title>
+     <answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q8" tag="oa ei">
+		<title>我能够很好地感受到身边人们的情绪</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+
+	<question qid="q9" tag="eu ei">
+		<title>我总是给自己确定目标并努力去实现</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+
+	<question qid="q10" tag="eu ei">
+		<title>我总是告诉自己我能行</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q11" tag="eu ei">
+		<title>我是个自我激励型的人</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q12" tag="eu ei">
+		<title>我总是鼓励自己要尽最大努力去做事情</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q13" tag="ea ei">
+		<title>我能控制自己的情绪，因此能够理性对待困难</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q14" tag="ea ei">
+		<title>我完全能够控制自己的情绪</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q15" tag="ea ei">
+		<title>当我非常愤怒的时候，我能很快让自己平静下来</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+	<question qid="q16" tag="ea ei">
+		<title>我对自己的情绪有很好的控制力</title>
+		<answer aid="a" score="1">不同意</answer>
+		<answer aid="b" score="2">有点不同意</answer>
+		<answer aid="c" score="3">不清楚</answer>
+		<answer aid="d" score="4">有点同意</answer>
+		<answer aid="e" score="5">同意</answer>
+    </question>
+	
+  </questions>
+
+  <tags>
+	<tag name="sa" label="自我情绪评估"><![CDATA[评分在0~5分之间。指能够了解自己内心的真正感受并且自然地表达出来的能力。这方面能力突出的个体比其他人更容易觉察和理解自己的情绪。]]></tag>
+	<tag name="oa" label="他人情绪评估"><![CDATA[评分在0~5分之间。指能够感觉到周围其他人的情绪的能力。这种能力比较高，意味着能够敏锐地发觉他人内心深处的感觉与情绪。]]></tag>
+	<tag name="eu" label="情绪使用"><![CDATA[评分在0~5分之间。指能够很好地控制自己的情绪状态，并且能够使自己从不良的情绪体验中迅速恢复过来的能力。请注意，这项能力特别指个体能够在负面情绪状态下仍然很好地控制自身情绪。这项能力高的人，可以快速调整与排除心理不良的情绪状态，然后还能表达出正面的情绪。因此，这种现象也被解读为“自我激励”。]]></tag>
+	<tag name="ea" label="情绪调节"><![CDATA[评分在0~5分之间。指能够灵活运用自己的情绪、引导出积极的行为，同时能够自觉远离不良情绪困扰的能力。这项能力得分高的人往往可以在陷入极端情绪时仍然很好地控制自己的言行举止。]]></tag>
+	<tag name="ei" label="情绪智力"><![CDATA[评分在0~5分之间。这一维度是对您回答的所有问题的平均，综合体现了您的情绪智力评估状况。]]></tag>
+  </tags>
+  
+  <remarks>
+    <remark tag="sa" minScore="min" maxScore="avg">您的得分低于平均分，属于低分组。</remark>
+	<remark tag="sa" minScore="avg" maxScore="max">您的得分高于平均分，属于高分组。</remark>
+	<remark tag="oa" minScore="min" maxScore="avg">您的得分低于平均分，属于低分组。</remark>
+	<remark tag="oa" minScore="avg" maxScore="max">您的得分高于平均分，属于高分组。</remark>
+	<remark tag="eu" minScore="min" maxScore="avg">您的得分低于平均分，属于低分组。</remark>
+	<remark tag="eu" minScore="avg" maxScore="max">您的得分高于平均分，属于高分组。</remark>
+	<remark tag="ea" minScore="min" maxScore="avg">您的得分低于平均分，属于低分组。</remark>
+	<remark tag="ea" minScore="avg" maxScore="max">您的得分高于平均分，属于高分组。</remark>
+	<remark tag="ei" minScore="min" maxScore="avg">您的得分低于平均分，属于低分组。</remark>
+	<remark tag="ei" minScore="avg" maxScore="max">您的得分高于平均分，属于高分组。</remark>
+  </remarks>
+
+</questionnaire>

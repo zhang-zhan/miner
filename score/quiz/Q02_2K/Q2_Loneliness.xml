@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	孤独感测试问卷（原问卷共有20道题目）；
+	插入了6道测谎题和自我粉饰题，用tag=M和tag=E标出。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q2_UCLAAl</identifier>
+    <caption>孤独感调查问卷</caption>
+    <information><![CDATA[　　欢迎您填写本问卷，下面的题目列出了人们在使用微博的过程中有时出现的一些感受，对每项描述，请指出您在使用微博时具有哪种感受的频度，选择您认同的选项。
+
+　　请您在不受外界打扰的情况下，认真、真实地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+		<title>你常感到与周围人的关系和谐吗？</title>
+		<answer aid="a" score="4">从不</answer>
+		<answer aid="b" score="3">很少</answer>
+		<answer aid="c" score="2">有时</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+  
+    <question qid="q2">
+		<title>你常感到缺少伙伴吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q3">
+		<title>你常感到没人可以信赖吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q4">
+		<title>你常感到寂寞吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+		
+	<question qid="M142" tag="M">
+		<title>有时我觉得我真是毫无用处。</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+	
+	<question qid="q5">
+		<title>你常感到自己是属于朋友们中的一员吗？</title>
+		<answer aid="a" score="4">从不</answer>
+		<answer aid="b" score="3">很少</answer>
+		<answer aid="c" score="2">有时</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q6">
+		<title>你常感到与周围的人有很多共同点吗？</title>
+		<answer aid="a" score="4">从不</answer>
+		<answer aid="b" score="3">很少</answer>
+		<answer aid="c" score="2">有时</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+		
+	<question qid="M267" tag="E">
+		<title>人多的时候，我不知道说些什么话好</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q7">
+		<title>你常感到与任何人都不亲密了吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q8">
+		<title>你常感到你的兴趣与想法和周围的人不一样吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+
+	<question qid="q9">
+		<title>你常感到想要与人来往、结交朋友吗？</title>
+		<answer aid="a" score="4">从不</answer>
+		<answer aid="b" score="3">很少</answer>
+		<answer aid="c" score="2">有时</answer>
+		<answer aid="d" score="1">一直</answer>
+	</question>
+
+	<question qid="q10">
+		<title>你常感到与人亲近吗？</title>
+		<answer aid="a" score="4">从不</answer>
+		<answer aid="b" score="3">很少</answer>
+		<answer aid="c" score="2">有时</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="E39" tag="E">
+		<title>你有时有点自吹自擂吗？</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+	<question qid="q11">
+		<title>你常感到被人冷落吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q12">
+		<title>你常感到你与别人来往毫无意义吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q13">
+		<title>你常感到没有人很了解你吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="M170" tag="M">
+		<title>我不在乎别人对我有什么看法</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+	
+	<question qid="q14">
+		<title>你常感到与别人隔开了吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q15">
+		<title>你常感到当你愿意时就能找到伙伴吗？</title>
+		<answer aid="a" score="4">从不</answer>
+		<answer aid="b" score="3">很少</answer>
+		<answer aid="c" score="2">有时</answer>
+		<answer aid="d" score="1">一直</answer>
+	</question>
+	
+	<question qid="q16">
+		<title>你常感到有人真正了解你吗？</title>
+		<answer aid="a" score="4">从不</answer>
+		<answer aid="b" score="3">很少</answer>
+		<answer aid="c" score="2">有时</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q17">
+		<title>你常感到羞怯吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+
+	<question qid="E79" tag="E">
+		<title>若你犯有错误，是否都愿意承认？</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+
+	<question qid="q18">
+		<title>你常感到人们围着你但并不关心你吗？</title>
+		<answer aid="a" score="1">从不</answer>
+		<answer aid="b" score="2">很少</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q19">
+		<title>你常感到有人愿意与你交谈吗？</title>
+		<answer aid="a" score="4">从不</answer>
+		<answer aid="b" score="3">很少</answer>
+		<answer aid="c" score="2">有时</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="E25" tag="E">
+		<title>你是否有时候谈论一些你毫无所知的事情？</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q20">
+		<title>你常感到有人值得你信赖吗？</title>
+		<answer aid="a" score="4">从不</answer>
+		<answer aid="b" score="3">很少</answer>
+		<answer aid="c" score="2">有时</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

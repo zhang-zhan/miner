@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+网络沟通习惯问卷
+-->
+
+<questionnaire>
+  <description>
+    <identifier>HKU-CSRP</identifier>
+    <caption>网络沟通习惯问卷</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对网络沟通习惯评价而设计的。通过填写本量表，可以调查了解您的网络沟通习惯。
+　　下面有34条文字，请仔细阅读每一条，把意思弄明白，然后根据您最近一年的实际感受，选择与您的感受最相符的选项。
+
+　　请您注意，请根据您【过去一年里的】网络沟通情况来回答这些问题。
+
+　　本问卷为调查性问卷，我们向您承诺，我们会严格遵守协议，将您的填写结果将只用于科学研究，绝不会以任何形式泄漏您的隐私。请您放心填写真实信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。
+
+　　温馨提示：本问卷为调查性问卷，无反馈结果。
+	]]>
+	</information>
+  </description>
+
+  <questions>
+    <question qid="q11">
+      <title>在过去的一年里，您与他人交流您的想法或感受时，使用【面对面交谈】的方式的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大约每周都使用</answer>
+      <answer aid="d" score="4">几乎每天都使用</answer>
+	  <answer aid="e" score="5">每天都频繁使用</answer>
+    </question>
+
+    <question qid="q12">
+      <title>在过去的一年里，您与他人交流您的想法或感受时，使用【与人语音通话（包括打电话，skype通话，Facetime通话等）】的方式的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大约每周都使用</answer>
+      <answer aid="d" score="4">几乎每天都使用</answer>
+	  <answer aid="e" score="5">每天都频繁使用</answer>
+    </question>
+	
+    <question qid="q13">
+      <title>在过去的一年里，您与他人交流您的想法或感受时，使用【发信息私聊】的方式的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大约每周都使用</answer>
+      <answer aid="d" score="4">几乎每天都使用</answer>
+	  <answer aid="e" score="5">每天都频繁使用</answer>
+    </question>
+	
+    <question qid="q14">
+      <title>在过去的一年里，您与他人交流您的想法或感受时，使用【在朋友圈发微信或微博】的方式的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大约每周都使用</answer>
+      <answer aid="d" score="4">几乎每天都使用</answer>
+	  <answer aid="e" score="5">每天都频繁使用</answer>
+    </question>
+	
+	<question qid="q15">
+      <title>在过去的一年里，您与他人交流您的想法或感受时，使用【公开发微博或微信】的方式的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大约每周都使用</answer>
+      <answer aid="d" score="4">几乎每天都使用</answer>
+	  <answer aid="e" score="5">每天都频繁使用</answer>
+    </question>
+	
+    <question qid="q16">
+      <title>在过去的一年里，您与他人交流您的想法或感受时，使用【公开写博客】的方式的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大约每周都使用</answer>
+      <answer aid="d" score="4">几乎每天都使用</answer>
+	  <answer aid="e" score="5">每天都频繁使用</answer>
+    </question>
+	
+    <question qid="q17">
+      <title>在过去的一年里，您与他人交流您的想法或感受时，使用【网上论坛发帖】的方式的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大约每周都使用</answer>
+      <answer aid="d" score="4">几乎每天都使用</answer>
+	  <answer aid="e" score="5">每天都频繁使用</answer>
+    </question>
+	
+	<question qid="q21">
+      <title>请回顾过去一年里，每当您心情不好时，您通过【面对面交谈】的方式与他人交流的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大部分时候会使用</answer>
+      <answer aid="d" score="4">几乎每次都使用</answer>
+	  <answer aid="e" score="5">每次都频繁使用</answer>
+    </question>
+
+	<question qid="q22">
+      <title>请回顾过去一年里，每当您心情不好时，您通过【与人语音通话（包括打电话，skype通话，Facetime通话等）】的方式与他人交流的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大部分时候会使用</answer>
+      <answer aid="d" score="4">几乎每次都使用</answer>
+	  <answer aid="e" score="5">每次都频繁使用</answer>
+    </question>
+	
+	<question qid="q23">
+      <title>请回顾过去一年里，每当您心情不好时，您通过【发信息私聊】的方式与他人交流的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大部分时候会使用</answer>
+      <answer aid="d" score="4">几乎每次都使用</answer>
+	  <answer aid="e" score="5">每次都频繁使用</answer>
+    </question>
+	
+	<question qid="q24">
+      <title>请回顾过去一年里，每当您心情不好时，您通过【在朋友圈发微信或微博】的方式与他人交流的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大部分时候会使用</answer>
+      <answer aid="d" score="4">几乎每次都使用</answer>
+	  <answer aid="e" score="5">每次都频繁使用</answer>
+    </question>
+	
+	<question qid="q25">
+      <title>请回顾过去一年里，每当您心情不好时，您通过【公开发微博或微信】的方式与他人交流的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大部分时候会使用</answer>
+      <answer aid="d" score="4">几乎每次都使用</answer>
+	  <answer aid="e" score="5">每次都频繁使用</answer>
+    </question>
+	
+	<question qid="q26">
+      <title>请回顾过去一年里，每当您心情不好时，您通过【公开写博客】的方式与他人交流的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大部分时候会使用</answer>
+      <answer aid="d" score="4">几乎每次都使用</answer>
+	  <answer aid="e" score="5">每次都频繁使用</answer>
+    </question>
+	
+	<question qid="q27">
+      <title>请回顾过去一年里，每当您心情不好时，您通过【网上论坛发帖】的方式与他人交流的频率如何？</title>
+      <answer aid="a" score="1">完全不使用</answer>
+      <answer aid="b" score="2">偶尔使用</answer>
+      <answer aid="c" score="3">大部分时候会使用</answer>
+      <answer aid="d" score="4">几乎每次都使用</answer>
+	  <answer aid="e" score="5">每次都频繁使用</answer>
+    </question>
+	
+	<question qid="q31">
+      <title>您在过去一年里使用微博与人交流时，有没有出现过【交流后心情较好】的情况？</title>
+      <answer aid="a" score="0">从没有</answer>
+      <answer aid="b" score="1">小部分情况</answer>
+	  <answer aid="c" score="2">半数情况</answer>
+	  <answer aid="d" score="3">大部分情况</answer>
+	  <answer aid="e" score="4">几乎每次都如此</answer>
+    </question>
+	
+	<question qid="q32">
+      <title>您在过去一年里使用微博与人交流时，有没有出现过【交流后心情更差】的情况？</title>
+      <answer aid="a" score="0">从没有</answer>
+      <answer aid="b" score="1">小部分情况</answer>
+	  <answer aid="c" score="2">半数情况</answer>
+	  <answer aid="d" score="3">大部分情况</answer>
+	  <answer aid="e" score="4">几乎每次都如此</answer>
+    </question>
+	
+	<question qid="q33">
+      <title>您在过去一年里使用微博与人交流时，有没有出现过【谈论过有关自杀的议题】的情况？</title>
+      <answer aid="a" score="0">从没有</answer>
+      <answer aid="b" score="1">小部分情况</answer>
+	  <answer aid="c" score="2">半数情况</answer>
+	  <answer aid="d" score="3">大部分情况</answer>
+	  <answer aid="e" score="4">几乎每次都如此</answer>
+    </question>
+	
+	<question qid="q34">
+      <title>您在过去一年里使用微博与人交流时，有没有出现过【向人透露过自己想自杀】的情况？</title>
+      <answer aid="a" score="0">从没有</answer>
+      <answer aid="b" score="1">小部分情况</answer>
+	  <answer aid="c" score="2">半数情况</answer>
+	  <answer aid="d" score="3">大部分情况</answer>
+	  <answer aid="e" score="4">几乎每次都如此</answer>
+    </question>
+	
+	<question qid="q41">
+      <title>请问在过去的一年里，您有没有通过【亲友告知】的途径知道他人的自杀行为？</title>
+      <answer aid="y" score="1">有</answer>
+      <answer aid="n" score="0">没有</answer>
+    </question>
+	
+	<question qid="q42">
+      <title>请问在过去的一年里，您有没有通过【新闻媒体报道】的途径知道他人的自杀行为？</title>
+      <answer aid="y" score="1">有</answer>
+      <answer aid="n" score="0">没有</answer>
+    </question>
+	
+	<question qid="q43">
+      <title>请问在过去的一年里，您有没有通过【微博原创内容】的途径知道他人的自杀行为？</title>
+      <answer aid="y" score="1">有</answer>
+      <answer aid="n" score="0">没有</answer>
+    </question>
+	
+	<question qid="q44">
+      <title>请问在过去的一年里，您有没有通过【微信原创内容】的途径知道他人的自杀行为？</title>
+      <answer aid="y" score="1">有</answer>
+      <answer aid="n" score="0">没有</answer>
+    </question>
+	
+	<question qid="q45">
+      <title>请问在过去的一年里，您有没有通过【网络论坛原创内容】的途径知道他人的自杀行为？</title>
+      <answer aid="y" score="1">有</answer>
+      <answer aid="n" score="0">没有</answer>
+    </question>
+	
+	<question qid="q46">
+      <title>请问在过去的一年里，您有没有通过【自己上网搜索】的途径知道他人的自杀行为？</title>
+      <answer aid="y" score="1">有</answer>
+      <answer aid="n" score="0">没有</answer>
+    </question>
+	
+	<question qid="q51">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【	我会阅读微博里的自杀内容（包括转发的新闻报道或者博主的原创内容）】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+	<question qid="q52">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【我会记得曾经看过的自杀内容】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+	<question qid="q53">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【我会在阅读自杀内容后知道原来自杀不遂会带来很大痛苦】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+	<question qid="q54">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【我会在阅读自杀内容后觉得自杀也是解决某些问题的方法】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+	<question qid="q55">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【我会在阅读自杀内容后萌生自杀念头】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+	<question qid="q56">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【自杀内容可以吸引到我的注意力】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+	<question qid="q57">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【我可以向别人描述看过的自杀内容】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+	<question qid="q58">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【看到与我背景类似的人的自杀内容，我会更接受自杀行为】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+	<question qid="q59">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【我会在阅读自杀内容后觉得自杀会令心爱的人感到痛苦】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+	<question qid="q5A">
+      <title>请问这句话在多大程度上吻合您在过去一年中的经历？【我曾想过可以采用微博内容中同样的方法自杀。】</title>
+      <answer aid="a" score="0">完全不吻合</answer>
+      <answer aid="b" score="1">比较不吻合</answer>
+	  <answer aid="c" score="2">不确定</answer>
+	  <answer aid="d" score="3">比较吻合</answer>
+	  <answer aid="e" score="4">完全吻合</answer>
+    </question>
+	
+  </questions>
+
+</questionnaire>

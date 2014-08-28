@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+自杀可能性量表
+&
+HKU自杀行为问卷
+-->
+
+<questionnaire>
+  <description>
+    <identifier>SPS</identifier>
+    <caption>自杀可能性量表</caption>
+    <information><![CDATA[　　欢迎您填写本量表，以下陈述是用来描述个人感觉和行为的，请仔细阅读每个句子，并选择适合你陈述。请根据您的实际情况进行填写，确保填好每个题目。
+　　【温馨提示】本问卷为调查性问卷，没有反馈信息。
+　　我们向您承诺，我们会严格遵守协议，将您的填写结果将只用于科学研究，绝不会以任何形式泄漏您的隐私。请您放心填写真实信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+
+	<question qid="q1">
+		<title>我生气时就摔东西</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+
+	<question qid="q2">
+		<title>我感到很多人关心我</title>
+		<answer aid="a" score="4">从来没有</answer>
+		<answer aid="b" score="3">偶尔</answer>
+		<answer aid="c" score="2">大部分时间</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q3">
+		<title>我觉得我容易冲动</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q4">
+		<title>我的事情糟糕得无法与人分享</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q5">
+		<title>我认为自己有太多责任</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q6">
+		<title>有许多我能够做也值得做的事情</title>
+		<answer aid="a" score="4">从来没有</answer>
+		<answer aid="b" score="3">偶尔</answer>
+		<answer aid="c" score="2">大部分时间</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q7">
+		<title>我想自杀以惩罚别人</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q8">
+		<title>我感到对别人有敌意</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q9">
+		<title>我感到与人们疏离</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q10">
+		<title>我感到有人欣赏我</title>
+		<answer aid="a" score="4">从来没有</answer>
+		<answer aid="b" score="3">偶尔</answer>
+		<answer aid="c" score="2">大部分时间</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q11">
+		<title>如果我死了许多人会难过</title>
+		<answer aid="a" score="4">从来没有</answer>
+		<answer aid="b" score="3">偶尔</answer>
+		<answer aid="c" score="2">大部分时间</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q12">
+		<title>我感到孤独,难以忍受</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q13">
+		<title>别人对我有敌意</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q14">
+		<title>如果一切可以重来,我的生活会有许多改变</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q15">
+		<title>我觉得我有很多事情做不好</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q16">
+		<title>我很难找到也难以维持自己喜欢的工作</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q17">
+		<title>我认为如果我死了没人会想念我</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q18">
+		<title>我的事情都进展顺利</title>
+		<answer aid="a" score="4">从来没有</answer>
+		<answer aid="b" score="3">偶尔</answer>
+		<answer aid="c" score="2">大部分时间</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q19">
+		<title>我觉得人们对我期望太高</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q20">
+		<title>我觉得我需要为自己的所做所为而自我惩罚</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q21">
+		<title>我觉得这个世界不值得我继续活下去</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q22">
+		<title>我很仔细地计划未来</title>
+		<answer aid="a" score="4">从来没有</answer>
+		<answer aid="b" score="3">偶尔</answer>
+		<answer aid="c" score="2">大部分时间</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q23">
+		<title>我觉得我没有太多可以依靠的朋友</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q24">
+		<title>如果我死了别人会过得更好一些</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q25">
+		<title>我觉得就这样活着太痛苦了,还不如死掉</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q26">
+		<title>我觉得(或曾经觉得)与母亲关系亲近</title>
+		<answer aid="a" score="4">从来没有</answer>
+		<answer aid="b" score="3">偶尔</answer>
+		<answer aid="c" score="2">大部分时间</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q27">
+		<title>我觉得(或曾经觉得)与同伴关系亲近</title>
+		<answer aid="a" score="4">从来没有</answer>
+		<answer aid="b" score="3">偶尔</answer>
+		<answer aid="c" score="2">大部分时间</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q28">
+		<title>我感到绝望,我的事情不可能好起来</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q29">
+		<title>我感到别人不赞成我和我的所作所为</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q30">
+		<title>我想过怎样弄死自己</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q31">
+		<title>我有经济压力</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q32">
+		<title>我想自杀</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q33">
+		<title>我感到疲乏和无精打采</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q34">
+		<title>我生气时就砸东西</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="q35">
+		<title>我觉得(或曾经觉得)与父亲关系亲近</title>
+		<answer aid="a" score="4">从来没有</answer>
+		<answer aid="b" score="3">偶尔</answer>
+		<answer aid="c" score="2">大部分时间</answer>
+		<answer aid="d" score="1">一直</answer>
+    </question>
+	
+	<question qid="q36">
+		<title>我无论在哪儿都无法感到快乐</title>
+		<answer aid="a" score="1">从来没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">大部分时间</answer>
+		<answer aid="d" score="4">一直</answer>
+    </question>
+	
+	<question qid="z1" type="multi" tag="SAct">
+		<title>回顾你过往的全部生活，如果你曾经考虑过自杀，那你曾为了摆脱困境而寻求帮助吗？【可多选】</title>
+		<answer aid="_" score="0">【如果您不曾想过自杀，请选择此项，忽略下列内容。】</answer>
+		<answer aid="a" score="0">没有寻求任何帮助</answer>
+		<answer aid="b" score="0">曾向精神科医生求助</answer>
+		<answer aid="c" score="0">曾向一般医生求助</answer>
+		<answer aid="d" score="0">曾寻求心理辅导</answer>
+		<answer aid="e" score="0">曾向家人求助</answer>
+		<answer aid="f" score="0">曾向朋友求助</answer>
+		<answer aid="g" score="0">曾向陌生网友求助</answer>
+		<answer aid="h" score="0" type="text">曾向其他途径求助，请注明</answer>
+    </question>
+	
+	<question qid="z2" tag="SAct">
+		<title>你认为寻求这些帮助之后对你的困境有多大程度改善？</title>
+		<answer aid="_" score="0">【如果您不曾想过自杀，请选择此项，忽略下列内容。】</answer>
+		<answer aid="a" score="0">有很大改善 </answer>
+		<answer aid="b" score="0">略有改善</answer>
+		<answer aid="c" score="0">没有变化</answer>
+		<answer aid="d" score="0">略微恶化</answer>
+		<answer aid="e" score="0">有很大恶化</answer>
+    </question>
+	
+	<question qid="z3" tag="SAct">
+		<title>请问在【过去十二个月里】，你曾否考虑过自杀？</title>
+		<answer aid="a" score="2">有</answer>
+		<answer aid="b" score="0">没有</answer>
+    </question>
+	
+	<question qid="z4" tag="SAct">
+		<title>请问在【过去十二个月里】，你曾经多少次尝试自杀？</title>
+		<answer aid="_" score="0">完全没有</answer>
+		<answer aid="a" score="1">一次</answer>
+		<answer aid="b" score="2">二至三次</answer>
+		<answer aid="c" score="3">四次或以上</answer>
+    </question>
+	
+	<question qid="z5" tag="SAct">
+		<title>请问在【过去十二个月里】，你有没有因尝试自杀而受伤，并需要接受医护人员的治疗？</title>
+		<answer aid="_" score="0">【如果您在过去十二个月未曾有任何自杀尝试行为，请选择此项，忽略下列内容。】</answer>
+		<answer aid="a" score="2">有</answer>
+		<answer aid="b" score="1">没有</answer>
+    </question>
+	
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max"><![CDATA[　　您的填写结果将用于科学研究，非常感谢您填写我们的问卷！
+　　如果您或者您发现您身边的人正在处在抑郁、焦虑的情绪中，甚至有轻生的念头，请及时寻求心理援助。下面是北京心理危机干预中心网址，如果您或您身边的人正处在心理危机中，请通过网页上的热线电话与他们取得联系：http://www.crisis.org.cn/Hotline/HotlineMain.aspx]]></remark>
+  </remarks>
+
+</questionnaire>

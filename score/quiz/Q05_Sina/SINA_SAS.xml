@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>SINA_SAS</identifier>
+    <caption>心理焦虑状况测量量表</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对焦虑评价而设计的。通过填写本量表，您可以评测您的焦虑状况。下面有二十条文字，请仔细阅读每一条，把意思弄明白，然后根据您最近一星期的实际感受，选择与您的感受最相符的选项。]]>
+	</information>
+  </description>
+
+  <questions>
+    <question qid="q01" tag="A">
+      <title>最近一星期以来，我觉得比平常容易紧张或着急</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q02" tag="A">
+      <title>最近一星期以来，我无缘无故地感到害怕</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q03" tag="A">
+      <title>最近一星期以来，我容易心里烦乱或觉得惊恐</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q04" tag="A">
+      <title>最近一星期以来，我觉得我可能将要发疯</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q05" tag="A">
+      <title>最近一星期以来，我觉得一切都很好，也不会发生什么不幸</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q06" tag="A">
+      <title>最近一星期以来，我手脚发抖打颤</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q07" tag="A">
+      <title>最近一星期以来，我因为头痛、颈痛和背痛而苦恼</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q08" tag="A">
+      <title>最近一星期以来，我感到容易衰弱和疲乏</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q09" tag="A">
+      <title>最近一星期以来，我得心平气和，并且容易安静坐着</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q10" tag="A">
+      <title>最近一星期以来，我觉得心跳得很快</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q11" tag="A">
+      <title>最近一星期以来，我因为一阵阵头晕而苦恼</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q12" tag="A">
+      <title>最近一星期以来，我有晕倒发作，或觉得要晕倒似的</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q13" tag="A">
+      <title>最近一星期以来，我呼气吸气都感到很容易</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q14" tag="A">
+      <title>最近一星期以来，我的手脚麻木和刺痛</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q15" tag="A">
+      <title>最近一星期以来，我因为胃痛和消化不良而苦恼</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q16" tag="A">
+      <title>最近一星期以来，我常常要小便</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q17" tag="A">
+      <title>最近一星期以来，我的手脚常常是干燥温暖的</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q18" tag="A">
+      <title>最近一星期以来，我脸红发热</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q19" tag="A">
+      <title>最近一星期以来，我容易入睡，晚上休息很好</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q20" tag="A">
+      <title>最近一星期以来，我做恶梦</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+  </questions>
+  
+   <tags>
+	<tag name="A" label="心理焦虑"><![CDATA[本问卷对您的焦虑状况进行了测评。]]>
+	</tag>
+   </tags>
+   
+   <remarks>
+    <remark tag="A" minScore="min" maxScore="20">你的分数处于低水平范围：根据问卷的得分显示，你在此刻并没有或只有很少的焦虑症状，并没有深陷于焦虑情绪的困扰。如果你觉得自己可能已经陷入了焦虑情绪状态，那么建议你立刻去求助于专业的心理咨询人员。</remark>
+    <remark tag="A" minScore="20" maxScore="40">你的分数处于中等水平范围：你可能有轻微或轻度焦虑情绪问题。建议你寻求专业性的建议与指导，从而帮助你提高自身的情绪应对能力并在未来免遭类似的消极情绪困扰。</remark>
+    <remark tag="A" minScore="40" maxScore="max">你的分数处于高水平范围：这说明在你身上具有比其他人更多的焦虑症状。你可能比较容易遭到焦虑情绪的侵袭。我们建议你去向专业的心理咨询或治疗人员寻求帮助，从而彻底检查自己的心理健康状态。</remark>
+   </remarks>
+
+</questionnaire>

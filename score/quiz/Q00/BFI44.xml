@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	大五人格(各维度求平均值)			？	01 02 03 04 05 06 07 08 09 10
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	外倾性(extraversion)				E	01 06 11 16 21 26 31 36
+	随和性(agreeableness)				A	02 07 12 17 22 27 32 37 42
+	尽责性(conscientiousness)			C	03 08 13 18 23 28 33 38 43
+	神经质或情绪稳定性(neuroticism)		N	04 09 14 19 24 29 34 39
+	开放性(openness)					O	05 10 15 20 25 30 35 40 41 44
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-->
+<questionnaire>
+  <description>
+    <identifier>BFI44</identifier>
+    <caption>人格测试量表</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对人格评价而设计的。通过填写本量表，您可以评测您的人格。]]>
+	</information>
+    <interfacetype>CompareToAverage</interfacetype>
+  </description>
+
+  <questions>
+    <question qid="q01" tag="E">
+      <title>爱说话</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q02" tag="A">
+      <title>喜欢挑剔别人的毛病</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q03" tag="C">
+      <title>工作很周密</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q04" tag="N">
+      <title>压抑而忧郁</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q05" tag="O">
+      <title>具有独创性，会产生新点子</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q06" tag="E">
+      <title>含蓄的</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q07" tag="A">
+      <title>乐于助人，无私</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q08" tag="C">
+      <title>可能有些粗心</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q09" tag="N">
+      <title>放松的，可以很好应对压力</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q10" tag="O">
+      <title>对许多不同的事情感到好奇</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q11" tag="E">
+      <title>精力充沛</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q12" tag="A">
+      <title>经常与他人发生争吵</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q13" tag="C">
+      <title>是个可信赖的人</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q14" tag="N">
+      <title>可能会紧张</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q15" tag="O">
+      <title>有独创性，思想深刻</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q16" tag="E">
+      <title>具有很大的热情</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q17" tag="A">
+      <title>天性宽以待人</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q18" tag="C">
+      <title>倾向于缺乏条理</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q19" tag="N">
+      <title>有很多忧虑</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q20" tag="O">
+      <title>想象力活跃</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q21" tag="E">
+      <title>比较安静</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q22" tag="A">
+      <title>大体上信任他人</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q23" tag="C">
+      <title>比较懒惰</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q24" tag="N">
+      <title>情绪稳定，不容易急躁</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q25" tag="O">
+      <title>善于创造</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q26" tag="E">
+      <title>性格决断</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q27" tag="A">
+      <title>可能会冷淡孤僻</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q28" tag="C">
+      <title>坚持到任务完成</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q29" tag="N">
+      <title>可能会喜怒无常</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q30" tag="O">
+      <title>重视艺术、美学的经历</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q31" tag="E">
+      <title>有时羞怯、拘谨</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q32" tag="A">
+      <title>几乎对每个人都很友善及体谅</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q33" tag="C">
+      <title>做事有效率</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q34" tag="N">
+      <title>在紧张情境中仍保持冷静</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q35" tag="O">
+      <title>喜欢从事常规性的工作，不喜欢不确定性</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q36" tag="E">
+      <title>外向，好交际</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q37" tag="A">
+      <title>有时对他人粗鲁</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q38" tag="C">
+      <title>制定计划并加以贯彻</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q39" tag="N">
+      <title>容易紧张</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q40" tag="O">
+      <title>喜欢反省、思考各种想法</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q41" tag="O">
+      <title>没有多少艺术兴趣</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q42" tag="A">
+      <title>喜欢与他人合作，而不是竞争</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+
+    <question qid="q43" tag="C">
+      <title>容易分心</title>
+      <answer aid="a1" score="5">非常不同意</answer>
+      <answer aid="a2" score="4">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="2">有点同意</answer>
+      <answer aid="a5" score="1">非常同意</answer>
+    </question>
+
+    <question qid="q44" tag="O">
+      <title>精通美术、音乐和文学</title>
+      <answer aid="a1" score="1">非常不同意</answer>
+      <answer aid="a2" score="2">有点不同意</answer>
+      <answer aid="a3" score="3">无所谓</answer>
+      <answer aid="a4" score="4">有点同意</answer>
+      <answer aid="a5" score="5">非常同意</answer>
+    </question>
+  </questions>
+  
+  <tags>
+	<tag name="E" label="外倾性"><![CDATA[外倾性(Extraversion)：外向代表了在外界投入的能量。
+高外向的人喜欢与人接触，充满活力，经常感受到积极的情绪。他们热情，喜欢运动，喜欢刺激冒险。在一个群体当中，他们非常健谈，自信，喜欢引起别人的注意。
+低外向的人比较安静，谨慎，不喜欢与外界过多接触。他们不喜欢与人接触不能被解释为害羞或者抑郁，这仅仅是因为比起高外向的人，他们不需要那么多的刺激，因此喜欢一个人独处。低外向人的这种特点有时会被人误认为是傲慢或者不友好，其实一旦和他接触你经常会发现他是一个非常和善的人。]]>
+	</tag>
+	
+	<tag name="A" label="宜人性"><![CDATA[宜人性(Agreeableness)代表了“爱”，对合作和人际和谐是否看重。
+宜人性高的人是善解人意的、友好的、慷慨大方的、乐于助人的，愿意为了别人放弃自己的利益。宜人性高的人对人性持乐观的态度，相信人性本善。
+宜人性低的人则把自己的利益放在别人的利益之上。本质上，他们不关心别人的利益，因此也不乐意去帮助别人。有时候，他们对别人是非常多疑的，怀疑别人的动机。对于某些职位来说，太高的宜人性是没有必要的，尤其是需要强硬和客观判断的场合，例如科学家、评论家和士兵。]]>
+	</tag>
+	
+	<tag name="C" label="尽责性"><![CDATA[尽责性(Conscientiousness)：尽责性指我们控制、管理和调节自身冲动的方式。
+高尽责的人容易避免麻烦，能够获得更大的成功。人们一般认为高尽责的人更加聪明和可靠，但是高尽责的人可能是一个完美主义者或者是一个工作狂。极端尽责的个体让人觉得单调、乏味、缺少生气。	
+冲动并不一定就是坏事，有时候环境要求我们能够快速决策。低尽责性的个体常被认为是快乐的、有趣的、很好的玩伴。但是冲动的行为常常会给自己带来麻烦，虽然会给个体带来暂时的满足，但却容易产生长期的不良后果，比如攻击他人，吸食毒品等等。低尽责性的个体一般不会获得很大的成就。]]>
+	</tag>
+
+	<tag name="N" label="神经质"><![CDATA[神经质或情绪稳定性(Neuroticism)：神经质指个体体验消极情绪的倾向。
+神经质维度得分高的人更容易体验到诸如愤怒、焦虑、抑郁等消极的情绪。他们对外界刺激反应比一般人强烈，对情绪的调节能力比较差，经常处于一种不良的情绪状态下。并且这些人思维、决策、以及有效应对外部压力的能力比较差。
+神经质维度得分低的人较少烦恼，较少情绪化，比较平静，但这并不表明他们经常会有积极的情绪体验，积极情绪体验的频繁程度是外向性的主要内容。]]>
+	</tag>
+	
+	<tag name="O" label="开放性"><![CDATA[开放性(Openness)：开放性描述一个人的认知风格。
+开放性得分高的人富有想象力和创造力，好奇，欣赏艺术，对美的事物比较敏感。开放性的人偏爱抽象思维，兴趣广泛。开放性的人适合教授等职业。
+开放性得分低(即封闭性)的人讲求实际，偏爱常规，比较传统和保守。封闭性的人适合警察、销售、服务性职业等。]]>
+	</tag>
+  </tags>
+
+  <remarks>
+    <remark tag="E" minScore="avg" maxScore="max">您的得分高于平均水平，属于高外向性。</remark>
+    <remark tag="E" minScore="min" maxScore="avg">您的得分低于平均水平，属于低外向性。</remark>
+    <remark tag="A" minScore="avg" maxScore="max">您的得分高于平均水平，属于高宜人性。</remark>
+    <remark tag="A" minScore="min" maxScore="avg">您的得分低于平均水平，属于低宜人性。</remark>
+    <remark tag="C" minScore="avg" maxScore="max">您的得分高于平均水平，属于高尽责性。</remark>
+    <remark tag="C" minScore="min" maxScore="avg">您的得分低于平均水平，属于低尽责性。</remark>
+    <remark tag="N" minScore="avg" maxScore="max">您的得分高于平均水平，属于高神经质。</remark>
+    <remark tag="N" minScore="min" maxScore="avg">您的得分低于平均水平，属于低神经质。</remark>
+    <remark tag="O" minScore="avg" maxScore="max">您的得分高于平均水平，属于高开放性。</remark>
+    <remark tag="O" minScore="min" maxScore="avg">您的得分低于平均水平，属于低开放性。</remark>
+  </remarks>
+
+</questionnaire>

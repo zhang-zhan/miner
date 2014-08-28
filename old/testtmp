@@ -1,0 +1,139 @@
+#coding:utf-8
+from datetime import datetime
+import time
+
+import json
+from user import User
+import struct
+from ctime import getMtime
+j = "jiao"
+'''
+def date2unix(attr):
+    dalist = attr.split(" ")
+    zone = dalist[4]
+    datef = dalist[0]+" "+dalist[1]+" "+dalist[2]+" "+dalist[3]+" "+dalist[5]
+    #dateti = attr.replace('[+-]\w\w\w\w\s', '')
+    dtmp = datetime.strptime(datef, "%a %b %d %X %Y")
+    stampt = int(time.mktime(dtmp.timetuple()))
+    if zone is "+0800":
+        print(j)
+        print(type(stampt))
+        print(j)
+        return stampt
+    else:
+        hou = int(zone[1: 3])
+        min = int(zone[3: 5])
+        if zone[0] is '-':
+            return (hou+8)*3600+min*60+stampt
+        else:
+            return (hou-8)*3600+min*60+stampt
+
+
+
+
+
+
+d = datetime.strptime("01/01/2011 01:48:36.157", "%m/%d/%Y %H:%M:%S.%f")
+e = datetime.strptime("Mon Nov 02 18:45:38 2009", "%a %b %d %X %Y")
+#e = datetime.strptime("Mon Nov 02 18:45:38 +0700 2009", "EEE MMM dd HH:mm:ss z yyyy")
+print(e)
+f = time.mktime(d.timetuple())
+g = time.mktime(e.timetuple())
+f = int(f)
+g = int(g)
+
+print(f)
+print(g)
+
+str = '+0800'
+str2 = str[1: 3]
+str3 = str[3: 5]
+
+
+i = int(str2)
+
+(date2unix("Mon Nov 02 18:45:38 +0800 2009"))
+
+key = struct.pack('>?', True)
+row = buffer(key)
+print(row)
+
+
+output = open("C:/Weibo/write.log", "w+")#存放日志
+
+curList = []
+input = open("C:/Weibo/input.txt", "r")#配置文件第一行是host第二行是port剩余行是输入文件件
+host = input.readline().strip('\n')
+port = input.readline().strip('\n')
+while 1:
+    curDir = input.readline().strip('\n').decode("utf-8")
+    if not curDir:
+        break
+    curList.append(curDir)
+input.close()
+print(host)
+print(port)
+for curDir in curList:
+    print(curDir)
+'''
+'''
+f = u'E:/JiaoDongdong/data/hastag/10001.txt'
+ctime = getMtime(f)
+print ctime
+with open(f, 'rt') as jsonFile:
+    t = jsonFile.read()
+    users = json.loads(t)
+    ind = 0 #统计用户数量
+    for i in users:
+        u = User(i)
+        uid = i['SinaUserId']
+        key = struct.pack('<q', uid)
+        row = buffer(key)
+
+        print(uid)
+        ind += 1
+    print ind
+'''
+'''
+        geo = u.__getattr__('geo')
+        ge = i['geo']
+
+        geo = 2
+        if geo is not None:
+            print "Jiao"
+        att = u.__getattr__('user')
+       # print(att)
+        print(type(att))
+
+        aj = User(att)
+        test = aj.__getattr__('id')
+        print(test)
+        key = struct.pack('<q', test)
+        row = buffer(key)
+        print(row)
+
+        repost = u.__getattr__('reposts_count')
+        ir = struct.unpack('>i', repost)
+        print "rc"
+        print repost
+        if ir[0] is 0:
+            print "ZERO"
+        else:
+            print "NOZERO"
+
+        break
+
+ustatus = 0L
+ustatus |= 1L << 32
+print "ustatus "
+print ustatus
+'''
+
+star = time.time()
+print 'now'
+time.sleep(10)
+print 'second'
+end = time.time()
+
+print(end-star)
+

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>Soc_Justice</identifier>
+    <caption>社会公平问题调查</caption>
+   <information><![CDATA[　　欢迎您填写本问卷，后面的题目列出了与您对目前的社会公平相关一些问题，对每项描述，请指出您具有哪种感受，选择您认同的选项。
+　　提示：本问卷为调查性问卷，收集的数据用于科学研究，您如实填写完后会发放报酬，但是本问卷【没有反馈信息】，我们同时依照协议严格保护您的个人信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+		<title>您认为当前的社会对大多数人是否公平？</title>
+		<answer aid="a" score="5">非常不公平</answer>
+		<answer aid="b" score="4">较不公平</answer>
+		<answer aid="c" score="3">一般公平</answer>
+		<answer aid="d" score="2">比较公平</answer>
+		<answer aid="e" score="1">非常公平</answer>
+    </question>
+	
+	<question qid="q2">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。【面对类似事件，您的感受如何？】</title>
+		<answer aid="a" score="5">非常愤怒</answer>
+		<answer aid="b" score="4">比较愤怒</answer>
+		<answer aid="c" score="3">一般愤怒</answer>
+		<answer aid="d" score="2">不太愤怒</answer>
+		<answer aid="e" score="1">一点也不愤怒</answer>
+    </question>
+
+	<question qid="q3">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。【您认为，面对类似事件的居民如果联合起来，能够改变此不利局面的可能性有多大？】</title>
+		<answer aid="a" score="5">非常小</answer>
+		<answer aid="b" score="4">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="2">比较大</answer>
+		<answer aid="e" score="1">非常大</answer>
+    </question>
+	
+	<question qid="q4.1">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。——面对类似事件，您采取以【个人协商解决】的方式的可能性是：</title>
+		<answer aid="a" score="5">非常小</answer>
+		<answer aid="b" score="4">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="2">比较大</answer>
+		<answer aid="e" score="1">非常大</answer>
+    </question>
+	
+	<question qid="q4.2">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。——面对类似事件，您采取以【联合亲友对抗】的方式的可能性是：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+
+	<question qid="q4.3">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。——面对类似事件，您采取以【罢工、罢课】的方式的可能性是：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+
+	<question qid="q4.4">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。——面对类似事件，您采取以【集体示威】的方式的可能性是：</title>
+		<answer aid="a" score="1">非常小</answer>
+		<answer aid="b" score="2">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="4">比较大</answer>
+		<answer aid="e" score="5">非常大</answer>
+    </question>
+
+	<question qid="q4.5">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。——面对类似事件，您采取以【忍受或发牢骚】的方式的可能性是：</title>
+		<answer aid="a" score="5">非常小</answer>
+		<answer aid="b" score="4">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="2">比较大</answer>
+		<answer aid="e" score="1">非常大</answer>
+    </question>
+
+	<question qid="q4.6">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。——面对类似事件，您采取以【打官司】的方式的可能性是：</title>
+		<answer aid="a" score="5">非常小</answer>
+		<answer aid="b" score="4">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="2">比较大</answer>
+		<answer aid="e" score="1">非常大</answer>
+    </question>
+
+	<question qid="q4.7">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。——面对类似事件，您采取以【向新闻单位反映】的方式的可能性是：</title>
+		<answer aid="a" score="5">非常小</answer>
+		<answer aid="b" score="4">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="2">比较大</answer>
+		<answer aid="e" score="1">非常大</answer>
+    </question>
+
+	<question qid="q4.8">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。——面对类似事件，您采取以【上访】的方式的可能性是：</title>
+		<answer aid="a" score="5">非常小</answer>
+		<answer aid="b" score="4">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="2">比较大</answer>
+		<answer aid="e" score="1">非常大</answer>
+    </question>
+
+	<question qid="q4.9">
+		<title>如果您或家人在生活中遇到不公平事件，如：不合理征地，强制拆迁，严重环境污染危害健康，当地政府某些公共政策朝令夕改，在企业改制下岗、移民安置中仅获得少量补偿等等。——面对类似事件，您采取以【通过网络制造舆论或求助】的方式的可能性是：</title>
+		<answer aid="a" score="5">非常小</answer>
+		<answer aid="b" score="4">比较小</answer>
+		<answer aid="c" score="3">一般</answer>
+		<answer aid="d" score="2">比较大</answer>
+		<answer aid="e" score="1">非常大</answer>
+    </question>
+
+	<question qid="q5" type="text">
+		<title>在上述解决问题的方式当中，您最有可能采取那种？（请按照可能性大小选出3项，例如“1 9 5”表示最有可能是1，其次是9，再次是5）　　【1个人协商解决；2联合亲友对抗；3罢工、罢课；4集体示威；5忍受或发牢骚；6打官司；7向新闻单位反映；8上访；9通过网络制造舆论或求助】</title>
+    </question>
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

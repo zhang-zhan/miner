@@ -1,0 +1,192 @@
+{
+ "BeckSIS": {
+  "XmlPath": "./quiz/Q06_SCD/BeckSIS.xml", 
+  "Intro": "", 
+  "ScreenName": "自杀意念量表"
+ }, 
+ "BFI44": {
+  "XmlPath": "./quiz/Q00/BFI44.xml", 
+  "Intro": "本问卷基于大五人格心理模型，通过填写本问卷，您可以了解自己的人格特征和稳定的性格倾向、个性心理特征。", 
+  "ScreenName": "大五人格测试"
+ }, 
+ "BFI48": {
+  "XmlPath": "./quiz/Q00/BFI48.xml", 
+  "Intro": "本问卷基于大五人格心理模型，通过填写本问卷，您可以了解自己的人格特征和稳定的性格倾向、个性心理特征。", 
+  "ScreenName": "大五人格测试"
+ }, 
+ "DASS": {
+  "XmlPath": "./quiz/Q06_SCD/DASS.xml", 
+  "Intro": "本问卷主要测评填写者在生活中的焦虑、抑郁情绪和生活压力。", 
+  "ScreenName": "焦虑、抑郁、压力量表"
+ }, 
+ "EQ": {
+  "XmlPath": "./quiz/Q00/EQ.xml", 
+  "Intro": "本问卷主要调查用户对情绪状态的感知能力和调控能力。", 
+  "ScreenName": "情绪智力测试"
+ }, 
+ "FES-CV": {
+  "XmlPath": "./quiz/Q06_SCD/FES-CV.xml", 
+  "Intro": "本问卷调查了解您的家庭环境状况。", 
+  "ScreenName": "家庭环境量表"
+ }, 
+ "FES-CV-Partial": {
+  "XmlPath": "./quiz/Q06_SCD/FES-CV-Partial.xml", 
+  "Intro": "本问卷调查了解您的家庭环境状况。", 
+  "ScreenName": "家庭环境量表"
+ }, 
+ "HKU-CSRP": {
+  "XmlPath": "./quiz/Q06_SCD/HKU-CSRP.xml", 
+  "Intro": "本问卷主要调查了解用户在生活中通过网络进行沟通的习惯。", 
+  "ScreenName": "网络沟通习惯问卷"
+ }, 
+ "Q1_CellPhone": {
+  "XmlPath": "./quiz/Q01_IPsy/Cellphone.xml", 
+  "Intro": "本问卷主要调查用户手机使用行为习惯的个性化特点。", 
+  "ScreenName": "手机使用行为问卷"
+ }, 
+ "Q1_Continuous": {
+  "XmlPath": "./quiz/Q01_IPsy/P3_Continuous.xml", 
+  "Intro": "本问卷主要调查用户对长时间使用微博的态度和心理意愿。", 
+  "ScreenName": "微博持续使用意愿问卷"
+ }, 
+ "Q1_Cyber": {
+  "XmlPath": "./quiz/Q01_IPsy/P1_UsingCyber.xml", 
+  "Intro": "本问卷主要调查用户微博使用行为习惯的个性化特点。", 
+  "ScreenName": "微博使用行为问卷"
+ }, 
+ "Q1_Deomographic": {
+  "XmlPath": "./quiz/Q01_IPsy/P4_BasicInfo.xml", 
+  "Intro": "本问卷主要调查用户的基本信息资料。", 
+  "ScreenName": "个人信息调查"
+ }, 
+ "Q1_Motion": {
+  "XmlPath": "./quiz/Q01_IPsy/P2_Motion.xml", 
+  "Intro": "本问卷主要调查用户在日常生活中使用微博的个性化原因。", 
+  "ScreenName": "微博使用动机问卷"
+ }, 
+ "Q1_Weibo": {
+  "XmlPath": "./quiz/Q01_IPsy/P5_WeiboBasic.xml", 
+  "Intro": "本问卷调查了解用户使用微博的基本情况和习惯。", 
+  "ScreenName": "微博使用基本情况"
+ }, 
+ "Q2_CES-D": {
+  "XmlPath": "./quiz/Q02_2K/Q2_CES-D.xml", 
+  "Intro": "本问卷主要调查用户在生活中的抑郁状况。", 
+  "ScreenName": "心理抑郁状况调查问卷"
+ }, 
+ "Q2_Demographic": {
+  "XmlPath": "./quiz/Q02_2K/Q2_Demographic.xml", 
+  "Intro": "本问卷调查了解填写问卷用户的个人基本情况。", 
+  "ScreenName": "个人基本信息调查"
+ }, 
+ "Q2_MBSupport": {
+  "XmlPath": "./quiz/Q02_2K/Q2_SSQ6.xml", 
+  "Intro": "本问卷主要调查用户在使用微博时候体验到的支持感。", 
+  "ScreenName": "微博使用社会支持感问卷"
+ }, 
+ "Q2_NetAddiction": {
+  "XmlPath": "./quiz/Q02_2K/Q2_InternetAddiction.xml", 
+  "Intro": "本问卷主要调查用户上网时的行为习惯和成瘾倾向。", 
+  "ScreenName": "互联网使用行为习惯"
+ }, 
+ "Q2_SIAnx": {
+  "XmlPath": "./quiz/Q02_2K/Q2_SIAnx.xml", 
+  "Intro": "本问卷主要调查用户在社会交往中的心理状况。", 
+  "ScreenName": "社会交往状况测试"
+ }, 
+ "Q2_STAnx": {
+  "XmlPath": "./quiz/Q02_2K/Q2_STAnx.xml", 
+  "Intro": "本问卷主要调查用户在生活中的特质与状态焦虑状况。", 
+  "ScreenName": "状态特质焦虑状况评估"
+ }, 
+ "Q2_UCLAAl": {
+  "XmlPath": "./quiz/Q02_2K/Q2_Loneliness.xml", 
+  "Intro": "本问卷调查用户在日常生活中的孤独感情况。", 
+  "ScreenName": "孤独感测试量表"
+ }, 
+ "SaPBS": {
+  "XmlPath": "./quiz/Q06_SCD/SPS_+HKU-SBS.xml", 
+  "Intro": "本问卷测评填写者的自杀可能性与自杀行为，研究结果供科研使用。", 
+  "ScreenName": "自杀可能性与自杀行为量表"
+ }, 
+ "SAS": {
+  "XmlPath": "./quiz/Q06_SCD/SAS.xml", 
+  "Intro": "本问卷调查了解您的心理焦虑情绪和倾向。", 
+  "ScreenName": "焦虑自评量表"
+ }, 
+ "SCL90R": {
+  "XmlPath": "./quiz/Q00/SCL90R.xml", 
+  "Intro": "本问卷基于SCL90-R心理健康测试量表，可以测量您的心理健康状况。", 
+  "ScreenName": "SCL90-R心理健康测试"
+ }, 
+ "SDS": {
+  "XmlPath": "./quiz/Q06_SCD/SDS.xml", 
+  "Intro": "本问卷调查了解您的心理抑郁情绪和倾向。", 
+  "ScreenName": "抑郁自评量表"
+ }, 
+ "SINA_CES-D": {
+  "XmlPath": "./quiz/Q05_Sina/SINA_CES-D.xml", 
+  "Intro": "本问卷主要测评用户在生活中的心理抑郁状况。", 
+  "ScreenName": "心理抑郁状况测量量表"
+ }, 
+ "SINA_Demo": {
+  "XmlPath": "./quiz/Q05_Sina/SINA_Demo.xml", 
+  "Intro": "本问卷调查了解您的基本信息，用于分析研究。", 
+  "ScreenName": "个人及家庭基本情况调查"
+ }, 
+ "SINA_SAS": {
+  "XmlPath": "./quiz/Q05_Sina/SINA_SAS.xml", 
+  "Intro": "本问卷主要测评用户在生活中的心理焦虑状况。", 
+  "ScreenName": "心理焦虑状况测量量表"
+ }, 
+ "SINA_SINA": {
+  "XmlPath": "./quiz/Q05_SINA/SINA_SINA.xml", 
+  "Intro": "本问卷调查由中科院心理所和新浪微博联合发起，调查微博用户使用微博状况、心理状况。", 
+  "ScreenName": "新浪微博用户调查"
+ }, 
+ "SINA_Soc": {
+  "XmlPath": "./quiz/Q05_Sina/SINA_Soc.xml", 
+  "Intro": "本问卷调查了解居民的社会态度，调查结果用于科学研究。", 
+  "ScreenName": "居民社会态度调查"
+ }, 
+ "SINA_SWLS": {
+  "XmlPath": "./quiz/Q05_Sina/SINA_SWLS.xml", 
+  "Intro": "本问卷主要测评用户的生活满意度状况。", 
+  "ScreenName": "生活满意度测量量表"
+ }, 
+ "Soc_Demo": {
+  "XmlPath": "./quiz/Q04_GD/Soc0_Demographic.xml", 
+  "Intro": "本问卷调查了解您的基本信息，用于分析研究。", 
+  "ScreenName": "个人基本情况调查"
+ }, 
+ "Soc_EcoSoc": {
+  "XmlPath": "./quiz/Q04_GD/Soc3_EcoSoc.xml", 
+  "Intro": "本问卷调查了解您对当前的一些经济和社会问题的看法，用于科学研究。", 
+  "ScreenName": "对经济与社会问题态度调查"
+ }, 
+ "Soc_GOV": {
+  "XmlPath": "./quiz/Q04_GD/Soc2_Government.xml", 
+  "Intro": "本问卷调查了解您对政府工作的满意程度，用于科学研究。", 
+  "ScreenName": "对政府工作态度调查"
+ }, 
+ "Soc_Justice": {
+  "XmlPath": "./quiz/Q04_GD/Soc5_Justice.xml", 
+  "Intro": "本问卷调查了解您对当前社会公平问题相关的问题的看法，用于科研。", 
+  "ScreenName": "社会公平问题调查"
+ }, 
+ "Soc_WorkLife": {
+  "XmlPath": "./quiz/Q04_GD/Soc1_WorkLife.xml", 
+  "Intro": "本问卷调查了解您现在的工作、生活的基本情况，用于科研。", 
+  "ScreenName": "工作与生活状况调查"
+ }, 
+ "SPS": {
+  "XmlPath": "./quiz/Q06_SCD/SPS.xml", 
+  "Intro": "本问卷测评填写者的自杀可能性，研究结果供科研使用。", 
+  "ScreenName": "自杀可能性量表"
+ }, 
+ "SWB": {
+  "XmlPath": "./quiz/Q00/SWB.xml", 
+  "Intro": "本问卷主要调查用户的生活满意度和生活愉悦体验。", 
+  "ScreenName": "主观幸福感测试问卷"
+ }
+}

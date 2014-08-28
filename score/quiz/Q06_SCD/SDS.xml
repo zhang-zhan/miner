@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+心理焦虑状况测量量表
+-->
+
+<questionnaire>
+  <description>
+    <identifier>SDS</identifier>
+    <caption>抑郁自评量表</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对抑郁评价而设计的。通过填写本量表，您可以评测您的焦虑状况。
+　　下面有二十条文字，请仔细阅读每一条，把意思弄明白，然后根据您最近一星期的实际感受，选择与您的感受最相符的选项。
+
+　　请您注意，下面这个测试是根据您【一周内的】情绪体验、实践活动回答：
+　　　　1.没有或很少时间(过去一周内，出现这类情况的日子不超过1天)；
+　　　　2.小部分时间(过去一周内，有1-2天有过这类情况)；
+　　　　3.相当多时间(过去一周内，3-4天有过这类情况）；
+　　　　4.绝大部分或全部时间(过去一周内，有5-7天有过这类情况)。
+
+　　本问卷为调查性问卷，我们向您承诺，我们会严格遵守协议，将您的填写结果将只用于科学研究，绝不会以任何形式泄漏您的隐私。请您放心填写真实信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。
+	]]>
+	</information>
+  </description>
+
+  <questions>
+    <question qid="q01" tag="D">
+      <title>最近一星期以来，我感到情绪沮丧，郁闷</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q02" tag="D">
+      <title>最近一星期以来，我感到早晨心情最好</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q03" tag="D">
+      <title>最近一星期以来，我要哭或想哭</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q04" tag="D">
+      <title>最近一星期以来，我夜间睡眠不好</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q05" tag="D">
+      <title>最近一星期以来，我吃饭象平时一样多</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q06" tag="D">
+      <title>最近一星期以来，我的性功能正常</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q07" tag="D">
+      <title>最近一星期以来，我感到体重减轻</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q08" tag="D">
+      <title>最近一星期以来，我为便秘烦恼</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q09" tag="D">
+      <title>最近一星期以来，我的心跳比平时快</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q10" tag="D">
+      <title>最近一星期以来，我无故感到疲劳</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q11" tag="D">
+      <title>最近一星期以来，我的头脑象往常一样清楚</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q12" tag="D">
+      <title>最近一星期以来，我做事情象平时一样不感到困难</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q13" tag="D">
+      <title>最近一星期以来，我坐卧不安，难以保持平静</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q14" tag="D">
+      <title>最近一星期以来，我对未来感到有希望</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q15" tag="D">
+      <title>最近一星期以来，我比平时更容易激怒</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q16" tag="D">
+      <title>最近一星期以来，我觉得决定什么事很容易</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q17" tag="D">
+      <title>最近一星期以来，我感到自已是有用的和不可缺少的人</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q18" tag="D">
+      <title>最近一星期以来，我的生活很有意义</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q19" tag="D">
+      <title>最近一星期以来，假若我死了别人会过得更好</title>
+      <answer aid="a1" score="0">没有或很少时间</answer>
+      <answer aid="a2" score="1">少部分时间</answer>
+      <answer aid="a3" score="2">相当多时间</answer>
+      <answer aid="a4" score="3">绝大部分或全部时间</answer>
+    </question>
+
+    <question qid="q20" tag="D">
+      <title>最近一星期以来，我仍旧喜爱自己平时喜爱的东西</title>
+      <answer aid="a1" score="3">没有或很少时间</answer>
+      <answer aid="a2" score="2">少部分时间</answer>
+      <answer aid="a3" score="1">相当多时间</answer>
+      <answer aid="a4" score="0">绝大部分或全部时间</answer>
+    </question>
+  </questions>
+  
+   <tags>
+	<tag name="A" label="心理抑郁"><![CDATA[本问卷对您的焦虑状况进行了测评。]]>
+	</tag>
+   </tags>
+   
+   <remarks>
+    <remark tag="D" minScore="min" maxScore="20">你的分数处于低水平范围：根据问卷的得分显示，你在此刻并没有或只有很少的抑郁症状，并没有深陷于抑郁情绪的困扰。如果你觉得自己可能已经陷入了抑郁情绪状态，那么建议你立刻去求助于专业的心理咨询人员。</remark>
+    <remark tag="D" minScore="20" maxScore="40">你的分数处于中等水平范围：你可能有轻微或轻度抑郁情绪问题。建议你寻求专业性的建议与指导，从而帮助你提高自身的情绪应对能力并在未来免遭类似的消极情绪困扰。</remark>
+    <remark tag="D" minScore="40" maxScore="max">你的分数处于高水平范围：这说明在你身上具有比其他人更多的抑郁症状。你可能比较容易遭到抑郁情绪的侵袭。我们建议你去向专业的心理咨询或治疗人员寻求帮助，从而彻底检查自己的心理健康状态。</remark>
+   </remarks>
+
+</questionnaire>

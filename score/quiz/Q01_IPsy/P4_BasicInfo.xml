@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	此问卷由心理所提供，源问卷参见Word文件《第四部分 基本信息》。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q1_Deomographic</identifier>
+    <caption>微博使用情况测试量表</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是为了了解微博用户群的基本信息而设计的。
+您的填写结果将作科研之用，我们确保为您保密！]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="sex">
+      <title>您的性别：</title>
+      <answer aid="m" score="0">男性</answer>
+      <answer aid="f" score="0">女性</answer>
+    </question>
+
+    <question qid="age">
+      <title>您的年龄段：</title>
+      <answer aid="l18" score="1">18岁以下</answer>
+      <answer aid="l20" score="2">18~20岁</answer>
+      <answer aid="l25" score="3">21~25岁</answer>
+      <answer aid="l30" score="4">26~30岁</answer>
+	  <answer aid="l35" score="5">31~35岁</answer>
+	  <answer aid="l40" score="6">36~40岁</answer>
+	  <answer aid="l45" score="7">41~45岁</answer>
+	  <answer aid="l50" score="8">46~50岁</answer>
+	  <answer aid="g50" score="9">50岁以上</answer>
+    </question>
+	
+	<question qid="edu">
+      <title>您的学历：</title>
+      <answer aid="pr" score="1">小学及以下</answer>
+      <answer aid="md" score="2">初中</answer>
+      <answer aid="hi" score="3">高中</answer>
+	  <answer aid="zz" score="4">中专</answer>
+	  <answer aid="dz" score="5">大专</answer>
+      <answer aid="ug" score="6">大学本科</answer>
+	  <answer aid="ms" score="7">硕士研究生</answer>
+	  <answer aid="dr" score="8">博士研究生</answer>
+    </question>
+	
+	<question qid="job">
+      <title>您的职业：</title>
+      <answer aid="wk" score="1">工人</answer>
+      <answer aid="fm" score="2">农民</answer>
+      <answer aid="of" score="3">公务员</answer>
+	  <answer aid="dr" score="4">医生/护士</answer>
+	  <answer aid="ck" score="5">职员</answer>
+      <answer aid="md" score="6">媒体从业人员</answer>
+	  <answer aid="st" score="7">学生</answer>
+	  <answer aid="rs" score="8">科研人员/教师</answer>
+	  <answer aid="so" score="9">军人/武警</answer>
+	  <answer aid="bu" score="10">自主经营者</answer>
+	  <answer aid="fr" score="11">自由职业者</answer>
+	  <answer aid="no" score="12">失业人群</answer>
+	  <answer aid="ot" score="13">其他</answer>
+    </question>
+
+    <question qid="mn">
+      <title>您每月个人可自由支配的钱数为：</title>
+      <answer aid="l5h" score="1">500元以下</answer>
+      <answer aid="l1k" score="2">500—1000元</answer>
+      <answer aid="l2k" score="3">1000—2000元</answer>
+      <answer aid="l5k" score="4">2000—5000元</answer>
+	  <answer aid="g5k" score="5">5000元以上</answer>
+    </question>
+    
+	<question qid="grw">
+      <title>您成长所在地为：</title>
+      <answer aid="c1" score="1">直辖市及省会</answer>
+      <answer aid="c2" score="2">一般城市</answer>
+	  <answer aid="to" score="3">城镇</answer>
+      <answer aid="vi" score="4">农村</answer>
+    </question>
+	
+    <question qid="liv">
+      <title>您目前工作（学习）所在地为：</title>
+      <answer aid="c1" score="1">直辖市及省会</answer>
+      <answer aid="c2" score="2">一般城市</answer>
+	  <answer aid="to" score="3">城镇</answer>
+      <answer aid="vi" score="4">农村</answer>
+    </question>
+
+    <question qid="livT">
+      <title>您目前工作（学习）所在地居住时间为：</title>
+      <answer aid="l1" score="1">1年及以下</answer>
+      <answer aid="l3" score="2">1-3年</answer>
+      <answer aid="l5" score="3">3-5年</answer>
+      <answer aid="l10" score="4">5-10年</answer>
+      <answer aid="g10" score="5">大于10年</answer>
+    </question>
+
+  </questions>
+
+  
+  <tags>
+	<tag name="" label="致谢"><![CDATA[非常感谢您填写我们的问卷调查！]]></tag>
+  </tags>
+
+  <remarks>
+    <remark minScore="min" maxScore="max">您的填写结果将用作科学研究。</remark>
+  </remarks>
+
+</questionnaire>

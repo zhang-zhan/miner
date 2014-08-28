@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	此问卷由心理所提供，问题参见Word文档《第一部分 网络及微博使用情况》。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q1_Cyber</identifier>
+    <caption>网络及微博使用情况</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对微博使用行为动机调查而设计的。
+您填写的信息结果将用于我们进行科学研究，十分感谢您的合作！]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+      <title>您接触网络有多长时间：</title>
+      <answer aid="l1" score="0">少于1年</answer>
+      <answer aid="l3" score="2">2-3年</answer>
+	  <answer aid="l5" score="4">3-5年</answer>
+	  <answer aid="l10" score="6">5-10年</answer>
+	  <answer aid="g10" score="8">10年以上</answer>
+    </question>
+  
+    <question qid="q2">
+      <title>目前，你使用网络的频率是</title>
+      <answer aid="a" score="0">有事情时，偶尔使用</answer>
+      <answer aid="b" score="2">每天使用2小时以下</answer>
+	  <answer aid="c" score="4">每天使用2-4小时</answer>
+	  <answer aid="d" score="6">每天使用4-8小时</answer>
+	  <answer aid="e" score="8">每天使用8小时以上</answer>
+    </question>
+	
+	<question qid="q3" type="multi">
+      <title>目前，你使用网络的哪几项功能？(可多选)</title>
+      <answer aid="a" score="1">听音乐</answer>
+      <answer aid="b" score="1">看视频</answer>
+	  <answer aid="c" score="1">阅读各类新闻</answer>
+	  <answer aid="d" score="1">查找信息</answer>
+	  <answer aid="e" score="1">分享信息</answer>
+	  <answer aid="f" score="1">人际交往（聊天BBS、论坛、Email等）</answer>
+	  <answer aid="g" score="1">购物</answer>
+	  <answer aid="h" score="1">学习</answer>
+	  <answer aid="i" score="1">在线游戏</answer>
+	  <answer aid="j"  score="1" type="text">其他(请具体列出:)</answer>
+    </question>
+	
+	<question qid="q4">
+      <title>目前，你使用新浪微博的频率是</title>
+      <answer aid="a" score="0">几乎不使用</answer>
+      <answer aid="b" score="1">偶尔使用</answer>
+	  <answer aid="c" score="2">每周几次</answer>
+	  <answer aid="d" score="4">每天使用几次</answer>
+	  <answer aid="e" score="8">随时在线</answer>
+    </question>
+	
+	<question qid="q5">
+      <title>目前，你觉得你每天花在新浪微博上的时间是</title>
+      <answer aid="a" score="0">少于15分钟</answer>
+      <answer aid="b" score="1">15-30分钟</answer>
+	  <answer aid="c" score="2">30分钟-1个小时</answer>
+	  <answer aid="d" score="3">1-2个小时</answer>
+	  <answer aid="e" score="4">多于2个小时</answer>
+    </question>
+	
+	<question qid="q6" type="multi">
+      <title>你是如何开始使用新浪微博？(可多选)</title>
+      <answer aid="a" score="1">朋友推荐</answer>
+      <answer aid="b" score="1">看到周围人使用</answer>
+	  <answer aid="c" score="1">网络媒体宣传</answer>
+	  <answer aid="d" score="1">为了关注某个人（组织、群体）</answer>
+	  <answer aid="e" score="1">自身需求</answer>
+	  <answer aid="f" score="1">特定原因（例如公司要求使用）</answer>
+	  <answer aid="g" score="1">其他</answer>
+    </question>
+	
+	<question qid="q7">
+      <title>在你关注的人中，有多少是你熟悉认识的人</title>
+      <answer aid="a" score="0">0-50个</answer>
+      <answer aid="b" score="1">50-100个</answer>
+	  <answer aid="c" score="2">100-200个</answer>
+	  <answer aid="d" score="4">200-500个</answer>
+	  <answer aid="e" score="8">500以上</answer>
+    </question>
+	
+	<question qid="q8">
+      <title>在你的粉丝中，有多少是你熟悉认识的人</title>
+	  <answer aid="a" score="0">0-50个</answer>
+      <answer aid="b" score="1">50-100个</answer>
+	  <answer aid="c" score="2">100-200个</answer>
+	  <answer aid="d" score="4">200-500个</answer>
+	  <answer aid="e" score="8">500以上</answer>
+    </question>
+
+	<question qid="q9" type="multi">
+      <title>你关注的个人主页有以下哪些类型？（可多选；选项较多，请您拖动右侧的滚动条查看所有内容）</title>
+	  <answer aid="a" score="1">娱乐</answer>
+	  <answer aid="b" score="1">体育</answer>
+	  <answer aid="c" score="1">时尚</answer>
+	  <answer aid="d" score="1">生活</answer>
+	  <answer aid="e" score="1">财经</answer>
+	  <answer aid="f" score="1">文学出版</answer>
+	  <answer aid="g" score="1">传媒</answer>
+	  <answer aid="h" score="1">旅游</answer>
+	  <answer aid="i" score="1">游戏</answer>
+	  <answer aid="j" score="1">动漫</answer>
+	  <answer aid="k" score="1">微博之星</answer>
+	  <answer aid="l" score="1">校园</answer>
+	  <answer aid="m" score="1">公益人士</answer>
+	  <answer aid="n" score="1">两会代表</answer>
+	  <answer aid="o" score="1">农业</answer>
+	  <answer aid="p" score="1">政府官员</answer>
+	  <answer aid="q" score="1">房产</answer>
+	  <answer aid="r" score="1">军事航空</answer>
+	  <answer aid="s" score="1">育儿</answer>
+	  <answer aid="t" score="1">广告公关</answer>
+	  <answer aid="u" score="1">科普</answer>
+	  <answer aid="v" score="1">汽车</answer>
+	  <answer aid="w" score="1">人体艺术</answer>
+	  <answer aid="x" score="1">IT</answer>
+	  <answer aid="y" score="1">自己朋友</answer>
+    </question>
+
+	<question qid="q10" type="multi">
+      <title>以下哪种方式是你最经常使用新浪微博的方式(可多选)</title>
+      <answer aid="a" score="1">网页版</answer>
+      <answer aid="b" score="1">电脑桌面版</answer>
+	  <answer aid="c" score="1">移动终端版</answer>
+	  <answer aid="d"  score="1" type="text">其他(请具体列出:)</answer>
+    </question>
+	
+	<question qid="q11">
+      <title>每周参与新浪微博投票的次数大概是</title>
+      <answer aid="a" score="0">0次，从不参与</answer>
+      <answer aid="b" score="1">1-3次，比较少参与</answer>
+	  <answer aid="c" score="2">4-6次，比较积极的参与</answer>
+	  <answer aid="d" score="3">7次以上，非常热衷的参与</answer>
+    </question>
+	
+	<question qid="q12">
+      <title>你平均每天@别人的频率大概是</title>
+      <answer aid="a" score="0">0次，不了解这个功能</answer>
+      <answer aid="b" score="1">1-3次，有，但不太多</answer>
+	  <answer aid="c" score="2">4-9次，还算不少</answer>
+	  <answer aid="d" score="4">10次及以上，非常多</answer>
+    </question>
+	
+	<question qid="q13" type="multi">
+      <title>以下新浪微博功能你使用过哪几个（可多选；选项较多，请您拖动右侧的滚动条查看所有内容）</title>
+	  <answer aid="a" score="1">名人堂</answer>
+	  <answer aid="b" score="1">微博达人</answer>
+	  <answer aid="c" score="1">风云榜</answer>
+	  <answer aid="d" score="1">微话题</answer>
+	  <answer aid="e" score="1">微博精选</answer>
+	  <answer aid="f" score="1">随便看看</answer>
+	  <answer aid="g" score="1">同城微博</answer>
+	  <answer aid="h" score="1">微访谈</answer>
+	  <answer aid="i" score="1">微直播</answer>
+	  <answer aid="j" score="1">大屏幕</answer>
+	  <answer aid="k" score="1">热门微博</answer>
+	  <answer aid="l" score="1">微电台</answer>
+	  <answer aid="m" score="1" type="text">其他（请详细列出:）</answer>
+    </question>
+	
+	<question qid="q14" type="multi">
+		<title>在你的新浪微博上，你关注了哪类微群(可多选)</title>
+		<answer aid="a" score="1">明星粉丝</answer>
+		<answer aid="b" score="1">兴趣爱好</answer>
+		<answer aid="c" score="1">同城生活</answer>
+		<answer aid="d" score="1">行业交流</answer>
+		<answer aid="e" score="1">同学校园</answer>
+    </question>
+	
+	<question qid="q15" type="multi">
+		<title>下列关于兴趣爱好的微群中，你会关注哪类（可多选；选项较多，请您拖动右侧的滚动条查看所有内容）</title>
+		<answer aid="a" score="1">囧笑话</answer>
+		<answer aid="b" score="1">动漫</answer>
+		<answer aid="c" score="1">游戏</answer>
+		<answer aid="d" score="1">体育</answer>
+		<answer aid="e" score="1">购物</answer>
+		<answer aid="f" score="1">旅游</answer>
+		<answer aid="g" score="1">摄影</answer>
+		<answer aid="h" score="1">音乐</answer>
+		<answer aid="i" score="1">电影</answer>
+		<answer aid="j" score="1">电视</answer>
+		<answer aid="k" score="1">数码</answer>
+		<answer aid="l" score="1">稀奇古怪</answer>
+    </question>
+	
+	<question qid="q16" type="multi">
+		<title>在新浪微博应用中，你使用了哪类应用(可多选)</title>
+		<answer aid="a" score="1">娱乐类（星座运势、相册、游戏等）</answer>
+		<answer aid="b" score="1">生活类（日程、购物、天气、旅游、美食、健康等）</answer>
+		<answer aid="c" score="1">社交类（好友互动、社区交友、聊天、婚配等）</answer>
+		<answer aid="d" score="1">资讯类（新闻、杂志等）</answer>
+		<answer aid="e" score="1">工具类（粉丝管理、提醒管理、关注管理、RSS订阅等）</answer>
+    </question>
+	
+	<question qid="q17" type="multi">
+      <title>你使用新浪微博的主要目的是（可多选；选项较多，请您拖动右侧的滚动条查看所有内容）</title>
+		<answer aid="a" score="1">关注新闻</answer>
+		<answer aid="b" score="1">寻找信息</answer>
+		<answer aid="c" score="1">关注喜欢的明星</answer>
+		<answer aid="d" score="1">关注自己的同学</answer>
+		<answer aid="e" score="1">玩游戏</answer>
+		<answer aid="f" score="1">网上冲浪</answer>
+		<answer aid="g" score="1">网上购物</answer>
+		<answer aid="h" score="1">金融服务</answer>
+		<answer aid="i" score="1">在线阅读报纸杂志</answer>
+		<answer aid="j" score="1">在线社交</answer>
+		<answer aid="k" score="1">发表个人评论</answer>
+		<answer aid="l" score="1">为了完成工作和学习的必备工具</answer>
+		<answer aid="m" score="1">为了寻求帮助</answer>
+		<answer aid="n" score="1">为了参加某些活动的互动</answer>
+		<answer aid="o" score="1" type="text">其他（请具体列出）</answer>
+    </question>
+	
+	<question qid="q18" type="text">
+		<title>您觉得使用新浪微博给您带来的好处有哪些？</title>
+    </question>
+	
+	<question qid="q19" type="text">
+		<title>您觉得新浪微博有哪些不足？</title>
+    </question>
+	
+  </questions>
+
+  <tags>
+	<tag name="" label="致谢"><![CDATA[非常感谢您填写我们的问卷调查！]]></tag>
+  </tags>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">您的填写结果将用作科学研究之用。</remark>
+  </remarks>
+
+</questionnaire>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>Q1_Weibo</identifier>
+    <caption>微博使用情况测试量表</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对微博使用而设计的。通过填写本量表，您可以评测您的性格。]]>
+	</information>
+    <interfacetype>CompareToAverage</interfacetype>
+  </description>
+
+  <questions>
+	<question qid="sex">
+      <title>您的性别：</title>
+      <answer aid="m" score="0">男性</answer>
+      <answer aid="f" score="1">女性</answer>
+    </question>
+  
+    <question qid="nation">
+      <title>您的民族：</title>
+      <answer aid="h" score="0">汉族</answer>
+      <answer aid="o" score="1">其它少数民族</answer>
+    </question>
+
+    <question qid="age">
+      <title>您的年龄段：</title>
+      <answer aid="l16" score="1">16岁</answer>
+      <answer aid="l18" score="2">16~18岁</answer>
+      <answer aid="l22" score="3">18~22岁</answer>
+      <answer aid="l27" score="4">22~27岁</answer>
+      <answer aid="l35" score="5">27~35岁</answer>
+	  <answer aid="l45" score="6">35~45岁</answer>
+	  <answer aid="l55" score="7">45~55岁</answer>
+	  <answer aid="l65" score="8">55~65岁</answer>
+	  <answer aid="g65" score="9">>65岁</answer>
+    </question>
+
+    <question qid="in">
+      <title>您的家庭月收入：</title>
+      <answer aid="l2k" score="1">2000元以下</answer>
+      <answer aid="l4k" score="2">2000—4000元</answer>
+      <answer aid="l6k" score="3">4001—6000元</answer>
+      <answer aid="l8k" score="4">6001—8000元</answer>
+      <answer aid="l10k" score="5">8001—10000元</answer>
+	  <answer aid="g10k" score="6">10000元以上</answer>
+    </question>
+
+    <question qid="edu">
+      <title>您的受教育程度：</title>
+      <answer aid="no" score="1">小学以下</answer>
+      <answer aid="pr" score="2">小学</answer>
+      <answer aid="md" score="3">初中</answer>
+      <answer aid="hi" score="4">高中</answer>
+      <answer aid="ug" score="5">大学本科（第二学位）</answer>
+	  <answer aid="ms" score="6">硕士研究生</answer>
+	  <answer aid="dr" score="7">博士研究生</answer>
+    </question>
+
+    <question qid="liv">
+      <title>家庭所在地：</title>
+      <answer aid="ci" score="1">城市</answer>
+      <answer aid="to" score="2">乡镇</answer>
+      <answer aid="vi" score="3">农村</answer>
+    </question>
+
+    <question qid="stu">
+      <title>是否为学生在读：</title>
+      <answer aid="y" score="0">是</answer>
+      <answer aid="n" score="1">否</answer>
+    </question>
+
+    <question qid="regT">
+      <title>注册“微博”账户的时间长度：</title>
+      <answer aid="l1" score="1">小于1年</answer>
+      <answer aid="y1" score="2">1年</answer>
+      <answer aid="y2" score="3">2年</answer>
+      <answer aid="y3" score="4">3年</answer>
+	  <answer aid="y4" score="5">4年</answer>
+	  <answer aid="y5" score="6">5年</answer>
+	  <answer aid="y6" score="7">6年</answer>
+      <answer aid="g6" score="8">大于6年</answer>
+    </question>
+
+    <question qid="rlPic">
+      <title>在“微博”中是否上传真实头像：</title>
+      <answer aid="t" score="0">是</answer>
+      <answer aid="f" score="1">否</answer>
+    </question>
+
+    <question qid="rlNm">
+      <title>在“微博”中使用真实姓名：</title>
+      <answer aid="t" score="0">是</answer>
+      <answer aid="f" score="1">否</answer>
+    </question>
+
+    <question qid="rlCnt">
+      <title>在“微博”中公开个人联系方式（电话、邮箱、QQ、MSN）：</title>
+      <answer aid="t" score="0">是</answer>
+      <answer aid="f" score="1">否</answer>
+    </question>
+
+    <question qid="friSex">
+      <title>您在‘微博’个人账户中多数好友的性别是：</title>
+      <answer aid="m" score="0">男性</answer>
+      <answer aid="f" score="1">女性</answer>
+    </question>
+  </questions>
+
+  <remarks>
+    <remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

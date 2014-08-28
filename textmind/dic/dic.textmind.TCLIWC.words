@@ -1,0 +1,6596 @@
+%【说明】本文件内的词语为：TCLIWC词汇。
+表演	achieve	leisure
+暢銷	achieve	leisure
+關係	achieve	social
+慶祝	achieve	social
+著名	achieve	social
+本領	achieve
+不配	achieve
+才華	achieve
+殘存	achieve
+策劃	achieve
+超級	achieve
+超越	achieve
+誠懇	achieve
+馳名	achieve
+存活	achieve
+達成	achieve
+達人	achieve
+大紅大紫	achieve
+登峰造極	achieve
+締結	achieve
+巔峰	achieve
+頂尖	achieve
+東山再起	achieve
+對策	achieve
+發憤	achieve
+反敗為勝	achieve
+飛黃騰達	achieve
+奮鬥	achieve
+奮發	achieve
+改良	achieve
+趕過	achieve
+高層	achieve
+高等	achieve
+高級	achieve
+高手	achieve
+功效	achieve
+苟延殘喘	achieve
+夯	achieve
+好手	achieve
+核准	achieve
+回報	achieve
+獲取	achieve
+級別	achieve
+技能	achieve
+技巧	achieve
+技術	achieve
+技藝	achieve
+計策	achieve
+計謀	achieve
+堅忍	achieve
+佼佼者	achieve
+腳踏實地	achieve
+解套	achieve
+錦標	achieve
+晉升	achieve
+菁英	achieve
+精通	achieve
+決策者	achieve
+可行	achieve
+克服	achieve
+離職	achieve
+力量	achieve
+力爭	achieve
+良機	achieve
+名聞遐邇	achieve
+磨練	achieve
+能力	achieve
+能手	achieve
+逆轉	achieve
+女王	achieve
+平凡	achieve
+普通	achieve
+潛力	achieve
+潛在	achieve
+強大	achieve
+強度	achieve
+勤奮	achieve
+勤懇	achieve
+勤勉	achieve
+驅策	achieve
+權力	achieve
+權勢	achieve
+權威	achieve
+燃盡	achieve
+人脈	achieve
+任命	achieve
+神乎其技	achieve
+升遷	achieve
+時機	achieve
+實力	achieve
+適任	achieve
+授予	achieve
+熟練	achieve
+天份	achieve
+偷懶	achieve
+威信	achieve
+無比	achieve
+無敵	achieve
+嫻熟	achieve
+限制	achieve
+倖存	achieve
+勳章	achieve
+一流	achieve
+意志	achieve
+毅力	achieve
+用功	achieve
+用心	achieve
+優等	achieve
+誘因	achieve
+遠近馳名	achieve
+贊許	achieve
+造詣	achieve
+戰略	achieve
+職權	achieve
+中等	achieve
+賺取	achieve
+走後門	achieve
+以前	adverb	funct	prepend	relative	pastm	time	tensem
+至今	adverb	funct	prepend	relative	time	tensem	progm
+此刻	adverb	funct	presentm	relative	time	tensem
+目前	adverb	funct	presentm	relative	time	tensem
+現在	adverb	funct	presentm	relative	time	tensem
+馬上	adverb	funct	relative	futurem	time	tensem
+當時	adverb	funct	relative	pastm	time	tensem	conj
+剛	adverb	funct	relative	pastm	time	tensem
+剛才	adverb	funct	relative	pastm	time	tensem
+剛剛	adverb	funct	relative	pastm	time	tensem
+近期	adverb	funct	relative	time	tensem	progm
+必	adverb	funct
+畢竟	adverb	funct
+便	adverb	funct
+常	adverb	funct
+大都	adverb	funct
+大多	adverb	funct
+大幅	adverb	funct
+倒	adverb	funct
+到底	adverb	funct
+多半	adverb	funct
+紛紛	adverb	funct
+更加	adverb	funct
+共	adverb	funct
+夠	adverb	funct
+過份	adverb	funct
+還	adverb	funct
+很	adverb	funct
+忽然	adverb	funct
+互相	adverb	funct
+即	adverb	funct
+即可	adverb	funct
+加以	adverb	funct
+簡單	adverb	funct
+漸漸	adverb	funct
+僅	adverb	funct
+進一步	adverb	funct
+竟	adverb	funct
+竟然	adverb	funct
+均	adverb	funct
+恐怕	adverb	funct
+陸續	adverb	funct
+乃	adverb	funct
+全然	adverb	funct
+確切	adverb	funct
+確實	adverb	funct
+仍舊	adverb	funct
+尚	adverb	funct
+甚	adverb	funct
+甚至	adverb	funct
+時時	adverb	funct
+實際	adverb	funct
+實在	adverb	funct
+隨地	adverb	funct
+太	adverb	funct
+特別	adverb	funct
+往後	adverb	funct
+相	adverb	funct
+相互	adverb	funct
+須	adverb	funct
+需	adverb	funct
+一般而言	adverb	funct
+一向	adverb	funct
+尤其	adverb	funct
+有沒有	adverb	funct
+予以	adverb	funct
+愈	adverb	funct
+愈來愈	adverb	funct
+原	adverb	funct
+遠遠	adverb	funct
+約	adverb	funct
+再度	adverb	funct
+這邊	adverb	funct
+這裡	adverb	funct
+這麼	adverb	funct
+這樣	adverb	funct
+真是	adverb	funct
+只好	adverb	funct
+至少	adverb	funct
+逐漸	adverb	funct
+自行	adverb	funct
+自然	adverb	funct
+沒	adverb
+分紅	affect	achieve	money
+懶散	affect	achieve	negemo	leisure
+長處	affect	achieve	posemo
+誠實	affect	achieve	posemo
+得意	affect	achieve	posemo
+改進	affect	achieve	posemo
+改善	affect	achieve	posemo
+高階	affect	achieve	posemo
+機敏	affect	achieve	posemo
+堅強	affect	achieve	posemo
+凱旋	affect	achieve	posemo
+滿足	affect	achieve	posemo
+能幹	affect	achieve	posemo
+強健	affect	achieve	posemo
+榮幸	affect	achieve	posemo
+榮耀	affect	achieve	posemo
+適當	affect	achieve	posemo
+順利	affect	achieve	posemo
+效率	affect	achieve	posemo
+英雄	affect	achieve	posemo
+優點	affect	achieve	posemo
+優秀	affect	achieve	posemo
+有效	affect	achieve	posemo
+贊同	affect	achieve	posemo
+自豪	affect	achieve	posemo
+自尊	affect	achieve	posemo
+最好	affect	achieve	posemo
+最佳	affect	achieve	posemo
+擊敗	affect	achieve
+驕傲	affect	achieve
+競爭	affect	achieve
+首要	affect	achieve
+戰勝	affect	achieve
+重大	affect	achieve
+認真	affect	adverb	achieve	funct
+過分	affect	adverb	funct
+沉迷	affect	anx	health	negemo	bio
+神經病	affect	anx	health	negemo	bio
+失眠	affect	anx	health	negemo	bio
+糊塗	affect	anx	negemo	cogmech
+不安	affect	anx	negemo	sad
+不知所措	affect	anx	negemo	sad
+打擊	affect	anx	negemo	sad
+受不了	affect	anx	negemo	sad
+震驚	affect	anx	negemo	sad
+繃緊	affect	anx	negemo
+不便	affect	anx	negemo
+不耐	affect	anx	negemo
+不耐煩	affect	anx	negemo
+不適	affect	anx	negemo
+操勞	affect	anx	negemo
+顫抖	affect	anx	negemo
+吃驚	affect	anx	negemo
+錯亂	affect	anx	negemo
+打擾	affect	anx	negemo
+擔憂	affect	anx	negemo
+膽怯	affect	anx	negemo
+膽小	affect	anx	negemo
+鋌而走險	affect	anx	negemo
+躲避	affect	anx	negemo
+發抖	affect	anx	negemo
+妨害	affect	anx	negemo
+分心	affect	anx	negemo
+風險	affect	anx	negemo
+尷尬	affect	anx	negemo
+掛念	affect	anx	negemo
+害怕	affect	anx	negemo
+害羞	affect	anx	negemo
+含糊	affect	anx	negemo
+混亂	affect	anx	negemo
+棘手	affect	anx	negemo
+焦急	affect	anx	negemo
+焦慮	affect	anx	negemo
+攪亂	affect	anx	negemo
+拮据	affect	anx	negemo
+緊繃	affect	anx	negemo
+緊張	affect	anx	negemo
+禁止	affect	anx	negemo
+懼怕	affect	anx	negemo
+可怕	affect	anx	negemo
+恐怖	affect	anx	negemo
+恐慌	affect	anx	negemo
+恐懼	affect	anx	negemo
+難堪	affect	anx	negemo
+內疚	affect	anx	negemo
+怕	affect	anx	negemo
+怕生	affect	anx	negemo
+怕羞	affect	anx	negemo
+牽掛	affect	anx	negemo
+人心惶惶	affect	anx	negemo
+弱點	affect	anx	negemo
+騷動	affect	anx	negemo
+神經質	affect	anx	negemo
+失控	affect	anx	negemo
+心煩意亂	affect	anx	negemo
+心神不定	affect	anx	negemo
+心神不寧	affect	anx	negemo
+壓力	affect	anx	negemo
+淹沒	affect	anx	negemo
+掙扎	affect	anx	negemo
+棒	affect	assent	posemo
+哈	affect	assent	posemo
+哈哈	affect	assent	posemo
+呵呵	affect	assent	posemo
+了不起	affect	assent	posemo
+ㄏㄏ	affect	assent
+渴求	affect	cogmech	discrep
+嚮往	affect	cogmech	discrep
+願	affect	cogmech	discrep
+誤會	affect	cogmech	insight	negemo	discrep
+誤解	affect	cogmech	insight	negemo	discrep
+錯	affect	cogmech	negemo	discrep
+錯誤	affect	cogmech	negemo	discrep
+輕忽	affect	cogmech	negemo	exclusive
+引誘	affect	cogmech	sexual	bio
+不可思議	affect	cogmech
+擔保	affect	cogmech
+無關緊要	affect	cogmech
+默哀	affect	death	negemo	sad
+致命	affect	death	negemo
+理想	affect	discrep	posemo	achieve	cogmech
+渴望	affect	discrep	posemo	bio	cogmech
+後悔	affect	discrep	sad	negemo	cogmech
+惋惜	affect	discrep	sad	negemo	cogmech
+恰好	affect	funct	adverb	posemo
+好	affect	funct	assent	adverb	posemo
+對	affect	funct	assent	quanunit	preps
+足夠	affect	funct	quant	cogmech
+多餘	affect	funct	quant	negemo	sad
+豐富	affect	funct	quant	posemo
+治療	affect	health	bio
+創傷	affect	health	negemo	bio
+精疲力竭	affect	health	negemo	bio
+精疲力盡	affect	health	negemo	bio
+弱	affect	health	negemo	bio
+生病	affect	health	negemo	bio
+痛	affect	health	negemo	bio
+活力	affect	health	posemo	bio
+敏感	affect	health	posemo	bio
+妨礙	affect	inhibition	anx	negemo	cogmech
+勉強	affect	inhibition	anx	negemo	cogmech
+強迫	affect	inhibition	anx	negemo	cogmech
+服從	affect	inhibition	cogmech
+克制	affect	inhibition	cogmech
+設防	affect	inhibition	cogmech
+嚴格	affect	inhibition	cogmech
+控制	affect	inhibition	negemo	achieve	cogmech
+不准	affect	inhibition	negemo	cogmech
+分歧	affect	inhibition	negemo	cogmech
+固執	affect	inhibition	negemo	cogmech
+疏忽	affect	inhibition	negemo	cogmech
+提防	affect	inhibition	negemo	cogmech
+狹隘	affect	inhibition	negemo	cogmech
+壓抑	affect	inhibition	negemo	cogmech
+壓制	affect	inhibition	negemo	cogmech
+嚴峻	affect	inhibition	negemo	cogmech
+抑制	affect	inhibition	negemo	cogmech
+約束	affect	inhibition	negemo	cogmech
+鎮壓	affect	inhibition	negemo	cogmech
+忽略	affect	inhibition	sad	negemo	cogmech
+忽視	affect	inhibition	sad	negemo	cogmech
+猜疑	affect	insight	anx	negemo	cogmech
+偏好	affect	insight	cogmech
+知識	affect	insight	cogmech
+粗心	affect	insight	negemo	cogmech
+曲解	affect	insight	negemo	cogmech
+果斷	affect	insight	posemo	achieve	cogmech
+激勵	affect	insight	posemo	achieve	cogmech
+堅決	affect	insight	posemo	achieve	cogmech
+決心	affect	insight	posemo	achieve	cogmech
+認可	affect	insight	posemo	achieve	cogmech
+下定決心	affect	insight	posemo	achieve	cogmech
+鼓舞	affect	insight	posemo	cogmech
+謹慎	affect	insight	posemo	cogmech
+理智	affect	insight	posemo	cogmech
+靈感	affect	insight	posemo	cogmech
+滿意	affect	insight	posemo	cogmech
+明智	affect	insight	posemo	cogmech
+深思	affect	insight	posemo	cogmech
+坦率	affect	insight	posemo	cogmech
+體會	affect	insight	posemo	cogmech
+細心	affect	insight	posemo	cogmech
+確定	affect	insight
+哇	affect	interjunction	assent	funct
+哎呀	affect	interjunction	funct
+從容	affect	leisure	posemo
+放鬆	affect	leisure	posemo
+輕鬆	affect	leisure	posemo
+玩耍	affect	leisure	posemo
+玩樂	affect	leisure	posemo
+笑話	affect	leisure	posemo
+興趣	affect	leisure	posemo
+悠閒	affect	leisure	posemo
+娛樂	affect	leisure	posemo
+自在	affect	leisure	posemo
+安逸	affect	leisure
+幻想	affect	leisure
+鬆懈	affect	leisure
+玩笑	affect	leisure
+閒散	affect	leisure
+尋歡作樂	affect	leisure
+捐贈	affect	money
+虧損	affect	negemo	achieve	sad
+輸掉	affect	negemo	achieve	sad
+輸家	affect	negemo	achieve	sad
+無能	affect	negemo	achieve	sad
+辭職	affect	negemo	achieve
+懶惰	affect	negemo	achieve
+平庸	affect	negemo	achieve
+散漫	affect	negemo	achieve
+自大	affect	negemo	achieve
+自負	affect	negemo	achieve
+隨便	affect	negemo	adverb	funct
+狂熱	affect	negemo	bio
+放任	affect	negemo	cogmech
+負債	affect	negemo	money
+欠債	affect	negemo	money
+窮	affect	negemo	money
+犧牲	affect	negemo	religion
+業障	affect	negemo	religion
+鼻酸	affect	negemo	sad
+不幸	affect	negemo	sad
+遲鈍	affect	negemo	sad
+褫奪	affect	negemo	sad
+啜泣	affect	negemo	sad
+次等	affect	negemo	sad
+摧毀	affect	negemo	sad
+低沉	affect	negemo	sad
+低落	affect	negemo	sad
+低迷	affect	negemo	sad
+放棄	affect	negemo	sad
+肝腸寸斷	affect	negemo	sad
+感傷	affect	negemo	sad
+哽咽	affect	negemo	sad
+患病	affect	negemo	sad
+灰心	affect	negemo	sad
+沮喪	affect	negemo	sad
+絕望	affect	negemo	sad
+可悲	affect	negemo	sad
+可憐	affect	negemo	sad
+空洞	affect	negemo	sad
+空虛	affect	negemo	sad
+淚流滿面	affect	negemo	sad
+淚珠	affect	negemo	sad
+流淚	affect	negemo	sad
+落空	affect	negemo	sad
+難過	affect	negemo	sad
+弄痛	affect	negemo	sad
+破滅	affect	negemo	sad
+泣	affect	negemo	sad
+柔腸寸斷	affect	negemo	sad
+掃興	affect	negemo	sad
+失望	affect	negemo	sad
+逝世	affect	negemo	sad
+受苦	affect	negemo	sad
+思念	affect	negemo	sad
+痛不欲生	affect	negemo	sad
+痛哭流涕	affect	negemo	sad
+萬念俱灰	affect	negemo	sad
+嗚咽	affect	negemo	sad
+無精打采	affect	negemo	sad
+無力	affect	negemo	sad
+無望	affect	negemo	sad
+無意義	affect	negemo	sad
+無助	affect	negemo	sad
+無足輕重	affect	negemo	sad
+想念	affect	negemo	sad
+消沉	affect	negemo	sad
+洩氣	affect	negemo	sad
+心灰意冷	affect	negemo	sad
+心酸	affect	negemo	sad
+心碎	affect	negemo	sad
+眼淚	affect	negemo	sad
+一無所有	affect	negemo	sad
+遺憾	affect	negemo	sad
+抑鬱	affect	negemo	sad
+陰沉	affect	negemo	sad
+蹧蹋	affect	negemo	sad
+自暴自棄	affect	negemo	sad
+自卑	affect	negemo	sad
+八卦	affect	negemo	social
+逗弄	affect	negemo	social
+隔離	affect	negemo	social
+拒絕	affect	negemo	social
+離婚	affect	negemo	social
+說長道短	affect	negemo	social
+戲弄	affect	negemo	social
+閒話	affect	negemo	social
+抱歉	affect	negemo
+爆發	affect	negemo
+剝奪	affect	negemo
+搏鬥	affect	negemo
+跛	affect	negemo
+跛腳	affect	negemo
+不當	affect	negemo
+不服	affect	negemo
+不符	affect	negemo
+不顧一切	affect	negemo
+不利	affect	negemo
+不仁	affect	negemo
+不宜	affect	negemo
+操心	affect	negemo
+草率	affect	negemo
+岔開	affect	negemo
+纏身	affect	negemo
+陳腐	affect	negemo
+懲罰	affect	negemo
+衝擊	affect	negemo
+觸景傷情	affect	negemo
+觸目驚心	affect	negemo
+刺眼	affect	negemo
+粗俗	affect	negemo
+粗野	affect	negemo
+打破	affect	negemo
+淡漠	affect	negemo
+倒楣	affect	negemo
+倒霉	affect	negemo
+盜	affect	negemo
+低能兒	affect	negemo
+抵制	affect	negemo
+調戲	affect	negemo
+丟臉	affect	negemo
+丟人	affect	negemo
+丟人現眼	affect	negemo
+鈍	affect	negemo
+多疑	affect	negemo
+墮落	affect	negemo
+厄運	affect	negemo
+發愁	affect	negemo
+發牢騷	affect	negemo
+繁瑣	affect	negemo
+防	affect	negemo
+費力	affect	negemo
+紛爭	affect	negemo
+負擔	affect	negemo
+負心	affect	negemo
+攻勢	affect	negemo
+古怪	affect	negemo
+怪	affect	negemo
+怪誕	affect	negemo
+怪異	affect	negemo
+詭計	affect	negemo
+過錯	affect	negemo
+過失	affect	negemo
+寒酸	affect	negemo
+呼天搶地	affect	negemo
+花招	affect	negemo
+恍惚	affect	negemo
+迴避	affect	negemo
+交戰	affect	negemo
+侷促	affect	negemo
+坎坷	affect	negemo
+抗爭	affect	negemo
+刻薄	affect	negemo
+口吃	affect	negemo
+牢騷	affect	negemo
+罹難	affect	negemo
+凌亂	affect	negemo
+亂	affect	negemo
+落伍	affect	negemo
+麻煩	affect	negemo
+漫不經心	affect	negemo
+茫然	affect	negemo
+毛骨悚然	affect	negemo
+霉運	affect	negemo
+悶	affect	negemo
+悶悶不樂	affect	negemo
+迷亂	affect	negemo
+陌生	affect	negemo
+目瞪口呆	affect	negemo
+難熬	affect	negemo
+難題	affect	negemo
+逆向	affect	negemo
+膩	affect	negemo
+扭曲	affect	negemo
+弄壞	affect	negemo
+排斥	affect	negemo
+脾氣	affect	negemo
+奇怪	affect	negemo
+奇特	affect	negemo
+強硬	affect	negemo
+輕蔑	affect	negemo
+情緒	affect	negemo
+任性	affect	negemo
+軟弱	affect	negemo
+生疏	affect	negemo
+生厭	affect	negemo
+失誤	affect	negemo
+首級	affect	negemo
+受虐	affect	negemo
+書呆子	affect	negemo
+疏漏	affect	negemo
+私生子	affect	negemo
+思鄉	affect	negemo
+俗	affect	negemo
+俗氣	affect	negemo
+訴苦	affect	negemo
+瑣事	affect	negemo
+瑣碎	affect	negemo
+唐突	affect	negemo
+偷	affect	negemo
+偷竊	affect	negemo
+偷取	affect	negemo
+徒勞無功	affect	negemo
+歪曲	affect	negemo
+外行	affect	negemo
+外傷	affect	negemo
+枉然	affect	negemo
+妄想	affect	negemo
+忘恩負義	affect	negemo
+為難	affect	negemo
+偽造	affect	negemo
+污穢	affect	negemo
+巫婆	affect	negemo
+無聊	affect	negemo
+無趣	affect	negemo
+誤	affect	negemo
+消極	affect	negemo
+小偷	affect	negemo
+辛酸	affect	negemo
+炫耀	affect	negemo
+眼花撩亂	affect	negemo
+野蠻	affect	negemo
+陰森	affect	negemo
+元兇	affect	negemo
+雜亂	affect	negemo
+遭受	affect	negemo
+債務	affect	negemo
+沾沾自喜	affect	negemo
+佔便宜	affect	negemo
+執拗	affect	negemo
+中斷	affect	negemo
+重擔	affect	negemo
+拙劣	affect	negemo
+自甘墮落	affect	negemo
+自私	affect	negemo
+極好	affect	percept	achieve	posemo
+漂亮	affect	percept	assent	see	posemo
+安靜	affect	percept	hear	posemo
+和諧	affect	percept	hear	posemo
+苦	affect	percept	negemo	sad
+陰暗	affect	percept	negemo	see	sad
+變味	affect	percept	negemo
+變質	affect	percept	negemo
+臭	affect	percept	negemo
+臭氣	affect	percept	negemo
+臭味	affect	percept	negemo
+乏味	affect	percept	negemo
+冷淡	affect	percept	negemo
+難吃	affect	percept	negemo
+難聞	affect	percept	negemo
+酸	affect	percept	negemo
+無味	affect	percept	negemo
+可口	affect	percept	posemo	ingest	bio
+美味	affect	percept	posemo	ingest	bio
+開朗	affect	percept	posemo
+可愛	affect	percept	posemo
+快樂	affect	percept	posemo
+冷靜	affect	percept	posemo
+平和	affect	percept	posemo
+平靜	affect	percept	posemo
+光亮	affect	percept	see	posemo
+美好	affect	percept	see	posemo
+美麗	affect	percept	see	posemo
+美人	affect	percept	see	posemo
+明亮	affect	percept	see	posemo
+生動	affect	percept	see	posemo
+鮮明	affect	percept	see	posemo
+栩栩如生	affect	percept	see	posemo
+陽光	affect	percept	see	posemo
+耀眼	affect	percept	see	posemo
+親吻	affect	percept	sexual	posemo	bio
+經歷	affect	percept	verb	social
+強烈	affect	percept
+頭昏	affect	percept
+合宜	affect	posemo	achieve	cogmech
+活躍	affect	posemo	bio
+投入	affect	posemo	cogmech
+仔細	affect	posemo	cogmech
+忠誠	affect	posemo	cogmech
+慈善	affect	posemo	money
+富有	affect	posemo	money
+富裕	affect	posemo	money
+慷慨	affect	posemo	money
+免費	affect	posemo	money
+益處	affect	posemo	money
+有錢	affect	posemo	money
+值得	affect	posemo	money
+庇護	affect	posemo	religion
+崇拜	affect	posemo	religion
+慈悲	affect	posemo	religion
+恩典	affect	posemo	religion
+極樂	affect	posemo	religion
+寬容	affect	posemo	religion
+虔誠	affect	posemo	religion
+神聖	affect	posemo	religion
+天堂	affect	posemo	religion
+拯救	affect	posemo	religion
+愛護	affect	posemo
+愛慕	affect	posemo
+愛情	affect	posemo
+愛心	affect	posemo
+安寧	affect	posemo
+安全	affect	posemo
+安穩	affect	posemo
+保護	affect	posemo
+寶貴	affect	posemo
+博愛	affect	posemo
+博學	affect	posemo
+不拘小節	affect	posemo
+才智	affect	posemo
+燦爛	affect	posemo
+纏綿	affect	posemo
+沉著	affect	posemo
+誠心	affect	posemo
+充沛	affect	posemo
+崇高	affect	posemo
+寵愛	affect	posemo
+出色	affect	posemo
+傳情	affect	posemo
+慈祥	affect	posemo
+聰明	affect	posemo
+大膽	affect	posemo
+大方	affect	posemo
+大笑	affect	posemo
+膽量	affect	posemo
+得體	affect	posemo
+得意洋洋	affect	posemo
+德行	affect	posemo
+典範	affect	posemo
+動人	affect	posemo
+動聽	affect	posemo
+逗趣	affect	posemo
+恩惠	affect	posemo
+扶持	affect	posemo
+福氣	affect	posemo
+撫育	affect	posemo
+感恩	affect	posemo
+感激	affect	posemo
+高貴	affect	posemo
+高興	affect	posemo
+高雅	affect	posemo
+咯咯笑	affect	posemo
+恭維	affect	posemo
+光輝	affect	posemo
+光榮	affect	posemo
+豪華	affect	posemo
+豪爽	affect	posemo
+好棒	affect	posemo
+好處	affect	posemo
+好玩	affect	posemo
+好笑	affect	posemo
+好運	affect	posemo
+喝采	affect	posemo
+和藹	affect	posemo
+和睦	affect	posemo
+和平	affect	posemo
+和善	affect	posemo
+和煦	affect	posemo
+宏大	affect	posemo
+宏偉	affect	posemo
+許諾	affect	posemo
+護	affect	posemo
+華麗	affect	posemo
+詼諧	affect	posemo
+輝煌	affect	posemo
+回春	affect	posemo
+活潑	affect	posemo
+獲獎	affect	posemo
+機警	affect	posemo
+機靈	affect	posemo
+積極	affect	posemo
+及時	affect	posemo
+簡潔	affect	posemo
+潔淨	affect	posemo
+解脫	affect	posemo
+精彩	affect	posemo
+精美	affect	posemo
+精心	affect	posemo
+景仰	affect	posemo
+敬畏	affect	posemo
+敬意	affect	posemo
+敬重	affect	posemo
+絕妙	affect	posemo
+俊美	affect	posemo
+開明	affect	posemo
+開心	affect	posemo
+酷愛	affect	posemo
+狂喜	affect	posemo
+狂笑	affect	posemo
+浪漫	affect	posemo
+伶俐	affect	posemo
+靈活	affect	posemo
+靈敏	affect	posemo
+靈巧	affect	posemo
+美德	affect	posemo
+美滿	affect	posemo
+美妙	affect	posemo
+魅力	affect	posemo
+敏捷	affect	posemo
+寧靜	affect	posemo
+諾言	affect	posemo
+品德	affect	posemo
+品行	affect	posemo
+平安	affect	posemo
+平穩	affect	posemo
+魄力	affect	posemo
+強	affect	posemo
+輕快	affect	posemo
+親和	affect	posemo
+熱烈	affect	posemo
+熱切	affect	posemo
+熱衷	affect	posemo
+容光煥發	affect	posemo
+融洽	affect	posemo
+傻笑	affect	posemo
+善良	affect	posemo
+善心	affect	posemo
+善意	affect	posemo
+深愛	affect	posemo
+深情	affect	posemo
+生命力	affect	posemo
+生氣勃勃	affect	posemo
+時髦	affect	posemo
+適時	affect	posemo
+適宜	affect	posemo
+收穫	affect	posemo
+受惠	affect	posemo
+舒服	affect	posemo
+帥	affect	posemo
+帥氣	affect	posemo
+坦誠	affect	posemo
+陶醉	affect	posemo
+討喜	affect	posemo
+疼愛	affect	posemo
+體諒	affect	posemo
+體面	affect	posemo
+體貼	affect	posemo
+天才	affect	posemo
+天賦	affect	posemo
+天資	affect	posemo
+推崇	affect	posemo
+外向	affect	posemo
+完備	affect	posemo
+萬歲	affect	posemo
+微笑	affect	posemo
+微醺	affect	posemo
+偉大	affect	posemo
+溫和	affect	posemo
+溫情	affect	posemo
+溫馨	affect	posemo
+無懼	affect	posemo
+無畏	affect	posemo
+無憂無慮	affect	posemo
+嫵媚	affect	posemo
+鮮美	affect	posemo
+享受	affect	posemo
+孝	affect	posemo
+孝敬	affect	posemo
+孝順	affect	posemo
+笑	affect	posemo
+笑容	affect	posemo
+笑死	affect	posemo
+謝天謝地	affect	posemo
+謝意	affect	posemo
+心愛	affect	posemo
+信實	affect	posemo
+信義	affect	posemo
+幸福	affect	posemo
+幸運	affect	posemo
+興奮	affect	posemo
+興旺	affect	posemo
+興致	affect	posemo
+雅緻	affect	posemo
+養育	affect	posemo
+依戀	affect	posemo
+宜人	affect	posemo
+欽佩	affect	posemo
+引人注目	affect	posemo
+英俊	affect	posemo
+英勇	affect	posemo
+擁護	affect	posemo
+勇敢	affect	posemo
+勇氣	affect	posemo
+幽默	affect	posemo
+優	affect	posemo
+優惠	affect	posemo
+優良	affect	posemo
+優美	affect	posemo
+優雅	affect	posemo
+有利	affect	posemo
+有趣	affect	posemo
+有益	affect	posemo
+有用	affect	posemo
+有助	affect	posemo
+珍愛	affect	posemo
+珍藏	affect	posemo
+珍貴	affect	posemo
+珍奇	affect	posemo
+珍視	affect	posemo
+珍惜	affect	posemo
+真誠	affect	posemo
+振奮	affect	posemo
+鎮定	affect	posemo
+鎮靜	affect	posemo
+整潔	affect	posemo
+知足	affect	posemo
+值錢	affect	posemo
+至高無上	affect	posemo
+至善	affect	posemo
+忠	affect	posemo
+忠實	affect	posemo
+忠孝	affect	posemo
+忠心	affect	posemo
+衷心	affect	posemo
+周到	affect	posemo
+祝賀	affect	posemo
+莊嚴	affect	posemo
+壯觀	affect	posemo
+壯闊	affect	posemo
+壯麗	affect	posemo
+自由	affect	posemo
+走運	affect	posemo
+尊貴	affect	posemo
+尊敬	affect	posemo
+尊榮	affect	posemo
+尊嚴	affect	posemo
+尊重	affect	posemo
+祝福	affect	religion	discrep	posemo	cogmech
+末日	affect	religion
+智慧	affect	religion
+累	affect	sad	health	negemo	bio
+疼痛	affect	sad	health	negemo	bio
+心痛	affect	sad	health	negemo	bio
+無用	affect	sad	negemo	achieve	cogmech
+放縱	affect	sad	negemo	cogmech
+色情	affect	sexual	bio
+娼妓	affect	sexual	negemo	bio
+勾引	affect	sexual	negemo	bio
+妓女	affect	sexual	negemo	bio
+激情	affect	sexual	posemo	bio
+迷人	affect	sexual	posemo	bio
+親	affect	sexual	posemo	bio
+吻	affect	sexual	posemo	bio
+稱讚	affect	social	achieve	posemo
+嘉獎	affect	social	achieve	posemo
+歸咎	affect	social	cause	negemo	cogmech
+寶貝	affect	social	friend	posemo
+戀人	affect	social	friend	posemo
+朋友	affect	social	friend	posemo
+親愛的	affect	social	friend	posemo
+知己	affect	social	friend	posemo
+放心	affect	social	leisure	posemo
+同情	affect	social	negemo	posemo	sad
+安心	affect	social	posemo
+調情	affect	social	posemo
+奉獻	affect	social	posemo
+款待	affect	social	posemo
+親愛	affect	social	posemo
+親切	affect	social	posemo
+熱愛	affect	social	posemo
+信服	affect	social	posemo
+鍾愛	affect	social	posemo
+愛戀	affect	social	sexual	posemo	bio
+戀愛	affect	social	sexual	posemo	bio
+諂媚	affect	social
+分擔	affect	social
+奉承	affect	social
+交往	affect	social
+開玩笑	affect	social
+饒恕	affect	social
+說服	affect	social
+怪胎	affect	swear	negemo
+白目	affect	swear
+躊躇	affect	tentat	anx	negemo	cogmech
+冒險	affect	tentat	anx	negemo	cogmech
+迷惑	affect	tentat	anx	negemo	cogmech
+優柔寡斷	affect	tentat	anx	negemo	cogmech
+猶疑	affect	tentat	anx	negemo	cogmech
+猶豫	affect	tentat	anx	negemo	cogmech
+迷失	affect	tentat	cogmech
+無常	affect	tentat	cogmech
+盼望	affect	tentat	discrep	posemo	cogmech
+期盼	affect	tentat	discrep	posemo	cogmech
+隨意	affect	tentat	funct	adverb	cogmech
+假裝	affect	tentat	insight	negemo	cogmech
+不定	affect	tentat	negemo	cogmech
+徘徊	affect	tentat	negemo	cogmech
+迷惘	affect	tentat	sad	negemo	cogmech
+逃避	affect	verb	anx	negemo	achieve
+擔心	affect	verb	anx	negemo
+忘記	affect	verb	inhibition	cogmech
+小心	affect	verb	inhibition	cogmech
+答應	affect	verb	insight	cogmech
+玩	affect	verb	leisure	posemo
+失去	affect	verb	negemo	achieve	sad
+輸	affect	verb	negemo	achieve	sad
+打	affect	verb	negemo
+適合	affect	verb	posemo	cogmech
+愛好	affect	verb	posemo
+感謝	affect	verb	posemo
+貢獻	affect	verb	posemo
+關懷	affect	verb	posemo
+吸引	affect	verb	posemo
+謝謝	affect	verb	posemo
+贏	affect	verb	posemo
+贏得	affect	verb	posemo
+抱	affect	verb	sexual	posemo	bio
+遇到	affect	verb	social
+成功	affect	verb	work	achieve	posemo
+關心	affect	verb
+應付	affect	verb
+承擔	affect	work	achieve	cogmech
+獲勝	affect	work	achieve	leisure	posemo
+利益	affect	work	achieve	money
+才能	affect	work	achieve	posemo
+成就	affect	work	achieve	posemo
+冠軍	affect	work	achieve	posemo
+榮譽	affect	work	achieve	posemo
+擅長	affect	work	achieve	posemo
+勝利	affect	work	achieve	posemo
+挑戰	affect	work	achieve	posemo
+優勝	affect	work	achieve	posemo
+優勢	affect	work	achieve	posemo
+無益	affect	work	negemo	achieve	sad
+統治	affect	work	negemo	achieve
+無效	affect	work	negemo	achieve
+降級	affect	work	negemo
+利潤	affect	work	posemo	money
+功勞	affect	work	posemo
+信譽	affect	work	posemo
+昂貴	affect
+百感交集	affect
+保衛	affect
+詫異	affect
+痴狂	affect
+癡迷	affect
+打倒	affect
+打情罵俏	affect
+膽戰心驚	affect
+調皮	affect
+獨自	affect
+多情	affect
+發臭	affect
+防護	affect
+防衛	affect
+防禦	affect
+放肆	affect
+非人	affect
+分散	affect
+分手	affect
+感情	affect
+高傲	affect
+掛慮	affect
+滑稽	affect
+懷鄉	affect
+緩和	affect
+火熱	affect
+嬌弱	affect
+結巴	affect
+精力	affect
+救	affect
+就緒	affect
+劇烈	affect
+誇大	affect
+濫情	affect
+利己	affect
+憐惜	affect
+流行	affect
+隆重	affect
+猛烈	affect
+迷戀	affect
+迷路	affect
+面臨	affect
+銘印	affect
+命運	affect
+嫩	affect
+偏愛	affect
+偏心	affect
+拼命	affect
+強力	affect
+清白	affect
+親密	affect
+確信	affect
+熱淚盈眶	affect
+熱鬧	affect
+熱望	affect
+容忍	affect
+柔順	affect
+若無其事	affect
+傻	affect
+傻子	affect
+上級	affect
+使勁	affect
+首創	affect
+思	affect
+酸甜苦辣	affect
+淘氣	affect
+威嚴	affect
+無辜	affect
+無害	affect
+無暇	affect
+無知	affect
+羨慕	affect
+心情	affect
+性情	affect
+虛榮	affect
+虛榮心	affect
+虛心	affect
+嚴重	affect
+眼花繚亂	affect
+怡人	affect
+踴躍	affect
+用力	affect
+有力	affect
+真心	affect
+震顫	affect
+著迷	affect
+自鳴得意	affect
+侮辱	anger	affect	anx	negemo	social
+打攪	anger	affect	anx	negemo
+荒謬	anger	affect	anx	negemo
+嘮叨	anger	affect	anx	negemo
+不甘	anger	affect	cogmech	negemo	discrep
+謀殺	anger	affect	death	negemo
+殺	anger	affect	death	negemo
+殺死	anger	affect	death	negemo
+消滅	anger	affect	death	negemo
+戰火	anger	affect	death	negemo
+戰亂	anger	affect	death	negemo
+戰爭	anger	affect	death	negemo
+狂躁	anger	affect	health	negemo	bio
+有害	anger	affect	health	negemo	bio
+作嘔	anger	affect	health	negemo	bio
+對抗	anger	affect	inhibition	negemo	cogmech
+反對	anger	affect	inhibition	negemo	cogmech
+倔強	anger	affect	inhibition	negemo	cogmech
+矛盾	anger	affect	inhibition	negemo	cogmech
+嚴厲	anger	affect	inhibition	negemo	cogmech
+激怒	anger	affect	negemo	cogmech
+挑釁	anger	affect	negemo	cogmech
+無理	anger	affect	negemo	cogmech
+小氣	anger	affect	negemo	money
+邪惡	anger	affect	negemo	religion
+差	anger	affect	negemo	sad
+差勁	anger	affect	negemo	sad
+挫折	anger	affect	negemo	sad
+爛	anger	affect	negemo	sad
+氣餒	anger	affect	negemo	sad
+蹂躪	anger	affect	negemo	sad
+折磨	anger	affect	negemo	sad
+自責	anger	affect	negemo	sad
+駁斥	anger	affect	negemo	social
+插嘴	anger	affect	negemo	social
+打岔	anger	affect	negemo	social
+打斷	anger	affect	negemo	social
+打架	anger	affect	negemo	social
+鬥爭	anger	affect	negemo	social
+忌妒	anger	affect	negemo	social
+抗議	anger	affect	negemo	social
+冒犯	anger	affect	negemo	social
+批評	anger	affect	negemo	social
+譴責	anger	affect	negemo	social
+取笑	anger	affect	negemo	social
+辱罵	anger	affect	negemo	social
+怨恨	anger	affect	negemo	social
+責備	anger	affect	negemo	social
+爭吵	anger	affect	negemo	social
+指責	anger	affect	negemo	social
+詛咒	anger	affect	negemo	social
+骯髒	anger	affect	negemo
+傲慢	anger	affect	negemo
+白痴	anger	affect	negemo
+敗壞	anger	affect	negemo
+報仇	anger	affect	negemo
+報復	anger	affect	negemo
+暴力	anger	affect	negemo
+暴怒	anger	affect	negemo
+暴躁	anger	affect	negemo
+卑鄙	anger	affect	negemo
+卑劣	anger	affect	negemo
+背叛	anger	affect	negemo
+不滿	anger	affect	negemo
+不悅	anger	affect	negemo
+不貞	anger	affect	negemo
+殘暴	anger	affect	negemo
+殘酷	anger	affect	negemo
+殘忍	anger	affect	negemo
+成見	anger	affect	negemo
+吃醋	anger	affect	negemo
+衝突	anger	affect	negemo
+處罰	anger	affect	negemo
+觸怒	anger	affect	negemo
+吹毛求疵	anger	affect	negemo
+刺傷	anger	affect	negemo
+粗暴	anger	affect	negemo
+粗魯	anger	affect	negemo
+打仗	anger	affect	negemo
+得罪	anger	affect	negemo
+低能	anger	affect	negemo
+丟下	anger	affect	negemo
+對質	anger	affect	negemo
+發狂	anger	affect	negemo
+發怒	anger	affect	negemo
+反感	anger	affect	negemo
+反抗	anger	affect	negemo
+反派	anger	affect	negemo
+反叛	anger	affect	negemo
+非禮	anger	affect	negemo
+非難	anger	affect	negemo
+諷刺	anger	affect	negemo
+復仇	anger	affect	negemo
+公憤	anger	affect	negemo
+攻擊	anger	affect	negemo
+狠心	anger	affect	negemo
+哄騙	anger	affect	negemo
+胡扯	anger	affect	negemo
+荒唐	anger	affect	negemo
+混帳	anger	affect	negemo
+激動	anger	affect	negemo
+看不起	anger	affect	negemo
+拷打	anger	affect	negemo
+拷問	anger	affect	negemo
+苛求	anger	affect	negemo
+可鄙	anger	affect	negemo
+可恥	anger	affect	negemo
+可惡	anger	affect	negemo
+可笑	anger	affect	negemo
+可憎	anger	affect	negemo
+恐嚇	anger	affect	negemo
+酷刑	anger	affect	negemo
+狂暴	anger	affect	negemo
+狂怒	anger	affect	negemo
+冷酷	anger	affect	negemo
+吝嗇	anger	affect	negemo
+蔑視	anger	affect	negemo
+虐待	anger	affect	negemo
+叛亂	anger	affect	negemo
+拋棄	anger	affect	negemo
+咆嘯	anger	affect	negemo
+抨擊	anger	affect	negemo
+批判	anger	affect	negemo
+屁眼	anger	affect	negemo
+偏見	anger	affect	negemo
+偏執	anger	affect	negemo
+破壞	anger	affect	negemo
+七竅生煙	anger	affect	negemo
+歧視	anger	affect	negemo
+氣憤	anger	affect	negemo
+氣急敗壞	anger	affect	negemo
+瞧不起	anger	affect	negemo
+輕視	anger	affect	negemo
+惹惱	anger	affect	negemo
+撒謊	anger	affect	negemo
+騷擾	anger	affect	negemo
+上當	anger	affect	negemo
+生氣	anger	affect	negemo
+盛怒	anger	affect	negemo
+世仇	anger	affect	negemo
+勢利	anger	affect	negemo
+受害	anger	affect	negemo
+受騙	anger	affect	negemo
+受罪	anger	affect	negemo
+說謊	anger	affect	negemo
+挑剔	anger	affect	negemo
+挖苦	anger	affect	negemo
+頑固	anger	affect	negemo
+頑強	anger	affect	negemo
+威脅	anger	affect	negemo
+齷齪	anger	affect	negemo
+無禮	anger	affect	negemo
+無情	anger	affect	negemo
+奚落	anger	affect	negemo
+脅迫	anger	affect	negemo
+褻瀆	anger	affect	negemo
+性騷擾	anger	affect	negemo
+嚴酷	anger	affect	negemo
+咬牙切齒	anger	affect	negemo
+易怒	anger	affect	negemo
+義憤	anger	affect	negemo
+愚笨	anger	affect	negemo
+遇難	anger	affect	negemo
+造反	anger	affect	negemo
+詐騙	anger	affect	negemo
+戰鬥	anger	affect	negemo
+震怒	anger	affect	negemo
+眾怒	anger	affect	negemo
+咒罵	anger	affect	negemo
+作弊	anger	affect	negemo
+不平	anger	affect	percept	negemo	feel
+討厭	anger	affect	percept	verb	negemo
+強暴犯	anger	affect	sexual	negemo	bio
+強姦	anger	affect	sexual	negemo	bio
+抱怨	anger	affect	social	negemo	cogmech
+爭論	anger	affect	social	negemo	cogmech
+白癡	anger	affect	swear	negemo
+蹩腳	anger	affect	swear	negemo
+操	anger	affect	swear	negemo
+放屁	anger	affect	swear	negemo
+該死	anger	affect	swear	negemo
+狗屁	anger	affect	swear	negemo
+混蛋	anger	affect	swear	negemo
+垃圾	anger	affect	swear	negemo
+爛貨	anger	affect	swear	negemo
+媽的	anger	affect	swear	negemo
+呸	anger	affect	swear	negemo
+他媽的	anger	affect	swear	negemo
+王八蛋	anger	affect	swear	negemo
+下流	anger	affect	swear	negemo
+淫婦	anger	affect	swear	negemo
+愚蠢	anger	affect	swear	negemo
+打敗	anger	affect	work	negemo	achieve
+傷害	anger	bio	health
+賤人	anger	bio	swear	sexual
+濫用	anger	negemo
+毀壞	anger	sad
+嘲弄	anger	social
+笨蛋	anger	swear
+呆子	anger	swear
+賤	anger	swear
+笨	anger
+慘痛	anger
+嘲諷	anger
+嘲笑	anger
+醜陋	anger
+呆	anger
+瘋狂	anger
+壞蛋	anger
+壞人	anger
+毀謗	anger
+禍首	anger
+譏諷	anger
+譏笑	anger
+困擾	anger
+侵犯	anger
+侵略	anger
+侵襲	anger
+缺德	anger
+傷天害理	anger
+損壞	anger
+兇惡	anger
+兇猛	anger
+厭惡	anger
+厭煩	anger
+髒	anger
+糟蹋	anger
+驚呆	anx	negemo
+驚駭	anx	negemo
+驚恐	anx	negemo
+驚悚	anx	negemo
+驚嚇	anx	negemo
+煩擾	anx
+糟糕	anx
+罪惡感	anx
+不錯	assent	adverb
+ㄏ	assent
+呵	assent
+就是說	assent
+科科	assent
+酷	assent
+厲害	assent
+瞭	assent
+噢	assent
+唔	assent
+讚	assent
+嘖嘖	assent
+該	auxverb	funct	specart
+敢	auxverb	funct
+肯	auxverb	funct
+應	auxverb	funct
+得	auxverb	verb	multifun	funct
+不行	auxverb
+煩惱	bio	anx	health	sad
+水	bio	assent	ingest
+伴侶	bio	family	posemo	social	affect	sexual	friend
+冷	bio	feel	percept	health	affect	negemo
+熱情	bio	feel	posemo	percept	affect	sexual
+擁抱	bio	feel	posemo	percept	affect	sexual
+喝醉	bio	health	ingest	leisure
+酒	bio	health	ingest	leisure
+酒精	bio	health	ingest	leisure
+暴食	bio	health	ingest
+暴飲暴食	bio	health	ingest
+超重	bio	health	ingest
+肥胖	bio	health	ingest
+肥胖症	bio	health	ingest
+過重	bio	health	ingest
+減肥	bio	health	ingest
+狂飲	bio	health	ingest
+攝入	bio	health	ingest
+攝食	bio	health	ingest
+食入	bio	health	ingest
+吸收	bio	health	ingest
+消化	bio	health	ingest
+厭食	bio	health	ingest
+營養	bio	health	ingest
+打瞌睡	bio	health	leisure
+健康	bio	health	leisure
+曬黑	bio	health	leisure
+曬傷	bio	health	leisure
+傷	bio	health	sad
+愛滋	bio	health	sexual
+愛滋病	bio	health	sexual
+墮胎	bio	health	sexual
+懷孕	bio	health	sexual
+流產	bio	health	sexual
+梅毒	bio	health	sexual
+妊娠	bio	health	sexual
+性病	bio	health	sexual
+性慾	bio	health	sexual
+孕	bio	health	sexual
+孕期	bio	health	sexual
+x射線	bio	health
+阿斯匹靈	bio	health
+癌	bio	health
+癌症	bio	health
+安眠藥	bio	health
+按摩	bio	health
+拔罐	bio	health
+白內障	bio	health
+白血病	bio	health
+百憂解	bio	health
+斑點	bio	health
+賁門	bio	health
+繃帶	bio	health
+鼻竇炎	bio	health
+避孕藥	bio	health
+便秘	bio	health
+病	bio	health
+病房	bio	health
+病理	bio	health
+病理學	bio	health
+病態	bio	health
+病原	bio	health
+病徵	bio	health
+哺乳	bio	health
+不良	bio	health
+擦傷	bio	health
+沉溺	bio	health
+成藥	bio	health
+充血	bio	health
+抽動	bio	health
+抽筋	bio	health
+抽血	bio	health
+出血	bio	health
+處方	bio	health
+喘氣	bio	health
+瘡	bio	health
+催吐	bio	health
+打嗝	bio	health
+膽固醇	bio	health
+低溫	bio	health
+錠	bio	health
+痘	bio	health
+竇	bio	health
+毒	bio	health
+毒品	bio	health
+毒素	bio	health
+毒物	bio	health
+毒藥	bio	health
+堵塞	bio	health
+噁心	bio	health
+兒科	bio	health
+發燒	bio	health
+發炎	bio	health
+發育	bio	health
+發作	bio	health
+反胃	bio	health
+放射	bio	health
+肺氣腫	bio	health
+分裂症	bio	health
+粉刺	bio	health
+服藥	bio	health
+婦科	bio	health
+復原	bio	health
+腹痛	bio	health
+腹瀉	bio	health
+感冒	bio	health
+高血壓	bio	health
+睾	bio	health
+哽	bio	health
+刮除	bio	health
+掛號	bio	health
+冠狀動脈	bio	health
+灌腸	bio	health
+過敏	bio	health
+過敏原	bio	health
+寒顫	bio	health
+核磁共振	bio	health
+賀爾蒙	bio	health
+喉糖	bio	health
+候診	bio	health
+呼氣	bio	health
+護理	bio	health
+護士	bio	health
+幻覺	bio	health
+幻視	bio	health
+幻聽	bio	health
+昏倒	bio	health
+昏昏欲睡	bio	health
+昏厥	bio	health
+昏迷	bio	health
+昏睡	bio	health
+昏眩	bio	health
+畸形	bio	health
+激素	bio	health
+疾病	bio	health
+悸動	bio	health
+劑	bio	health
+劑量	bio	health
+加護	bio	health
+痂	bio	health
+甲狀腺	bio	health
+健保	bio	health
+健檢	bio	health
+僵	bio	health
+僵硬	bio	health
+膠布	bio	health
+絞痛	bio	health
+腳病	bio	health
+矯正	bio	health
+結石	bio	health
+截肢	bio	health
+解毒	bio	health
+疥癬	bio	health
+近視	bio	health
+精神病	bio	health
+精神病藥	bio	health
+痙攣	bio	health
+軍醫	bio	health
+開藥	bio	health
+康復	bio	health
+抗過動藥	bio	health
+抗酸	bio	health
+抗藥	bio	health
+磕藥	bio	health
+咳	bio	health
+咳嗽	bio	health
+恐懼症	bio	health
+潰瘍	bio	health
+拉皮	bio	health
+闌尾炎	bio	health
+老花眼	bio	health
+勒戒	bio	health
+雷射	bio	health
+立得寧	bio	health
+鏈球菌	bio	health
+療法	bio	health
+淋巴	bio	health
+淋巴液	bio	health
+臨床	bio	health
+流感	bio	health
+流食	bio	health
+隆起	bio	health
+麻痺	bio	health
+慢性	bio	health
+慢性病	bio	health
+盲腸炎	bio	health
+盲人	bio	health
+美白	bio	health
+免疫	bio	health
+膿包	bio	health
+嘔	bio	health
+排毒	bio	health
+疱疹	bio	health
+皰疹	bio	health
+配藥	bio	health
+披衣菌	bio	health
+疲憊	bio	health
+疲倦	bio	health
+疲勞	bio	health
+偏頭痛	bio	health
+氣喘	bio	health
+強迫症	bio	health
+切除	bio	health
+青春痘	bio	health
+青光眼	bio	health
+丘疹	bio	health
+軀體	bio	health
+人命	bio	health
+乳癌	bio	health
+傷疤	bio	health
+傷口	bio	health
+神經學	bio	health
+沈溺	bio	health
+生理	bio	health
+手術	bio	health
+手術室	bio	health
+受孕	bio	health
+壽命	bio	health
+衰弱	bio	health
+死屍	bio	health
+癱瘓	bio	health
+糖尿病	bio	health
+體格	bio	health
+體溫計	bio	health
+頭昏眼花	bio	health
+頭痛	bio	health
+頭暈目眩	bio	health
+退燒藥	bio	health
+外科	bio	health
+維生素	bio	health
+維他命	bio	health
+胃痛	bio	health
+胃灼熱	bio	health
+溫度計	bio	health
+無痛	bio	health
+吸毒	bio	health
+洗腸	bio	health
+洗澡	bio	health
+下藥	bio	health
+腺	bio	health
+腺體	bio	health
+消炎	bio	health
+小兒科	bio	health
+哮喘	bio	health
+心電圖	bio	health
+心跳	bio	health
+心血管	bio	health
+心臟病	bio	health
+性命	bio	health
+宿醉	bio	health
+眩暈	bio	health
+血癌	bio	health
+血清	bio	health
+牙科	bio	health
+牙醫	bio	health
+厭食症	bio	health
+驗光	bio	health
+藥	bio	health
+藥方	bio	health
+藥房	bio	health
+藥劑	bio	health
+藥理學	bio	health
+藥片	bio	health
+藥丸	bio	health
+噎	bio	health
+醫療	bio	health
+醫藥	bio	health
+醫院	bio	health
+醫治	bio	health
+胰島素	bio	health
+癮	bio	health
+憂鬱	bio	health
+疣	bio	health
+有病	bio	health
+淤血	bio	health
+瘀	bio	health
+元氣	bio	health
+遠視	bio	health
+暈眩	bio	health
+早產	bio	health
+造影	bio	health
+躁鬱症	bio	health
+脹氣	bio	health
+照料	bio	health
+針灸	bio	health
+診斷	bio	health
+診斷書	bio	health
+診所	bio	health
+鎮靜劑	bio	health
+鎮痛	bio	health
+整形	bio	health
+症候群	bio	health
+症狀	bio	health
+支氣管	bio	health
+止咳	bio	health
+止痛藥	bio	health
+指壓	bio	health
+徵候	bio	health
+制酸	bio	health
+治癒	bio	health
+痔瘡	bio	health
+窒息	bio	health
+中毒	bio	health
+中風	bio	health
+中醫	bio	health
+腫	bio	health
+腫塊	bio	health
+腫瘤	bio	health
+腫脹	bio	health
+住院	bio	health
+轉診	bio	health
+壯陽藥	bio	health
+足病	bio	health
+足科	bio	health
+阻塞	bio	health
+醉酒	bio	health
+烘培	bio	home
+廚房	bio	ingest	home
+烘	bio	ingest	home
+烘焙	bio	ingest	home
+烘烤	bio	ingest	home
+烤	bio	ingest	home
+宴會	bio	ingest	leisure	social
+餐館	bio	ingest	leisure
+餐廳	bio	ingest	leisure
+飯店	bio	ingest	leisure
+雞尾酒	bio	ingest	leisure
+酒吧	bio	ingest	leisure
+咖啡	bio	ingest	leisure
+烈酒	bio	ingest	leisure
+烹調	bio	ingest	leisure
+烹飪	bio	ingest	leisure
+啤酒	bio	ingest	leisure
+葡萄酒	bio	ingest	leisure
+威士忌	bio	ingest	leisure
+小吃店	bio	ingest	leisure
+飲	bio	ingest	leisure
+飲料	bio	ingest	leisure
+煮菜	bio	ingest	leisure
+做菜	bio	ingest	leisure
+素食	bio	ingest	religion
+挨餓	bio	ingest
+飽	bio	ingest
+比薩	bio	ingest
+冰淇淋	bio	ingest
+冰糖	bio	ingest
+菜餚	bio	ingest
+餐	bio	ingest
+餐車	bio	ingest
+茶	bio	ingest
+茶葉	bio	ingest
+暢飲	bio	ingest
+撐	bio	ingest
+吃飽	bio	ingest
+吃素	bio	ingest
+抽菸	bio	ingest
+抽煙	bio	ingest
+蛋	bio	ingest
+點心	bio	ingest
+碟子	bio	ingest
+餓	bio	ingest
+份量	bio	ingest
+糕點	bio	ingest
+果	bio	ingest
+果實	bio	ingest
+果汁	bio	ingest
+火鍋	bio	ingest
+飢餓	bio	ingest
+煎	bio	ingest
+嚼	bio	ingest
+節食	bio	ingest
+進餐	bio	ingest
+進食	bio	ingest
+酒醉	bio	ingest
+咀嚼	bio	ingest
+咖啡豆	bio	ingest
+開胃	bio	ingest
+開胃菜	bio	ingest
+可樂	bio	ingest
+快餐	bio	ingest
+狼吞虎嚥	bio	ingest
+老饕	bio	ingest
+滷味	bio	ingest
+蜜餞	bio	ingest
+麵包	bio	ingest
+麵食	bio	ingest
+麵團	bio	ingest
+奶	bio	ingest
+牛奶	bio	ingest
+盤子	bio	ingest
+披薩	bio	ingest
+汽水	bio	ingest
+青菜	bio	ingest
+乳	bio	ingest
+乳汁	bio	ingest
+乳製品	bio	ingest
+三明治	bio	ingest
+沙拉	bio	ingest
+膳食	bio	ingest
+上菜	bio	ingest
+食品	bio	ingest
+食物	bio	ingest
+蔬菜	bio	ingest
+薯條	bio	ingest
+水果	bio	ingest
+水果酒	bio	ingest
+蘇打	bio	ingest
+貪吃	bio	ingest
+糖	bio	ingest
+糖果	bio	ingest
+饕客	bio	ingest
+體重	bio	ingest
+甜點	bio	ingest
+痛飲	bio	ingest
+吞	bio	ingest
+吞下	bio	ingest
+吞嚥	bio	ingest
+晚餐	bio	ingest
+晚飯	bio	ingest
+餵	bio	ingest
+餵食	bio	ingest
+午餐	bio	ingest
+午飯	bio	ingest
+吸煙	bio	ingest
+喜酒	bio	ingest
+下午茶	bio	ingest
+宵夜	bio	ingest
+小吃	bio	ingest
+雪茄	bio	ingest
+菸	bio	ingest
+煙	bio	ingest
+宴	bio	ingest
+嚥	bio	ingest
+嚥下	bio	ingest
+義大利麵	bio	ingest
+飲食	bio	ingest
+用餐	bio	ingest
+油炸	bio	ingest
+雜貨店	bio	ingest
+早餐	bio	ingest
+早飯	bio	ingest
+炸	bio	ingest
+正餐	bio	ingest
+主餐	bio	ingest
+煮沸	bio	ingest
+煮熟	bio	ingest
+盲	bio	percept	health	see
+失明	bio	percept	health	see
+瞎	bio	percept	health	see
+嘔吐	bio	percept	health
+頭暈	bio	percept	health
+好吃	bio	percept	ingest
+甜	bio	percept	ingest
+味道	bio	percept	ingest
+滋味	bio	percept	ingest
+愛人	bio	posemo	social	affect	sexual	friend
+情人	bio	posemo	social	affect	sexual	friend
+愛	bio	posemo	verb	social	affect	sexual
+份	bio	quanunit	ingest	funct
+受傷	bio	sad	health	affect	anx	negemo
+痛苦	bio	sad	percept	health	affect	negemo
+虛弱	bio	sad	percept	health	affect	negemo
+保險套	bio	sexual
+娼	bio	sexual
+炒飯	bio	sexual
+恥骨	bio	sexual
+處女	bio	sexual
+肛交	bio	sexual
+好色	bio	sexual
+激	bio	sexual
+妓	bio	sexual
+精液	bio	sexual
+口交	bio	sexual
+狂歡	bio	sexual
+蕾絲邊	bio	sexual
+兩性	bio	sexual
+淋病	bio	sexual
+摟抱	bio	sexual
+亂倫	bio	sexual
+賣淫	bio	sexual
+男	bio	sexual
+女人	bio	sexual
+嫖	bio	sexual
+嫖妓	bio	sexual
+強暴	bio	sexual
+上床	bio	sexual
+雙性戀	bio	sexual
+水性楊花	bio	sexual
+挑逗	bio	sexual
+同性戀	bio	sexual
+童貞	bio	sexual
+偷情	bio	sexual
+吻痕	bio	sexual
+西斯	bio	sexual
+洨	bio	sexual
+性愛	bio	sexual
+性變態	bio	sexual
+性別	bio	sexual
+性感	bio	sexual
+性欲	bio	sexual
+依偎	bio	sexual
+陰毛	bio	sexual
+淫蕩	bio	sexual
+淫亂	bio	sexual
+淫慾	bio	sexual
+誘惑	bio	sexual
+誘姦	bio	sexual
+貞操	bio	sexual
+貞節	bio	sexual
+貞潔	bio	sexual
+種馬	bio	sexual
+做愛	bio	sexual
+蕩婦	bio	swear	anger	affect	sexual	negemo
+生存	bio	verb	health	achieve
+活	bio	verb	health	death
+感染	bio	verb	health
+照顧	bio	verb	health
+喝	bio	verb	ingest	leisure
+煮	bio	verb	ingest	leisure
+吃	bio	verb	ingest
+幹	bio	verb	swear	anger	affect	sexual	negemo
+病假	bio	work	health
+大夫	bio	work	health
+醫生	bio	work	health
+醫師	bio	work	health
+醫學	bio	work	health
+自助餐	bio	work	ingest
+撤退	bio
+流質	bio
+卵	bio
+女性	bio
+皮疹	bio
+胃酸	bio
+消掉	bio
+血腥	bio
+滋養	bio
+麻木	body	affect	negemo	bio
+強壯	body	affect	posemo	achieve	bio
+刺痛	body	bio	health	anger	affect	negemo
+肥	body	bio	health	ingest
+胖	body	bio	health	ingest
+胃口	body	bio	health	ingest
+脂肪	body	bio	health	ingest
+陰部	body	bio	health	sexual
+疙瘩	body	bio	health
+脊椎	body	bio	health
+腱	body	bio	health
+結腸	body	bio	health
+靜脈	body	bio	health
+闌尾	body	bio	health
+流血	body	bio	health
+脈搏	body	bio	health
+盲腸	body	bio	health
+膀胱	body	bio	health
+肉體	body	bio	health
+生命	body	bio	health
+吐	body	bio	health
+癢	body	bio	health
+疹	body	bio	health
+渴	body	bio	ingest
+口渴	body	bio	ingest
+食	body	bio	ingest
+食慾	body	bio	ingest
+耳朵	body	bio	percept	hear
+瘦	body	bio	percept	ingest	relative
+眼睛	body	bio	percept	see
+鼻	body	bio	percept
+鼻孔	body	bio	percept
+鼻子	body	bio	percept
+垂涎	body	bio	percept
+氣息	body	bio	percept
+舌	body	bio	percept
+舌頭	body	bio	percept
+舔	body	bio	percept
+聽覺	body	bio	percept
+唾液	body	bio	percept
+股	body	bio	quanunit	funct
+口	body	bio	quanunit	funct
+頭	body	bio	quanunit	funct
+勃起	body	bio	sexual
+赤裸	body	bio	sexual
+高潮	body	bio	sexual
+老二	body	bio	sexual
+卵巢	body	bio	sexual
+裸	body	bio	sexual
+裸露	body	bio	sexual
+裸體	body	bio	sexual
+咪咪	body	bio	sexual
+奶頭	body	bio	sexual
+屁股	body	bio	sexual
+前列腺	body	bio	sexual
+情慾	body	bio	sexual
+乳房	body	bio	sexual
+乳頭	body	bio	sexual
+攝護腺	body	bio	sexual
+生殖	body	bio	sexual
+生殖器	body	bio	sexual
+性	body	bio	sexual
+性高潮	body	bio	sexual
+性交	body	bio	sexual
+胸部	body	bio	sexual
+胸脯	body	bio	sexual
+陽具	body	bio	sexual
+陽物	body	bio	sexual
+陰道	body	bio	sexual
+陰莖	body	bio	sexual
+子宮	body	bio	sexual
+屎	body	bio	swear
+死	body	bio	verb	death
+睡	body	bio	verb	home
+睡覺	body	bio	verb	home
+穿	body	bio	verb
+戴	body	bio	verb
+鼻腔	body	bio
+臂	body	bio
+扁桃腺	body	bio
+脖子	body	bio
+腸	body	bio
+腸道	body	bio
+腸胃	body	bio
+腸子	body	bio
+齒	body	bio
+出汗	body	bio
+穿戴	body	bio
+唇	body	bio
+唇部	body	bio
+大便	body	bio
+大腦	body	bio
+大腿	body	bio
+膽囊	body	bio
+動脈	body	bio
+肚子	body	bio
+額	body	bio
+額頭	body	bio
+二頭肌	body	bio
+發汗	body	bio
+髮	body	bio
+肺	body	bio
+肺臟	body	bio
+糞	body	bio
+服裝	body	bio
+腹部	body	bio
+腹肌	body	bio
+腹腔	body	bio
+肝	body	bio
+肝臟	body	bio
+感官	body	bio
+肛門	body	bio
+睪丸	body	bio
+胳肢窩	body	bio
+骨	body	bio
+骨骼	body	bio
+骨盆	body	bio
+骨瘦如柴	body	bio
+骨頭	body	bio
+骨質	body	bio
+關節	body	bio
+汗	body	bio
+汗水	body	bio
+喉嚨	body	bio
+喉頭	body	bio
+呼吸	body	bio
+踝	body	bio
+喚醒	body	bio
+肌	body	bio
+肌腱	body	bio
+肌肉	body	bio
+雞皮疙瘩	body	bio
+脊髓	body	bio
+脊柱	body	bio
+肩膀	body	bio
+角膜	body	bio
+腳	body	bio
+腳背	body	bio
+腳跟	body	bio
+腳後跟	body	bio
+腳踝	body	bio
+腳趾	body	bio
+腳趾甲	body	bio
+頸	body	bio
+口腔	body	bio
+口水	body	bio
+骷髏	body	bio
+胯	body	bio
+胯部	body	bio
+睏	body	bio
+拉屎	body	bio
+肋骨	body	bio
+臉	body	bio
+臉頰	body	bio
+流汗	body	bio
+顱	body	bio
+脈衝	body	bio
+毛髮	body	bio
+苗條	body	bio
+腦	body	bio
+腦袋	body	bio
+內臟	body	bio
+黏膜	body	bio
+黏液	body	bio
+尿	body	bio
+尿道	body	bio
+尿液	body	bio
+膿	body	bio
+弄醒	body	bio
+排骨	body	bio
+排汗	body	bio
+配戴	body	bio
+軀幹	body	bio
+肉	body	bio
+撒尿	body	bio
+腮幫子	body	bio
+上衣	body	bio
+身體	body	bio
+神經	body	bio
+神經元	body	bio
+腎臟	body	bio
+視網膜	body	bio
+手臂	body	bio
+手心	body	bio
+手掌	body	bio
+手肘	body	bio
+雙腳	body	bio
+睡著	body	bio
+體力	body	bio
+頭髮	body	bio
+頭蓋骨	body	bio
+頭骨	body	bio
+頭顱	body	bio
+頭腦	body	bio
+頭皮	body	bio
+禿頭	body	bio
+腿	body	bio
+臀	body	bio
+臀部	body	bio
+駝背	body	bio
+唾腺	body	bio
+腕	body	bio
+胃	body	bio
+膝蓋	body	bio
+膝關節	body	bio
+下巴	body	bio
+纖細	body	bio
+小便	body	bio
+小腿	body	bio
+心	body	bio
+心肌	body	bio
+心臟	body	bio
+醒	body	bio
+胸	body	bio
+胸膛	body	bio
+修長	body	bio
+削瘦	body	bio
+血	body	bio
+血管	body	bio
+血淋淋	body	bio
+血統	body	bio
+血液	body	bio
+牙	body	bio
+牙齒	body	bio
+牙床	body	bio
+牙齦	body	bio
+咽喉	body	bio
+眼角膜	body	bio
+腰	body	bio
+腰部	body	bio
+腰身	body	bio
+腋	body	bio
+腋窩	body	bio
+衣服	body	bio
+掌	body	bio
+掌心	body	bio
+真皮	body	bio
+疹子	body	bio
+直腸	body	bio
+指關節	body	bio
+指節	body	bio
+趾	body	bio
+肘	body	bio
+足	body	bio
+足尖	body	bio
+嘴	body	bio
+嘴巴	body	bio
+嘴部	body	bio
+嘴唇	body	bio
+感覺	body	cogmech	bio	feel	insight	percept	verb
+知覺	body	cogmech	insight	bio
+鞋	body
+意圖	cause	achieve
+迫使	cause
+不得	certain	auxverb	discrep	cogmech
+不可	certain	auxverb	discrep	cogmech
+不可以	certain	auxverb	discrep	cogmech
+不應該	certain	auxverb	discrep	cogmech
+恰當	certain	cogmech	achieve	affect
+極端	certain	cogmech	affect
+真相	certain	cogmech	affect
+事事	certain	cogmech	funct	pronoun	ipron
+一切	certain	cogmech	funct	quant	ipron
+無所不包	certain	cogmech	inclusive
+把握	certain	cogmech	posemo	achieve	affect
+完善	certain	cogmech	posemo	achieve	affect
+毅然	certain	cogmech	posemo	achieve	affect
+自信	certain	cogmech	posemo	achieve	affect
+承諾	certain	cogmech	posemo	affect
+可靠	certain	cogmech	posemo	affect
+清楚	certain	cogmech	posemo	affect
+穩健	certain	cogmech	posemo	affect
+真實	certain	cogmech	posemo	affect
+真理	certain	cogmech	posemo
+信奉	certain	cogmech	religion	posemo	affect
+支持	certain	cogmech	verb	posemo	affect
+必備	certain	discrep	cogmech
+應有	certain	discrep	cogmech
+徹底	certain	funct	adverb	cogmech
+的確	certain	funct	adverb	cogmech
+非常	certain	funct	adverb	cogmech
+根本	certain	funct	adverb	cogmech
+絕對	certain	funct	adverb	cogmech
+完全	certain	funct	adverb	cogmech
+顯然	certain	funct	adverb	cogmech
+一定	certain	funct	adverb	cogmech
+真	certain	funct	adverb	cogmech
+真正	certain	funct	adverb	cogmech
+正好	certain	funct	adverb	cogmech
+當然	certain	funct	assent	adverb	cogmech
+真的	certain	funct	assent	adverb	cogmech
+合計	certain	funct	quant	cogmech
+完整	certain	funct	quant	cogmech
+整體	certain	funct	quant	cogmech
+總共	certain	funct	quant	cogmech
+總計	certain	funct	quant	cogmech
+總數	certain	funct	quant	cogmech
+無疑	certain
+無法	cogmech	achieve	discrep
+設計	cogmech	achieve
+重要	cogmech	achieve
+此外	cogmech	adverb	exclusive	funct	discrep	conj	preps
+不	cogmech	adverb	exclusive
+肯定	cogmech	adverb	funct	certain	posemo	affect
+從來	cogmech	adverb	funct	certain	relative	time
+一直	cogmech	adverb	funct	certain	relative	time
+總是	cogmech	adverb	funct	certain	relative	time
+最後	cogmech	adverb	funct	certain	relative	time
+經常	cogmech	adverb	funct	discrep	relative	time
+就	cogmech	adverb	funct	filler	exclusive	conj
+也	cogmech	adverb	funct	inclusive	interjunction	conj
+平常	cogmech	adverb	funct	presentm	relative	time	tensem
+立即	cogmech	adverb	funct	relative	futurem	time	tensem
+附近	cogmech	adverb	funct	space	relative	inclusive	preps
+需要	cogmech	adverb	funct	work	verb	discrep	achieve
+簡直	cogmech	adverb	funct
+十分	cogmech	adverb	funct
+最	cogmech	adverb	funct
+四處	cogmech	adverb	space	funct	relative	inclusive
+能夠	cogmech	auxverb	achieve	funct
+不必	cogmech	auxverb	discrep
+不能	cogmech	auxverb	discrep
+可	cogmech	auxverb	funct	assent	discrep
+必得	cogmech	auxverb	funct	discrep
+能	cogmech	auxverb	funct	discrep
+應當	cogmech	auxverb	funct	discrep
+應該	cogmech	auxverb	funct	tentat	discrep
+也許	cogmech	auxverb	tentat	adverb	funct
+或許	cogmech	auxverb	tentat	funct
+讓	cogmech	auxverb	verb	cause	funct
+不會	cogmech	auxverb	verb	discrep
+苦惱	cogmech	bio	sad	health	affect	anx	negemo
+操縱	cogmech	cause	achieve
+創辦人	cogmech	cause	achieve
+創建	cogmech	cause	achieve
+創立	cogmech	cause	achieve
+創造	cogmech	cause	achieve
+創作	cogmech	cause	achieve
+動機	cogmech	cause	achieve
+發明	cogmech	cause	achieve
+結局	cogmech	cause	achieve
+企圖	cogmech	cause	achieve
+效果	cogmech	cause	achieve
+作用	cogmech	cause	achieve
+如何	cogmech	cause	adverb	funct
+必然	cogmech	cause	certain
+不解	cogmech	cause	insight	affect	anx	negemo
+根據	cogmech	cause	preps	funct
+報應	cogmech	cause	religion
+暗示	cogmech	cause
+操控	cogmech	cause
+成果	cogmech	cause
+成效	cogmech	cause
+觸發	cogmech	cause
+道理	cogmech	cause
+發動	cogmech	cause
+發源	cogmech	cause
+改正	cogmech	cause
+根基	cogmech	cause
+根源	cogmech	cause
+歸因	cogmech	cause
+果然	cogmech	cause
+果真	cogmech	cause
+何以	cogmech	cause
+何以見得	cogmech	cause
+許可	cogmech	cause
+混淆	cogmech	cause
+基本	cogmech	cause
+基礎	cogmech	cause
+基於	cogmech	cause
+加劇	cogmech	cause
+加強	cogmech	cause
+加重	cogmech	cause
+教唆	cogmech	cause
+起因	cogmech	cause
+牽涉	cogmech	cause
+涉及	cogmech	cause
+使得	cogmech	cause
+條理	cogmech	cause
+為何	cogmech	cause
+為啥	cogmech	cause
+為什麼	cogmech	cause
+因果	cogmech	cause
+因之	cogmech	cause
+引出	cogmech	cause
+引發	cogmech	cause
+由來	cogmech	cause
+原本	cogmech	cause
+原理	cogmech	cause
+原因	cogmech	cause
+緣故	cogmech	cause
+造福	cogmech	cause
+造孽	cogmech	cause
+致使	cogmech	cause
+反駁	cogmech	certain	inhibition	social	anger	affect	negemo
+明白	cogmech	certain	insight	assent	verb	social
+完成	cogmech	certain	work	relative	verb	time	achieve
+必定	cogmech	certain
+不可能	cogmech	certain
+不容置疑	cogmech	certain
+純	cogmech	certain
+純粹	cogmech	certain
+篤定	cogmech	certain
+公定	cogmech	certain
+海枯石爛	cogmech	certain
+截然	cogmech	certain
+精確	cogmech	certain
+決定性	cogmech	certain
+明瞭	cogmech	certain
+明確	cogmech	certain
+明顯	cogmech	certain
+判處	cogmech	certain
+實話	cogmech	certain
+實情	cogmech	certain
+事實	cogmech	certain
+鐵定	cogmech	certain
+鐵證如山	cogmech	certain
+萬無一失	cogmech	certain
+無條件	cogmech	certain
+無庸置疑	cogmech	certain
+一輩子	cogmech	certain
+正確	cogmech	certain
+準確	cogmech	certain
+總	cogmech	certain
+總之	cogmech	certain
+如此	cogmech	conj	cause	adverb	funct
+如此一來	cogmech	conj	cause	funct
+所以	cogmech	conj	cause	funct
+因此	cogmech	conj	cause	funct
+因為	cogmech	conj	cause	preps	funct
+由於	cogmech	conj	cause	preps	funct
+無論	cogmech	conj	certain
+無論如何	cogmech	conj	certain
+不管	cogmech	conj	discrep	adverb	exclusive
+僅僅	cogmech	conj	funct	adverb	exclusive
+同樣	cogmech	conj	funct	adverb	inclusive
+除非	cogmech	conj	funct	exclusive
+但是	cogmech	conj	funct	exclusive
+否則	cogmech	conj	funct	exclusive
+然而	cogmech	conj	funct	exclusive
+若非	cogmech	conj	funct	exclusive
+而且	cogmech	conj	funct	inclusive
+及	cogmech	conj	funct	inclusive
+又	cogmech	conj	funct	inclusive
+和	cogmech	conj	funct	preps	inclusive
+與	cogmech	conj	funct	preps	inclusive
+可是	cogmech	conj	funct
+還是	cogmech	conj	tentat	adverb	funct
+不然	cogmech	conj	tentat	exclusive
+或	cogmech	conj	tentat	funct
+或者	cogmech	conj	tentat	funct
+而是	cogmech	discrep	exclusive
+寧可	cogmech	discrep	inclusive
+慾望	cogmech	discrep	sexual	bio
+懊悔	cogmech	discrep
+不須	cogmech	discrep
+不需	cogmech	discrep
+不用	cogmech	discrep
+差距	cogmech	discrep
+差異	cogmech	discrep
+悔不當初	cogmech	discrep
+悔恨	cogmech	discrep
+冀望	cogmech	discrep
+匱乏	cogmech	discrep
+期待	cogmech	discrep
+欠缺	cogmech	discrep
+缺	cogmech	discrep
+缺乏	cogmech	discrep
+缺少	cogmech	discrep
+希冀	cogmech	discrep
+相見恨晚	cogmech	discrep
+優於	cogmech	discrep
+欲望	cogmech	discrep
+預期	cogmech	discrep
+願望	cogmech	discrep
+正常	cogmech	discrep
+祝	cogmech	discrep
+非關	cogmech	exclusive
+減除	cogmech	exclusive
+漠視	cogmech	exclusive
+排除	cogmech	exclusive
+棄權	cogmech	exclusive
+取消	cogmech	exclusive
+去除	cogmech	exclusive
+省略	cogmech	exclusive
+遺忘	cogmech	exclusive
+壓迫	cogmech	feel	percept	inhibition	affect	negemo
+只	cogmech	funct	adverb	exclusive
+只是	cogmech	funct	adverb	exclusive
+都	cogmech	funct	adverb	inclusive
+從不	cogmech	funct	certain	relative	time	negate
+從未	cogmech	funct	certain	relative	time	negate
+反而	cogmech	funct	exclusive	adverb	discrep
+寧願	cogmech	funct	exclusive	adverb	discrep
+來	cogmech	funct	inclusive	prepend	relative	verb	motion	interjunction
+了	cogmech	funct	insight	assent	interjunction	tensem	progm
+否定	cogmech	funct	negate	inhibition	social	anger	affect	negemo
+否認	cogmech	funct	negate	inhibition	social	anger	affect	negemo
+願意	cogmech	funct	posemo	verb	discrep	affect	auxverb
+除此之外	cogmech	funct	preps	discrep
+除外	cogmech	funct	preps	exclusive
+額外	cogmech	funct	quant	inclusive
+同一	cogmech	funct	quant	inclusive
+一樣	cogmech	funct	quant	inclusive
+到	cogmech	funct	relative	inclusive	motion	verb	preps
+來自	cogmech	funct	relative	inclusive	motion	verb	preps
+之外	cogmech	funct	space	prepend	relative	discrep
+底	cogmech	funct	space	prepend	relative	inhibition
+中	cogmech	funct	space	presentm	prepend	relative	inclusive	tensem
+到達	cogmech	inclusive	relative	verb	motion	achieve
+一起	cogmech	inclusive	space	relative	time	motion
+進入	cogmech	inclusive	space	relative	verb	time	motion
+包括	cogmech	inclusive
+帶	cogmech	inclusive
+帶有	cogmech	inclusive
+附帶	cogmech	inclusive
+附加	cogmech	inclusive
+改期	cogmech	inclusive
+歸屬	cogmech	inclusive
+加	cogmech	inclusive
+加入	cogmech	inclusive
+加上	cogmech	inclusive
+皆	cogmech	inclusive
+靠攏	cogmech	inclusive
+擴充	cogmech	inclusive
+擴展	cogmech	inclusive
+擴張	cogmech	inclusive
+內幕	cogmech	inclusive
+其實	cogmech	inclusive
+添加	cogmech	inclusive
+拓展	cogmech	inclusive
+相關	cogmech	inclusive
+相加	cogmech	inclusive
+相似	cogmech	inclusive
+相同	cogmech	inclusive
+異於	cogmech	inclusive
+極限	cogmech	inhibition	achieve
+征服	cogmech	inhibition	achieve
+主宰	cogmech	inhibition	achieve
+誤導	cogmech	inhibition	cause
+不顧	cogmech	inhibition	discrep
+檢查	cogmech	inhibition	health	bio
+束	cogmech	inhibition	quanunit	funct
+戒律	cogmech	inhibition	religion
+對付	cogmech	inhibition	social
+回絕	cogmech	inhibition	social
+秘密	cogmech	inhibition	social
+義務	cogmech	inhibition	work	achieve	certain
+管理	cogmech	inhibition	work	achieve	verb
+責任	cogmech	inhibition	work	achieve
+佔有	cogmech	inhibition	work
+被迫	cogmech	inhibition
+逼迫	cogmech	inhibition
+捕捉	cogmech	inhibition
+不理	cogmech	inhibition
+撤銷	cogmech	inhibition
+持有	cogmech	inhibition
+打消	cogmech	inhibition
+擋開	cogmech	inhibition
+牴觸	cogmech	inhibition
+對立	cogmech	inhibition
+廢除	cogmech	inhibition
+廢止	cogmech	inhibition
+干擾	cogmech	inhibition
+干預	cogmech	inhibition
+告誡	cogmech	inhibition
+管制	cogmech	inhibition
+規定	cogmech	inhibition
+規範	cogmech	inhibition
+規律	cogmech	inhibition
+規則	cogmech	inhibition
+急迫	cogmech	inhibition
+擠壓	cogmech	inhibition
+忌諱	cogmech	inhibition
+監察	cogmech	inhibition
+監管	cogmech	inhibition
+監禁	cogmech	inhibition
+監視	cogmech	inhibition
+艱難	cogmech	inhibition
+僵固	cogmech	inhibition
+節制	cogmech	inhibition
+截止	cogmech	inhibition
+戒除	cogmech	inhibition
+界線	cogmech	inhibition
+緊急	cogmech	inhibition
+警告	cogmech	inhibition
+警戒	cogmech	inhibition
+警惕	cogmech	inhibition
+抗辯	cogmech	inhibition
+扣除	cogmech	inhibition
+綑	cogmech	inhibition
+凝固	cogmech	inhibition
+平定	cogmech	inhibition
+強制	cogmech	inhibition
+屈服	cogmech	inhibition
+取締	cogmech	inhibition
+勸阻	cogmech	inhibition
+讓步	cogmech	inhibition
+煞車	cogmech	inhibition
+設定	cogmech	inhibition
+慎重	cogmech	inhibition
+守舊	cogmech	inhibition
+守住	cogmech	inhibition
+受限	cogmech	inhibition
+束縛	cogmech	inhibition
+死板	cogmech	inhibition
+通牒	cogmech	inhibition
+違背	cogmech	inhibition
+相反	cogmech	inhibition
+小心翼翼	cogmech	inhibition
+削減	cogmech	inhibition
+壓縮	cogmech	inhibition
+嚴謹	cogmech	inhibition
+隱瞞	cogmech	inhibition
+幽禁	cogmech	inhibition
+有限	cogmech	inhibition
+有異	cogmech	inhibition
+預防	cogmech	inhibition
+掌管	cogmech	inhibition
+掌控	cogmech	inhibition
+專制	cogmech	inhibition
+準則	cogmech	inhibition
+捉	cogmech	inhibition
+自制	cogmech	inhibition
+遵從	cogmech	inhibition
+決策	cogmech	insight	achieve
+結論	cogmech	insight	cause	achieve
+究竟	cogmech	insight	cause	adverb	funct
+反應	cogmech	insight	cause	social
+不詳	cogmech	insight	cause
+斷定	cogmech	insight	cause
+理由	cogmech	insight	cause
+求證	cogmech	insight	cause
+推斷	cogmech	insight	cause
+推理	cogmech	insight	cause
+推論	cogmech	insight	cause
+追溯	cogmech	insight	cause
+定義	cogmech	insight	certain
+証明	cogmech	insight	certain
+證據	cogmech	insight	certain
+證實	cogmech	insight	certain
+沉思	cogmech	insight	leisure
+信賴	cogmech	insight	posemo	work	social	affect	achieve
+信念	cogmech	insight	religion
+懷念	cogmech	insight	sad	verb	affect	negemo
+辯護	cogmech	insight	social
+答覆	cogmech	insight	social
+發問	cogmech	insight	social
+告知	cogmech	insight	social
+關聯	cogmech	insight	social
+回答	cogmech	insight	social
+回應	cogmech	insight	social
+揭發	cogmech	insight	social
+揭露	cogmech	insight	social
+坦承	cogmech	insight	social
+提及	cogmech	insight	social
+透露	cogmech	insight	social
+議論	cogmech	insight	social
+知會	cogmech	insight	social
+准許	cogmech	insight	social
+辨別	cogmech	insight
+辨明	cogmech	insight
+辨認	cogmech	insight
+辯駁	cogmech	insight
+表示	cogmech	insight
+不同	cogmech	insight
+裁決	cogmech	insight
+採用	cogmech	insight
+參考	cogmech	insight
+差別	cogmech	insight
+闡明	cogmech	insight
+闡述	cogmech	insight
+陳述	cogmech	insight
+澄清	cogmech	insight
+答案	cogmech	insight
+調節	cogmech	insight
+調解	cogmech	insight
+調停	cogmech	insight
+調整	cogmech	insight
+洞察	cogmech	insight
+洞察力	cogmech	insight
+洞悉	cogmech	insight
+篤信	cogmech	insight
+斷然	cogmech	insight
+頓悟	cogmech	insight
+發覺	cogmech	insight
+翻譯	cogmech	insight
+反省	cogmech	insight
+反思	cogmech	insight
+反映	cogmech	insight
+費解	cogmech	insight
+分辨	cogmech	insight
+分類	cogmech	insight
+分清	cogmech	insight
+分析	cogmech	insight
+覆議	cogmech	insight
+概念	cogmech	insight
+供認	cogmech	insight
+估計	cogmech	insight
+故意	cogmech	insight
+歸類	cogmech	insight
+好奇	cogmech	insight
+合理	cogmech	insight
+和解	cogmech	insight
+恍然大悟	cogmech	insight
+回想	cogmech	insight
+回憶	cogmech	insight
+豁然開朗	cogmech	insight
+記得	cogmech	insight
+記起	cogmech	insight
+記憶	cogmech	insight
+記住	cogmech	insight
+檢視	cogmech	insight
+見解	cogmech	insight
+鑑別	cogmech	insight
+鑑定	cogmech	insight
+鑑識	cogmech	insight
+揭示	cogmech	insight
+解答	cogmech	insight
+解析	cogmech	insight
+精選	cogmech	insight
+抉擇	cogmech	insight
+決然	cogmech	insight
+決意	cogmech	insight
+決議	cogmech	insight
+覺察	cogmech	insight
+覺悟	cogmech	insight
+看出	cogmech	insight
+看法	cogmech	insight
+考慮到	cogmech	insight
+刻意	cogmech	insight
+理會	cogmech	insight
+理性	cogmech	insight
+料想	cogmech	insight
+靈光	cogmech	insight
+靈機一動	cogmech	insight
+領會	cogmech	insight
+領悟	cogmech	insight
+論說	cogmech	insight
+邏輯	cogmech	insight
+茅塞頓開	cogmech	insight
+難懂	cogmech	insight
+弄懂	cogmech	insight
+判別	cogmech	insight
+判斷	cogmech	insight
+批露	cogmech	insight
+披露	cogmech	insight
+評估	cogmech	insight
+評價	cogmech	insight
+啟發	cogmech	insight
+清醒	cogmech	insight
+區別	cogmech	insight
+區分	cogmech	insight
+詮釋	cogmech	insight
+認出	cogmech	insight
+認知	cogmech	insight
+容許	cogmech	insight
+三思	cogmech	insight
+深思熟慮	cogmech	insight
+聲明	cogmech	insight
+識別	cogmech	insight
+始料未及	cogmech	insight
+是否	cogmech	insight
+視為	cogmech	insight
+熟諳	cogmech	insight
+談及	cogmech	insight
+探究	cogmech	insight
+醍醐灌頂	cogmech	insight
+體認	cogmech	insight
+挑選	cogmech	insight
+推敲	cogmech	insight
+妥協	cogmech	insight
+未料	cogmech	insight
+問題	cogmech	insight
+細想	cogmech	insight
+洩漏	cogmech	insight
+心思	cogmech	insight
+蓄意	cogmech	insight
+演繹	cogmech	insight
+議	cogmech	insight
+預計	cogmech	insight
+讚賞	cogmech	insight
+找	cogmech	insight
+找出	cogmech	insight
+知	cogmech	insight
+知情	cogmech	insight
+知悉	cogmech	insight
+指望	cogmech	insight
+質問	cogmech	insight
+重估	cogmech	insight
+重建	cogmech	insight
+重現	cogmech	insight
+重造	cogmech	insight
+重整	cogmech	insight
+重組	cogmech	insight
+主意	cogmech	insight
+專心	cogmech	insight
+追憶	cogmech	insight
+琢磨	cogmech	insight
+自白	cogmech	insight
+綜合	cogmech	insight
+沒有	cogmech	multifun	verb	exclusive
+然後	cogmech	nonfl	funct	relative	time	conj
+觸動	cogmech	percept	cause
+清晰	cogmech	percept	hear	certain
+經驗	cogmech	percept	insight	achieve
+協調	cogmech	percept	insight	hear
+注意	cogmech	percept	insight	see	verb
+表明	cogmech	percept	insight	social
+察覺	cogmech	percept	insight
+感受	cogmech	percept	insight
+設想	cogmech	percept	insight
+欣賞	cogmech	percept	insight
+描述	cogmech	percept	verb	see	social
+同意	cogmech	posemo	insight	assent	verb	social	affect
+堅定	cogmech	posemo	insight	certain	affect	achieve
+決定	cogmech	posemo	insight	certain	affect	achieve
+寬恕	cogmech	posemo	insight	religion	social	affect
+相信	cogmech	posemo	insight	religion	verb	social	affect
+鼓勵	cogmech	posemo	insight	verb	social	affect	achieve
+信任	cogmech	posemo	insight	verb	social	affect
+信心	cogmech	posemo	religion	certain	affect	achieve
+完美	cogmech	posemo	work	certain	affect	achieve
+勝過	cogmech	posemo	work	relative	affect	achieve
+其他	cogmech	pronoun	funct	ipron	inclusive	quant
+最多	cogmech	quant	adverb	funct
+無限	cogmech	quant	certain
+無	cogmech	quant	exclusive
+不足	cogmech	sad	relative	quant	discrep	affect	negemo	achieve
+激起	cogmech	sexual	bio
+名聲	cogmech	social
+名譽	cogmech	social
+提到	cogmech	social
+委託	cogmech	social
+正面	cogmech	space	certain	relative	posemo	affect
+緊密	cogmech	space	feel	relative	percept	inhibition
+裡	cogmech	space	funct	prepend	relative	inclusive
+內	cogmech	space	funct	prepend	relative	inclusive
+分別	cogmech	space	insight	relative	time	motion
+機會	cogmech	tentat	achieve
+可能	cogmech	tentat	adverb	funct	discrep	auxverb
+曾經	cogmech	tentat	adverb	funct	relative	pastm	time	tensem
+常常	cogmech	tentat	adverb	funct	relative	time
+偶爾	cogmech	tentat	adverb	funct	relative	time
+隨時	cogmech	tentat	adverb	funct	relative	time
+通常	cogmech	tentat	adverb	funct	relative	time
+有時	cogmech	tentat	adverb	funct	relative	time
+大約	cogmech	tentat	adverb	funct	space	relative
+隨處	cogmech	tentat	adverb	funct	space	relative
+大致	cogmech	tentat	adverb	funct
+幾乎	cogmech	tentat	adverb	funct
+將近	cogmech	tentat	adverb	funct
+頗	cogmech	tentat	adverb	funct
+稍微	cogmech	tentat	adverb	funct
+時常	cogmech	tentat	adverb	funct
+往往	cogmech	tentat	adverb	funct
+相當	cogmech	tentat	adverb	funct
+徬徨	cogmech	tentat	anx	negemo
+變動	cogmech	tentat	anx
+遲疑	cogmech	tentat	anx
+怎麼	cogmech	tentat	cause	adverb	funct
+校正	cogmech	tentat	cause
+但願	cogmech	tentat	discrep
+假設	cogmech	tentat	exclusive	insight	verb	discrep	funct	conj
+可以	cogmech	tentat	funct	assent	discrep	auxverb
+如果	cogmech	tentat	funct	exclusive	discrep	conj
+若	cogmech	tentat	funct	exclusive	discrep	conj
+某	cogmech	tentat	funct	exclusive	specart
+部分	cogmech	tentat	funct	space	relative	quant
+大量	cogmech	tentat	funct	space	relative	quant
+想	cogmech	tentat	funct	verb	discrep	affect	auxverb
+顧慮	cogmech	tentat	inhibition	affect	anx	negemo
+似乎	cogmech	tentat	insight	adverb	funct
+懷疑	cogmech	tentat	insight	social	affect	anx	negemo
+疑問	cogmech	tentat	insight	social
+覺得	cogmech	tentat	insight	verb
+認為	cogmech	tentat	insight	verb
+以為	cogmech	tentat	insight	verb
+猜想	cogmech	tentat	insight
+揣測	cogmech	tentat	insight
+答辯	cogmech	tentat	insight
+假定	cogmech	tentat	insight
+納悶	cogmech	tentat	insight
+推測	cogmech	tentat	insight
+選	cogmech	tentat	insight
+選擇	cogmech	tentat	insight
+疑慮	cogmech	tentat	insight
+賭博	cogmech	tentat	leisure	money
+打賭	cogmech	tentat	money
+賭注	cogmech	tentat	money
+期望	cogmech	tentat	posemo	verb	discrep	affect
+希望	cogmech	tentat	posemo	verb	discrep	affect
+依照	cogmech	tentat	preps	funct
+部份	cogmech	tentat	quant	funct
+大部分	cogmech	tentat	quant	funct
+大多數	cogmech	tentat	quant	funct
+很多	cogmech	tentat	quant	funct
+任何	cogmech	tentat	quant	funct
+任一	cogmech	tentat	quant	funct
+些許	cogmech	tentat	quant	funct
+一些	cogmech	tentat	quant	funct
+有點	cogmech	tentat	quant	funct
+不少	cogmech	tentat	quant
+變更	cogmech	tentat	relative	verb	cause	motion
+傳聞	cogmech	tentat	social
+嘗試	cogmech	tentat	verb	achieve
+詢問	cogmech	tentat	verb	social
+猜	cogmech	tentat	verb
+試驗	cogmech	tentat	work
+曖昧	cogmech	tentat
+奧秘	cogmech	tentat
+半信半疑	cogmech	tentat
+不明	cogmech	tentat
+不清	cogmech	tentat
+不清不楚	cogmech	tentat
+不全	cogmech	tentat
+不一定	cogmech	tentat
+猜不透	cogmech	tentat
+猜測	cogmech	tentat
+揣度	cogmech	tentat
+典型	cogmech	tentat
+動搖	cogmech	tentat
+多變	cogmech	tentat
+好像	cogmech	tentat
+機率	cogmech	tentat
+機遇	cogmech	tentat
+假說	cogmech	tentat
+間接	cogmech	tentat
+僥倖	cogmech	tentat
+近似	cogmech	tentat
+盡量	cogmech	tentat
+看來	cogmech	tentat
+靠不住	cogmech	tentat
+可疑	cogmech	tentat
+類比	cogmech	tentat
+類似	cogmech	tentat
+理論	cogmech	tentat
+朦朧	cogmech	tentat
+謎	cogmech	tentat
+模稜兩可	cogmech	tentat
+某物	cogmech	tentat
+某些	cogmech	tentat
+難解	cogmech	tentat
+彷彿	cogmech	tentat
+取決	cogmech	tentat
+任意	cogmech	tentat
+若干	cogmech	tentat
+神秘	cogmech	tentat
+隨機	cogmech	tentat
+忐忑	cogmech	tentat
+未定	cogmech	tentat
+未決	cogmech	tentat
+未知	cogmech	tentat
+懸而未決	cogmech	tentat
+選項	cogmech	tentat
+疑惑	cogmech	tentat
+隱晦	cogmech	tentat
+有點兒	cogmech	tentat
+有時候	cogmech	tentat
+運氣	cogmech	tentat
+怎地	cogmech	tentat
+獲得	cogmech	verb	achieve
+試圖	cogmech	verb	cause	achieve
+影響	cogmech	verb	cause	achieve
+造成	cogmech	verb	cause	achieve
+成為	cogmech	verb	cause	funct
+操作	cogmech	verb	cause
+利用	cogmech	verb	cause
+使	cogmech	verb	cause
+使用	cogmech	verb	cause
+逼	cogmech	verb	inhibition
+等	cogmech	verb	inhibition
+等待	cogmech	verb	inhibition
+忘	cogmech	verb	inhibition
+維持	cogmech	verb	inhibition
+遵守	cogmech	verb	inhibition
+了解	cogmech	verb	insight	assent	social
+瞭解	cogmech	verb	insight	assent
+發現	cogmech	verb	insight	cause	achieve
+證明	cogmech	verb	insight	cause	certain
+允許	cogmech	verb	insight	cause	social
+打算	cogmech	verb	insight	cause
+引起	cogmech	verb	insight	cause
+信仰	cogmech	verb	insight	religion
+承認	cogmech	verb	insight	social
+解釋	cogmech	verb	insight	social
+說明	cogmech	verb	insight	social
+提	cogmech	verb	insight	social
+敘述	cogmech	verb	insight	social
+懂	cogmech	verb	insight
+接受	cogmech	verb	insight
+考慮	cogmech	verb	insight
+理解	cogmech	verb	insight
+挑	cogmech	verb	insight
+喜歡	cogmech	verb	insight
+顯示	cogmech	verb	insight
+曉得	cogmech	verb	insight
+尋找	cogmech	verb	insight
+找到	cogmech	verb	insight
+知道	cogmech	verb	insight
+發表	cogmech	verb	work	cause
+製造	cogmech	verb	work	cause
+製作	cogmech	verb	work	cause
+要求	cogmech	verb	work	inhibition	social	achieve
+訓練	cogmech	verb	work
+處理	cogmech	verb
+適應	cogmech	verb
+規劃	cogmech	work	achieve	social
+負責	cogmech	work	achieve
+盡責	cogmech	work	achieve
+指揮	cogmech	work	achieve
+目的	cogmech	work	cause	achieve
+共同	cogmech	work	inclusive
+指定	cogmech	work	inclusive
+指派	cogmech	work	inclusive
+支配	cogmech	work	inhibition	affect	negemo	achieve
+引導	cogmech	work	relative	cause	motion	achieve
+引領	cogmech	work	relative	cause	motion	achieve
+達到	cogmech	work	relative	verb	cause	motion	achieve
+挫敗	cogmech	work	sad	affect	negemo	achieve
+報導	cogmech	work	social
+聯繫	cogmech	work	social
+安排	cogmech
+變得	cogmech
+不合	cogmech
+差遣	cogmech
+出於	cogmech
+打聽	cogmech
+法則	cogmech
+激發	cogmech
+交代	cogmech
+交付	cogmech
+交託	cogmech
+解開	cogmech
+例如	cogmech
+埋怨	cogmech
+難免	cogmech
+排列	cogmech
+排序	cogmech
+擾亂	cogmech
+提交	cogmech
+託付	cogmech
+委任	cogmech
+無解	cogmech
+無為	cogmech
+無意	cogmech
+武斷	cogmech
+顯露	cogmech
+顯現	cogmech
+現實	cogmech
+形成	cogmech
+訊問	cogmech
+訊息	cogmech
+一致	cogmech
+依從	cogmech
+議題	cogmech
+迂迴	cogmech
+徵象	cogmech
+徵兆	cogmech
+準備	cogmech
+資訊	cogmech
+總體	cogmech
+並	conj	adverb	funct
+才	conj	adverb	funct
+反正	conj	adverb	funct
+那麼	conj	adverb	funct
+只有	conj	adverb	funct
+不論	conj	adverb
+另	conj	funct	specart
+並且	conj	funct
+但	conj	funct
+的話	conj	funct
+而	conj	funct
+故	conj	funct
+還有	conj	funct
+或是	conj	funct
+即使	conj	funct
+既	conj	funct
+既然	conj	funct
+假如	conj	funct
+假使	conj	funct
+鑑於	conj	funct
+儘管	conj	funct
+況且	conj	funct
+連	conj	funct
+另外	conj	funct
+另一方面	conj	funct
+且	conj	funct
+卻	conj	funct
+若是	conj	funct
+雖	conj	funct
+雖然	conj	funct
+隨著	conj	funct
+倘若	conj	funct
+要是	conj	funct
+一邊	conj	funct
+一旦	conj	funct
+一方面	conj	funct
+一面	conj	funct
+以及	conj	funct
+以免	conj	funct
+亦	conj	funct
+因	conj	funct
+因而	conj	funct
+於是	conj	funct
+與其	conj	funct
+只要	conj	funct
+關於	conj	preps	funct
+如	conj	preps	funct
+像	conj	preps	funct
+至	conj	preps	funct
+不但	conj
+不過	conj
+不僅	conj
+不如	conj
+不只	conj
+傷心	death	sad
+哀悼	death
+哀傷	death
+哀慟	death
+安樂死	death
+安葬	death
+白包	death
+悲傷	death
+悲慟	death
+瀕死	death
+殘骸	death
+殘殺	death
+處決	death
+處死	death
+垂死	death
+慈制	death
+大體	death
+大屠殺	death
+帶孝	death
+奠儀	death
+法事	death
+分屍	death
+墳地	death
+墳墓	death
+服喪	death
+訃告	death
+訃文	death
+告別式	death
+公祭	death
+公墓	death
+古墓	death
+骨灰	death
+骨灰罈	death
+鬼	death
+鬼魂	death
+護柩	death
+毀滅	death
+火化	death
+火葬	death
+禍害	death
+祭拜	death
+祭祀	death
+祭文	death
+祭祖	death
+家祭	death
+解剖	death
+枯	death
+陵墓	death
+靈車	death
+靈骨塔	death
+靈柩	death
+靈堂	death
+流行病	death
+埋葬	death
+滅絕	death
+滅種	death
+墓	death
+墓碑	death
+墓地	death
+墓穴	death
+溺死	death
+披麻	death
+淒涼	death
+槍斃	death
+入殮	death
+喪服	death
+喪禮	death
+喪親	death
+喪葬	death
+掃墓	death
+殺戮	death
+殺人	death
+傷亡	death
+傷者	death
+上吊	death
+上香	death
+屍體	death
+事故	death
+收殮	death
+受害人	death
+私刑	death
+死神	death
+死刑	death
+死者	death
+太平間	death
+屠殺	death
+屠宰	death
+輓聯	death
+亡故	death
+往生	death
+危及	death
+危險	death
+瘟疫	death
+誤殺	death
+孝服	death
+凶殺	death
+兇案	death
+兇殺	death
+嚴制	death
+驗屍	death
+驗屍官	death
+遺書	death
+遺囑	death
+憂傷	death
+災難	death
+葬禮	death
+致死	death
+自殘	death
+自毀	death
+自殺	death
+阿公	family	social
+阿媽	family	social
+阿姨	family	social
+阿祖	family	social
+爸	family	social
+爸爸	family	social
+表弟	family	social
+表哥	family	social
+表姐	family	social
+表妹	family	social
+表兄	family	social
+表姊	family	social
+伯	family	social
+伯伯	family	social
+伯父	family	social
+伯公	family	social
+伯母	family	social
+出嫁	family	social
+大伯	family	social
+爹	family	social
+爹爹	family	social
+父	family	social
+父母	family	social
+父親	family	social
+婦女	family	social
+哥	family	social
+哥哥	family	social
+公公	family	social
+公婆	family	social
+姑父	family	social
+姑媽	family	social
+姑母	family	social
+姑丈	family	social
+過繼	family	social
+後母	family	social
+婚姻	family	social
+繼父	family	social
+繼母	family	social
+繼子	family	social
+家屬	family	social
+嫁	family	social
+嫁娶	family	social
+結婚	family	social
+妗	family	social
+老公	family	social
+老婆	family	social
+姥姥	family	social
+媽	family	social
+媽媽	family	social
+媽咪	family	social
+妹妹	family	social
+母	family	social
+母親	family	social
+奶爸	family	social
+奶媽	family	social
+奶奶	family	social
+內人	family	social
+配偶	family	social
+婆婆	family	social
+前夫	family	social
+前妻	family	social
+前任	family	social
+乾爸	family	social
+乾弟	family	social
+乾爹	family	social
+乾哥	family	social
+乾姐	family	social
+乾媽	family	social
+親家	family	social
+親戚	family	social
+親屬	family	social
+娶	family	social
+入贅	family	social
+雙親	family	social
+孫	family	social
+孫兒	family	social
+孫女	family	social
+孫子	family	social
+太祖	family	social
+堂弟	family	social
+堂哥	family	social
+堂姐	family	social
+堂妹	family	social
+堂兄	family	social
+堂姊	family	social
+外公	family	social
+外婆	family	social
+外甥	family	social
+外甥女	family	social
+外子	family	social
+外祖父	family	social
+外祖母	family	social
+媳婦	family	social
+小姑	family	social
+小犬	family	social
+小叔	family	social
+兄	family	social
+養父	family	social
+養母	family	social
+養女	family	social
+養子	family	social
+爺爺	family	social
+已婚	family	social
+異父	family	social
+異母	family	social
+義父	family	social
+義母	family	social
+義女	family	social
+義子	family	social
+迎娶	family	social
+遠親	family	social
+丈夫	family	social
+妯娌	family	social
+祖父	family	social
+祖母	family	social
+祖先	family	social
+女兒	family
+刺激	feel	affect	percept	achieve
+脆弱	feel	affect	percept	anx	negemo
+舒適	feel	affect	percept	leisure	posemo
+沉重	feel	affect	percept	negemo
+敏銳	feel	affect	percept	posemo
+暖和	feel	affect	percept	posemo
+溫暖	feel	affect	percept	posemo
+溫柔	feel	affect	percept	posemo
+擊	feel	affect	percept
+柔軟	feel	affect	percept
+柔	feel	affect	posemo
+毛	feel	bio	percept	body
+皮	feel	bio	percept	body
+皮膚	feel	bio	percept	body
+手	feel	bio	percept	body
+手指	feel	bio	percept	body
+寒冷	feel	bio	percept	health
+重	feel	bio	percept	ingest
+重量	feel	bio	percept	ingest
+緊	feel	cogmech	percept	inhibition
+牢固	feel	cogmech	percept	inhibition
+握住	feel	cogmech	percept	inhibition
+模糊	feel	cogmech	tentat	percept
+擦	feel	home	percept
+圓	feel	money	percept	see
+輕柔	feel	percept	hear
+圓弧	feel	percept	see
+圓形	feel	percept	see
+接觸	feel	percept	verb	social
+愛撫	feel	percept
+冰凍	feel	percept
+冰冷	feel	percept
+潮濕	feel	percept
+觸	feel	percept
+觸摸	feel	percept
+刺	feel	percept
+粗糙	feel	percept
+彈性	feel	percept
+凍	feel	percept
+凍結	feel	percept
+奪	feel	percept
+鋒利	feel	percept
+拂	feel	percept
+刮	feel	percept
+光滑	feel	percept
+火	feel	percept
+尖	feel	percept
+尖銳	feel	percept
+堅硬	feel	percept
+緊握	feel	percept
+緊抓	feel	percept
+均勻	feel	percept
+寬鬆	feel	percept
+冷凍	feel	percept
+涼快	feel	percept
+零散	feel	percept
+麻	feel	percept
+毛茸茸	feel	percept
+鳴聲	feel	percept
+摩	feel	percept
+摩擦	feel	percept
+抹	feel	percept
+黏稠	feel	percept
+捏	feel	percept
+擰	feel	percept
+碰	feel	percept
+碰觸	feel	percept
+碰到	feel	percept
+平滑	feel	percept
+平坦	feel	percept
+敲	feel	percept
+輕拍	feel	percept
+熱	feel	percept
+柔和	feel	percept
+軟	feel	percept
+軟綿綿	feel	percept
+搔	feel	percept
+搔癢	feel	percept
+沙	feel	percept
+沙沙	feel	percept
+燒	feel	percept
+失重	feel	percept
+濕	feel	percept
+濕答答	feel	percept
+濕濕	feel	percept
+刷	feel	percept
+絲	feel	percept
+絲柔	feel	percept
+鬆弛	feel	percept
+鬆垮	feel	percept
+鬆軟	feel	percept
+鬆散	feel	percept
+酸痛	feel	percept
+燙	feel	percept
+塗	feel	percept
+微弱	feel	percept
+稀薄	feel	percept
+辛辣	feel	percept
+壓	feel	percept
+硬	feel	percept
+榨	feel	percept
+抓	feel	percept
+擠	feel	relative	percept	motion	space
+推	feel	relative	percept	motion
+稀少	feel	relative	percept	quant	funct
+薄	feel	relative	percept	space
+粗	feel	relative	percept	space
+厚	feel	relative	percept	space
+密集	feel	relative	percept	space
+鬆	feel	relative	percept	space
+細	feel	relative	percept	space
+抓住	feel	relative	percept	verb	motion
+稀疏	feel	relative	percept
+像是	filler	multifun	verb	funct
+恩	filler	nonfl
+就是	filler	nonfl
+等等	filler
+對了	filler
+話說	filler
+之類	filler
+賓客	friend	social
+點頭之交	friend	social
+哈尼	friend	social
+換帖	friend	social
+伙伴	friend	social
+客人	friend	social
+麻吉	friend	social
+馬子	friend	social
+莫逆	friend	social
+莫逆之交	friend	social
+社團	friend	social
+熟人	friend	social
+甜心	friend	social
+同胞	friend	social
+同志	friend	social
+未婚夫	friend	social
+相識	friend	social
+心肝	friend	social
+友	friend	social
+友誼	friend	social
+摯友	friend	social
+男伴	friend
+男朋友	friend
+男友	friend
+女伴	friend
+女朋友	friend
+女友	friend
+一般	funct	adverb	prepend
+耶	funct	affect	interjunction	assent	posemo
+想要	funct	auxverb	verb	discrep
+必須	funct	certain	auxverb	discrep	cogmech
+必要	funct	certain	auxverb	discrep	cogmech
+人人	funct	certain	cogmech	social	ipron
+會	funct	cogmech	auxverb	verb	discrep
+要	funct	cogmech	auxverb	verb	discrep
+同	funct	cogmech	conj	inclusive	specart
+各	funct	cogmech	inclusive	quant	specart
+嘿	funct	interjunction	assent	social
+以後	funct	prepend	relative	futurem	time	tensem
+般	funct	prepend
+初	funct	prepend
+當中	funct	prepend
+貌	funct	prepend
+時	funct	prepend
+似的	funct	prepend
+為止	funct	prepend
+以來	funct	prepend
+以上	funct	prepend
+以外	funct	prepend
+之內	funct	prepend
+之餘	funct	prepend
+止	funct	prepend
+狀	funct	prepend
+自從	funct	prepend
+左右	funct	prepend
+彼此	funct	pronoun	social
+數	funct	quant	number	quanunit
+群	funct	quant	quanunit	social
+每	funct	quant	specart
+間	funct	quanunit	prepend
+本	funct	quanunit	specart
+次	funct	quanunit	specart
+首	funct	quanunit	specart
+本身	funct	social
+後	funct	space	prepend	relative	futurem	time	tensem	specart
+之後	funct	space	prepend	relative	futurem	time	tensem
+之前	funct	space	prepend	relative	pastm	time	tensem
+何	funct	specart
+諸	funct	specart
+組	funct	work	quanunit	social
+事物	funct
+小人物	funct
+聾	hear	bio	percept	health
+聾啞	hear	bio	percept	health
+重聽	hear	bio	percept	health
+牌位	home	death
+家人	home	family	leisure	social
+家庭	home	family	leisure	social
+家族	home	family	leisure	social
+鄰居	home	friend	social
+室友	home	friend	social
+居民	home	humans	social
+電視	home	leisure
+花園	home	leisure
+假期	home	leisure
+沐浴	home	leisure
+睡眠	home	leisure
+庭院	home	leisure
+休假	home	leisure
+浴缸	home	leisure
+浴室	home	leisure
+院子	home	leisure
+地契	home	money
+房契	home	money
+房租	home	money
+租金	home	money
+租賃	home	money
+租契	home	money
+租約	home	money
+整齊	home	posemo	affect
+家	home	quanunit	funct
+門	home	quanunit	funct
+居住	home	verb
+功課	home	work	achieve
+抵押	home	work	money
+房屋	home	work
+畫室	home	work
+宿舍	home	work
+傭人	home	work
+作業	home	work
+壁櫥	home
+壁爐	home
+冰箱	home
+布幕	home
+草地	home
+草坪	home
+廁所	home
+長椅	home
+巢	home
+車庫	home
+寵物	home
+櫥	home
+窗戶	home
+窗簾	home
+床	home
+床墊	home
+厝	home
+打掃	home
+大樓	home
+大門	home
+地毯	home
+地址	home
+地主	home
+墊子	home
+頂樓	home
+翻新	home
+翻修	home
+房東	home
+房客	home
+房子	home
+閣樓	home
+工作室	home
+公寓	home
+狗窩	home
+寡婦	home
+鰥夫	home
+盥洗室	home
+烘乾機	home
+後院	home
+火爐	home
+家具	home
+家事	home
+家務	home
+家鄉	home
+傢具	home
+傢俱	home
+就寢	home
+烤爐	home
+烤箱	home
+簾	home
+淋浴	home
+樓頂	home
+樓中樓	home
+爐	home
+露台	home
+門簾	home
+密室	home
+暖爐	home
+女傭	home
+平台	home
+前院	home
+寢具	home
+寢室	home
+清除	home
+清潔	home
+清理	home
+掃	home
+掃除	home
+掃帚	home
+沙發	home
+神桌	home
+梳妝檯	home
+睡椅	home
+躺椅	home
+套房	home
+天井	home
+透天	home
+拖把	home
+拖地	home
+碗櫥	home
+微波	home
+微波爐	home
+帷幔	home
+窩	home
+臥室	home
+屋主	home
+屋子	home
+吸塵器	home
+洗碗機	home
+洗衣機	home
+信箱	home
+修理	home
+雅房	home
+陽台	home
+陽臺	home
+搖椅	home
+衣櫥	home
+衣櫃	home
+椅墊	home
+傭	home
+郵箱	home
+游泳池	home
+雜務	home
+澡盆	home
+宅	home
+枕頭	home
+住戶	home
+住址	home
+兒子	humans	family	social
+孩子	humans	family	social
+太太	humans	family	social
+先生	humans	family	social
+搭檔	humans	friend	social
+夥伴	humans	friend	social
+傢伙	humans	friend	social
+同伴	humans	friend	social
+同夥	humans	friend	social
+百姓	humans	social
+長官	humans	social
+成年人	humans	social
+成人	humans	social
+成員	humans	social
+大人	humans	social
+兒童	humans	social
+份子	humans	social
+夫人	humans	social
+閣下	humans	social
+個人	humans	social
+公民	humans	social
+孩童	humans	social
+會員	humans	social
+老百姓	humans	social
+平民	humans	social
+群眾	humans	social
+人類	humans	social
+人們	humans	social
+人民	humans	social
+人群	humans	social
+少婦	humans	social
+少女	humans	social
+紳士	humans	social
+市民	humans	social
+小孩	humans	social
+小伙子	humans	social
+小姐	humans	social
+小妞	humans	social
+新生兒	humans	social
+嬰兒	humans	social
+嬰孩	humans	social
+幼兒	humans	social
+子女	humans	social
+自我	humans	social
+消夜	ingest
+矜持	inhibition
+約定	inhibition
+質疑	insight	affect	work	achieve	cogmech
+教訓	insight	cogmech	inhibition	achieve
+請求	insight	cogmech	work	achieve	social
+裁定	insight	cogmech	work	achieve
+估算	insight	cogmech	work
+計算	insight	cogmech	work
+判決	insight	cogmech	work
+習得	insight	cogmech	work
+學會	insight	cogmech	work
+保密	insight	social
+確認	insight
+嗯哼	interjunction	assent	funct
+哦	interjunction	assent	funct
+喔	interjunction	assent	funct
+嗯	interjunction	assent	nonfl	funct
+哎	interjunction	funct
+唉	interjunction	funct
+欸	interjunction	funct
+罷了	interjunction	funct
+吧	interjunction	funct
+而已	interjunction	funct
+啦	interjunction	funct
+咧	interjunction	funct
+嗎	interjunction	funct
+嘛	interjunction	funct
+呢	interjunction	funct
+挖咧	interjunction	funct
+哇咧	interjunction	funct
+呀	interjunction	funct
+也好	interjunction	funct
+與否	interjunction	funct
+啊	interjunction	nonfl	funct
+ㄟ	interjunction
+人	ipron	funct	humans	pronoun	social
+對方	ipron	funct	pronoun	social
+哪	ipron	interjunction	pronoun	funct
+別人	ipron	pronoun	funct
+此	ipron	pronoun	funct
+東西	ipron	pronoun	funct
+家家	ipron	pronoun	funct
+哪些	ipron	pronoun	funct
+那個	ipron	pronoun	funct
+那裡	ipron	pronoun	funct
+那些	ipron	pronoun	funct
+其	ipron	pronoun	funct
+什麼	ipron	pronoun	funct
+事	ipron	pronoun	funct
+事情	ipron	pronoun	funct
+它	ipron	pronoun	funct
+它們	ipron	pronoun	funct
+牠	ipron	pronoun	funct
+牠們	ipron	pronoun	funct
+這	ipron	pronoun	funct
+這些	ipron	pronoun	funct
+自身	ipron	pronoun	funct
+那	ipron	pronoun	nonfl	funct
+其餘	ipron	quant	pronoun	funct
+誰	ipron	tentat	funct	pronoun	cogmech
+比賽	leisure	social
+搭訕	leisure	social
+紀念	leisure	social
+聚會	leisure	social
+聊天	leisure	social
+名流	leisure	social
+名人	leisure	social
+閒談	leisure	social
+21點	leisure
+COS	leisure
+COSPLAY	leisure
+ipod	leisure
+KTV	leisure
+MTV	leisure
+wii	leisure
+芭蕾	leisure
+芭蕾舞	leisure
+白酒	leisure
+伴唱機	leisure
+棒球	leisure
+便服	leisure
+變裝	leisure
+播音員	leisure
+博物館	leisure
+佈置	leisure
+部落格	leisure
+唱片	leisure
+唱詩班	leisure
+春假	leisure
+打盹	leisure
+打獵	leisure
+打屁	leisure
+雕刻	leisure
+雕塑	leisure
+釣魚	leisure
+動畫	leisure
+獨角戲	leisure
+讀	leisure
+鍛鍊	leisure
+飛盤	leisure
+伏特加	leisure
+橄欖球	leisure
+歌詞	leisure
+歌劇	leisure
+歌謠	leisure
+工藝	leisure
+公園	leisure
+鼓	leisure
+管絃樂	leisure
+光碟	leisure
+廣播	leisure
+廣播員	leisure
+鬼扯	leisure
+海邊	leisure
+海濱	leisure
+海灘	leisure
+寒假	leisure
+紅酒	leisure
+湖	leisure
+划船	leisure
+滑雪	leisure
+畫本	leisure
+歡樂	leisure
+吉他	leisure
+假日	leisure
+剪貼簿	leisure
+健行	leisure
+健身	leisure
+健壯	leisure
+健走	leisure
+交響樂	leisure
+腳踏車	leisure
+教練	leisure
+酒店	leisure
+酒館	leisure
+酒會	leisure
+舉重	leisure
+俱樂部	leisure
+劇本	leisure
+劇場	leisure
+劇院	leisure
+咖啡廳	leisure
+卡通	leisure
+瞌睡	leisure
+籃球	leisure
+覽車	leisure
+朗讀	leisure
+立體聲	leisure
+連續劇	leisure
+溜達	leisure
+錄音	leisure
+露營	leisure
+旅館	leisure
+旅舍	leisure
+旅社	leisure
+麻將	leisure
+馬車	leisure
+馬拉松	leisure
+漫步	leisure
+漫畫	leisure
+美術	leisure
+美術品	leisure
+門票	leisure
+夢	leisure
+夢想	leisure
+民宿	leisure
+摩托車	leisure
+女演員	leisure
+爬山	leisure
+排球	leisure
+牌	leisure
+派對	leisure
+飄飄然	leisure
+票價	leisure
+票券	leisure
+頻道	leisure
+球	leisure
+球棒	leisure
+曲棍球	leisure
+券	leisure
+饒舌	leisure
+任天堂	leisure
+日光浴	leisure
+日記	leisure
+日記簿	leisure
+日劇	leisure
+日誌	leisure
+容易	leisure
+三鐵	leisure
+射擊	leisure
+詩	leisure
+詩集	leisure
+嗜好	leisure
+飾品	leisure
+飾物	leisure
+收音機	leisure
+狩獵	leisure
+暑假	leisure
+水療	leisure
+廝混	leisure
+隨身聽	leisure
+陶藝	leisure
+踢球	leisure
+跳棋	leisure
+庭園	leisure
+投球	leisure
+投手	leisure
+塗鴉	leisure
+玩具	leisure
+玩偶	leisure
+玩物	leisure
+網路	leisure
+網球	leisure
+網誌	leisure
+圍棋	leisure
+溫泉	leisure
+午睡	leisure
+午休	leisure
+舞會	leisure
+舞曲	leisure
+西洋棋	leisure
+嘻哈	leisure
+喜劇	leisure
+戲劇	leisure
+戲院	leisure
+閒逛	leisure
+閒聊	leisure
+象棋	leisure
+消遣	leisure
+小睡	leisure
+小說	leisure
+休憩	leisure
+休息	leisure
+休閒	leisure
+秀	leisure
+演員	leisure
+氧	leisure
+野營	leisure
+夜店	leisure
+夜市	leisure
+夜總會	leisure
+音響	leisure
+影帶	leisure
+影碟	leisure
+影片	leisure
+遊覽車	leisure
+遊輪	leisure
+遊艇	leisure
+瑜珈	leisure
+浴場	leisure
+樂隊	leisure
+樂團	leisure
+雜誌	leisure
+展覽	leisure
+紙牌	leisure
+週末	leisure
+週年慶	leisure
+煮飯	leisure
+莊園	leisure
+裝飾	leisure
+足球	leisure
+醉	leisure
+店	money	leisure
+賭場	money	leisure
+購物	money	leisure
+商店	money	leisure
+元	money	quanunit	funct
+窮困	money	sad	anx	negemo	affect
+付	money	verb	work
+購買	money	verb
+花費	money	verb
+花錢	money	verb
+浪費	money	verb
+買	money	verb
+賣	money	verb
+報酬	money	work	achieve
+促銷	money	work	achieve
+紅利	money	work	achieve
+繼承	money	work	achieve
+津貼	money	work	achieve
+所得	money	work	achieve
+協議	money	work	achieve
+資源	money	work	achieve
+財金	money	work
+倉庫	money	work
+存貨	money	work
+待遇	money	work
+法人	money	work
+付費	money	work
+付款	money	work
+付錢	money	work
+工資	money	work
+公司	money	work
+股份	money	work
+股票	money	work
+股息	money	work
+顧客	money	work
+會費	money	work
+加班	money	work
+獎學金	money	work
+金融	money	work
+經濟	money	work
+課稅	money	work
+庫存	money	work
+利息	money	work
+買主	money	work
+貿易	money	work
+批發	money	work
+清單	money	work
+商業	money	work
+收入	money	work
+稅	money	work
+稅金	money	work
+特權	money	work
+消費者	money	work
+薪水	money	work
+薪餉	money	work
+薪資	money	work
+營利	money	work
+營收	money	work
+月薪	money	work
+職業	money	work
+資金	money	work
+保管	money
+保險	money
+保證金	money
+幣	money
+便宜	money
+補償	money
+補貼	money
+財產	money
+財富	money
+採買	money
+彩票	money
+彩券	money
+查帳	money
+償付	money
+償還	money
+鈔票	money
+車票	money
+成本	money
+出借	money
+儲存	money
+儲蓄	money
+存款	money
+存錢	money
+打折	money
+代價	money
+貸	money
+貸款	money
+盜用	money
+訂金	money
+獨占	money
+獨佔	money
+賭金	money
+兌換	money
+發票	money
+法郎	money
+費	money
+費用	money
+估價	money
+國稅局	money
+核對	money
+匯率	money
+匯票	money
+賄賂	money
+貨幣	money
+基金	money
+稽核	money
+加班費	money
+價	money
+價格	money
+價錢	money
+價值	money
+獎金	money
+獎卷	money
+獎券	money
+節儉	money
+節省	money
+節約	money
+借	money
+借方	money
+借款	money
+借入	money
+金錢	money
+經費	money
+九牛一毛	money
+捐	money
+捐獻	money
+開銷	money
+客戶	money
+款項	money
+廉價	money
+零售	money
+壟斷	money
+買賣	money
+美金	money
+面值	money
+摸彩	money
+年薪	money
+挪威幣	money
+挪用	money
+歐元	money
+拍賣	money
+賠償	money
+批發商	money
+披索	money
+票據	money
+貧困	money
+貧窮	money
+破產	money
+乞丐	money
+乞討	money
+簽賭	money
+簽證	money
+錢	money
+錢幣	money
+欠	money
+清貧	money
+窮人	money
+殺價	money
+商	money
+商機	money
+商人	money
+賞金	money
+賒欠	money
+賒帳	money
+審計	money
+生活費	money
+省錢	money
+施捨	money
+收買	money
+收益	money
+首獎	money
+售	money
+刷卡	money
+稅收	money
+歲入	money
+貪財	money
+貪婪	money
+貪污	money
+貪心	money
+討價還價	money
+特價品	money
+提款機	money
+通貨	money
+銅板	money
+投資	money
+頭彩	money
+頭獎	money
+退款	money
+無價	money
+物價	money
+現金	money
+現金卡	money
+現款	money
+銷售	money
+銷售額	money
+銷售量	money
+蕭條	money
+信用卡	money
+學費	money
+血拼	money
+押金	money
+一角	money
+一毛不拔	money
+遺產	money
+銀行	money
+英鎊	money
+硬幣	money
+佣金	money
+優待券	money
+預算	money
+月入	money
+樂透	money
+債	money
+帳	money
+帳單	money
+帳戶	money
+帳目	money
+折價卷	money
+折扣	money
+證券	money
+支出	money
+支票	money
+專利	money
+莊家	money
+資助	money
+之	multifun	funct
+的	multifun	interjunction	funct
+個	multifun	quanunit	funct
+是	multifun	verb	assent	funct
+乃是	multifun	verb	funct
+有	multifun	verb	preps	funct
+不是	multifun
+未必	negate	cogmech	auxverb	tentat	funct
+決不	negate	cogmech	funct	certain
+絕不	negate	cogmech	funct	certain
+否	negate	cogmech	funct	exclusive
+毫無	negate	cogmech	funct	quant	certain
+否決	negate	cogmech	inhibition	funct
+絕無	negate	cogmech	relative	funct	certain
+並非	negate	funct
+反	negate	funct
+非	negate	funct
+非得	negate	funct
+還不是	negate	funct
+毫不	negate	funct
+絕非	negate	funct
+莫	negate	funct
+莫非	negate	funct
+難以	negate	funct
+豈不	negate	funct
+豈不是	negate	funct
+切勿	negate	funct
+尚未	negate	funct
+未	negate	funct
+未曾	negate	funct
+未有	negate	funct
+毋須	negate	funct
+用不到	negate	funct
+暫不	negate	funct
+少	negate	relative	quant	adverb	funct
+別	negate	verb	funct	specart
+樂極生悲	negemo	sad
+爽約	negemo
+喜怒無常	negemo
+呃	nonfl
+八	number	funct
+捌	number	funct
+百	number	funct
+百萬	number	funct
+佰	number	funct
+半	number	funct
+參	number	funct
+二	number	funct
+貳	number	funct
+好幾	number	funct
+九	number	funct
+玖	number	funct
+兩	number	funct
+兩百	number	funct
+零	number	funct
+六	number	funct
+陸	number	funct
+廿	number	funct
+七	number	funct
+柒	number	funct
+千	number	funct
+仟	number	funct
+三	number	funct
+十	number	funct
+拾	number	funct
+四	number	funct
+肆	number	funct
+五	number	funct
+伍	number	funct
+一	number	funct
+壹	number	funct
+乙	number	funct
+唱歌	percept	hear	leisure
+歌	percept	hear	leisure
+歌唱	percept	hear	leisure
+歌曲	percept	hear	leisure
+合唱	percept	hear	leisure
+合唱團	percept	hear	leisure
+演奏會	percept	hear	leisure
+音樂	percept	hear	leisure
+音樂會	percept	hear	leisure
+樂曲	percept	hear	leisure
+樂音	percept	hear	leisure
+聆聽	percept	hear	social
+傾聽	percept	hear	social
+談話	percept	hear	social
+談論	percept	hear	social
+嘈雜	percept	hear
+唱	percept	hear
+吵	percept	hear
+吵鬧	percept	hear
+沉默	percept	hear
+刺耳	percept	hear
+大喊	percept	hear
+大吼	percept	hear
+大叫	percept	hear
+大聲	percept	hear
+低語	percept	hear
+耳語	percept	hear
+發聲	percept	hear
+分貝	percept	hear
+隔音	percept	hear
+聒噪	percept	hear
+喊	percept	hear
+喊叫	percept	hear
+合奏	percept	hear
+轟隆	percept	hear
+吼叫	percept	hear
+呼喊	percept	hear
+呼聲	percept	hear
+寂靜	percept	hear
+尖叫	percept	hear
+叫喊	percept	hear
+靜	percept	hear
+靜默	percept	hear
+雷	percept	hear
+雷聲	percept	hear
+鈴聲	percept	hear
+隆隆	percept	hear
+隆隆聲	percept	hear
+鳴	percept	hear
+鳴叫	percept	hear
+吶喊	percept	hear
+怒吼	percept	hear
+嗓門	percept	hear
+嗓子	percept	hear
+沙啞	percept	hear
+聲響	percept	hear
+聲音	percept	hear
+私語	percept	hear
+嘶吼	percept	hear
+嗡嗡	percept	hear
+無聲	percept	hear
+響	percept	hear
+響亮	percept	hear
+響起	percept	hear
+喧鬧	percept	hear
+言論	percept	hear
+演奏	percept	hear
+音調	percept	hear
+有聲	percept	hear
+噪音	percept	hear
+震耳欲聾	percept	hear
+吼	percept	interjunction	hear	funct
+影像	percept	see	leisure
+黯淡	percept	see
+白	percept	see
+白色	percept	see
+白皙	percept	see
+逼真	percept	see
+變暗	percept	see
+變黑	percept	see
+播放	percept	see
+彩色	percept	see
+長方形	percept	see
+橙色	percept	see
+淡紅色	percept	see
+淡黃色	percept	see
+瞪眼	percept	see
+點亮	percept	see
+點燃	percept	see
+電燈	percept	see
+盯	percept	see
+發光	percept	see
+發亮	percept	see
+方	percept	see
+方形	percept	see
+放映	percept	see
+粉紅	percept	see
+粉紅色	percept	see
+膚色	percept	see
+光	percept	see
+光線	percept	see
+光源	percept	see
+褐色	percept	see
+黑暗	percept	see
+黑色	percept	see
+紅色	percept	see
+環	percept	see
+環狀	percept	see
+黃色	percept	see
+灰	percept	see
+灰色	percept	see
+金黃	percept	see
+金黃色	percept	see
+景色	percept	see
+橘色	percept	see
+矩形	percept	see
+咖啡色	percept	see
+藍色	percept	see
+亮	percept	see
+留神	percept	see
+留意	percept	see
+瀏覽	percept	see
+綠	percept	see
+綠色	percept	see
+盲目	percept	see
+美容	percept	see
+凝視	percept	see
+旁觀	percept	see
+瞥	percept	see
+漆黑	percept	see
+淺色	percept	see
+青色	percept	see
+晴朗	percept	see
+球形	percept	see
+日光	percept	see
+乳白	percept	see
+三角	percept	see
+掃描	percept	see
+掃瞄	percept	see
+色彩	percept	see
+閃亮	percept	see
+閃爍	percept	see
+閃耀	percept	see
+雙眸	percept	see
+天藍色	percept	see
+通紅	percept	see
+圖	percept	see
+圖片	percept	see
+圖像	percept	see
+外表	percept	see
+外貌	percept	see
+微光	percept	see
+微亮	percept	see
+細看	percept	see
+鮮亮	percept	see
+鮮豔	percept	see
+相片	percept	see
+絢爛	percept	see
+雪白	percept	see
+亞麻	percept	see
+顏料	percept	see
+顏色	percept	see
+印象	percept	see
+遊覽	percept	see
+圓圈	percept	see
+圓柱	percept	see
+閱覽	percept	see
+漲紅	percept	see
+照亮	percept	see
+照片	percept	see
+遮蔽	percept	see
+燭光	percept	see
+注視	percept	see
+紫	percept	see
+紫紅	percept	see
+紫紅色	percept	see
+紫色	percept	see
+棕色	percept	see
+表達	percept	social
+聽聞	percept	social
+濃厚	percept	space
+告訴	percept	verb	hear	social
+講	percept	verb	hear	social
+講話	percept	verb	hear	social
+唸	percept	verb	hear	social
+說	percept	verb	hear	social
+說話	percept	verb	hear	social
+見	percept	verb	see
+聽	percept	verb	social
+聽到	percept	verb	social
+聽見	percept	verb	social
+觀察	percept	verb
+吸	percept	verb
+演講	percept	work	hear	social
+蒼白	percept
+嚐	percept
+除臭	percept
+吹送	percept
+調味	percept
+惡臭	percept
+發白	percept
+發熱	percept
+芳香	percept
+芬芳	percept
+風	percept
+風味	percept
+腐敗	percept
+腐臭	percept
+腐爛	percept
+甘美	percept
+甘甜	percept
+觀	percept
+觀點	percept
+觀看	percept
+和顏悅色	percept
+胡說	percept
+壞透	percept
+昏	percept
+激烈	percept
+尖酸	percept
+鹹	percept
+喀嚓	percept
+口味	percept
+苦澀	percept
+苦味	percept
+辣	percept
+覽	percept
+蜜	percept
+黏	percept
+噴	percept
+皮製	percept
+飄盪	percept
+品嚐	percept
+氣味	percept
+巧克力色	percept
+潤滑	percept
+掃視	percept
+色	percept
+舐	percept
+爽口	percept
+嘶	percept
+嘶嘶	percept
+四方	percept
+酸性	percept
+體驗	percept
+甜美	percept
+甜密	percept
+甜蜜	percept
+甜言蜜語	percept
+聽力	percept
+味覺	percept
+聞	percept
+吸入	percept
+香	percept
+香料	percept
+香噴噴	percept
+香氣	percept
+香味	percept
+想像	percept
+嗅	percept
+嗅覺	percept
+憶起	percept
+油	percept
+油膩	percept
+愉快	percept
+暈	percept
+照耀	percept
+解決	posemo	insight	cause	achieve	cogmech
+憐憫	posemo	sad	religion	social	affect	negemo
+幫手	posemo	social
+支撐	posemo	verb
+保證	posemo	work	certain
+操守	posemo
+誠	posemo
+獨創	posemo
+驚奇	posemo
+驚歎	posemo
+驚訝	posemo
+淨土	posemo
+義	posemo
+某人	ppron	cogmech	tentat	pronoun	funct	ipron	exclusive	social
+大家	ppron	cogmech	we	pronoun	funct	certain	humans	social
+我們	ppron	cogmech	we	pronoun	inclusive	funct	social
+那位	ppron	funct	pronoun	shehe	social
+他	ppron	funct	pronoun	shehe	social
+她	ppron	funct	pronoun	shehe	social
+祂	ppron	funct	pronoun	shehe	social
+這位	ppron	funct	pronoun	shehe	social
+他人	ppron	funct	pronoun	social
+他們	ppron	funct	pronoun	they	social
+她們	ppron	funct	pronoun	they	social
+小弟	ppron	i	funct	pronoun	social
+俺	ppron	i	pronoun	funct
+敝人	ppron	i	pronoun	funct
+我	ppron	i	pronoun	funct
+吾	ppron	i	pronoun	funct
+在下	ppron	i	pronoun	funct
+本人	ppron	pronoun	funct	i	humans	social
+自己	ppron	pronoun	funct	i	humans	social
+人家	ppron	pronoun	funct	i	ipron	social	shehe
+我倆	ppron	we	funct	pronoun	social
+吾等	ppron	we	funct	pronoun	social
+吾人	ppron	we	funct	pronoun	social
+咱	ppron	we	funct	pronoun	social
+咱們	ppron	we	funct	pronoun	social
+祢	ppron	you	funct	pronoun	social
+你	ppron	you	funct	pronoun	social
+妳	ppron	you	funct	pronoun	social
+您	ppron	you	funct	pronoun	social
+汝	ppron	you	funct	pronoun	social
+爾等	ppron	youpl	funct	pronoun	social
+你們	ppron	youpl	funct	pronoun	social
+妳們	ppron	youpl	funct	pronoun	social
+您們	ppron	youpl	funct	pronoun	social
+汝等	ppron	youpl	funct	pronoun	social
+較	preps	adverb	funct
+越來越	preps	adverb	funct
+把	preps	funct
+幫	preps	funct
+被	preps	funct
+比	preps	funct
+比較	preps	funct
+除	preps	funct
+除了	preps	funct
+對於	preps	funct
+多於	preps	funct
+跟	preps	funct
+藉	preps	funct
+經由	preps	funct
+據	preps	funct
+劣於	preps	funct
+譬如	preps	funct
+如同	preps	funct
+順	preps	funct
+隨	preps	funct
+替	preps	funct
+透過	preps	funct
+為	preps	funct
+為了	preps	funct
+沿	preps	funct
+依	preps	funct
+以	preps	funct
+由	preps	funct
+於	preps	funct
+遭	preps	funct
+針對	preps	funct
+至於	preps	funct
+自	preps	funct
+晚近	progm	funct
+哪裡	pronoun	adverb	funct	ipron	space	relative
+很少	quant	adverb	funct
+極	quant	adverb	funct
+唯一	quant	adverb	funct
+充足	quant	funct
+單一	quant	funct
+獨一無二	quant	funct
+多	quant	funct
+多點	quant	funct
+多量	quant	funct
+多少	quant	funct
+各式各樣	quant	funct
+更	quant	funct
+更多	quant	funct
+更少	quant	funct
+較少	quant	funct
+其它	quant	funct
+千千	quant	funct
+全體	quant	funct
+少數	quant	funct
+剩下	quant	funct
+剩餘	quant	funct
+雙倍	quant	funct
+所有	quant	funct
+萬萬	quant	funct
+一半	quant	funct
+一點點	quant	funct
+一段	quant	funct
+一會兒	quant	funct
+有的	quant	funct
+餘	quant	funct
+整	quant	funct
+種種	quant	funct
+眾多	quant	funct
+總額	quant	funct
+最少	quant	funct
+幾	quant	number	funct
+倍	quant	quanunit	funct
+串	quant	quanunit	funct
+塊	quant	quanunit	funct
+雙	quant	quanunit	funct
+系列	quant	quanunit	funct
+不計其數	quant
+下	quanunit	funct	space	prepend	relative	specart
+百分比	quanunit	funct
+杯	quanunit	funct
+遍	quanunit	funct
+波	quanunit	funct
+步	quanunit	funct
+層	quanunit	funct
+場	quanunit	funct
+棟	quanunit	funct
+度	quanunit	funct
+段	quanunit	funct
+堆	quanunit	funct
+噸	quanunit	funct
+頓	quanunit	funct
+朵	quanunit	funct
+番	quanunit	funct
+封	quanunit	funct
+幅	quanunit	funct
+副	quanunit	funct
+根	quanunit	funct
+公分	quanunit	funct
+公斤	quanunit	funct
+公頃	quanunit	funct
+號	quanunit	funct
+戶	quanunit	funct
+伙	quanunit	funct
+級	quanunit	funct
+集	quanunit	funct
+架	quanunit	funct
+件	quanunit	funct
+節	quanunit	funct
+屆	quanunit	funct
+斤	quanunit	funct
+句	quanunit	funct
+棵	quanunit	funct
+顆	quanunit	funct
+款	quanunit	funct
+類	quanunit	funct
+里	quanunit	funct
+輛	quanunit	funct
+枚	quanunit	funct
+美元	quanunit	funct
+面	quanunit	funct
+名	quanunit	funct
+年	quanunit	funct
+排	quanunit	funct
+盤	quanunit	funct
+批	quanunit	funct
+篇	quanunit	funct
+片	quanunit	funct
+坪	quanunit	funct
+瓶	quanunit	funct
+圈	quanunit	funct
+聲	quanunit	funct
+式	quanunit	funct
+艘	quanunit	funct
+歲	quanunit	funct
+所	quanunit	funct
+台	quanunit	funct
+趟	quanunit	funct
+套	quanunit	funct
+題	quanunit	funct
+條	quanunit	funct
+團	quanunit	funct
+位	quanunit	funct
+項	quanunit	funct
+些	quanunit	funct
+樣	quanunit	funct
+頁	quanunit	funct
+則	quanunit	funct
+陣	quanunit	funct
+支	quanunit	funct
+隻	quanunit	funct
+種	quanunit	funct
+週	quanunit	funct
+幢	quanunit	funct
+座	quanunit	funct
+票	quanunit	leisure	funct
+頂點	relative	achieve	space
+終點	relative	achieve	space
+領先	relative	achieve
+限度	relative	achieve
+不斷	relative	adverb	time
+不久	relative	adverb	time
+寬大	relative	affect	home	posemo	space
+慢	relative	affect	leisure	time
+丟棄	relative	affect	motion	negemo
+遠離	relative	affect	motion	negemo
+分裂	relative	affect	negemo	space
+狹小	relative	affect	negemo	space
+遲到	relative	affect	negemo	time
+單獨	relative	affect	quant	negemo	funct
+遺棄	relative	affect	sad	motion	negemo
+拉緊	relative	affect	space
+次要	relative	affect
+傳染	relative	bio	health	motion
+運動	relative	bio	verb	health	motion
+創始	relative	cogmech	cause	achieve	time
+結果	relative	cogmech	cause	achieve	time
+發起	relative	cogmech	cause	achieve
+後果	relative	cogmech	cause	achieve
+領導	relative	cogmech	cause	motion	achieve
+導向	relative	cogmech	cause	motion
+更改	relative	cogmech	cause	motion
+來源	relative	cogmech	cause	time
+起源	relative	cogmech	cause	time
+原來	relative	cogmech	cause	time
+源頭	relative	cogmech	cause	time
+源自	relative	cogmech	cause	time
+不變	relative	cogmech	certain	time
+天長地久	relative	cogmech	certain	time
+一再	relative	cogmech	certain	time
+永恆	relative	cogmech	certain	time
+永久	relative	cogmech	certain	time
+永遠	relative	cogmech	certain	time
+相對	relative	cogmech	exclusive	space
+相比	relative	cogmech	exclusive
+兩者	relative	cogmech	funct	quant	inclusive
+局部	relative	cogmech	funct	quant	space
+開	relative	cogmech	inclusive	motion	space
+包含	relative	cogmech	inclusive	space
+敞開	relative	cogmech	inclusive	space
+到處	relative	cogmech	inclusive	space
+環繞	relative	cogmech	inclusive	space
+開放	relative	cogmech	inclusive	space
+裡面	relative	cogmech	inclusive	space
+入	relative	cogmech	inclusive	space
+張開	relative	cogmech	inclusive	space
+周圍	relative	cogmech	inclusive	space
+增加	relative	cogmech	inclusive
+中止	relative	cogmech	inhibition	motion	time
+終止	relative	cogmech	inhibition	motion	time
+止住	relative	cogmech	inhibition	motion
+圍住	relative	cogmech	inhibition	space
+障礙	relative	cogmech	inhibition	space
+耽誤	relative	cogmech	inhibition	time
+延緩	relative	cogmech	inhibition	time
+延期	relative	cogmech	inhibition	time
+耽擱	relative	cogmech	inhibition	work	time
+拖延	relative	cogmech	inhibition	work	time
+延遲	relative	cogmech	inhibition	work	time
+延誤	relative	cogmech	inhibition	work	time
+嚴密	relative	cogmech	inhibition
+探索	relative	cogmech	insight	work	motion
+消除	relative	cogmech	motion	exclusive
+差不多	relative	cogmech	tentat	adverb	funct
+大概	relative	cogmech	tentat	adverb	funct
+普遍	relative	cogmech	tentat	adverb	funct
+主要	relative	cogmech	tentat	adverb	funct
+改天	relative	cogmech	tentat	exclusive	time
+接近	relative	cogmech	tentat	motion	space
+多數	relative	cogmech	tentat	quant	funct
+短暫	relative	cogmech	tentat	time
+間或	relative	cogmech	tentat	time
+偶然	relative	cogmech	tentat	time
+碰巧	relative	cogmech	tentat	time
+暫時	relative	cogmech	tentat	time
+傾向	relative	cogmech	tentat	verb	space
+慣常	relative	cogmech	time
+持續	relative	cogmech	verb	achieve	time
+變成	relative	cogmech	verb	cause	motion
+變化	relative	cogmech	verb	cause	motion
+變遷	relative	cogmech	verb	cause	motion
+促使	relative	cogmech	verb	cause	motion
+改變	relative	cogmech	verb	cause	motion
+產生	relative	cogmech	verb	cause	time
+導致	relative	cogmech	verb	cause
+帶領	relative	cogmech	verb	motion	inclusive
+出現	relative	cogmech	verb	motion	space
+交換	relative	cogmech	verb	work	motion
+率領	relative	cogmech	work	motion	achieve
+無關	relative	cogmech
+當	relative	conj	funct	preps	time
+直到	relative	conj	funct	preps	time
+直至	relative	conj	funct	preps	time
+接著	relative	conj	funct	time
+每當	relative	conj	funct	time
+最終	relative	funct	adverb	achieve	time
+何處	relative	funct	adverb	space
+遠	relative	funct	adverb	space
+遠處	relative	funct	adverb	space
+長久	relative	funct	adverb	time
+何時	relative	funct	adverb	time
+即刻	relative	funct	adverb	time
+即時	relative	funct	adverb	time
+近來	relative	funct	adverb	time
+快	relative	funct	adverb	time
+快速	relative	funct	adverb	time
+頻繁	relative	funct	adverb	time
+起初	relative	funct	adverb	time
+仍	relative	funct	adverb	time
+仍然	relative	funct	adverb	time
+首先	relative	funct	adverb	time
+迅速	relative	funct	adverb	time
+再	relative	funct	adverb	time
+再次	relative	funct	adverb	time
+終於	relative	funct	adverb	time
+重新	relative	funct	adverb	time
+最近	relative	funct	adverb	time
+從	relative	funct	preps	space
+低於	relative	funct	preps	space
+其中	relative	funct	preps	space
+始於	relative	funct	preps	time
+先於	relative	funct	preps	time
+片段	relative	funct	quant	quanunit	space
+充滿	relative	funct	quant	space
+大	relative	funct	quant	space
+低	relative	funct	quant	space
+短	relative	funct	quant	space
+高	relative	funct	quant	space
+滿	relative	funct	quant	space
+全部	relative	funct	quant	space
+小	relative	funct	quant	space
+一點	relative	funct	quant	space
+整個	relative	funct	quant	space
+長	relative	funct	quant	time
+吋	relative	funct	quanunit	space
+道	relative	funct	quanunit	space
+點	relative	funct	quanunit	space
+公尺	relative	funct	quanunit	space
+公里	relative	funct	quanunit	space
+張	relative	funct	quanunit	space
+分	relative	funct	quanunit	time
+分鐘	relative	funct	quanunit	time
+回	relative	funct	quanunit	time
+秒	relative	funct	quanunit	time
+期	relative	funct	quanunit	time
+日	relative	funct	quanunit	time
+天	relative	funct	quanunit	time
+上	relative	funct	space	prepend	motion	specart
+前	relative	funct	space	prepend	motion	time	specart
+房間	relative	home	leisure	space
+節日	relative	home	leisure	time
+空間	relative	home	space
+寬敞	relative	home	space
+室	relative	home	space
+廳	relative	home	space
+哩	relative	interjunction	funct	space
+處處	relative	ipron	funct	pronoun	space
+靜止	relative	leisure	time
+角	relative	money	space
+衰退	relative	money	time
+渡過	relative	motion	achieve
+趕上	relative	motion	achieve
+駕馭	relative	motion	achieve
+進展	relative	motion	achieve
+驅使	relative	motion	achieve
+提高	relative	motion	achieve
+推進	relative	motion	achieve
+朝	relative	motion	funct	preps	space
+往	relative	motion	funct	preps	space
+向	relative	motion	funct	preps	space
+旅行	relative	motion	leisure
+慢跑	relative	motion	leisure
+跑步	relative	motion	leisure
+賽跑	relative	motion	leisure
+跳舞	relative	motion	leisure
+舞蹈	relative	motion	leisure
+遊蕩	relative	motion	leisure
+遠足	relative	motion	leisure
+取	relative	motion	percept	verb
+按	relative	motion	percept
+滑	relative	motion	percept
+拜訪	relative	motion	social
+參加	relative	motion	social
+發送	relative	motion	social
+派遣	relative	motion	social
+視察	relative	motion	social
+朝向	relative	motion	space
+穿過	relative	motion	space
+傳	relative	motion	space
+放	relative	motion	space
+分離	relative	motion	space
+蓋上	relative	motion	space
+各自	relative	motion	space
+合攏	relative	motion	space
+合上	relative	motion	space
+靠近	relative	motion	space
+離開	relative	motion	space
+離去	relative	motion	space
+上樓	relative	motion	space
+下降	relative	motion	space
+越過	relative	motion	space
+逗留	relative	motion	time
+更新	relative	motion	time
+前往	relative	motion	time
+上載	relative	motion	time
+停下	relative	motion	time
+停住	relative	motion	time
+給予	relative	motion	verb	achieve	social
+進步	relative	motion	verb	achieve
+前進	relative	motion	verb	achieve
+去	relative	motion	verb	interjunction	funct
+跑	relative	motion	verb	leisure
+傳達	relative	motion	verb	social
+寄	relative	motion	verb	social
+送	relative	motion	verb	social
+消失	relative	motion	verb	space
+進行	relative	motion	verb	time
+停	relative	motion	verb	time
+停留	relative	motion	verb	time
+停止	relative	motion	verb	time
+出發	relative	motion	verb
+帶來	relative	motion	verb
+抵達	relative	motion	verb
+動	relative	motion	verb
+動作	relative	motion	verb
+飛	relative	motion	verb
+行動	relative	motion	verb
+換	relative	motion	verb
+開車	relative	motion	verb
+來到	relative	motion	verb
+流動	relative	motion	verb
+拿	relative	motion	verb
+拿來	relative	motion	verb
+投	relative	motion	verb
+攜帶	relative	motion	verb
+移動	relative	motion	verb
+走	relative	motion	verb
+走路	relative	motion	verb
+阻止	relative	motion	verb
+提升	relative	motion	work	achieve
+交易	relative	motion	work	social	money
+調動	relative	motion	work
+替代	relative	motion	work
+推動	relative	motion	work
+安置	relative	motion
+安裝	relative	motion
+搬	relative	motion
+搬遷	relative	motion
+搬運	relative	motion
+伴隨	relative	motion
+背離	relative	motion
+步調	relative	motion
+步伐	relative	motion
+踩	relative	motion
+參觀	relative	motion
+長大	relative	motion
+扯	relative	motion
+成長	relative	motion
+乘坐	relative	motion
+衝	relative	motion
+衝破	relative	motion
+出席	relative	motion
+傳導	relative	motion
+傳送	relative	motion
+逮住	relative	motion
+彈跳	relative	motion
+到來	relative	motion
+吊	relative	motion
+掉	relative	motion
+掉落	relative	motion
+掉下	relative	motion
+抖動	relative	motion
+陡峭	relative	motion
+發射	relative	motion
+放置	relative	motion
+飛行	relative	motion
+浮	relative	motion
+跟隨	relative	motion
+更換	relative	motion
+掛	relative	motion
+行程	relative	motion
+行進	relative	motion
+行駛	relative	motion
+行走	relative	motion
+航程	relative	motion
+航行	relative	motion
+闔上	relative	motion
+互換	relative	motion
+滑動	relative	motion
+滑落	relative	motion
+活動	relative	motion
+駕	relative	motion
+駕駛	relative	motion
+腳步	relative	motion
+接棒	relative	motion
+接到	relative	motion
+接收	relative	motion
+接住	relative	motion
+解除	relative	motion
+解救	relative	motion
+經過	relative	motion
+舉止	relative	motion
+跨步	relative	motion
+快遞	relative	motion
+拉	relative	motion
+拉扯	relative	motion
+臨近	relative	motion
+流	relative	motion
+落下	relative	motion
+旅程	relative	motion
+旅途	relative	motion
+律動	relative	motion
+漫遊	relative	motion
+拿到	relative	motion
+拿開	relative	motion
+拿去	relative	motion
+拿走	relative	motion
+扭轉	relative	motion
+爬	relative	motion
+攀登	relative	motion
+拋	relative	motion
+跑者	relative	motion
+陪同	relative	motion
+偏移	relative	motion
+漂流	relative	motion
+騎	relative	motion
+騎乘	relative	motion
+起程	relative	motion
+汽車	relative	motion
+牽引	relative	motion
+親近	relative	motion
+驅動	relative	motion
+取代	relative	motion
+去掉	relative	motion
+扔	relative	motion
+散步	relative	motion
+上升	relative	motion
+升	relative	motion
+生長	relative	motion
+失蹤	relative	motion
+事過境遷	relative	motion
+收到	relative	motion
+手舞足蹈	relative	motion
+踏	relative	motion
+跳	relative	motion
+跳躍	relative	motion
+通過	relative	motion
+投遞	relative	motion
+拖	relative	motion
+握	relative	motion
+下落	relative	motion
+旋轉	relative	motion
+懸吊	relative	motion
+懸掛	relative	motion
+巡邏	relative	motion
+搖擺	relative	motion
+搖動	relative	motion
+移開	relative	motion
+遺留	relative	motion
+遊歷	relative	motion
+游	relative	motion
+游動	relative	motion
+游泳	relative	motion
+躍	relative	motion
+運輸	relative	motion
+運送	relative	motion
+運載	relative	motion
+震動	relative	motion
+擲	relative	motion
+拽	relative	motion
+撞見	relative	motion
+追蹤	relative	motion
+走過	relative	motion
+足跡	relative	motion
+阻擋	relative	motion
+地	relative	multifun	funct	adverb	space
+吻合	relative	percept	see
+腐朽	relative	percept	time
+之間	relative	prepend	funct	space	time
+許多	relative	quant	funct
+輕微	relative	quant	funct
+少量	relative	quant	funct
+雙方	relative	quant	funct
+無窮	relative	quant	time
+行	relative	quanunit	funct	assent	motion	verb
+不朽	relative	religion	death	time
+長生	relative	religion	death	time
+來世	relative	religion	time
+禮拜	relative	religion	time
+輪迴	relative	religion	time
+聖誕節	relative	religion	time
+耶誕節	relative	religion	time
+錯過	relative	sad	motion	verb	affect	negemo
+地位	relative	social	achieve	space
+少年	relative	social	humans	time
+碰面	relative	social	space
+成年	relative	social	time
+再見	relative	social	time
+公共	relative	social
+超過	relative	space	achieve	time
+外	relative	space	funct	prepend
+以下	relative	space	funct	prepend
+之下	relative	space	funct	prepend
+之中	relative	space	funct	prepend
+近	relative	space	funct	specart
+上部	relative	space	time
+矮	relative	space
+矮小	relative	space
+擺	relative	space
+包圍	relative	space
+北	relative	space
+北部	relative	space
+北方	relative	space
+北面	relative	space
+本地	relative	space
+筆直	relative	space
+閉	relative	space
+邊	relative	space
+邊際	relative	space
+邊沿	relative	space
+邊緣	relative	space
+遍及	relative	space
+表面	relative	space
+瀕臨	relative	space
+部位	relative	space
+側	relative	space
+層級	relative	space
+拆散	relative	space
+場地	relative	space
+場所	relative	space
+超出	relative	space
+朝下	relative	space
+車道	relative	space
+城市	relative	space
+稠密	relative	space
+出	relative	space
+出口	relative	space
+出來	relative	space
+出去	relative	space
+處所	relative	space
+垂直	relative	space
+大規模	relative	space
+大廳	relative	space
+單行	relative	space
+當地	relative	space
+倒退	relative	space
+道路	relative	space
+登陸	relative	space
+低垂	relative	space
+底部	relative	space
+底層	relative	space
+底下	relative	space
+地板	relative	space
+地點	relative	space
+地方	relative	space
+地面	relative	space
+地區	relative	space
+地圖	relative	space
+頂	relative	space
+頂部	relative	space
+頂上	relative	space
+東	relative	space
+東方	relative	space
+都市	relative	space
+端	relative	space
+對角	relative	space
+對角線	relative	space
+對面	relative	space
+反向	relative	space
+範圍	relative	space
+方面	relative	space
+方位	relative	space
+分割	relative	space
+分隔	relative	space
+分開	relative	space
+封閉	relative	space
+幅度	relative	space
+俯	relative	space
+覆蓋	relative	space
+高大	relative	space
+高度	relative	space
+隔開	relative	space
+關	relative	space
+關閉	relative	space
+關上	relative	space
+廣大	relative	space
+廣度	relative	space
+廣泛	relative	space
+廣闊	relative	space
+國際	relative	space
+國家	relative	space
+國土	relative	space
+浩瀚	relative	space
+核心	relative	space
+闔	relative	space
+橫	relative	space
+橫跨	relative	space
+橫越	relative	space
+厚度	relative	space
+後面	relative	space
+後退	relative	space
+寰宇	relative	space
+環境	relative	space
+計量	relative	space
+加大	relative	space
+漸進	relative	space
+降落	relative	space
+交叉	relative	space
+交錯	relative	space
+交疊	relative	space
+交集	relative	space
+郊外	relative	space
+角落	relative	space
+接通	relative	space
+街	relative	space
+街道	relative	space
+街角	relative	space
+界限	relative	space
+盡頭	relative	space
+經度	relative	space
+經線	relative	space
+境地	relative	space
+居中	relative	space
+巨大	relative	space
+距	relative	space
+距離	relative	space
+開闢	relative	space
+空	relative	space
+空白	relative	space
+空中	relative	space
+跨越	relative	space
+寬	relative	space
+寬度	relative	space
+寬闊	relative	space
+擴大	relative	space
+拉長	relative	space
+離	relative	space
+立場	relative	space
+連接	relative	space
+遼闊	relative	space
+鄰近	relative	space
+領海	relative	space
+領土	relative	space
+領域	relative	space
+樓上	relative	space
+樓梯	relative	space
+陸地	relative	space
+路	relative	space
+路程	relative	space
+落後	relative	space
+密度	relative	space
+面積	relative	space
+那邊	relative	space
+南	relative	space
+南邊	relative	space
+南方	relative	space
+內部	relative	space
+內在	relative	space
+濃密	relative	space
+旁	relative	space
+旁邊	relative	space
+龐大	relative	space
+碰頭	relative	space
+偏僻	relative	space
+偏遠	relative	space
+前面	relative	space
+淺	relative	space
+牆	relative	space
+牆壁	relative	space
+球面	relative	space
+區域	relative	space
+全面	relative	space
+全球	relative	space
+繞	relative	space
+人間	relative	space
+容積	relative	space
+容量	relative	space
+容納	relative	space
+入口	relative	space
+上方	relative	space
+上面	relative	space
+上文	relative	space
+伸長	relative	space
+伸出	relative	space
+伸直	relative	space
+深	relative	space
+深處	relative	space
+深度	relative	space
+深淵	relative	space
+世界	relative	space
+市	relative	space
+市鎮	relative	space
+室內	relative	space
+疏遠	relative	space
+豎	relative	space
+雙向	relative	space
+水平	relative	space
+水平面	relative	space
+四周	relative	space
+台上	relative	space
+台下	relative	space
+臺上	relative	space
+臺下	relative	space
+太空	relative	space
+梯級	relative	space
+天空	relative	space
+填滿	relative	space
+通道	relative	space
+突出物	relative	space
+途徑	relative	space
+土地	relative	space
+外邊	relative	space
+外部	relative	space
+外側	relative	space
+外出	relative	space
+外面	relative	space
+外圍	relative	space
+彎曲	relative	space
+微小	relative	space
+圍	relative	space
+圍繞	relative	space
+位置	relative	space
+位子	relative	space
+舞台	relative	space
+舞臺	relative	space
+西	relative	space
+西方	relative	space
+細小	relative	space
+狹窄	relative	space
+下端	relative	space
+下方	relative	space
+下級	relative	space
+下面	relative	space
+下游	relative	space
+銜接	relative	space
+相隔	relative	space
+相交	relative	space
+鄉村	relative	space
+鄉下	relative	space
+小巧	relative	space
+斜	relative	space
+斜坡	relative	space
+形狀	relative	space
+延伸	relative	space
+遙遠	relative	space
+溢出	relative	space
+英吋	relative	space
+英里	relative	space
+英哩	relative	space
+右	relative	space
+右邊	relative	space
+右側	relative	space
+右方	relative	space
+宇宙	relative	space
+遠端	relative	space
+月台	relative	space
+越	relative	space
+窄	relative	space
+窄小	relative	space
+鎮	relative	space
+之上	relative	space
+直	relative	space
+直角	relative	space
+直立	relative	space
+直線	relative	space
+至高	relative	space
+置	relative	space
+質量	relative	space
+中間	relative	space
+中心	relative	space
+中央	relative	space
+重疊	relative	space
+轉角	relative	space
+轉彎	relative	space
+裝進	relative	space
+左	relative	space
+左邊	relative	space
+左方	relative	space
+左面	relative	space
+座位	relative	space
+八月	relative	time
+白駒過隙	relative	time
+白天	relative	time
+白雲蒼狗	relative	time
+白晝	relative	time
+百年	relative	time
+半夜	relative	time
+傍晚	relative	time
+不再	relative	time
+倉促	relative	time
+蒼老	relative	time
+滄海桑田	relative	time
+滄桑	relative	time
+長命	relative	time
+長期	relative	time
+長壽	relative	time
+常見	relative	time
+晨間	relative	time
+成熟	relative	time
+持久	relative	time
+遲	relative	time
+遲緩	relative	time
+出生	relative	time
+除夕	relative	time
+春季	relative	time
+春節	relative	time
+春天	relative	time
+大後天	relative	time
+大前天	relative	time
+代	relative	time
+待會	relative	time
+誕生	relative	time
+當代	relative	time
+到期	relative	time
+等一會	relative	time
+等一下	relative	time
+點鐘	relative	time
+凋謝	relative	time
+冬季	relative	time
+冬天	relative	time
+端午節	relative	time
+而後	relative	time
+爾後	relative	time
+二月	relative	time
+反覆	relative	time
+返	relative	time
+返回	relative	time
+費時	relative	time
+復發	relative	time
+趕快	relative	time
+高齡	relative	time
+隔月	relative	time
+隔週	relative	time
+亙古	relative	time
+古	relative	time
+古今	relative	time
+古老	relative	time
+關頭	relative	time
+過年	relative	time
+過期	relative	time
+過時	relative	time
+過往	relative	time
+後來	relative	time
+後期	relative	time
+後天	relative	time
+後續	relative	time
+壞掉	relative	time
+緩慢	relative	time
+回歸	relative	time
+急忙	relative	time
+季	relative	time
+季節	relative	time
+計時	relative	time
+繼而	relative	time
+間隔	relative	time
+間歇	relative	time
+階段	relative	time
+結尾	relative	time
+節氣	relative	time
+節奏	relative	time
+今晚	relative	time
+今夜	relative	time
+近代	relative	time
+近況	relative	time
+九月	relative	time
+久	relative	time
+舊	relative	time
+開端	relative	time
+開頭	relative	time
+快行	relative	time
+老	relative	time
+老化	relative	time
+老舊	relative	time
+老年	relative	time
+老是	relative	time
+黎明	relative	time
+歷史	relative	time
+連貫	relative	time
+連續	relative	time
+臨時	relative	time
+流逝	relative	time
+六月	relative	time
+漫長	relative	time
+民國	relative	time
+明日	relative	time
+片刻	relative	time
+頻率	relative	time
+七夕	relative	time
+七月	relative	time
+期間	relative	time
+起點	relative	time
+起始	relative	time
+啟程	relative	time
+啟動	relative	time
+前年	relative	time
+前夕	relative	time
+前者	relative	time
+青春	relative	time
+清晨	relative	time
+清明節	relative	time
+秋季	relative	time
+秋天	relative	time
+趨勢	relative	time
+荏苒	relative	time
+日常	relative	time
+日期	relative	time
+日子	relative	time
+冗長	relative	time
+閏年	relative	time
+三月	relative	time
+上午	relative	time
+上旬	relative	time
+稍後	relative	time
+十二月	relative	time
+十年	relative	time
+十一月	relative	time
+十月	relative	time
+世代	relative	time
+世紀	relative	time
+衰敗	relative	time
+衰減	relative	time
+順序	relative	time
+瞬間	relative	time
+四月	relative	time
+速度	relative	time
+速率	relative	time
+歲末	relative	time
+歲月如梭	relative	time
+提早	relative	time
+天天	relative	time
+停息	relative	time
+同步	relative	time
+童年	relative	time
+突然	relative	time
+蛻變	relative	time
+褪色	relative	time
+往日	relative	time
+無垠	relative	time
+五月	relative	time
+午	relative	time
+午後	relative	time
+物換星移	relative	time
+下午	relative	time
+下旬	relative	time
+夏季	relative	time
+夏天	relative	time
+先	relative	time
+先前	relative	time
+現存	relative	time
+現代	relative	time
+現行	relative	time
+現時	relative	time
+消逝	relative	time
+小時	relative	time
+新	relative	time
+新潮	relative	time
+新近	relative	time
+新進	relative	time
+循環	relative	time
+尋常	relative	time
+延續	relative	time
+夜	relative	time
+夜半	relative	time
+夜晚	relative	time
+一年	relative	time
+一日	relative	time
+一時	relative	time
+一下	relative	time
+一下子	relative	time
+一月	relative	time
+依次	relative	time
+依序	relative	time
+悠久	relative	time
+幼年	relative	time
+幼小	relative	time
+餘波	relative	time
+預先	relative	time
+元旦	relative	time
+原處	relative	time
+源於	relative	time
+月	relative	time
+月底	relative	time
+月份	relative	time
+再現	relative	time
+嶄新	relative	time
+照舊	relative	time
+正午	relative	time
+中年	relative	time
+中秋節	relative	time
+中午	relative	time
+中旬	relative	time
+中元節	relative	time
+終生	relative	time
+鐘	relative	time
+鐘頭	relative	time
+重複	relative	time
+重覆	relative	time
+重回	relative	time
+轉世	relative	time
+資深	relative	time
+最初	relative	time
+開始	relative	verb	funct	prepend	time
+在	relative	verb	funct	preps	space
+結束	relative	verb	inhibition	time
+發生	relative	verb	time
+繼續	relative	verb	work	time
+留	relative	verb
+留下	relative	verb
+站	relative	verb
+坐	relative	verb
+突出	relative	work	achieve	space
+等級	relative	work	achieve
+增進	relative	work	achieve
+處	relative	work	funct	quanunit	space
+菜鳥	relative	work	time
+期限	relative	work	time
+任期	relative	work	time
+學期	relative	work	time
+承接	relative
+程度	relative
+次序	relative
+單方	relative
+低微	relative
+蹲	relative
+個別	relative
+固定	relative
+激增	relative
+簡略	relative
+交會	relative
+來生	relative
+漫出	relative
+媒介	relative
+前世	relative
+上限	relative
+少許	relative
+深厚	relative
+升級	relative
+瘦小	relative
+倏	relative
+雙面	relative
+天生	relative
+突破	relative
+外在	relative
+違反	relative
+有關	relative
+增	relative
+增長	relative
+至上	relative
+死亡	religion	death
+儀式	religion	leisure	social
+打坐	religion	leisure
+靜坐	religion	leisure
+冥想	religion	leisure
+詩歌	religion	leisure
+讚美	religion	social
+集會	religion	work	social
+阿拉	religion
+阿門	religion
+阿們	religion
+安息	religion
+安息日	religion
+拜佛	religion
+保佑	religion
+悲心	religion
+佈道	religion
+禪	religion
+禪定	religion
+禪師	religion
+禪修	religion
+禪宗	religion
+長老	religion
+朝聖	religion
+持戒	religion
+出家	religion
+傳教	religion
+傳教士	religion
+慈濟	religion
+大悲咒	religion
+大乘	religion
+大殿	religion
+禱告	religion
+道教	religion
+滌罪	religion
+地獄	religion
+典禮	religion
+東正教	religion
+惡魔	religion
+惡業	religion
+法會	religion
+法輪	religion
+法王	religion
+梵蒂岡	religion
+梵諦岡	religion
+佛	religion
+佛誕	religion
+佛教	religion
+佛經	religion
+佛陀	religion
+佛珠	religion
+福報	religion
+福音	religion
+告解	religion
+歌頌	religion
+功德	religion
+供養	religion
+古蘭經	religion
+觀世音	religion
+灌頂	religion
+好兄弟	religion
+弘法	religion
+回教	religion
+迴向	religion
+悔罪	religion
+乩童	religion
+基督	religion
+基督教	religion
+基督教徒	religion
+基督徒	religion
+極樂世界	religion
+偈誦	religion
+祭司	religion
+祭壇	religion
+加持	religion
+講道	religion
+教會	religion
+教派	religion
+教士	religion
+教堂	religion
+教條	religion
+教徒	religion
+教義	religion
+教宗	religion
+潔食	religion
+金剛經	religion
+金紙	religion
+浸禮	religion
+禁欲	religion
+禁慾	religion
+經	religion
+經文	religion
+淨食	religion
+敬神	religion
+救贖	religion
+舊約	religion
+居士	religion
+可蘭經	religion
+苦行	religion
+拉比	religion
+喇嘛	religion
+老天爺	religion
+禮拜堂	religion
+禮佛	religion
+煉獄	religion
+靈魂	religion
+倫理	religion
+律儀	religion
+馬丁路德	religion
+麥加	religion
+密宗	religion
+廟	religion
+廟宇	religion
+冥紙	religion
+摩門	religion
+摩門教	religion
+魔鬼	religion
+魔王	religion
+牧師	religion
+穆罕默德	religion
+穆加希德	religion
+穆斯林	religion
+尼姑	religion
+念珠	religion
+派別	religion
+平安夜	religion
+菩薩	religion
+普渡	religion
+祈禱	religion
+祈求	religion
+虔敬	religion
+清教徒	religion
+清真寺	religion
+人子	religion
+仁慈	religion
+撒旦	religion
+僧侶	religion
+僧團	religion
+善男信女	religion
+上帝	religion
+上師	religion
+燒香	religion
+攝持	religion
+什葉派	religion
+神	religion
+神殿	religion
+神父	religion
+神龕	religion
+神明	religion
+神通	religion
+神學	religion
+神職	religion
+聖地	religion
+聖歌	religion
+聖潔	religion
+聖經	religion
+聖母	religion
+聖人	religion
+聖詩	religion
+聖壇	religion
+聖徒	religion
+聖戰	religion
+師父	religion
+十字架	religion
+十字軍	religion
+守護神	religion
+贖罪	religion
+贖罪日	religion
+寺	religion
+寺廟	religion
+寺院	religion
+頌揚	religion
+太極	religion
+剃度	religion
+天賜	religion
+天國	religion
+天使	religion
+天主教	religion
+天主教堂	religion
+西藏	religion
+希臘正教	religion
+錫克教	religion
+洗禮	religion
+先知	religion
+香客	religion
+香爐	religion
+香油	religion
+小乘	religion
+心經	religion
+心靈	religion
+新教	religion
+新教徒	religion
+新約	religion
+信	religion
+信教	religion
+信條	religion
+信徒	religion
+信眾	religion
+修道士	religion
+修道院	religion
+修行	religion
+修女	religion
+修士	religion
+閻王	religion
+耶路撒冷	religion
+耶穌	religion
+耶穌會	religion
+業	religion
+業果	religion
+業力	religion
+一貫道	religion
+伊斯蘭	religion
+伊斯蘭教	religion
+儀軌	religion
+異教	religion
+異教徒	religion
+因緣	religion
+印度	religion
+印度教	religion
+猶大	religion
+猶太	religion
+猶太教	religion
+猶太人	religion
+玉皇大帝	religion
+浴佛節	religion
+預言	religion
+預知	religion
+緣起	religion
+樂園	religion
+讚美詩	religion
+讚頌	religion
+齋戒	religion
+齋月	religion
+占卜	religion
+真主	religion
+紙錢	religion
+中元	religion
+主	religion
+主教	religion
+宗教	religion
+宗派	religion
+罪惡	religion
+罪孽	religion
+傷感	sad
+傷痛	sad
+傷心欲絕	sad
+損害	sad
+坦白	social	affect	insight	posemo	cogmech
+原諒	social	affect	insight	posemo	cogmech
+幫忙	social	affect	verb	posemo
+幫助	social	affect	verb	posemo
+分享	social	affect	verb	posemo
+付出	social	affect	verb	posemo
+協助	social	affect	verb	posemo
+遊戲	social	affect	verb	posemo
+公認	social	certain	insight	cogmech
+懺悔	social	cogmech	insight	religion
+問	social	cogmech	tentat	insight	verb
+幫派	social
+暴民	social
+暴徒	social
+辯解	social
+辯論	social
+參賽	social
+參與	social
+仇敵	social
+仇恨	social
+傳說	social
+慈母	social
+辭呈	social
+辭令	social
+措詞	social
+打招呼	social
+大哥大	social
+大眾	social
+黨	social
+道歉	social
+敵人	social
+獨處	social
+對待	social
+發牌	social
+分攤	social
+封建	social
+個體	social
+公開	social
+公有	social
+公眾	social
+供應	social
+哈囉	social
+函件	social
+嗨	social
+後代	social
+呼喚	social
+呼叫	social
+互動	social
+歡迎	social
+回覆	social
+會話	social
+會面	social
+會眾	social
+婚禮	social
+夥	social
+夥計	social
+基層	social
+積怨	social
+集合	social
+藉口	social
+建議	social
+講述	social
+交際	social
+交流	social
+交談	social
+角色	social
+接納	social
+局外人	social
+軍隊	social
+控訴	social
+摳	social
+叩	social
+聯合	social
+聯絡	social
+聯誼	social
+馬屁	social
+描繪	social
+民眾	social
+名號	social
+名字	social
+年輕人	social
+拍馬屁	social
+攀談	social
+旁聽	social
+請辭	social
+慶典	social
+勸說	social
+群體	social
+群組	social
+人際	social
+人身	social
+三姑六婆	social
+商量	social
+商討	social
+商議	social
+社會	social
+社交	social
+社區	social
+甥女	social
+士兵	social
+淑女	social
+說起	social
+私密	social
+私下	social
+送信	social
+訴說	social
+探望	social
+踢爆	social
+提議	social
+聽從	social
+通話	social
+同輩	social
+偷聽	social
+投訴	social
+吐露	social
+團體	social
+外行人	social
+外人	social
+文化	social
+武裝	social
+喜好	social
+相遇	social
+詳述	social
+消息	social
+姓名	social
+羞辱	social
+言語	social
+謠言	social
+音信	social
+隱私	social
+約會	social
+樂意	social
+讚許	social
+讚嘆	social
+讚揚	social
+召喚	social
+召集	social
+忠告	social
+種族	social
+主持	social
+主張	social
+子孫	social
+過	space	funct	relative	verb	pastm	tensem	preps
+屌	swear	assent
+靠	swear	preps	funct
+畜生	swear
+廢物	swear
+狗屎	swear
+怪咖	swear
+花癡	swear
+機車	swear
+拷	swear
+靠背	swear
+米田共	swear
+孬	swear
+孬種	swear
+娘兒們	swear
+娘卡好	swear
+娘娘腔	swear
+屁	swear
+潑婦	swear
+去你的	swear
+人妖	swear
+人渣	swear
+傻瓜	swear
+俗辣	swear
+討厭鬼	swear
+窩囊廢	swear
+無恥	swear
+噓	swear
+夭壽	swear
+雜種	swear
+智障	swear
+當下	tensem	adverb	presentm	funct
+正	tensem	affect	funct	presentm	posemo
+本來	tensem	cogmech	funct	pastm	discrep
+起	tensem	funct	preps	presentm	prepend
+下來	tensem	funct	progm	prepend
+當天	tensem	funct
+即將	tensem	futurem	funct
+將	tensem	futurem	funct
+將要	tensem	futurem	funct
+屆時	tensem	futurem	funct
+今後	tensem	futurem	funct
+明	tensem	futurem	funct
+日後	tensem	futurem	funct
+下去	tensem	futurem	funct
+早日	tensem	futurem	funct
+當初	tensem	pastm	adverb	funct
+當年	tensem	pastm	funct
+甫	tensem	pastm	funct
+日前	tensem	pastm	funct
+原先	tensem	pastm	funct
+昨	tensem	pastm	funct
+昨日	tensem	pastm	funct
+此時	tensem	presentm	funct
+即日	tensem	presentm	funct
+今	tensem	presentm	funct
+今年	tensem	presentm	funct
+平時	tensem	presentm	funct
+起來	tensem	presentm	funct
+如今	tensem	presentm	funct
+現階段	tensem	presentm	funct
+這時	tensem	presentm	funct
+著	tensem	presentm	funct
+近年	tensem	progm	funct
+近日	tensem	progm	funct
+已	tensem	progm	funct
+早已	tensem	progm	funct
+將來	tensem	relative	funct	futurem	time
+接下來	tensem	relative	funct	futurem	time
+立刻	tensem	relative	funct	futurem	time
+明年	tensem	relative	funct	futurem	time
+明天	tensem	relative	funct	futurem	time
+隨後	tensem	relative	funct	futurem	time
+未來	tensem	relative	funct	futurem	time
+曾	tensem	relative	funct	pastm	time
+從前	tensem	relative	funct	pastm	time
+古代	tensem	relative	funct	pastm	time
+古早	tensem	relative	funct	pastm	time
+過去	tensem	relative	funct	pastm	time
+那時	tensem	relative	funct	pastm	time
+前天	tensem	relative	funct	pastm	time
+去年	tensem	relative	funct	pastm	time
+昔日	tensem	relative	funct	pastm	time
+以往	tensem	relative	funct	pastm	time
+昨天	tensem	relative	funct	pastm	time
+當前	tensem	relative	funct	presentm	time
+今日	tensem	relative	funct	presentm	time
+今天	tensem	relative	funct	presentm	time
+同時	tensem	relative	funct	presentm	time
+現	tensem	relative	funct	presentm	time
+現今	tensem	relative	funct	presentm	time
+正在	tensem	relative	funct	presentm	time
+已經	tensem	relative	funct	progm	time
+看	tensem	verb	futurem	funct
+意外	tentat	death	discrep
+變異	tentat
+朝代	time
+損失	verb	achieve	sad
+保持	verb	achieve
+表現	verb	achieve
+得到	verb	achieve
+度過	verb	achieve
+堅持	verb	achieve
+建立	verb	achieve
+喪失	verb	death	achieve	sad
+作	verb	funct
+演出	verb	leisure
+按照	verb	preps	funct
+打電話	verb	social
+給	verb	social
+見面	verb	social
+開會	verb	social
+描寫	verb	social
+談	verb	social
+提供	verb	social
+喜愛	verb	social
+邀請	verb	social
+召開	verb	social
+工作	verb	work	achieve
+考驗	verb	work	achieve
+努力	verb	work	achieve
+賺錢	verb	work	achieve
+訪問	verb	work	social
+經營	verb	work	social
+命令	verb	work	social
+出版	verb	work
+代表	verb	work
+教	verb	work
+教導	verb	work
+教授	verb	work
+研究	verb	work
+扮演	verb
+保存	verb
+保留	verb
+背	verb
+存在	verb
+等於	verb
+動手	verb
+發揮	verb
+翻	verb
+恨	verb
+畫	verb
+看到	verb
+看見	verb
+哭	verb
+露出	verb
+忍受	verb
+生活	verb
+實行	verb
+收	verb
+受	verb
+思考	verb
+提出	verb
+勿	verb
+習慣	verb
+洗	verb
+顯得	verb
+寫	verb
+形容	verb
+宣傳	verb
+尋求	verb
+依賴	verb
+意味	verb
+擁有	verb
+用	verb
+運用	verb
+在乎	verb
+遭遇	verb
+展現	verb
+住	verb
+著手	verb
+做	verb
+團隊	work	achieve	leisure	social
+組織	work	achieve	social
+抱負	work	achieve
+財力	work	achieve
+策略	work	achieve
+輟學	work	achieve
+大師	work	achieve
+定案	work	achieve
+方案	work	achieve
+負責人	work	achieve
+機構	work	achieve
+計畫	work	achieve
+繼任	work	achieve
+降職	work	achieve
+階級	work	achieve
+可用	work	achieve
+練習	work	achieve
+目標	work	achieve
+升職	work	achieve
+生產	work	achieve
+勝任	work	achieve
+實踐	work	achieve
+實現	work	achieve
+徒勞	work	achieve
+退學	work	achieve
+雄心	work	achieve
+野心	work	achieve
+業務	work	achieve
+員工	work	achieve
+政權	work	achieve
+執行	work	achieve
+主席	work	achieve
+專家	work	achieve
+專業	work	achieve
+賺	work	achieve
+總統	work	achieve
+認識	work	cogmech	verb	insight	social
+調查	work	cogmech	verb	insight
+學習	work	cogmech	verb	insight
+兄弟	work	family	social
+同行	work	friend	social
+同僚	work	friend	social
+同事	work	friend	social
+助手	work	friend	social
+老師	work	humans	social
+新生	work	humans	social
+商場	work	leisure
+書本	work	leisure
+書籍	work	leisure
+閱讀	work	leisure
+班	work	quanunit	funct
+筆	work	quanunit	funct
+部	work	quanunit	funct
+局	work	quanunit	funct
+隊	work	quanunit	leisure	funct
+失敗	work	sad	verb	affect	negemo	achieve
+黨派	work	social
+分配	work	social
+會談	work	social
+會議	work	social
+聚集	work	social
+論述	work	social
+面試	work	social
+面談	work	social
+評論	work	social
+勸告	work	social
+商定	work	social
+談判	work	social
+聽眾	work	social
+通知	work	social
+協商	work	social
+政黨	work	social
+政府	work	social
+主人	work	social
+組成	work	social
+班級	work
+頒發	work
+辦公室	work
+辦公桌	work
+報告	work
+報紙	work
+備忘	work
+備忘錄	work
+必修	work
+畢業	work
+畢業生	work
+編輯	work
+編輯部	work
+便條紙	work
+辯護人	work
+併吞	work
+播音室	work
+博士	work
+博學多聞	work
+補助	work
+部門	work
+裁員	work
+參謀	work
+藏書室	work
+測驗	work
+產	work
+成績	work
+成績單	work
+呈現	work
+程式	work
+初級	work
+處長	work
+傳真	work
+打字	work
+大三	work
+大學	work
+大學生	work
+代表隊	work
+代理人	work
+代理商	work
+單據	work
+導師	work
+導演	work
+登記	work
+典當	work
+店員	work
+電腦	work
+調任	work
+訂約	work
+董事	work
+董事長	work
+動員	work
+讀書人	work
+發行	work
+法官	work
+法律	work
+法律人	work
+法學家	work
+方針	work
+分派	work
+分數	work
+粉筆	work
+服務	work
+服務台	work
+福利	work
+副本	work
+副總	work
+副總裁	work
+副總統	work
+婦女會	work
+復習	work
+複印	work
+概述	work
+概要	work
+綱領	work
+鋼筆	work
+高年級	work
+高中	work
+隔間	work
+工廠	work
+工會	work
+工人	work
+工頭	work
+工業	work
+工作間	work
+公安	work
+公會	work
+公文	work
+雇用	work
+雇主	work
+顧問	work
+廣告	work
+歸併	work
+歸於	work
+櫃檯	work
+國中生	work
+行業	work
+好學	work
+合併	work
+合法	work
+合格	work
+合夥人	work
+合約	work
+合作	work
+黑板	work
+回饋	work
+匯報	work
+集團	work
+紀錄	work
+記錄	work
+加分	work
+加盟	work
+家教	work
+兼併	work
+間諜	work
+監督	work
+檢驗	work
+簡歷	work
+鍵盤	work
+獎	work
+獎品	work
+講課	work
+講師	work
+講授	work
+講座	work
+教科書	work
+教師	work
+教室	work
+教務長	work
+教育	work
+教育性	work
+結合	work
+節目	work
+截稿	work
+解雇	work
+解僱	work
+介紹	work
+經紀人	work
+經理	work
+精簡	work
+精神	work
+警察	work
+警方	work
+警力	work
+局長	work
+劇團	work
+決賽	work
+開除	work
+考試	work
+科	work
+科目	work
+科系	work
+科學	work
+課	work
+課本	work
+課程	work
+課業	work
+虧待	work
+勞動	work
+勞方	work
+勞工	work
+勞力	work
+老板	work
+老闆	work
+類型	work
+聯絡處	work
+聯盟	work
+量產	work
+獵人	work
+領袖	work
+陸軍	work
+論點	work
+論題	work
+論文	work
+履歷	work
+律師	work
+忙碌	work
+秘書	work
+命題	work
+目錄	work
+幕僚	work
+年級	work
+拍攝	work
+盤問	work
+培養	work
+聘請	work
+聘用	work
+評分	work
+憑據	work
+僕	work
+僕人	work
+期末考	work
+期中	work
+期中考	work
+企劃	work
+企業	work
+契約	work
+鉛筆	work
+遷移	work
+前輩	work
+遣散	work
+缺席	work
+入學考	work
+商號	work
+上課	work
+上流	work
+上司	work
+上校	work
+少校	work
+社	work
+申請	work
+申請人	work
+神學家	work
+審查	work
+生物學	work
+生涯	work
+生意	work
+失業	work
+師兄	work
+實驗	work
+市長	work
+市場	work
+試卷	work
+試題	work
+收發室	work
+首領	work
+書桌	work
+署	work
+署長	work
+數學	work
+碩士	work
+司	work
+司法部	work
+討論	work
+討論會	work
+特許	work
+特派員	work
+謄本	work
+同仁	work
+同學	work
+圖書館	work
+退休	work
+退休金	work
+退職	work
+托福	work
+挖角	work
+外包	work
+外交	work
+委派	work
+委外	work
+委員	work
+委員長	work
+委員會	work
+文憑	work
+文書	work
+文獻	work
+系	work
+系所	work
+系主任	work
+先修	work
+消費群	work
+小考	work
+小學	work
+校隊	work
+校園	work
+協會	work
+協商會	work
+協作	work
+心理	work
+心理學	work
+新鮮	work
+修習	work
+宣布	work
+宣誓	work
+學長	work
+學年	work
+學生	work
+學術	work
+學徒	work
+學校	work
+學業	work
+學園	work
+學院	work
+學者	work
+學姊	work
+演說	work
+養老金	work
+樣式	work
+要職	work
+移交	work
+義賣	work
+議長	work
+議會	work
+影印	work
+應用	work
+郵件室	work
+遊戲機	work
+幼稚園	work
+原則	work
+院	work
+院長	work
+運算	work
+摘要	work
+展示	work
+招募	work
+折合	work
+折價	work
+正當	work
+政策	work
+政見	work
+政治	work
+政治學	work
+證書	work
+證照	work
+執行長	work
+執照	work
+職務	work
+職校	work
+職員	work
+指導	work
+指示	work
+紙張	work
+徵募	work
+製造業	work
+仲介	work
+主攻	work
+主管	work
+主任	work
+主修	work
+助教	work
+助理	work
+著作	work
+註冊	work
+專科	work
+專題	work
+賺得	work
+轉讓	work
+轉校	work
+資格	work
+資格考	work
+資遣	work
+諮商	work
+自助餐廳	work

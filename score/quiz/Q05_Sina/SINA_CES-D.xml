@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>SINA_CES-D</identifier>
+    <caption>心理抑郁状况测量量表</caption>
+    <information><![CDATA[下面的题目描述了您可能存在的或最近有过的感受，请在每一道题目后点击选择合适的数字来表示最近一周来您产生这种感受的频繁度。]]>
+	</information>
+  </description>
+
+  <questions>
+    <question qid="q01" tag="D">
+      <title>我为一些在平常并不会烦我的事而烦扰。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q02" tag="D">
+      <title>我不想吃东西，食欲很差。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q03" tag="D">
+      <title>即使在家人或朋友的帮助下，我还觉得摆脱不了忧郁。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q04" tag="D">
+      <title>我感到我和别人一样好。</title>
+      <answer aid="a1" score="3">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="2">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="1">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="0">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q05" tag="D">
+      <title>我难以把心思集中于正在做的事情上。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q06" tag="D">
+      <title>我感到沮丧。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q07" tag="D">
+      <title>我感到自己所做的每一件事都很费力。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q08" tag="D">
+      <title>我对前途充满希望。</title>
+      <answer aid="a1" score="3">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="2">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="1">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="0">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q09" tag="D">
+      <title>我认为我的一生是一个失败。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q10" tag="D">
+      <title>我感到害怕。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q11" tag="D">
+      <title>我睡不安稳。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q12" tag="D">
+      <title>我很快乐。</title>
+      <answer aid="a1" score="3">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="2">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="1">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="0">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q13" tag="D">
+      <title>我比平时说话少了。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q14" tag="D">
+      <title>我感到孤独寂寞。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q15" tag="D">
+      <title>人们对我不友善。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q16" tag="D">
+      <title>我享受生活的惬意。</title>
+      <answer aid="a1" score="3">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="2">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="1">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="0">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q17" tag="D">
+      <title>我曾一阵阵的哭过。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q18" tag="D">
+      <title>我感到悲伤。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q19" tag="D">
+      <title>我感到别人不喜欢我。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="q20" tag="D">
+      <title>我提不起劲儿来做事。</title>
+      <answer aid="a1" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="a2" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="a3" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="a4" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+  </questions>
+  
+   <tags>
+	<tag name="D" label="心理抑郁"><![CDATA[本问卷对您的抑郁状况进行了测评。]]>
+	</tag>
+   </tags>
+   
+   <remarks>
+    <remark tag="D" minScore="min" maxScore="16">你的分数处于低水平范围：根据问卷的得分显示，你在此刻并没有或只有很少的抑郁症状，并没有深陷于抑郁情绪的困扰。如果你觉得自己可能已经陷入了抑郁情绪状态，那么建议你立刻去求助于专业的心理咨询人员。如果你还伴有一些自杀方面的想法，那么请立即去寻求他人的帮助。</remark>
+    <remark tag="D" minScore="16" maxScore="max">你的分数处于高水平范围：这说明在你身上具有比其他人更多的抑郁症状。你可能比较容易遭到抑郁情绪的侵袭，对生活中遇到的问题常感到力不从心或身心俱疲并因此变得情绪低沉。我们建议你去向专业的心理咨询或治疗人员寻求帮助，从而彻底检查自己的心理健康状态。另外，抑郁得分达到这个水平的人可能会感到绝望，有时甚至会产生自杀的想法。如果你正巧有类似的感受或想法，请尽快寻求他人帮助。</remark>
+   </remarks>
+
+</questionnaire>

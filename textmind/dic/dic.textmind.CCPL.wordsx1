@@ -1,0 +1,4554 @@
+%【说明】本文件内的词语为：CCPL根据原有CLIWC类别，新增的词语及标注。
+超人	Achieve	Leisure
+曹操	Achieve	Leisure
+大牌	Achieve	Leisure
+走红	Achieve	Leisure
+出名	Achieve	Leisure
+天王	Achieve	Leisure
+乔布斯	Achieve	Leisure
+传奇	Achieve	Leisure
+神人	Achieve	Leisure
+舌战群儒	Achieve	Social
+一等奖	Achieve
+王者	Achieve
+至尊	Achieve
+身份	Achieve
+毛主席	Achieve
+大王	Achieve
+三好	Achieve
+有名	Achieve
+影响力	Achieve
+最强	Achieve
+赢家	Achieve
+雷锋	Achieve
+七步成诗	Achieve
+将军	Achieve
+徽章	Achieve
+知名	Achieve
+帝王	Achieve
+王道	Achieve
+国王	Achieve
+霸王	Achieve
+巨头	Achieve
+口才	Achieve
+之王	Achieve
+潜能	Achieve
+孔子	Achieve
+奖牌	Achieve
+一举成名	Achieve
+招牌	Achieve
+普京	Achieve
+夺冠	Achieve
+语惊四座	Achieve
+金牌	Achieve
+战利品	Achieve
+皇帝	Achieve
+皇家	Achieve
+毛泽东	Achieve
+榜样	Affect	Achieve	PosEmo
+有价值	Affect	Achieve	PosEmo
+一鸣惊人	Affect	Achieve	PosEmo
+成就感	Affect	Achieve	PosEmo
+奖励	Affect	Achieve	PosEmo
+本事	Affect	Achieve	PosEmo
+最高境界	Affect	Achieve	PosEmo
+吓人	Affect	Anx	NegEmo
+纠结	Affect	Anx	NegEmo
+烦人	Affect	Anx	NegEmo
+烦躁	Affect	Anx	NegEmo
+忧虑	Affect	Anx	NegEmo
+浮躁	Affect	Anx	NegEmo
+着急	Affect	Anx	NegEmo
+心烦	Affect	Anx	NegEmo
+胡思乱想	Affect	Anx
+无所谓	Affect	Assent	NegEmo
+乖乖	Affect	Assent	PosEmo
+气死	Affect	Death	NegEmo
+母爱	Affect	Family	Social
+父爱	Affect	Family
+陪伴	Affect	Friend	Social
+吐血	Affect	Health	NegEmo	Bio
+伤痕	Affect	Health	NegEmo	Bio
+毛病	Affect	Health	NegEmo
+强盗	Affect	Humans	NegEmo	Social
+小子	Affect	Humans	NegEmo	Social
+骗子	Affect	Humans	NegEmo
+弱者	Affect	Humans	NegEmo
+贪官	Affect	Humans	NegEmo
+疯子	Affect	Humans	NegEmo
+第三者	Affect	Humans	NegEmo
+幸运儿	Affect	Humans	PosEmo
+好人	Affect	Humans	PosEmo
+与众不同	Affect	Insight	CogMech
+感悟	Affect	Insight	CogMech
+掩饰	Affect	Insight	NegEmo	CogMech
+亮点	Affect	Insight	PosEmo	CogMech
+不简单	Affect	Insight
+搞笑	Affect	Leisure	PosEmo
+噩梦	Affect	NegEmo	Bio
+最差	Affect	NegEmo	CogMech
+不信	Affect	NegEmo	CogMech
+猪头	Affect	NegEmo	Ingest	Bio
+吐槽	Affect	NegEmo	Leisure
+浮夸	Affect	NegEmo	Leisure
+怪物	Affect	NegEmo	Leisure
+悲剧	Affect	NegEmo	Sad
+失落	Affect	NegEmo	Sad
+落泪	Affect	NegEmo	Sad
+悲哀	Affect	NegEmo	Sad
+委屈	Affect	NegEmo	Sad
+惆怅	Affect	NegEmo	Sad
+悲惨	Affect	NegEmo	Sad
+大哭	Affect	NegEmo	Sad
+忧愁	Affect	NegEmo	Sad
+哭泣	Affect	NegEmo	Sad
+悲观	Affect	NegEmo	Sad
+含泪	Affect	NegEmo	Sad
+造谣	Affect	NegEmo	Social
+忽悠	Affect	NegEmo	Social
+被动	Affect	NegEmo	Social
+勾搭	Affect	NegEmo	Social
+对不起	Affect	NegEmo	Social
+胡闹	Affect	NegEmo	Social
+争执	Affect	NegEmo	Social
+活该	Affect	NegEmo
+吃苦	Affect	NegEmo
+逆境	Affect	NegEmo
+掩盖	Affect	NegEmo
+罪过	Affect	NegEmo
+包袱	Affect	NegEmo
+极品	Affect	NegEmo
+难为	Affect	NegEmo
+发疯	Affect	NegEmo
+谎言	Affect	NegEmo
+无奈	Affect	NegEmo
+弱势	Affect	NegEmo
+耻辱	Affect	NegEmo
+失意	Affect	NegEmo
+虚伪	Affect	NegEmo
+困境	Affect	NegEmo
+情绪化	Affect	NegEmo
+善变	Affect	NegEmo
+介意	Affect	NegEmo
+负面	Affect	NegEmo
+自以为是	Affect	NegEmo
+寂寞	Affect	NegEmo
+扯淡	Affect	NegEmo
+挥霍	Affect	NegEmo
+伪装	Affect	NegEmo
+迷茫	Affect	NegEmo
+不屑	Affect	NegEmo
+没有用	Affect	NegEmo
+敷衍	Affect	NegEmo
+冷战	Affect	NegEmo
+出轨	Affect	NegEmo
+冷落	Affect	NegEmo
+无缘	Affect	NegEmo
+颓废	Affect	NegEmo
+伤不起	Affect	NegEmo
+磨难	Affect	NegEmo
+折腾	Affect	NegEmo
+恶意	Affect	NegEmo
+卑微	Affect	NegEmo
+害人	Affect	NegEmo
+不如意	Affect	NegEmo
+大话	Affect	NegEmo
+可惜了	Affect	NegEmo
+出事	Affect	NegEmo
+嚣张	Affect	NegEmo
+不和	Affect	NegEmo
+色狼	Affect	NegEmo
+糊涂	Affect	NegEmo
+冷漠	Affect	NegEmo
+缺点	Affect	NegEmo
+懦弱	Affect	NegEmo
+阴险	Affect	NegEmo
+无理取闹	Affect	NegEmo
+不好	Affect	NegEmo
+纠缠	Affect	NegEmo
+陷阱	Affect	NegEmo
+渺茫	Affect	NegEmo
+缺陷	Affect	NegEmo
+不顺	Affect	NegEmo
+欺骗	Affect	NegEmo
+不堪	Affect	NegEmo
+忍心	Affect	NegEmo
+要命	Affect	NegEmo
+好意思	Affect	NegEmo
+困难	Affect	NegEmo
+别扭	Affect	NegEmo
+阻碍	Affect	NegEmo
+破碎	Affect	NegEmo
+一塌糊涂	Affect	NegEmo
+厌倦	Affect	NegEmo
+苦难	Affect	NegEmo
+好不容易	Affect	NegEmo
+小人	Affect	NegEmo
+受过	Affect	NegEmo
+花心	Affect	NegEmo
+无视	Affect	NegEmo
+隐忍	Affect	NegEmo
+崩溃	Affect	NegEmo
+辛苦	Affect	NegEmo
+纵容	Affect	NegEmo
+完蛋	Affect	NegEmo
+孤寂	Affect	NegEmo
+绝情	Affect	NegEmo
+忍耐	Affect	NegEmo
+冲动	Affect	NegEmo
+无语	Affect	NegEmo
+毁掉	Affect	NegEmo
+煎熬	Affect	NegEmo
+辜负	Affect	NegEmo
+嫉妒	Affect	NegEmo
+白眼	Affect	NegEmo
+弱智	Affect	NegEmo
+奢侈	Affect	NegEmo
+不在乎	Affect	NegEmo
+懒得理	Affect	NegEmo
+没用	Affect	NegEmo
+危害	Affect	NegEmo
+艰辛	Affect	NegEmo
+不好意思	Affect	NegEmo
+叹息	Affect	NegEmo
+吃亏	Affect	NegEmo
+抗拒	Affect	NegEmo
+犯罪	Affect	NegEmo
+计较	Affect	NegEmo
+惭愧	Affect	NegEmo
+恶劣	Affect	NegEmo
+懒得	Affect	NegEmo
+强求	Affect	NegEmo
+累死	Affect	NegEmo
+骗人	Affect	NegEmo
+郁闷	Affect	NegEmo
+霸道	Affect	NegEmo
+困惑	Affect	NegEmo
+乱世	Affect	NegEmo
+乱七八糟	Affect	NegEmo
+造假	Affect	NegEmo
+出卖	Affect	NegEmo
+将就	Affect	NegEmo
+冷笑	Affect	NegEmo
+忍让	Affect	NegEmo
+坏事	Affect	NegEmo
+发泄	Affect	NegEmo
+嫌弃	Affect	NegEmo
+孤单	Affect	NegEmo
+夸张	Affect	NegEmo
+可惜	Affect	NegEmo
+凑合	Affect	NegEmo
+孤独	Affect	NegEmo
+苦苦	Affect	NegEmo
+不快	Affect	NegEmo
+轻薄	Affect	NegEmo
+沉闷	Affect	NegEmo
+狗血	Affect	NegEmo
+无能为力	Affect	NegEmo
+鬼子	Affect	NegEmo
+欺负	Affect	NegEmo
+心疼	Affect	NegEmo
+难受	Affect	NegEmo
+废话	Affect	NegEmo
+冤枉	Affect	NegEmo
+妒忌	Affect	NegEmo
+幼稚	Affect	NegEmo
+没意思	Affect	NegEmo
+腹黑	Affect	NegEmo
+虚假	Affect	NegEmo
+不公	Affect	NegEmo
+猥琐	Affect	NegEmo
+奇葩	Affect	NegEmo
+莫名其妙	Affect	NegEmo
+恨不得	Affect	NegEmo
+叛逆	Affect	NegEmo
+鄙视	Affect	NegEmo
+做作	Affect	NegEmo
+笑哈哈	Affect	Percept	Hear	PosEmo
+好听	Affect	Percept	Hear	PosEmo
+欢笑	Affect	Percept	Hear	PosEmo
+曲折	Affect	Percept	NegEmo
+单调	Affect	Percept	NegEmo
+诱人	Affect	Percept	PosEmo
+清纯	Affect	Percept	PosEmo
+大美	Affect	Percept	PosEmo
+看上	Affect	Percept
+默默	Affect	Percept
+有喜	Affect	PosEmo	Bio
+美梦	Affect	PosEmo	Bio
+万能	Affect	PosEmo	CogMech
+中奖	Affect	PosEmo	Money
+膜拜	Affect	PosEmo	Religion
+经典	Affect	PosEmo	Time
+励志	Affect	PosEmo
+惊喜	Affect	PosEmo
+爱意	Affect	PosEmo
+无私	Affect	PosEmo
+自乐	Affect	PosEmo
+吉祥如意	Affect	PosEmo
+正经	Affect	PosEmo
+幸福生活	Affect	PosEmo
+受益	Affect	PosEmo
+贴心	Affect	PosEmo
+欢喜	Affect	PosEmo
+坦然	Affect	PosEmo
+干脆	Affect	PosEmo
+灵动	Affect	PosEmo
+释怀	Affect	PosEmo
+平平安安	Affect	PosEmo
+自觉	Affect	PosEmo
+好感	Affect	PosEmo
+痛快	Affect	PosEmo
+鼎力支持	Affect	PosEmo
+留恋	Affect	PosEmo
+佩服	Affect	PosEmo
+精华	Affect	PosEmo
+高效	Affect	PosEmo
+销魂	Affect	PosEmo
+必胜	Affect	PosEmo
+柔情	Affect	PosEmo
+大度	Affect	PosEmo
+敬佩	Affect	PosEmo
+纯真	Affect	PosEmo
+打动	Affect	PosEmo
+利于	Affect	PosEmo
+勇于	Affect	PosEmo
+很有创意	Affect	PosEmo
+心仪	Affect	PosEmo
+最美好	Affect	PosEmo
+嗨皮	Affect	PosEmo
+稳重	Affect	PosEmo
+看中	Affect	PosEmo
+情谊	Affect	PosEmo
+心软	Affect	PosEmo
+一切顺利	Affect	PosEmo
+守候	Affect	PosEmo
+憧憬	Affect	PosEmo
+有利于	Affect	PosEmo
+讲究	Affect	PosEmo
+圆满	Affect	PosEmo
+心愿	Affect	PosEmo
+奇妙	Affect	PosEmo
+甘心	Affect	PosEmo
+神奇	Affect	PosEmo
+好评	Affect	PosEmo
+好样	Affect	PosEmo
+青睐	Affect	PosEmo
+我喜欢你	Affect	PosEmo
+有福	Affect	PosEmo
+庆幸	Affect	PosEmo
+人性化	Affect	PosEmo
+俏皮	Affect	PosEmo
+洒脱	Affect	PosEmo
+霸气	Affect	PosEmo
+久违	Affect	PosEmo
+真好	Affect	PosEmo
+眷恋	Affect	PosEmo
+红红火火	Affect	PosEmo
+幸福感	Affect	PosEmo
+专一	Affect	PosEmo
+安然	Affect	PosEmo
+最爱你	Affect	PosEmo
+好事	Affect	PosEmo
+欣慰	Affect	PosEmo
+震撼	Affect	PosEmo
+注重	Affect	PosEmo
+豪放	Affect	PosEmo
+有幸	Affect	PosEmo
+贤惠	Affect	PosEmo
+安定	Affect	PosEmo
+懂事	Affect	PosEmo
+睿智	Affect	PosEmo
+听话	Affect	PosEmo
+关爱	Affect	PosEmo
+勤劳	Affect	PosEmo
+便捷	Affect	PosEmo
+安好	Affect	PosEmo
+真挚	Affect	PosEmo
+尽情	Affect	PosEmo
+中意	Affect	PosEmo
+爱上	Affect	PosEmo
+公正	Affect	PosEmo
+默契	Affect	PosEmo
+诚意	Affect	PosEmo
+正义	Affect	PosEmo
+情愿	Affect	PosEmo
+热心	Affect	PosEmo
+值得拥有	Affect	PosEmo
+厚道	Affect	PosEmo
+进取	Affect	PosEmo
+情怀	Affect	PosEmo
+精致	Affect	PosEmo
+争气	Affect	PosEmo
+不凡	Affect	PosEmo
+稀罕	Affect	PosEmo
+心想事成	Affect	PosEmo
+气势	Affect	PosEmo
+感动	Affect	PosEmo
+贵人	Affect	PosEmo
+真情	Affect	PosEmo
+谦虚	Affect	PosEmo
+公平	Affect	PosEmo
+包容	Affect	PosEmo
+正直	Affect	PosEmo
+好心	Affect	PosEmo
+喜庆	Affect	PosEmo
+耐心	Affect	PosEmo
+便利	Affect	PosEmo
+幸好	Affect	PosEmo
+豁达	Affect	PosEmo
+担当	Affect	PosEmo
+万事如意	Affect	PosEmo
+恭喜	Affect	PosEmo
+童心	Affect	PosEmo
+非凡	Affect	PosEmo
+奇迹	Affect	PosEmo
+挚爱	Affect	PosEmo
+如意	Affect	PosEmo
+心甘情愿	Affect	PosEmo
+义气	Affect	PosEmo
+有意思	Affect	PosEmo
+维护	Affect	PosEmo
+天理	Affect	PosEmo
+祝愿	Affect	PosEmo
+不负	Affect	PosEmo
+升华	Affect	PosEmo
+看好	Affect	PosEmo
+执著	Affect	PosEmo
+大吉	Affect	PosEmo
+共鸣	Affect	PosEmo
+可贵	Affect	PosEmo
+良心	Affect	PosEmo
+幸亏	Affect	PosEmo
+动力	Affect	PosEmo
+逍遥	Affect	PosEmo
+善解人意	Affect	PosEmo
+安全感	Affect	PosEmo
+赞成	Affect	PosEmo
+爱国	Affect	PosEmo
+祈福	Affect	PosEmo
+充实	Affect	PosEmo
+沉醉	Affect	PosEmo
+谅解	Affect	PosEmo
+无悔	Affect	PosEmo
+责任感	Affect	PosEmo
+愉悦	Affect	PosEmo
+过瘾	Affect	PosEmo
+呵护	Affect	PosEmo
+吉祥	Affect	PosEmo
+开门红	Affect	PosEmo
+可耐	Affect	PosEmo
+心动	Affect	PosEmo
+感人	Affect	PosEmo
+动心	Affect	PosEmo
+坚韧	Affect	PosEmo
+守护	Affect	PosEmo
+主动	Affect	PosEmo
+在意	Affect	PosEmo
+巧妙	Affect	PosEmo
+惬意	Affect	PosEmo
+自重	Affect	PosEmo
+好厉害	Affect	PosEmo
+顺心	Affect	PosEmo
+顶级	Affect	PosEmo
+乐趣	Affect	PosEmo
+惊人	Affect	PosEmo
+了得	Affect	PosEmo
+眷顾	Affect	PosEmo
+知心	Affect	PosEmo
+吉利	Affect	PosEmo
+大好	Affect	PosEmo
+潇洒	Affect	PosEmo
+善待	Affect	PosEmo
+丰厚	Affect	PosEmo
+童真	Affect	PosEmo
+不愧	Affect	PosEmo
+惦记	Affect	PosEmo
+毫不犹豫	Affect	PosEmo
+吸引力	Affect	PosEmo
+真诚的	Affect	PosEmo
+公道	Affect	PosEmo
+天真	Affect	PosEmo
+品位	Affect	PosEmo
+老实	Affect	PosEmo
+喜悦	Affect	PosEmo
+踏实	Affect	PosEmo
+认同	Affect	PosEmo
+重视	Affect	PosEmo
+十全十美	Affect	PosEmo
+干练	Affect	PosEmo
+出众	Affect	PosEmo
+道德	Affect	PosEmo
+高尚	Affect	PosEmo
+看重	Affect	PosEmo
+诚信	Affect	PosEmo
+独立	Affect	PosEmo
+精辟	Affect	PosEmo
+乐观	Affect	PosEmo
+执着	Affect	PosEmo
+纯洁	Affect	PosEmo
+良知	Affect	PosEmo
+威武	Affect	PosEmo
+平常心	Affect	PosEmo
+缅怀	Affect	Sad
+阴影	Affect	See	Percept	NegEmo
+黑线	Affect	See	Percept	NegEmo
+阴霾	Affect	See	Percept	NegEmo
+光彩	Affect	See	Percept	PosEmo
+光明	Affect	See	Percept	PosEmo
+难看	Affect	See	Percept
+浮云	Affect	See	Percept
+友情	Affect	Social	Friend	PosEmo
+好孩子	Affect	Social	Humans	PosEmo
+君子	Affect	Social	Humans	PosEmo
+好心人	Affect	Social	Humans	PosEmo
+谈笑风生	Affect	Social	PosEmo
+要好	Affect	Social	PosEmo
+加油	Affect	Social	PosEmo
+欢呼	Affect	Social	PosEmo
+表扬	Affect	Social	PosEmo
+共勉	Affect	Social	PosEmo
+口碑	Affect	Social	PosEmo
+友好	Affect	Social	PosEmo
+团结	Affect	Social	PosEmo
+致敬	Affect	Social	PosEmo
+助威	Affect	Social	PosEmo
+鼓掌	Affect	Social	PosEmo
+安慰	Affect	Social	PosEmo
+和好	Affect	Social	PosEmo
+多谢	Affect	Social	PosEmo
+相依	Affect	Social	PosEmo
+礼貌	Affect	Social	PosEmo
+夸奖	Affect	Social	PosEmo
+支持你	Affect	Social	PosEmo
+喝彩	Affect	Social	PosEmo
+相知	Affect	Social
+不要紧	Affect	Social
+讨好	Affect	Social
+取悦	Affect	Social
+世故	Affect	Social
+认错	Affect	Social
+随缘	Affect	Social
+人才	Affect	Work	Humans	Achieve	PosEmo
+坚守	Affect	Work	PosEmo
+敬业	Affect	Work	PosEmo
+生意兴隆	Affect	Work	PosEmo
+抵抗	Affect	Work
+情感	Affect
+严肃	Affect
+喜怒哀乐	Affect
+犀利	Affect
+无谓	Affect
+精明	Affect
+成全	Affect
+刻骨铭心	Affect
+摆脱	Affect
+保守	Affect
+心事	Affect
+满怀	Affect
+感叹	Affect
+内敛	Affect
+心态	Affect
+有心	Affect
+迁就	Affect
+小样	Affect
+心意	Affect
+强势	Affect
+相思	Affect
+舍不得	Affect
+好坏	Affect
+理所当然	Affect
+会心	Affect
+同感	Affect
+不禁	Affect
+胸怀	Affect
+念念不忘	Affect
+稳定	Affect
+情不自禁	Affect
+舍得	Affect
+高调	Affect
+十年窗下无人问	Affect
+撒娇	Affect
+内心	Affect
+心机	Affect
+意想不到	Affect
+心境	Affect
+寄托	Affect
+真心话	Affect
+难忘	Affect
+强行	Affect
+个性	Affect
+情缘	Affect
+臭美	Affect
+纯情	Affect
+节操	Affect
+有感	Affect
+桃花运	Affect
+有情	Affect
+感想	Affect
+感性	Affect
+不惜	Affect
+风流	Affect
+感慨	Affect
+诡异	Affect
+平淡	Affect
+羞涩	Affect
+张扬	Affect
+奔放	Affect
+痴情	Affect
+深受	Affect
+不赖	Affect
+傲娇	Affect
+深刻	Affect
+包养	Affect
+重温	Affect
+沉浸	Affect
+特地	Affect
+怀旧	Affect
+强悍	Affect
+含蓄	Affect
+有种	Affect
+奢望	Affect
+顺其自然	Affect
+情调	Affect
+感触	Affect
+惊险	Affect
+忍不住	Affect
+淡然	Affect
+逞强	Affect
+对得起	Affect
+孩子气	Affect
+情结	Affect
+发誓	Affect
+心眼	Affect
+汉奸	Anger	Affect	Humans	NegEmo
+发火	Anger	Affect	NegEmo
+发脾气	Anger	Affect	NegEmo
+怒骂	Anger	Affect	NegEmo
+脏话	Anger	Affect	NegEmo
+耍流氓	Anger	Affect	NegEmo
+变态	Anger	Affect	NegEmo
+尼玛的	Anger	Affect	NegEmo
+吵架	Anger	Affect	NegEmo
+滚蛋	Anger	Affect	NegEmo
+我靠	Anger	Affect	NegEmo
+王八	Anger	Affect	NegEmo
+狠狠	Anger	Affect	NegEmo
+流氓	Anger	Affect	NegEmo
+愤怒	Anger	Affect	NegEmo
+凶残	Anger	Affect	NegEmo
+咆哮	Anger	Affect	NegEmo
+可恨	Anger	Affect	NegEmo
+不要脸	Anger	Affect	NegEmo
+万恶	Anger	Affect	NegEmo
+禽兽	Anger	Affect	NegEmo
+耳光	Anger	Affect
+卧槽	Anger	Affect
+客气	Assent	Social
+看我的	Assent	Social
+没关系	Assent	Social
+啊啊	Assent
+对对	Assent
+纳尼	Assent
+没什么	Assent
+哇塞	Assent
+得了	Assent
+恩恩	Assent
+喂喂	Assent
+哇哇	Assent
+啥子	Assent
+嘿嘿	Assent
+哇靠	Assent
+可不	Assent
+呜呜	Assent
+哼哼	Assent
+呀呀	Assent
+哈哈哈	Assent
+完了	Assent
+噢噢	Assent
+好好	Assent
+干吗	Assent
+矮油	Assent
+好不好	Assent
+嘿嘿嘿	Assent
+饿死	Bio	Death
+汤匙	Bio	Family	Ingest	Social
+勺子	Bio	Family	Ingest	Social
+锅盖	Bio	Family	Ingest
+胎儿	Bio	Family
+牙刷	Bio	Health	Family
+维生素C	Bio	Health	Ingest
+香烟	Bio	Health	Ingest
+切片	Bio	Health	Ingest
+盐水	Bio	Health	Ingest
+维生素A	Bio	Health	Ingest
+热量	Bio	Health	Ingest
+奥运会	Bio	Health	Leisure
+体操	Bio	Health	Leisure
+整容	Bio	Health	Leisure
+入睡	Bio	Health
+看病	Bio	Health
+小儿咳嗽	Bio	Health
+新陈代谢	Bio	Health
+献血	Bio	Health
+抗癌	Bio	Health
+拉肚子	Bio	Health
+致癌	Bio	Health
+急诊医学	Bio	Health
+损伤	Bio	Health
+止痛	Bio	Health
+功夫	Bio	Health
+发胖	Bio	Health
+打针	Bio	Health
+秘方	Bio	Health
+浮肿	Bio	Health
+惊醒	Bio	Health
+午觉	Bio	Health
+调理	Bio	Health
+年老体弱	Bio	Health
+偏方	Bio	Health
+健脾	Bio	Health
+消耗	Bio	Health
+懒觉	Bio	Health
+细菌	Bio	Health
+养生	Bio	Health
+痱子	Bio	Health
+安康	Bio	Health
+贫血	Bio	Health
+胶囊	Bio	Health
+免疫力	Bio	Health
+熬夜	Bio	Health
+补血	Bio	Health
+代谢	Bio	Health
+患者	Bio	Health
+气血	Bio	Health
+口罩	Bio	Health
+安神	Bio	Health
+鼻炎	Bio	Health
+愈合	Bio	Health
+中药	Bio	Health
+食疗	Bio	Health
+视力	Bio	Health
+戒烟	Bio	Health
+保健	Bio	Health
+晒太阳	Bio	Health
+烫伤	Bio	Health
+有毒	Bio	Health
+头疼	Bio	Health
+醒来	Bio	Health
+上瘾	Bio	Health
+刷牙	Bio	Health
+衰老	Bio	Health
+洗手	Bio	Health
+梦境	Bio	Health
+维生素E	Bio	Health
+深呼吸	Bio	Health
+养胃	Bio	Health
+农药	Bio	Health
+遗传	Bio	Health
+止血	Bio	Health
+氧化	Bio	Health
+润肺	Bio	Health
+血糖	Bio	Health
+明目	Bio	Health
+消肿	Bio	Health
+梦见	Bio	Health
+辐射	Bio	Health
+水泡	Bio	Health
+痊愈	Bio	Health
+做梦	Bio	Health
+紫外线	Bio	Health
+抵抗力	Bio	Health
+药物	Bio	Health
+痛经	Bio	Health
+能量	Bio	Health
+疗效	Bio	Health
+保养	Bio	Health
+水肿	Bio	Health
+吃药	Bio	Health
+病毒	Bio	Health
+血压	Bio	Health
+上火	Bio	Health
+摔倒	Bio	Health
+缓解	Bio	Health
+抗衰老	Bio	Health
+晕倒	Bio	Health
+病人	Bio	Health
+药品	Bio	Health
+接力	Bio	Health
+消毒	Bio	Health
+睡意	Bio	Health
+瑜伽	Bio	Health
+奔跑	Bio	Health
+睡醒	Bio	Health
+粉丝	Bio	Humans	Ingest	Leisure
+奶茶	Bio	Ingest	Leisure
+烧烤	Bio	Ingest	Leisure
+喝茶	Bio	Ingest	Leisure
+小米	Bio	Ingest	Leisure
+聚餐	Bio	Ingest	Social
+早点	Bio	Ingest	Time
+豆浆	Bio	Ingest
+菜谱	Bio	Ingest
+食堂	Bio	Ingest
+龙虾	Bio	Ingest
+饮水	Bio	Ingest
+吃饭	Bio	Ingest
+饮茶	Bio	Ingest
+生姜	Bio	Ingest
+蛋清	Bio	Ingest
+芝麻	Bio	Ingest
+猪肝	Bio	Ingest
+瘦肉	Bio	Ingest
+水饺	Bio	Ingest
+巧克力	Bio	Ingest
+虾仁	Bio	Ingest
+萝卜	Bio	Ingest
+山药	Bio	Ingest
+夜宵	Bio	Ingest
+猪脚	Bio	Ingest
+木耳	Bio	Ingest
+芝士	Bio	Ingest
+可口可乐	Bio	Ingest
+桔子	Bio	Ingest
+石榴	Bio	Ingest
+公鸡	Bio	Ingest
+大枣	Bio	Ingest
+鸭子	Bio	Ingest
+白菜	Bio	Ingest
+拉面	Bio	Ingest
+进餐 	Bio	Ingest
+粽子	Bio	Ingest
+酱油	Bio	Ingest
+蛋白质	Bio	Ingest
+淀粉	Bio	Ingest
+馋嘴	Bio	Ingest
+饭菜	Bio	Ingest
+矿泉水	Bio	Ingest
+红茶	Bio	Ingest
+桃子	Bio	Ingest
+大蒜	Bio	Ingest
+芹菜	Bio	Ingest
+柠檬汁	Bio	Ingest
+果冻	Bio	Ingest
+薄荷	Bio	Ingest
+饺子	Bio	Ingest
+花椒	Bio	Ingest
+鸡翅	Bio	Ingest
+酸奶	Bio	Ingest
+肉类	Bio	Ingest
+汤圆	Bio	Ingest
+蘑菇	Bio	Ingest
+旺旺	Bio	Ingest
+胡椒粉	Bio	Ingest
+螃蟹	Bio	Ingest
+西瓜	Bio	Ingest
+猕猴桃	Bio	Ingest
+大麦	Bio	Ingest
+羊肉	Bio	Ingest
+甜品	Bio	Ingest
+棒子	Bio	Ingest
+大葱	Bio	Ingest
+栗子	Bio	Ingest
+酒量	Bio	Ingest
+米粉	Bio	Ingest
+辣椒	Bio	Ingest
+肯德基	Bio	Ingest
+豌豆	Bio	Ingest
+胡萝卜	Bio	Ingest
+冰激凌	Bio	Ingest
+香蕉	Bio	Ingest
+料酒	Bio	Ingest
+做饭	Bio	Ingest
+杏仁	Bio	Ingest
+面粉	Bio	Ingest
+橘子	Bio	Ingest
+月饼	Bio	Ingest
+泡菜	Bio	Ingest
+莲子	Bio	Ingest
+喝酒	Bio	Ingest
+冬瓜	Bio	Ingest
+料理	Bio	Ingest
+茅台	Bio	Ingest
+菜花	Bio	Ingest
+豆腐	Bio	Ingest
+粮食	Bio	Ingest
+油条	Bio	Ingest
+橙子	Bio	Ingest
+麻辣烫	Bio	Ingest
+米饭	Bio	Ingest
+南瓜	Bio	Ingest
+紫菜	Bio	Ingest
+吃喝	Bio	Ingest
+苦瓜	Bio	Ingest
+食用	Bio	Ingest
+食盐	Bio	Ingest
+套餐	Bio	Ingest
+奶油	Bio	Ingest
+拌匀	Bio	Ingest
+青椒	Bio	Ingest
+火腿	Bio	Ingest
+保鲜	Bio	Ingest
+番茄	Bio	Ingest
+猪肉	Bio	Ingest
+餐饮	Bio	Ingest
+面条	Bio	Ingest
+大豆	Bio	Ingest
+黄豆	Bio	Ingest
+香菇	Bio	Ingest
+咖喱	Bio	Ingest
+榴莲	Bio	Ingest
+美食	Bio	Ingest
+服用	Bio	Ingest
+馄饨	Bio	Ingest
+菠菜	Bio	Ingest
+瓜子	Bio	Ingest
+红薯	Bio	Ingest
+肥肉	Bio	Ingest
+西红柿	Bio	Ingest
+雪糕	Bio	Ingest
+樱桃	Bio	Ingest
+麦当劳	Bio	Ingest
+苹果	Bio	Ingest
+沙拉	Bio	Ingest
+韭菜	Bio	Ingest
+柿子	Bio	Ingest
+虾米	Bio	Ingest
+吃掉	Bio	Ingest
+汉堡	Bio	Ingest
+冰棍	Bio	Ingest
+玉米	Bio	Ingest
+橄榄油	Bio	Ingest
+芒果	Bio	Ingest
+红枣	Bio	Ingest
+草莓	Bio	Ingest
+地瓜	Bio	Ingest
+口香糖	Bio	Ingest
+荔枝	Bio	Ingest
+绿豆	Bio	Ingest
+奶酪	Bio	Ingest
+包子	Bio	Ingest
+茄子	Bio	Ingest
+糯米	Bio	Ingest
+燕麦	Bio	Ingest
+胡椒	Bio	Ingest
+柠檬	Bio	Ingest
+洋葱	Bio	Ingest
+烤肉	Bio	Ingest
+章鱼	Bio	Ingest
+蛋黄	Bio	Ingest
+海带	Bio	Ingest
+出炉	Bio	Ingest
+馒头	Bio	Ingest
+红糖	Bio	Ingest
+餐具	Bio	Ingest
+柚子	Bio	Ingest
+味精	Bio	Ingest
+鸭梨	Bio	Ingest
+糖水	Bio	Ingest
+白萝卜	Bio	Ingest
+海鲜	Bio	Ingest
+稀饭	Bio	Ingest
+蛋糕	Bio	Ingest
+果蔬	Bio	Ingest
+羊羔	Bio	Ingest
+黄瓜	Bio	Ingest
+蜂蜜	Bio	Ingest
+主食	Bio	Ingest
+菠萝	Bio	Ingest
+山楂	Bio	Ingest
+丸子	Bio	Ingest
+便当	Bio	Ingest
+布丁	Bio	Ingest
+母乳	Bio	Ingest
+鸡腿	Bio	Ingest
+原料	Bio	Ingest
+大米	Bio	Ingest
+白醋	Bio	Ingest
+红豆	Bio	Ingest
+鸡肉	Bio	Ingest
+零食	Bio	Ingest
+狗肉	Bio	Ingest
+凉拌	Bio	Ingest
+饮用	Bio	Ingest
+王老吉	Bio	Ingest
+花生	Bio	Ingest
+核桃	Bio	Ingest
+甜食	Bio	Ingest
+可可	Bio	Ingest
+银耳	Bio	Ingest
+橙汁	Bio	Ingest
+空腹	Bio	Ingest
+鲜奶	Bio	Ingest
+大餐	Bio	Ingest
+吃法	Bio	Ingest
+方便面	Bio	Ingest
+绿茶	Bio	Ingest
+坚果	Bio	Ingest
+白开水	Bio	Ingest
+果子	Bio	Ingest
+三文鱼	Bio	Ingest
+食谱	Bio	Ingest
+饮酒	Bio	Ingest
+牛肉	Bio	Ingest
+蛋白	Bio	Ingest
+木瓜	Bio	Ingest
+黑木耳	Bio	Ingest
+爆米花	Bio	Ingest
+奶粉	Bio	Ingest
+枸杞	Bio	Ingest
+香菜	Bio	Ingest
+煎饼	Bio	Ingest
+油菜	Bio	Ingest
+牛排	Bio	Ingest
+土豆	Bio	Ingest
+油锅	Bio	Ingest
+饼干	Bio	Ingest
+蔬果	Bio	Ingest
+香肠	Bio	Ingest
+鸡汤	Bio	Ingest
+棒棒糖	Bio	Ingest
+葱花	Bio	Ingest
+白糖	Bio	Ingest
+葡萄	Bio	Ingest
+鸡蛋	Bio	Ingest
+赤裸裸	Bio	Percept	Sexual	See
+胖胖	Bio	See	Percept
+接吻	Bio	Sexual
+牵手	Bio	Social
+拍手	Bio	Social
+抱抱	Bio	Social
+拉手	Bio	Social
+携手	Bio	Social
+眨眼	Bio
+脸红	Bio
+芦荟	Bio
+翻身	Bio
+姿势	Bio
+叫醒	Bio
+苏醒	Bio
+蛋蛋	Bio
+分泌	Bio
+本能	Bio
+甩手	Bio
+抬头	Bio
+站立	Bio
+猛击	Bio
+爪子	Bio
+热血	Body	Affect	Bio
+泪水	Body	Bio	Affect	NegEmo	Sad
+睡衣	Body	Bio	Family
+拖鞋	Body	Bio	Family
+油脂	Body	Bio	Health	Ingest
+雀斑	Body	Bio	Health
+疤痕	Body	Bio	Health
+鼻涕	Body	Bio	Health
+体质	Body	Bio	Health
+纤维	Body	Bio	Ingest
+球衣	Body	Bio	Leisure
+眼线	Body	Bio	Leisure
+容颜	Body	Bio	Percept	See
+双眼	Body	Bio	Percept	See
+脚印	Body	Bio	Percept	See
+头顶	Body	Bio	Relative	Space
+身上	Body	Bio	Relative	Space
+嘴里	Body	Bio	Relative	Space
+手中	Body	Bio	Relative	Space
+脸上	Body	Bio	Relative	Space
+口中	Body	Bio	Relative	Space
+胸前	Body	Bio	Relative	Space
+个头	Body	Bio	See
+耳边	Body	Bio	Space
+手脚	Body	Bio
+小脚	Body	Bio
+手腕	Body	Bio
+外套	Body	Bio
+人体	Body	Bio
+帽子	Body	Bio
+短发	Body	Bio
+指尖	Body	Bio
+后背	Body	Bio
+小腹	Body	Bio
+大拇指	Body	Bio
+胃肠	Body	Bio
+右手	Body	Bio
+巴掌	Body	Bio
+大眼睛	Body	Bio
+基因	Body	Bio
+童装	Body	Bio
+光头	Body	Bio
+半身	Body	Bio
+细胞	Body	Bio
+脸蛋	Body	Bio
+穿衣	Body	Bio
+大头	Body	Bio
+内衣	Body	Bio
+白发	Body	Bio
+连衣裙	Body	Bio
+内裤	Body	Bio
+脾胃	Body	Bio
+眼袋	Body	Bio
+高跟鞋	Body	Bio
+腰带	Body	Bio
+颈椎	Body	Bio
+油性	Body	Bio
+裤子	Body	Bio
+衣物	Body	Bio
+力气	Body	Bio
+低头	Body	Bio
+眼角	Body	Bio
+体内	Body	Bio
+穿着	Body	Bio
+眉毛	Body	Bio
+羊毛	Body	Bio
+佩戴	Body	Bio
+长袖	Body	Bio
+长裤	Body	Bio
+长裙	Body	Bio
+马甲	Body	Bio
+胳膊	Body	Bio
+皮夹克	Body	Bio
+靴子	Body	Bio
+脸型	Body	Bio
+隐形眼镜	Body	Bio
+大衣	Body	Bio
+脸皮	Body	Bio
+裙子	Body	Bio
+夹克	Body	Bio
+身材	Body	Bio
+皮带	Body	Bio
+女装	Body	Bio
+泳衣	Body	Bio
+眼皮	Body	Bio
+牛仔裤	Body	Bio
+脸部	Body	Bio
+腿部	Body	Bio
+西装	Body	Bio
+毛孔	Body	Bio
+卫生巾	Body	Bio
+月经	Body	Bio
+食指	Body	Bio
+凉鞋	Body	Bio
+长发	Body	Bio
+羊毛衫	Body	Bio
+背带	Body	Bio
+无名指	Body	Bio
+下摆	Body	Bio
+校服	Body	Bio
+西服	Body	Bio
+风衣	Body	Bio
+戒指	Body	Bio
+双腿	Body	Bio
+袜子	Body	Bio
+中指	Body	Bio
+身高	Body	Bio
+肌肤	Body	Bio
+围巾	Body	Bio
+双手	Body	Bio
+假发	Body	Bio
+毛线	Body	Bio
+器官	Body	Bio
+挎包	Body	Bio
+心胸	Body	Bio
+面孔	Body	Bio
+连体	Body	Bio
+背部	Body	Bio
+羽绒服	Body	Bio
+鼻血	Body	Bio
+翻领	Body	Bio
+睫毛	Body	Bio
+夹衣	Body	Bio
+嘴角	Body	Bio
+身心	Body	Bio
+脑子	Body	Bio
+皮鞋	Body	Bio
+胸罩	Body	Bio
+胡子	Body	Bio
+刘海	Body	Bio
+皱纹	Body	Bio
+春装新款	Body	Bio
+比基尼	Body	Bio
+左手	Body	Bio
+鞋子	Body	Bio
+冬装	Body	Bio
+眼眶	Body	Bio
+拳头	Body	Bio
+上身	Body	Bio
+礼服	Body	Bio
+运动鞋	Body	Bio
+体温	Body	Bio
+使皮肤	Body	Bio
+手套	Body	Bio
+裙装	Body	Bio
+夏装	Body	Bio
+下半身	Body	Bio
+面部	Body	Bio
+指甲	Body	Bio
+吊带	Body	Bio
+眼圈	Body	Bio
+短袖	Body	Bio
+浑身	Body	Bio
+男装	Body	Bio
+衬衫	Body	Bio
+短裙	Body	Bio
+短裤	Body	Bio
+眼球	Body	Bio
+皮衣	Body	Bio
+两手	Body	Bio
+拇指	Body	Bio
+眼镜	Body	Bio
+领带	Body	Bio
+棉衣	Body	Bio
+全身	Body	Bio
+背心	Body	Bio
+衬衣	Body	Bio
+角质	Body	Bio
+衣袖	Body	Bio
+黑头	Body	Bio
+毛衣	Body	Bio
+头部	Body	Bio
+胸口	Body	Bio
+圆领	Body	Bio
+丝袜	Body	Bio
+血型	Body	Bio
+套装	Body	Bio
+脸色	Body	Bio
+家居服	Body	Family
+卷发	Body	Percept	See
+笑脸	Body	Percept	See
+满脸	Body	Percept	See
+面相	Body	Percept	See
+背后	Body	Relative	Space
+手势	Body	Social
+人心	Body
+下场	Cause
+造就	Cause
+做成	Cause
+便是	Certain
+意味着	CogMech	Cause
+效应	CogMech	Cause
+能使	CogMech	Cause
+为此	CogMech	Cause
+出自	CogMech	Cause
+出处	CogMech	Cause
+依据	CogMech	Cause
+由此	CogMech	Cause
+前提	CogMech	Cause
+因素	CogMech	Cause
+有助于	CogMech	Cause
+是因为	CogMech	Cause
+因为你	CogMech	Cause
+来源于	CogMech	Cause
+取决于	CogMech	Cause
+唯独	CogMech	Certain	Exclusive
+从来不	CogMech	Certain	Exclusive
+只有你	CogMech	Certain	Exclusive
+一律	CogMech	Certain	Inclusive
+双双	CogMech	Certain	Inclusive
+凡是	CogMech	Certain	Inclusive
+每人	CogMech	Certain	Inclusive
+又是	CogMech	Certain	Inclusive
+任何人	CogMech	Certain	Inclusive
+万事	CogMech	Certain	Inclusive
+凡事	CogMech	Certain	Inclusive
+统统	CogMech	Certain	Inclusive
+一块	CogMech	Certain	Inclusive
+一分	CogMech	Certain	Money
+每次	CogMech	Certain	Time
+确保	CogMech	Certain
+毫升	CogMech	Certain
+这本	CogMech	Certain
+百分	CogMech	Certain
+总会	CogMech	Certain
+一行	CogMech	Certain
+八十	CogMech	Certain
+那种	CogMech	Certain
+绝对不会	CogMech	Certain
+唯有	CogMech	Certain
+一万	CogMech	Certain
+一两	CogMech	Certain
+十个	CogMech	Certain
+一个个	CogMech	Certain
+这般	CogMech	Certain
+就要	CogMech	Certain
+十足	CogMech	Certain
+平米	CogMech	Certain
+一手	CogMech	Certain
+一把	CogMech	Certain
+五百	CogMech	Certain
+统一	CogMech	Certain
+最小	CogMech	Certain
+双人	CogMech	Certain
+不可不	CogMech	Certain
+不二	CogMech	Certain
+人数	CogMech	Certain
+二两	CogMech	Certain
+牢记	CogMech	Certain
+最最	CogMech	Certain
+一本	CogMech	Certain
+三十	CogMech	Certain
+三千	CogMech	Certain
+纯属	CogMech	Certain
+第5	CogMech	Certain
+无非	CogMech	Certain
+定律	CogMech	Certain
+一次性	CogMech	Certain
+一对	CogMech	Certain
+认定	CogMech	Certain
+一头	CogMech	Certain
+同一个	CogMech	Certain
+七分	CogMech	Certain
+坚信	CogMech	Certain
+数量	CogMech	Certain
+实际上	CogMech	Certain
+此人	CogMech	Certain
+这部	CogMech	Certain
+此事	CogMech	Certain
+一发	CogMech	Certain
+最为	CogMech	Certain
+我要做	CogMech	Certain
+英寸	CogMech	Certain
+必不可少	CogMech	Certain
+一百	CogMech	Certain
+绝招	CogMech	Certain
+务必	CogMech	Certain
+一味	CogMech	Certain
+次数	CogMech	Certain
+个个	CogMech	Certain
+终结	CogMech	Death
+比不上	CogMech	Discrep
+未能	CogMech	Discrep
+不及	CogMech	Discrep
+超标	CogMech	Discrep
+不到	CogMech	Discrep
+大于	CogMech	Discrep
+差点	CogMech	Discrep
+过多	CogMech	Discrep
+过头	CogMech	Discrep
+足以	CogMech	Discrep
+过量	CogMech	Discrep
+点儿	CogMech	Discrep
+过滤	CogMech	Exclusive
+无须	CogMech	Exclusive
+并未	CogMech	Exclusive
+免得	CogMech	Exclusive
+例外	CogMech	Exclusive
+再不	CogMech	Exclusive
+从没	CogMech	Exclusive
+无需	CogMech	Exclusive
+淘汰	CogMech	Exclusive
+没有我	CogMech	Exclusive
+删除	CogMech	Exclusive
+只求	CogMech	Exclusive
+没有你	CogMech	Exclusive
+所有人	CogMech	Humans	Inclusive
+应有尽有	CogMech	Inclusive
+全班	CogMech	Inclusive
+已有	CogMech	Inclusive
+各类	CogMech	Inclusive
+一共	CogMech	Inclusive
+一类	CogMech	Inclusive
+全方位	CogMech	Inclusive
+累计	CogMech	Inclusive
+累积	CogMech	Inclusive
+富含	CogMech	Inclusive
+通用	CogMech	Inclusive
+在内	CogMech	Inclusive
+外加	CogMech	Inclusive
+一系列	CogMech	Inclusive
+其中一	CogMech	Inclusive
+共有	CogMech	Inclusive
+所有的	CogMech	Inclusive
+通通	CogMech	Inclusive
+分为	CogMech	Inclusive
+补充	CogMech	Inclusive
+大全	CogMech	Inclusive
+一齐	CogMech	Inclusive
+齐全	CogMech	Inclusive
+同在	CogMech	Inclusive
+含有	CogMech	Inclusive
+混合	CogMech	Inclusive
+汇总	CogMech	Inclusive
+不容	CogMech	Inhibition	Exclusive
+而不	CogMech	Inhibition	Exclusive
+只用	CogMech	Inhibition
+切忌	CogMech	Inhibition
+专用	CogMech	Inhibition
+下限	CogMech	Inhibition
+没法	CogMech	Inhibition
+禁忌	CogMech	Inhibition
+只能	CogMech	Inhibition
+限量	CogMech	Inhibition
+专属	CogMech	Inhibition
+不许	CogMech	Inhibition
+注定	CogMech	Insight	Certain
+就可以	CogMech	Insight	Certain
+正是	CogMech	Insight	Certain
+真正的	CogMech	Insight	Certain
+焦点	CogMech	Insight	Leisure
+层面	CogMech	Insight	Space
+要点	CogMech	Insight	Work
+办法	CogMech	Insight	Work
+借鉴	CogMech	Insight	Work
+纠正	CogMech	Insight	Work
+觉醒	CogMech	Insight
+情况	CogMech	Insight
+争议	CogMech	Insight
+堪称	CogMech	Insight
+见识	CogMech	Insight
+主见	CogMech	Insight
+不知	CogMech	Insight
+真假	CogMech	Insight
+懂得	CogMech	Insight
+我见	CogMech	Insight
+当成	CogMech	Insight
+点评	CogMech	Insight
+错了	CogMech	Insight
+重点	CogMech	Insight
+想法	CogMech	Insight
+思想	CogMech	Insight
+想起	CogMech	Insight
+体现	CogMech	Insight
+预感	CogMech	Insight
+不难	CogMech	Insight
+得以	CogMech	Insight
+认得	CogMech	Insight
+不通	CogMech	Insight
+意义	CogMech	Insight
+细节	CogMech	Insight
+假的	CogMech	Insight
+有理	CogMech	Insight
+异常	CogMech	Insight
+均衡	CogMech	Insight
+想想	CogMech	Insight
+创新	CogMech	Insight
+当作	CogMech	Insight
+关键	CogMech	Insight
+预测	CogMech	Insight
+巧合	CogMech	Insight
+意见	CogMech	Insight
+特色	CogMech	Insight
+隐藏	CogMech	Insight
+性质	CogMech	Insight
+原来如此	CogMech	Insight
+骨子里	CogMech	Insight
+要素	CogMech	Insight
+善于	CogMech	Insight
+属性	CogMech	Insight
+至极	CogMech	Insight
+重要性	CogMech	Insight
+具备	CogMech	Insight
+适用于	CogMech	Insight
+揭秘	CogMech	Insight
+客观	CogMech	Insight
+小事	CogMech	Insight
+符合	CogMech	Insight
+难度	CogMech	Insight
+特性	CogMech	Insight
+心声	CogMech	Insight
+含义	CogMech	Insight
+看待	CogMech	Insight
+本色	CogMech	Insight
+暴露	CogMech	Insight
+非常重要	CogMech	Insight
+适度	CogMech	Insight
+修正	CogMech	Insight
+形势	CogMech	Insight
+着实	CogMech	Insight
+线索	CogMech	Insight
+现象	CogMech	Insight
+捷径	CogMech	Insight
+状况	CogMech	Insight
+看穿	CogMech	Insight
+能带	CogMech	Insight
+探讨	CogMech	Insight
+在于	CogMech	Insight
+衡量	CogMech	Insight
+精髓	CogMech	Insight
+真谛	CogMech	Insight
+心得	CogMech	Insight
+用尽	CogMech	Insight
+分明	CogMech	Insight
+念头	CogMech	Insight
+想到	CogMech	Insight
+轻易	CogMech	Insight
+思维	CogMech	Insight
+竟是	CogMech	Insight
+足足	CogMech	Insight
+明知	CogMech	Insight
+会发生	CogMech	Insight
+没错	CogMech	Insight
+透彻	CogMech	Insight
+看透	CogMech	Insight
+依然	CogMech	Insight
+得知	CogMech	Insight
+解读	CogMech	Insight
+获悉	CogMech	Insight
+指出	CogMech	Insight
+提示	CogMech	Insight
+表现出	CogMech	Insight
+明明	CogMech	Insight
+详情	CogMech	Insight
+成败	CogMech	Insight
+品质	CogMech	Insight
+回顾	CogMech	Insight
+本质	CogMech	Insight
+风格	CogMech	Percept
+层次	CogMech	Percept
+看清	CogMech	See	Insight	Percept
+视角	CogMech	See	Insight	Percept
+看成	CogMech	See
+融合	CogMech	Social	Inclusive
+熟悉	CogMech	Social
+关注	CogMech	Social
+反馈	CogMech	Social
+都会	CogMech	Space
+一部分	CogMech	Tentat	Inclusive
+看似	CogMech	Tentat
+仿佛	CogMech	Tentat
+一点儿	CogMech	Tentat
+你会不会	CogMech	Tentat
+上十	CogMech	Tentat
+几多	CogMech	Tentat
+几千	CogMech	Tentat
+可不可以	CogMech	Tentat
+千百	CogMech	Tentat
+哪家	CogMech	Tentat
+可选	CogMech	Tentat
+某种	CogMech	Tentat
+几百	CogMech	Tentat
+适量	CogMech	Tentat
+犹如	CogMech	Tentat
+谁是	CogMech	Tentat
+可能性	CogMech	Tentat
+多种	CogMech	Tentat
+好似	CogMech	Tentat
+万千	CogMech	Tentat
+几率	CogMech	Tentat
+有多少	CogMech	Tentat
+不等	CogMech	Tentat
+几十	CogMech	Tentat
+好比	CogMech	Tentat
+亿万	CogMech	Tentat
+微微	CogMech	Tentat
+诸多	CogMech	Tentat
+有无	CogMech	Tentat
+何物	CogMech	Tentat
+数千	CogMech	Tentat
+两三	CogMech	Tentat
+概率	CogMech	Tentat
+貌似	CogMech	Tentat
+海量	CogMech	Tentat
+说不定	CogMech	Tentat
+好多	CogMech	Tentat
+十几	CogMech	Tentat
+某某	CogMech	Tentat
+无数	CogMech	Tentat
+问问	CogMech	Tentat
+一次次	CogMech	Time
+搜索	CogMech	Work	Leisure
+内容	CogMech	Work
+屏蔽	CogMech	Work
+方式	CogMech	Work
+用来	CogMech	Work
+整合	CogMech	Work
+试试	CogMech	Work
+学不会	CogMech	Work
+做法	CogMech	Work
+还要	CogMech
+成分	CogMech
+需要有	CogMech
+无尽	CogMech
+点滴	CogMech
+双重	CogMech
+轻度	CogMech
+整整	CogMech
+加倍	CogMech
+重在	CogMech
+意识	CogMech
+无处	CogMech
+以此	CogMech
+优化	CogMech
+多重	CogMech
+一体	CogMech
+排名	CogMech
+身为	CogMech
+不停	CogMech
+正宗	CogMech
+意料	CogMech
+注意力	CogMech
+何在	CogMech
+超强	CogMech
+误区	CogMech
+有望	CogMech
+永不	CogMech
+少不了	CogMech
+中有	CogMech
+完结	CogMech
+不尽	CogMech
+思路	CogMech
+水准	CogMech
+观念	CogMech
+赋予	CogMech
+平均	CogMech
+想不到	CogMech
+窍门	CogMech
+独特	CogMech
+专注	CogMech
+详细	CogMech
+作出	CogMech
+没事	CogMech
+万物	CogMech
+条件	CogMech
+铭记	CogMech
+莫过于	CogMech
+养成	CogMech
+想象力	CogMech
+提问	CogMech
+一批	CogMech
+切记	CogMech
+模仿	CogMech
+不易	CogMech
+不懂	CogMech
+秘诀	CogMech
+哲理	CogMech
+发自	CogMech
+不肯	CogMech
+总算	CogMech
+干什么	CogMech
+最长	CogMech
+已经开始	CogMech
+当做	CogMech
+朵朵	CogMech
+用到	CogMech
+七大	CogMech
+无论是	CogMech
+心想	CogMech
+联想	CogMech
+无人	CogMech
+残留	CogMech
+记忆力	CogMech
+我会	CogMech
+想像	CogMech
+常用	CogMech
+猜猜	CogMech
+档次	CogMech
+丝毫	CogMech
+忘掉	CogMech
+说法	CogMech
+生成	CogMech
+可以选择	CogMech
+特有	CogMech
+理念	CogMech
+万分	CogMech
+验证	CogMech
+分成	CogMech
+谁知道	CogMech
+如果你	CogMech
+有事	CogMech
+有人	CogMech
+管用	CogMech
+无可	CogMech
+一道	CogMech
+备用	CogMech
+查询	CogMech
+称为	CogMech
+杀手	Death	Humans
+凶手	Death	Humans
+受害者	Death	Humans
+僵尸	Death	Leisure
+战场	Death	Space
+大战	Death
+烈士	Death
+子弹	Death
+身亡	Death
+干掉	Death
+去世	Death
+武器	Death
+冻死	Death
+杀害	Death
+作战	Death
+爆炸	Death
+车祸	Death
+死去	Death
+炸弹	Death
+生死	Death
+死也	Death
+死人	Death
+兵器	Death
+地震	Death
+经不起	Discrep
+出乎	Exclusive
+亲友	Family	Friend	Social
+餐桌	Family	Ingest	Space
+筷子	Family	Ingest
+壁纸	Family	Leisure
+电视机	Family	Leisure
+钢琴	Family	Leisure
+法拉利	Family	Leisure
+跑车	Family	Leisure
+过日子	Family	Social
+一家人	Family	Social
+姐夫	Family	Social
+姐姐	Family	Social
+姐妹	Family	Social
+闺女	Family	Social
+姨妈	Family	Social
+育儿	Family	Social
+我家	Family	Social
+家居	Family	Social
+轿车	Family	Social
+弟弟	Family	Social
+儿女	Family	Social
+自行车	Family	Social
+摩托	Family	Social
+全家	Family	Social
+宝宝	Family	Social
+娘子	Family	Social
+电话	Family	Social
+家长	Family	Social
+爸爸妈妈	Family	Social
+你家	Family	Social
+爱车	Family	Social
+亲人	Family	Social
+花瓶	Family	Social
+一家	Family	Social
+门槛	Family	Social
+妻子	Family	Social
+领养	Family	Social
+户口	Family	Social
+夫妻	Family	Social
+空调	Family	Social
+父子	Family	Social
+火柴	Family	Social
+车牌	Family	Social
+相册	Family	Social
+老娘	Family	Social
+收拾	Family	Social
+老爹	Family	Social
+嫂子	Family	Social
+奥迪	Family
+瓶子	Family
+别墅	Family
+单车	Family
+亲情	Family
+用品	Family
+被子	Family
+老母	Family
+桌子	Family
+电动车	Family
+电池	Family
+纸巾	Family
+杯子	Family
+闹钟	Family
+世家	Family
+雨伞	Family
+奔驰	Family
+宅基地	Family
+瓷器	Family
+出身	Family
+电源	Family
+陶瓷	Family
+毛巾	Family
+马桶	Family
+家电	Family
+宝马	Family
+开关	Family
+亲子	Family
+椅子	Family
+卫浴	Family
+肥皂	Family
+住房	Family
+物品	Family
+钥匙	Family
+背包	Family
+二手房	Family
+婚纱照	Family
+车子	Family
+电器	Family
+居家	Family
+客厅	Family
+蜡烛	Family
+风扇	Family
+洗衣粉	Family
+灯泡	Family
+住宅	Family
+剪刀	Family
+容器	Family
+老家	Family
+菜刀	Family
+车型	Family
+细致	Feel	Affect	Percept	PosEmo
+滋润	Feel	Affect	Percept	PosEmo
+快感	Feel	Affect	Percept	PosEmo
+好受	Feel	Affect	Percept	PosEmo
+细腻	Feel	Affect	Percept
+口感	Feel	Bio	Percept	Ingest
+尝尝	Feel	Bio	Percept	Ingest
+冰块	Feel	Bio	Percept	Ingest
+清淡	Feel	Bio	Percept
+春暖花开	Feel	Percept	See
+雪花	Feel	Percept	See
+手感	Feel	Percept
+拥挤	Feel	Percept
+绵绵	Feel	Percept
+炎热	Feel	Percept
+浓郁	Feel	Percept
+温差	Feel	Percept
+按压	Feel	Percept
+清新	Feel	Percept
+淡淡	Feel	Percept
+热水	Feel	Percept
+错觉	Feel	Percept
+沸水	Feel	Percept
+水温	Feel	Percept
+舒坦	Feel	Percept
+动感	Feel	Percept
+直觉	Feel	Percept
+天气	Feel	Percept
+感到	Feel	Percept
+甜甜	Feel	Percept
+冷水	Feel	Percept
+温度	Feel	Percept
+通风	Feel	Percept
+轻盈	Feel	Percept
+凉爽	Feel	Percept
+浓浓的	Feel	Percept
+缠绕	Feel	Percept
+劲儿	Feel	Percept
+质感	Feel	Percept
+高温	Feel	Percept
+异味	Feel	Percept
+气温	Feel	Percept
+宽广	Feel	Percept
+膨胀	Feel	Percept
+结实	Feel	Percept
+流畅	Feel	Percept
+气氛	Feel	Percept
+抚摸	Feel	Percept
+微风	Feel	Percept
+北风	Feel	Percept
+春风	Feel	Percept
+干净	Feel	Percept
+干燥	Feel	Percept
+高速	Feel	Percept
+弹力	Feel	Percept
+气候	Feel	Percept
+紧紧	Feel	Percept
+东风	Feel	Percept
+轻轻	Feel	Percept
+平衡	Feel	Percept
+气质	Feel	Percept
+冰凉	Feel	Percept
+力度	Feel	Percept
+清爽	Feel	Percept
+清凉	Feel	Percept
+花香	Feel	Percept
+隐隐	Feel	Percept
+清风	Feel	Percept
+室温	Feel	Percept
+保暖	Feel	Percept
+麻辣	Feel	Percept
+透气	Feel	Percept
+香甜	Feel	Percept
+强劲	Feel	Percept
+抓紧	Feel	Percept
+质地	Feel	Percept
+大风	Feel	Percept
+淡淡的	Feel	Percept
+温水	Feel	Percept
+摸摸	Feel	Percept
+悄悄	Feel	Percept
+紧身	Feel	Percept
+味儿	Feel	Percept
+毛毛	Feel	Percept
+湿润	Feel	Percept
+西风	Feel	Percept
+凉水	Feel	Percept
+清香	Feel	Percept
+风暴	Feel	Percept
+降温	Feel	Relative	Percept
+轮廓	Feel	See	Percept
+白嫩	Feel	See	Percept
+不规则	Feel	See	Percept
+褶皱	Feel	See	Percept
+粉嫩	Feel	See	Percept
+可谓	Filler	CogMech	Insight
+算是	Filler	CogMech	Tentat
+只不过	Filler	CogMech
+事实上	Filler	CogMech
+对我来说	Filler
+这下	Filler
+说是	Filler
+般的	Filler
+多么	Filler
+来说	Filler
+好歹	Filler
+什么的	Filler
+一番	Filler
+不用说	Filler
+基友	Friend	Leisure	Social
+网友	Friend	Leisure	Social
+驴友	Friend	Leisure
+粉友	Friend	Leisure
+哥们	Friend	Social
+同桌	Friend	Social
+相约	Friend	Social
+交友	Friend	Social
+死党	Friend	Social
+丽友	Friend	Social
+圈子	Friend	Social
+好友	Friend	Social
+老友	Friend	Social
+交朋友	Friend	Social
+相伴	Friend	Social
+你的朋友	Friend	Social
+队友	Friend
+打球	Health	Leisure
+体育	Health	Leisure
+武艺	Health	Leisure
+憔悴	Health
+恢复	Health
+卫生	Health
+嗷嗷	Hear	Assent
+配音	Hear	Leisure
+旋律	Hear	Leisure
+情歌	Hear	Leisure
+口气	Hear	Social
+发言	Hear	Social
+收听	Hear
+语气	Hear
+嘤嘤	Hear
+口号	Hear
+呼呼	Hear
+智者	Humans	Achieve	Social
+成功者	Humans	Achieve
+先锋	Humans	Achieve
+强者	Humans	Achieve
+孩儿	Humans	Family	Social
+小妹	Humans	Family	Social
+小儿	Humans	Family	Social
+大叔	Humans	Family	Social
+夫妇	Humans	Family	Social
+双胞胎	Humans	Family	Social
+老爷	Humans	Family	Social
+叔叔	Humans	Family	Social
+大哥	Humans	Family	Social
+小宝宝	Humans	Family	Social
+长辈	Humans	Family	Social
+大妈	Humans	Family	Social
+大姐	Humans	Family	Social
+妹子	Humans	Family	Social
+祖宗	Humans	Family
+小家伙	Humans	Family
+阿哥	Humans	Family
+哥们儿	Humans	Friend	Social
+伴娘	Humans	Friend	Social
+老乡	Humans	Friend	Social
+友人	Humans	Friend	Social
+师姐	Humans	Friend	Social
+师弟	Humans	Friend	Social
+队员	Humans	Friend	Social
+战友	Humans	Friend
+格格	Humans	Leisure	Social
+美眉	Humans	Leisure	Social
+正太	Humans	Leisure	Social
+太监	Humans	Leisure	Social
+海盗	Humans	Leisure
+小明	Humans	Leisure
+网民	Humans	Leisure
+单人	Humans	Leisure
+影迷	Humans	Leisure
+爱好者	Humans	Leisure
+木子	Humans	Leisure
+人物	Humans	Leisure
+歌迷	Humans	Leisure
+腐女	Humans	Leisure
+观众	Humans	Leisure
+佳人	Humans	Social
+外国人	Humans	Social
+国民	Humans	Social
+少爷	Humans	Social
+车主	Humans	Social
+男生	Humans	Social
+男孩	Humans	Social
+丫头	Humans	Social
+男子	Humans	Social
+游客	Humans	Social
+小姑娘	Humans	Social
+小朋友	Humans	Social
+小孩子	Humans	Social
+华人	Humans	Social
+黑人	Humans	Social
+世人	Humans	Social
+大爷	Humans	Social
+拉拉	Humans	Social
+女生	Humans	Social
+老人家	Humans	Social
+众人	Humans	Social
+光棍	Humans	Social
+大队	Humans	Social
+路人	Humans	Social
+老太太	Humans	Social
+陌生人	Humans	Social
+爷们	Humans	Social
+集体	Humans	Social
+女郎	Humans	Social
+凡人	Humans	Social
+小伙	Humans	Social
+人士	Humans	Social
+行人	Humans	Social
+师傅	Humans	Social
+过客	Humans	Social
+这样的人	Humans	Social
+正常人	Humans	Social
+对手	Humans	Social
+旅客	Humans	Social
+小鬼	Humans	Social
+公知	Humans	Social
+高富帅	Humans	Social
+人口	Humans	Social
+女士	Humans	Social
+全民	Humans	Social
+村民	Humans	Social
+乘客	Humans	Social
+女孩	Humans	Social
+老头	Humans	Social
+王子	Humans
+女孩子	Humans
+土匪	Humans
+同性	Humans
+人海	Humans
+青年	Humans
+新郎	Humans
+民族	Humans
+队伍	Humans
+公子	Humans
+下一代	Humans
+普通人	Humans
+老人	Humans
+男士	Humans
+族人	Humans
+老年人	Humans
+男女	Humans
+姑娘	Humans
+红颜	Humans
+纳税人	Humans
+国人	Humans
+老奶奶	Humans
+读者	Humans
+妞儿	Humans
+战士	Humans
+一个女孩	Humans
+另一个人	Humans
+男性	Humans
+汉子	Humans
+孕妇	Humans
+青少年	Humans
+娃娃	Humans
+草根	Humans
+异性	Humans
+当事人	Humans
+众生	Humans
+党员	Humans
+贵族	Humans
+人员	Humans
+屌丝	Humans
+男人	Humans
+奴隶	Humans
+女童	Humans
+女子	Humans
+老外	Humans
+各色	Inclusive
+星巴克	Ingest	Leisure
+饭局	Ingest	Social
+砂锅	Ingest
+调料	Ingest
+特产	Ingest
+腌制	Ingest
+菊花	Ingest
+去皮	Ingest
+油菜花	Ingest
+烧开	Ingest
+葫芦	Ingest
+自来水	Ingest
+考察	Insight	Work
+慧眼	Insight
+隐身	Leisure	Social
+微博控	Leisure	Social
+合影	Leisure	Social
+门户	Leisure	Social
+围观	Leisure	Social
+盛宴	Leisure	Social
+话题	Leisure	Social
+明信片	Leisure	Social
+私信	Leisure	Social
+组团	Leisure	Social
+网上	Leisure	Space
+商城	Leisure	Space
+景点	Leisure	Space
+园林	Leisure	Space
+后台	Leisure	Space
+少女时代	Leisure	Time
+魔法	Leisure
+中国队	Leisure
+话剧	Leisure
+奥运	Leisure
+花边	Leisure
+时装	Leisure
+美美	Leisure
+童话	Leisure
+武将	Leisure
+短片	Leisure
+冯绍峰	Leisure
+代购	Leisure
+精灵	Leisure
+宝典	Leisure
+巴神	Leisure
+妖孽	Leisure
+巨人	Leisure
+姚明	Leisure
+李刚	Leisure
+豆豆	Leisure
+主角	Leisure
+吸血鬼	Leisure
+星座	Leisure
+包裹	Leisure
+湖人	Leisure
+刘备	Leisure
+苏有朋	Leisure
+凤姐	Leisure
+晚会	Leisure
+谢霆锋	Leisure
+名牌	Leisure
+天声一队	Leisure
+男团	Leisure
+几米	Leisure
+周杰伦	Leisure
+博文	Leisure
+筒子	Leisure
+首饰	Leisure
+杜甫	Leisure
+杨幂	Leisure
+女星	Leisure
+雪人	Leisure
+剧情	Leisure
+演技	Leisure
+摇滚	Leisure
+姜楠	Leisure
+刘恺威	Leisure
+喻佳丽	Leisure
+首页	Leisure
+百度	Leisure
+金在中	Leisure
+公主	Leisure
+服饰	Leisure
+同人	Leisure
+曹植	Leisure
+人气	Leisure
+拍拍	Leisure
+高尔夫	Leisure
+插曲	Leisure
+周刊	Leisure
+阿娘使道传	Leisure
+张学友	Leisure
+炒作	Leisure
+秀秀	Leisure
+新浪网	Leisure
+豆瓣	Leisure
+巴萨	Leisure
+切尔西	Leisure
+全集	Leisure
+宫崎骏	Leisure
+胡歌	Leisure
+潮流	Leisure
+卫视	Leisure
+世界杯	Leisure
+东东	Leisure
+肿么	Leisure
+实拍	Leisure
+唱歌的	Leisure
+在线	Leisure
+郭美美	Leisure
+石化	Leisure
+志趣	Leisure
+小丸子	Leisure
+滚滚	Leisure
+爱情公寓	Leisure
+鹿晗	Leisure
+西游记	Leisure
+神器	Leisure
+收看	Leisure
+化妆品	Leisure
+京东	Leisure
+无线	Leisure
+上线	Leisure
+杨洋	Leisure
+登场	Leisure
+视频	Leisure
+书法	Leisure
+综艺	Leisure
+钟汉良	Leisure
+天涯	Leisure
+片子	Leisure
+刘忻	Leisure
+玩意	Leisure
+小牛	Leisure
+郑允浩	Leisure
+主演	Leisure
+曝光	Leisure
+阿信	Leisure
+游玩	Leisure
+电子	Leisure
+天天向上	Leisure
+排行榜	Leisure
+出演	Leisure
+陈翔天声	Leisure
+诸葛亮	Leisure
+晚报	Leisure
+明道	Leisure
+卡卡	Leisure
+海报	Leisure
+刘诗	Leisure
+李宇春	Leisure
+度假	Leisure
+流量	Leisure
+罗志祥	Leisure
+出游	Leisure
+张小娴	Leisure
+华语	Leisure
+图图	Leisure
+哈士奇	Leisure
+恐龙	Leisure
+集锦	Leisure
+李敏镐	Leisure
+积分	Leisure
+对决	Leisure
+剧中	Leisure
+头像	Leisure
+娘娘	Leisure
+卡哇伊	Leisure
+艾玛	Leisure
+悟空	Leisure
+林书豪	Leisure
+怪兽	Leisure
+微电影	Leisure
+主打	Leisure
+亮相	Leisure
+新白发魔女传	Leisure
+神龙	Leisure
+影视	Leisure
+双子	Leisure
+播出	Leisure
+刘诗诗	Leisure
+乒乓球	Leisure
+艾特	Leisure
+思密达	Leisure
+金贤重	Leisure
+魔术	Leisure
+吴奇隆	Leisure
+群星	Leisure
+康熙	Leisure
+双鱼	Leisure
+正版	Leisure
+虚拟	Leisure
+王菲	Leisure
+范儿	Leisure
+屏幕	Leisure
+娱乐圈	Leisure
+运动会	Leisure
+变形金刚	Leisure
+胡夏	Leisure
+网易	Leisure
+醉红妆	Leisure
+宫廷	Leisure
+奥特曼	Leisure
+美丽说	Leisure
+故事	Leisure
+马克	Leisure
+打牌	Leisure
+大本营	Leisure
+手气	Leisure
+北京爱情	Leisure
+柯南	Leisure
+特效	Leisure
+转盘	Leisure
+抽奖	Leisure
+玩家	Leisure
+刘翔	Leisure
+张飞	Leisure
+好戏	Leisure
+神功	Leisure
+专辑	Leisure
+窝窝	Leisure
+相声	Leisure
+球队	Leisure
+趣味	Leisure
+恐怖片	Leisure
+大侠	Leisure
+涂抹	Leisure
+围脖	Leisure
+项链	Leisure
+插画	Leisure
+林峰	Leisure
+复古	Leisure
+快手	Leisure
+字幕	Leisure
+步步	Leisure
+小乔	Leisure
+张国荣	Leisure
+陈冠希	Leisure
+小丑	Leisure
+风靡	Leisure
+心术	Leisure
+唇膏	Leisure
+三毛	Leisure
+实名制	Leisure
+论坛	Leisure
+吕布	Leisure
+竞猜	Leisure
+后宫	Leisure
+拍照	Leisure
+巡演	Leisure
+韩寒	Leisure
+预告	Leisure
+奢侈品	Leisure
+留言	Leisure
+段林希	Leisure
+布衣传说	Leisure
+大片	Leisure
+梅西	Leisure
+神曲	Leisure
+波特	Leisure
+鞭炮	Leisure
+录像	Leisure
+曼联	Leisure
+相机	Leisure
+唐嫣	Leisure
+封面	Leisure
+礼花	Leisure
+张杰	Leisure
+彩蛋	Leisure
+烟花	Leisure
+盗版	Leisure
+小号	Leisure
+珍珠	Leisure
+墨镜	Leisure
+花絮	Leisure
+仙境	Leisure
+照相机	Leisure
+变形	Leisure
+吴秀波	Leisure
+方舟	Leisure
+武侠	Leisure
+潜水	Leisure
+段子	Leisure
+贝壳	Leisure
+演唱会	Leisure
+泰坦尼克号	Leisure
+孙悟空	Leisure
+海豚	Leisure
+情节	Leisure
+乐乐	Leisure
+谢娜	Leisure
+欢欢	Leisure
+镜头	Leisure
+下联	Leisure
+转载	Leisure
+大图	Leisure
+演唱	Leisure
+一线	Leisure
+雷霆	Leisure
+圣诞老人	Leisure
+玩牌	Leisure
+问道	Leisure
+玩玩	Leisure
+库巴	Leisure
+专场	Leisure
+射手	Leisure
+合体	Leisure
+黑子	Leisure
+写真	Leisure
+李赫宰	Leisure
+龙猫	Leisure
+小品	Leisure
+艺术	Leisure
+央视	Leisure
+韩庚	Leisure
+四爷	Leisure
+喵星人	Leisure
+剑侠	Leisure
+陈奕迅	Leisure
+晒晒	Leisure
+转起	Leisure
+风筝	Leisure
+圭贤	Leisure
+刘德华	Leisure
+偷拍	Leisure
+电视剧	Leisure
+鲁迅	Leisure
+上演	Leisure
+盛典	Leisure
+步步惊心	Leisure
+水浒	Leisure
+进球	Leisure
+配角	Leisure
+李炜	Leisure
+拼图	Leisure
+苏妙玲	Leisure
+东方神起	Leisure
+气球	Leisure
+出道	Leisure
+组合	Leisure
+自爆	Leisure
+王力宏	Leisure
+彩排	Leisure
+选手	Leisure
+玩儿	Leisure
+李准	Leisure
+球迷	Leisure
+有机会赢取	Leisure
+护肤品	Leisure
+张根硕	Leisure
+电影	Leisure
+火箭	Leisure
+微信	Leisure
+新浪	Leisure
+施华洛	Leisure
+扑克	Leisure
+天猫	Leisure
+羽毛球	Leisure
+城市猎人	Leisure
+新鲜事	Leisure
+西游	Leisure
+当当	Leisure
+最炫民族风	Leisure
+像素	Leisure
+耐克	Leisure
+巨星	Leisure
+开机	Leisure
+陈翔	Leisure
+热门	Leisure
+国安	Leisure
+莫小棋	Leisure
+联赛	Leisure
+网速	Leisure
+链接	Leisure
+签名	Leisure
+宋茜	Leisure
+非诚勿扰	Leisure
+生化危机	Leisure
+武林	Leisure
+流行音乐	Leisure
+五月天	Leisure
+续集	Leisure
+洪辰	Leisure
+动画片	Leisure
+腾讯	Leisure
+画皮	Leisure
+妖怪	Leisure
+搜狐	Leisure
+主题曲	Leisure
+音乐节	Leisure
+武术	Leisure
+秘密天使	Leisure
+大奖	Leisure
+电台	Leisure
+歌手	Leisure
+火龙	Leisure
+李斯丹妮	Leisure
+数码	Leisure
+艺人	Leisure
+苏打绿	Leisure
+平板	Leisure
+科比	Leisure
+偶像	Leisure
+魏晨	Leisure
+三叶草	Leisure
+鼠标	Leisure
+嘉宾	Leisure
+照相	Leisure
+奥斯卡	Leisure
+女神	Leisure
+卸妆	Leisure
+网址	Leisure
+王栎鑫	Leisure
+头条	Leisure
+泰坦尼克	Leisure
+赵本山	Leisure
+天后	Leisure
+化妆	Leisure
+外星人	Leisure
+独家	Leisure
+享乐	Leisure
+泡泡	Leisure
+古装	Leisure
+迪士尼	Leisure
+文艺	Leisure
+明星	Leisure
+周笔畅	Leisure
+登录	Leisure
+总决赛	Leisure
+喇叭	Leisure
+热点	Leisure
+饰演	Leisure
+指甲油	Leisure
+林俊杰	Leisure
+海贼王	Leisure
+浏览器	Leisure
+横批	Leisure
+艾薇儿	Leisure
+热火	Leisure
+三宝	Leisure
+上映	Leisure
+娜娜	Leisure
+小黑	Leisure
+主场	Leisure
+耳机	Leisure
+阵容	Leisure
+收视	Leisure
+转播	Leisure
+房产	Money	Family
+富豪	Money	Humans
+富人	Money	Humans
+富翁	Money	Humans
+免费领取	Money	Leisure
+身价	Money	Leisure
+网购	Money	Leisure
+电影票	Money	Leisure
+明珠	Money	Leisure
+钻戒	Money	Leisure
+票房	Money	Leisure
+珠宝	Money	Leisure
+消费	Money	Leisure
+筹码	Money	Leisure
+钻石	Money	Leisure
+翡翠	Money	Leisure
+有奖	Money	Leisure
+财神	Money	Religion
+捐款	Money	Social
+捐助	Money	Social
+豪礼	Money	Social
+下单	Money	Work	Leisure
+全场包邮	Money	Work	Leisure
+免费试用	Money	Work	Leisure
+赞助	Money	Work	Social
+买入	Money	Work
+劳资	Money	Work
+挣钱	Money	Work
+收购	Money	Work
+财政	Money	Work
+地产	Money	Work
+中国银行	Money	Work
+上市	Money	Work
+楼盘	Money	Work
+商家	Money	Work
+售出	Money	Work
+加薪	Money	Work
+订购	Money	Work
+开盘	Money	Work
+现货	Money	Work
+出售	Money	Work
+发售	Money	Work
+成交量	Money	Work
+大盘	Money	Work
+财务	Money	Work
+建行	Money	Work
+财经	Money	Work
+融资	Money	Work
+央行	Money	Work
+订票	Money	Work
+中国经济	Money	Work
+采购	Money	Work
+船票	Money	Work
+出租	Money	Work
+年终奖	Money	Work
+涨价	Money
+返利	Money
+盈利	Money
+掏钱	Money
+收盘	Money
+500万	Money
+账号	Money
+股市	Money
+低价	Money
+利率	Money
+资金流向	Money
+油价	Money
+出手	Money
+富贵	Money
+买点	Money
+红包	Money
+宝石	Money
+卢比	Money
+特价	Money
+人民币	Money
+购票	Money
+财运	Money
+理财	Money
+A股	Money
+机票	Money
+现价	Money
+日元	Money
+财源滚滚	Money
+五分	Money
+房价	Money
+买房	Money
+股价	Money
+金额	Money
+楼市	Money
+黄金	Money
+金币	Money
+银行卡	Money
+股指	Money
+金山	Money
+资本	Money
+购房	Money
+原价	Money
+资产	Money
+运费	Money
+市场价	Money
+钱包	Money
+售价	Money
+火车票	Money
+白银	Money
+发财	Money
+罚款	Money
+买一个	Money
+支付	Money
+热销	Money
+收费	Money
+贬值	Money
+报价	Money
+热卖	Money
+抢购	Money
+银子	Money
+话费	Money
+舍弃	Motion	Affect	NegEmo
+排出	Motion	Bio
+起床	Motion	Bio
+汇合	Motion	CogMech	Inclusive
+轨迹	Motion	CogMech
+搅拌	Motion	Ingest
+穿越	Motion	Leisure
+逛逛	Motion	Leisure
+越狱	Motion	Leisure
+出场	Motion	Leisure
+下载	Motion	Leisure
+点击	Motion	Leisure
+飞扬	Motion	Percept	See
+赠送	Motion	Social
+跟我来	Motion	Social
+现身	Motion	Social
+挥手	Motion	Social
+排队	Motion	Social
+回收	Motion	Work
+推广	Motion	Work
+进口	Motion	Work
+征集	Motion	Work
+传播	Motion	Work
+拆迁	Motion	Work
+发放	Motion	Work
+输入	Motion	Work
+运行	Motion	Work
+奔腾	Motion	Work
+删掉	Motion	Work
+出动	Motion	Work
+上架	Motion	Work
+引进	Motion	Work
+摆放	Motion
+收集	Motion
+存放	Motion
+流失	Motion
+收紧	Motion
+举手	Motion
+一跳	Motion
+蔓延	Motion
+抽取	Motion
+放开	Motion
+抢走	Motion
+放大	Motion
+崛起	Motion
+偷走	Motion
+带动	Motion
+光临	Motion
+献给	Motion
+赶走	Motion
+流浪	Motion
+放手	Motion
+转换	Motion
+汇聚	Motion
+丢失	Motion
+放过	Motion
+换取	Motion
+小白	NegEmo
+红润	Percept	Health	See
+一曲	Percept	Hear	Leisure
+歌声	Percept	Hear	Leisure
+曲子	Percept	Hear	Leisure
+音符	Percept	Hear	Leisure
+雷阵雨	Percept	Hear	See
+流水	Percept	Hear	See
+鸟儿	Percept	Hear	See
+谈谈	Percept	Hear	Social
+说道	Percept	Hear	Social
+掌声	Percept	Hear	Social
+打雷	Percept	Hear
+难听	Percept	Hear
+好话	Percept	Hear
+小声	Percept	Hear
+女声	Percept	Hear
+战鼓	Percept	Hear
+调调	Percept	Hear
+对话	Percept	Hear
+听听	Percept	Hear
+铃铛	Percept	Hear
+喧嚣	Percept	Hear
+笑声	Percept	Hear
+听说	Percept	Hear
+静静	Percept	Hear
+静静地	Percept	Hear
+啪啪	Percept	Hear
+语音	Percept	Hear
+静静的	Percept	Hear
+话语	Percept	Hear
+她说	Percept	Hear
+美男	Percept	Humans	See	Social
+帅哥	Percept	Humans	See
+开水	Percept	Ingest
+一模一样	Percept	Insight
+香水	Percept	Leisure
+时尚	Percept	Leisure
+霹雳	Percept	Leisure
+芙蓉	Percept	See	Leisure
+美图	Percept	See	Leisure
+鬼脸	Percept	See	Leisure
+夜景	Percept	See	Leisure
+景观	Percept	See	Leisure
+画面	Percept	See	Leisure
+风景	Percept	See	Leisure
+造型	Percept	See	Leisure
+银河	Percept	See	Space
+界面	Percept	See	Space
+日出	Percept	See	Time
+条纹	Percept	See
+鲜花	Percept	See
+外壳	Percept	See
+视线	Percept	See
+目光	Percept	See
+月光	Percept	See
+发型	Percept	See
+竹子	Percept	See
+阴天	Percept	See
+粉色	Percept	See
+结构	Percept	See
+燃烧	Percept	See
+蓝天	Percept	See
+太阳	Percept	See
+格子	Percept	See
+晴天	Percept	See
+清水	Percept	See
+表情	Percept	See
+向日葵	Percept	See
+瞧瞧	Percept	See
+花朵	Percept	See
+线条	Percept	See
+两道彩虹	Percept	See
+尘埃	Percept	See
+风光	Percept	See
+百合	Percept	See
+花草	Percept	See
+融化	Percept	See
+梅花	Percept	See
+大树	Percept	See
+兰花	Percept	See
+长相	Percept	See
+流星雨	Percept	See
+清晰度	Percept	See
+绽放	Percept	See
+镂空	Percept	See
+灰尘	Percept	See
+白云	Percept	See
+形象	Percept	See
+大河	Percept	See
+视野	Percept	See
+玫瑰	Percept	See
+星光	Percept	See
+眼神	Percept	See
+灯光	Percept	See
+外观	Percept	See
+阵雨	Percept	See
+花花	Percept	See
+样子	Percept	See
+雨水	Percept	See
+下雪	Percept	See
+影子	Percept	See
+痕迹	Percept	See
+十字	Percept	See
+白兔	Percept	See
+彩虹	Percept	See
+尾巴	Percept	See
+大火	Percept	See
+红星	Percept	See
+卡其	Percept	See
+圈圈	Percept	See
+身影	Percept	See
+大雨	Percept	See
+夕阳	Percept	See
+模样	Percept	See
+水印	Percept	See
+风云	Percept	See
+图案	Percept	See
+小花	Percept	See
+小雨	Percept	See
+仰望	Percept	See
+光芒	Percept	See
+看着	Percept	See
+照镜子	Percept	See
+盛开	Percept	See
+见到	Percept	See
+美景	Percept	See
+星星	Percept	See
+眼看	Percept	See
+暴雨	Percept	See
+闪电	Percept	See
+多云	Percept	See
+碎片	Percept	See
+落叶	Percept	See
+樱花	Percept	See
+背影	Percept	See
+不见	Percept	See
+多看	Percept	See
+一眼	Percept	See
+孔雀	Percept	See
+曲线	Percept	See
+月亮	Percept	See
+玫瑰花	Percept	See
+流星	Percept	See
+虫子	Percept	See
+花儿	Percept	See
+长度	Percept	See
+点点	Percept	See
+小鸟	Percept	See
+明月	Percept	See
+开花	Percept	See
+桃花	Percept	See
+沙尘暴	Percept	See
+大自然	Percept	Space
+慢慢	Percept	Time
+雨天	Percept	Time
+美的	Percept	Work	See
+烟火	Percept
+漫漫	Percept
+小雪	Percept
+风骚	Percept
+高档	Percept
+纯净	Percept
+深沉	Percept
+装满	Percept
+缓缓	Percept
+奢华	Percept
+风采	Percept
+水分	Percept
+泡沫	Percept
+快捷	Percept
+迷你	Percept
+滴水	Percept
+简约	Percept
+山水	Percept
+悄然	Percept
+风雨	Percept
+蝴蝶结	Percept
+外露	Percept
+贴切	Percept
+沸腾	Percept
+海水	Percept
+溶解	Percept
+火爆	Percept
+渺小	Percept
+低调	Percept
+降水	Percept
+眼熟	Percept
+实物	Percept
+淡化	Percept
+梦幻	Percept
+饱满	Percept
+满满	Percept
+空气	Percept
+特征	Percept
+风情	Percept
+盛大	Percept
+中雨	Percept
+嘟嘟	Percept
+别致	Percept
+悠悠	Percept
+丝丝	Percept
+淡雅	Percept
+瀑布	Percept
+平底	Percept
+尺寸	Percept
+实惠	PosEmo
+创意	PosEmo
+赶紧	Relative	Affect	Anx	Time
+放下	Relative	Affect	Motion
+逃离	Relative	Affect	NegEmo	Motion
+三八	Relative	Affect	NegEmo	Time
+最坏	Relative	Affect	NegEmo
+低下	Relative	Affect	NegEmo
+上好	Relative	Affect	PosEmo
+过人	Relative	Affect	PosEmo
+早起	Relative	Bio	Health	Time
+饭堂	Relative	Bio	Ingest	Space
+怀抱	Relative	Bio	Space
+一口气	Relative	Bio	Time
+月子	Relative	Bio	Time
+依旧	Relative	Certain	Time
+第一次	Relative	CogMech	Certain	Time
+这次	Relative	CogMech	Certain	Time
+一如既往	Relative	CogMech	Certain	Time
+第二波	Relative	CogMech	Certain
+那段	Relative	CogMech	Certain
+此次	Relative	CogMech	Certain
+本次	Relative	CogMech	Certain
+强于	Relative	CogMech	Insight
+深层	Relative	CogMech	Insight
+何方	Relative	CogMech	Tentat	Space
+最新	Relative	CogMech	Time
+首选	Relative	CogMech
+最快	Relative	CogMech
+高于	Relative	CogMech
+六大	Relative	CogMech
+越发	Relative	CogMech
+特大	Relative	CogMech
+一大	Relative	CogMech
+减少	Relative	CogMech
+最低	Relative	CogMech
+战斗中	Relative	Death	Time
+逝去	Relative	Death	Time
+她家	Relative	Family	Social
+新车	Relative	Family	Social
+被窝	Relative	Family	Space
+卫生间	Relative	Family	Space
+家里	Relative	Family	Space
+家园	Relative	Family	Space
+小屋	Relative	Family	Space
+他家	Relative	Family
+古人	Relative	Humans
+无处不在	Relative	Inclusive	Space
+全市	Relative	Inclusive	Space
+遍地	Relative	Inclusive	Space
+每天都有	Relative	Inclusive	Time
+延长	Relative	Inclusive
+增添	Relative	Inclusive
+锅底	Relative	Ingest	Space
+限时	Relative	Inhibition	Time
+晋江	Relative	Leisure	Space
+好莱坞	Relative	Leisure	Space
+电影院	Relative	Leisure	Space
+金字塔	Relative	Leisure	Space
+景区	Relative	Leisure	Space
+体育馆	Relative	Leisure	Space
+小包	Relative	Leisure	Space
+故宫	Relative	Leisure	Space
+影院	Relative	Leisure	Space
+网吧	Relative	Leisure	Space
+幕后	Relative	Leisure	Space
+咖啡店	Relative	Leisure	Space
+影城	Relative	Leisure	Space
+大酒店	Relative	Leisure	Space
+长假	Relative	Leisure	Time
+电影节	Relative	Leisure	Time
+排行	Relative	Leisure
+首播	Relative	Leisure
+大洋	Relative	Money	Space
+降价	Relative	Money
+回家	Relative	Motion	Family
+走走	Relative	Motion	Health
+旅游	Relative	Motion	Leisure
+追随	Relative	Motion	Social
+上门	Relative	Motion	Social
+送给	Relative	Motion	Social
+传承	Relative	Motion	Social
+搬家	Relative	Motion	Social
+上街	Relative	Motion	Space
+推出	Relative	Motion	Work
+关掉	Relative	Motion	Work
+骑车	Relative	Motion
+升起	Relative	Motion
+回来	Relative	Motion
+向上	Relative	Motion
+收回	Relative	Motion
+到家	Relative	Motion
+前行	Relative	Motion
+退出	Relative	Motion
+归来	Relative	Motion
+展开	Relative	Motion
+丢掉	Relative	Motion
+传来	Relative	Motion
+转移	Relative	Motion
+放在	Relative	Motion
+来回	Relative	Motion
+浮现	Relative	Motion
+穿梭	Relative	Motion
+放到	Relative	Motion
+交给	Relative	Motion
+起步	Relative	Motion
+发出	Relative	Motion
+起身	Relative	Motion
+转给	Relative	Motion
+放出	Relative	Motion
+交替	Relative	Motion
+来去	Relative	Motion
+陷入	Relative	Motion
+追逐	Relative	Motion
+上前	Relative	Motion
+带走	Relative	Motion
+散发	Relative	Motion
+倒下	Relative	Motion
+释放	Relative	Motion
+打开	Relative	Motion
+跟着	Relative	Motion
+收缩	Relative	Motion
+留下来	Relative	Motion
+开启	Relative	Motion
+撒上	Relative	Motion
+过不去	Relative	Motion
+流出	Relative	Motion
+提起	Relative	Motion
+出走	Relative	Motion
+上台	Relative	Motion
+来得	Relative	Motion
+飞翔	Relative	Motion
+交通	Relative	Motion
+跟踪	Relative	Motion
+发给	Relative	Motion
+取出	Relative	Motion
+步入	Relative	Motion
+转圈	Relative	Motion
+脱落	Relative	Motion
+下楼	Relative	Motion
+赶到	Relative	Motion
+拉开	Relative	Motion
+追寻	Relative	Motion
+流传	Relative	Motion
+注入	Relative	Motion
+泄露	Relative	Motion
+扩散	Relative	Motion
+出行	Relative	Motion
+找回	Relative	Motion
+蠕动	Relative	Motion
+坐下	Relative	Motion
+碰上	Relative	Motion
+降临	Relative	Motion
+涨幅	Relative	Motion
+走人	Relative	Motion
+出国	Relative	Motion
+置于	Relative	Motion
+领取	Relative	Motion
+回国	Relative	Motion
+脱离	Relative	Motion
+降低	Relative	Motion
+扔掉	Relative	Motion
+出门	Relative	Motion
+回落	Relative	Motion
+远去	Relative	Motion
+伸手	Relative	Motion
+走开	Relative	Motion
+插入	Relative	Motion
+转转	Relative	Motion
+上涨	Relative	Motion
+上路	Relative	Motion
+回去	Relative	Motion
+移民	Relative	Motion
+回到	Relative	Motion
+传递	Relative	Motion
+避开	Relative	Motion
+前来	Relative	Motion
+转身	Relative	Motion
+落地	Relative	Motion
+走近	Relative	Motion
+离家	Relative	Motion
+路过	Relative	Motion
+跳出	Relative	Motion
+上车	Relative	Motion
+还给	Relative	Motion
+流淌	Relative	Motion
+流转	Relative	Motion
+走向	Relative	Motion
+迎来	Relative	Motion
+入住	Relative	Motion
+飞涨	Relative	Motion
+起飞	Relative	Motion
+倒入	Relative	Motion
+到手	Relative	Motion
+增速	Relative	Motion
+下跌	Relative	Motion
+还原	Relative	Motion
+切换	Relative	Motion
+碰撞	Relative	Motion
+跌倒	Relative	Motion
+通往	Relative	Motion
+下滑	Relative	Motion
+下车	Relative	Motion
+步行	Relative	Motion
+擦肩而过	Relative	Motion
+来临	Relative	Motion
+放进	Relative	Motion
+向前	Relative	Motion
+关门	Relative	Motion
+拿下	Relative	Motion
+来袭	Relative	Motion
+奔波	Relative	Motion
+回头	Relative	Motion
+过马路	Relative	Motion
+导航	Relative	Motion
+纵横	Relative	Motion
+加速	Relative	Motion
+夜空	Relative	Percept	See	Space
+眼里	Relative	Percept	See	Space
+日落	Relative	Percept	See	Time
+满月	Relative	Percept	See	Time
+新款	Relative	Percept	See
+小型	Relative	Percept	See
+眼前	Relative	Percept	Space	See	Time
+年轻	Relative	Percept	Time
+短短	Relative	Percept
+全新	Relative	Percept
+星空	Relative	See	Space
+黑夜	Relative	See	Time
+家门	Relative	Social	Family	Space
+这家	Relative	Social	Family	Space
+时空	Relative	Space	Time
+随时随地	Relative	Space	Time
+河南	Relative	Space
+侧面	Relative	Space
+新疆	Relative	Space
+厦门	Relative	Space
+公路	Relative	Space
+在家	Relative	Space
+边上	Relative	Space
+前方	Relative	Space
+常州	Relative	Space
+墙上	Relative	Space
+欧洲	Relative	Space
+马尔代夫	Relative	Space
+台湾	Relative	Space
+里加	Relative	Space
+河北	Relative	Space
+所在	Relative	Space
+青岛	Relative	Space
+格局	Relative	Space
+沈阳	Relative	Space
+社区	Relative	Space
+海上	Relative	Space
+公车	Relative	Space
+在外	Relative	Space
+车厢	Relative	Space
+贵州	Relative	Space
+香港	Relative	Space
+南宁	Relative	Space
+脚下	Relative	Space
+成都	Relative	Space
+草原	Relative	Space
+二次元	Relative	Space
+埃及	Relative	Space
+汕头	Relative	Space
+线路	Relative	Space
+石家庄	Relative	Space
+迪拜	Relative	Space
+公交	Relative	Space
+停车场	Relative	Space
+机场	Relative	Space
+天下	Relative	Space
+天上	Relative	Space
+北京市	Relative	Space
+菲律宾	Relative	Space
+西班牙	Relative	Space
+在心	Relative	Space
+全国	Relative	Space
+米兰	Relative	Space
+方向	Relative	Space
+身边	Relative	Space
+全场	Relative	Space
+北京	Relative	Space
+荷兰	Relative	Space
+地沟	Relative	Space
+窗外	Relative	Space
+城堡	Relative	Space
+远方	Relative	Space
+古城	Relative	Space
+悬崖	Relative	Space
+本土	Relative	Space
+火星	Relative	Space
+星球	Relative	Space
+满地	Relative	Space
+室外	Relative	Space
+两岸	Relative	Space
+环球	Relative	Space
+身处	Relative	Space
+太平洋	Relative	Space
+东京	Relative	Space
+东海	Relative	Space
+丽江	Relative	Space
+纽约	Relative	Space
+香格里拉	Relative	Space
+心中	Relative	Space
+海洋	Relative	Space
+车上	Relative	Space
+广东省	Relative	Space
+罗马	Relative	Space
+贵阳	Relative	Space
+阶梯	Relative	Space
+地上	Relative	Space
+地下	Relative	Space
+长春	Relative	Space
+半岛	Relative	Space
+古镇	Relative	Space
+一路	Relative	Space
+住在	Relative	Space
+西北	Relative	Space
+清远	Relative	Space
+现场	Relative	Space
+本站	Relative	Space
+意大利	Relative	Space
+澳洲	Relative	Space
+处于	Relative	Space
+希腊	Relative	Space
+市区	Relative	Space
+东莞	Relative	Space
+两边	Relative	Space
+伊朗	Relative	Space
+全世界	Relative	Space
+凤凰	Relative	Space
+深海	Relative	Space
+山西	Relative	Space
+澳门	Relative	Space
+美国	Relative	Space
+安徽	Relative	Space
+马路	Relative	Space
+原地	Relative	Space
+街上	Relative	Space
+南北	Relative	Space
+隧道	Relative	Space
+重庆	Relative	Space
+天津	Relative	Space
+大桥	Relative	Space
+大街	Relative	Space
+列车	Relative	Space
+温州	Relative	Space
+大城市	Relative	Space
+世间	Relative	Space
+境内	Relative	Space
+碉堡	Relative	Space
+首都	Relative	Space
+深圳	Relative	Space
+宁波	Relative	Space
+西湖	Relative	Space
+高楼	Relative	Space
+路途	Relative	Space
+印尼	Relative	Space
+周边	Relative	Space
+外界	Relative	Space
+会上	Relative	Space
+浦东	Relative	Space
+瑞士	Relative	Space
+公交车	Relative	Space
+火车	Relative	Space
+水面	Relative	Space
+广场	Relative	Space
+长沙	Relative	Space
+位于	Relative	Space
+右下	Relative	Space
+大连	Relative	Space
+长江	Relative	Space
+山路	Relative	Space
+我国	Relative	Space
+山东	Relative	Space
+墙角	Relative	Space
+澳大利亚	Relative	Space
+江南	Relative	Space
+地带	Relative	Space
+威尼斯	Relative	Space
+身旁	Relative	Space
+桌面	Relative	Space
+鼓浪屿	Relative	Space
+浙江	Relative	Space
+广东	Relative	Space
+珠海	Relative	Space
+瑞典	Relative	Space
+场上	Relative	Space
+手上	Relative	Space
+外国	Relative	Space
+随身	Relative	Space
+邮轮	Relative	Space
+拉萨	Relative	Space
+南京	Relative	Space
+非洲	Relative	Space
+英伦	Relative	Space
+大海	Relative	Space
+越南	Relative	Space
+郑州	Relative	Space
+江湖	Relative	Space
+福建	Relative	Space
+国内	Relative	Space
+三亚	Relative	Space
+雪山	Relative	Space
+山上	Relative	Space
+济南	Relative	Space
+世上	Relative	Space
+手里	Relative	Space
+武汉	Relative	Space
+高原	Relative	Space
+盘中	Relative	Space
+处在	Relative	Space
+新城	Relative	Space
+怀里	Relative	Space
+包头	Relative	Space
+路上	Relative	Space
+飞机	Relative	Space
+中山	Relative	Space
+面对	Relative	Space
+车站	Relative	Space
+伦敦	Relative	Space
+海外	Relative	Space
+英格兰	Relative	Space
+广西	Relative	Space
+大道	Relative	Space
+民间	Relative	Space
+福州	Relative	Space
+欧美	Relative	Space
+故乡	Relative	Space
+路边	Relative	Space
+国外	Relative	Space
+地儿	Relative	Space
+小镇	Relative	Space
+南海	Relative	Space
+加拿大	Relative	Space
+门口	Relative	Space
+内外	Relative	Space
+新加坡	Relative	Space
+家门口	Relative	Space
+部落	Relative	Space
+苏州	Relative	Space
+火车站	Relative	Space
+经度 	Relative	Space
+地铁站	Relative	Space
+上海	Relative	Space
+户外	Relative	Space
+上海市	Relative	Space
+树上	Relative	Space
+哈尔滨	Relative	Space
+葡萄牙	Relative	Space
+海底	Relative	Space
+西部	Relative	Space
+田园	Relative	Space
+大地	Relative	Space
+兰州	Relative	Space
+水上	Relative	Space
+德国	Relative	Space
+水中	Relative	Space
+陕西	Relative	Space
+无锡	Relative	Space
+泉州	Relative	Space
+广州市	Relative	Space
+英国	Relative	Space
+长城	Relative	Space
+农村	Relative	Space
+门前	Relative	Space
+大国	Relative	Space
+辽宁	Relative	Space
+监狱	Relative	Space
+两侧	Relative	Space
+西南	Relative	Space
+新西兰	Relative	Space
+北美	Relative	Space
+泰州	Relative	Space
+海岸	Relative	Space
+江西	Relative	Space
+场合	Relative	Space
+在手	Relative	Space
+唐山	Relative	Space
+超市	Relative	Space
+惠州	Relative	Space
+家中	Relative	Space
+金陵	Relative	Space
+路段	Relative	Space
+在我身边	Relative	Space
+各国	Relative	Space
+宁夏	Relative	Space
+目的地	Relative	Space
+桌上	Relative	Space
+佛山	Relative	Space
+云南	Relative	Space
+东北	Relative	Space
+中都	Relative	Space
+山顶	Relative	Space
+中国	Relative	Space
+操场	Relative	Space
+墙面	Relative	Space
+海南	Relative	Space
+最深	Relative	Space
+途中	Relative	Space
+桂林	Relative	Space
+外地	Relative	Space
+地道	Relative	Space
+巴西	Relative	Space
+店里	Relative	Space
+红河	Relative	Space
+杭州	Relative	Space
+苏联	Relative	Space
+四川	Relative	Space
+动物园	Relative	Space
+长安	Relative	Space
+湖北	Relative	Space
+钓鱼岛	Relative	Space
+国度	Relative	Space
+内地	Relative	Space
+亚洲	Relative	Space
+沿途	Relative	Space
+合肥	Relative	Space
+雪地	Relative	Space
+大巴	Relative	Space
+南昌	Relative	Space
+彼岸	Relative	Space
+身后	Relative	Space
+面前	Relative	Space
+山寨	Relative	Space
+泰国	Relative	Space
+江苏	Relative	Space
+昆明	Relative	Space
+球场	Relative	Space
+沙漠	Relative	Space
+台北	Relative	Space
+湖南	Relative	Space
+巴士	Relative	Space
+天地	Relative	Space
+中华	Relative	Space
+日本	Relative	Space
+地铁	Relative	Space
+沙滩	Relative	Space
+广州	Relative	Space
+街头	Relative	Space
+韩国	Relative	Space
+地球	Relative	Space
+大陆	Relative	Space
+面向	Relative	Space
+俄罗斯	Relative	Space
+小岛	Relative	Space
+巴黎	Relative	Space
+西安	Relative	Space
+异地	Relative	Space
+高峰	Relative	Space
+隔壁	Relative	Space
+法国	Relative	Space
+一旁	Relative	Space
+德州	Relative	Space
+丛中	Relative	Space
+以内	Relative	Space
+书店	Relative	Space
+屋里	Relative	Space
+扬州	Relative	Space
+出租车	Relative	Space
+地盘	Relative	Space
+德克萨斯	Relative	Space
+窗口	Relative	Space
+楼下	Relative	Space
+路口	Relative	Space
+派出所	Relative	Space
+朝鲜	Relative	Space
+出头	Relative	Tentat
+六一	Relative	Time
+初三	Relative	Time
+终究	Relative	Time
+往事	Relative	Time
+下周	Relative	Time
+千年	Relative	Time
+晚上	Relative	Time
+三年	Relative	Time
+冬至	Relative	Time
+这时候	Relative	Time
+短期	Relative	Time
+有天	Relative	Time
+清明	Relative	Time
+时而	Relative	Time
+那天	Relative	Time
+准时	Relative	Time
+期末	Relative	Time
+年后	Relative	Time
+全天	Relative	Time
+半天	Relative	Time
+昼夜	Relative	Time
+现已	Relative	Time
+下雨天	Relative	Time
+上半年	Relative	Time
+酒后	Relative	Time
+事先	Relative	Time
+七日	Relative	Time
+元宵	Relative	Time
+时段	Relative	Time
+会儿	Relative	Time
+年前	Relative	Time
+周期	Relative	Time
+当日	Relative	Time
+年初	Relative	Time
+暑期	Relative	Time
+通宵	Relative	Time
+下辈子	Relative	Time
+原始	Relative	Time
+一代	Relative	Time
+年华	Relative	Time
+一会	Relative	Time
+半年	Relative	Time
+赛季	Relative	Time
+纪念日	Relative	Time
+黄昏	Relative	Time
+那年	Relative	Time
+初步	Relative	Time
+第三季	Relative	Time
+青春期	Relative	Time
+优先	Relative	Time
+延缓	Relative	Time
+文革	Relative	Time
+时代	Relative	Time
+午夜	Relative	Time
+事后	Relative	Time
+本周	Relative	Time
+流年	Relative	Time
+首届	Relative	Time
+一生一世	Relative	Time
+冬日	Relative	Time
+即时	Relative	Time
+历程	Relative	Time
+辈子	Relative	Time
+春运	Relative	Time
+三国	Relative	Time
+年年	Relative	Time
+全程	Relative	Time
+年终	Relative	Time
+当今	Relative	Time
+妇女节	Relative	Time
+年纪	Relative	Time
+年度	Relative	Time
+早就	Relative	Time
+定期	Relative	Time
+夜里	Relative	Time
+有空	Relative	Time
+年龄	Relative	Time
+终身	Relative	Time
+一瞬间	Relative	Time
+一整天	Relative	Time
+大半夜	Relative	Time
+多年	Relative	Time
+儿童节	Relative	Time
+时节	Relative	Time
+一阵子	Relative	Time
+寒冬	Relative	Time
+下半年	Relative	Time
+此前	Relative	Time
+新年	Relative	Time
+此生	Relative	Time
+每日	Relative	Time
+好久	Relative	Time
+光阴	Relative	Time
+初夏	Relative	Time
+一期	Relative	Time
+夜间	Relative	Time
+很早	Relative	Time
+上周	Relative	Time
+昨晚	Relative	Time
+三点	Relative	Time
+早期	Relative	Time
+过节	Relative	Time
+抽空	Relative	Time
+每月	Relative	Time
+愚人节	Relative	Time
+年内	Relative	Time
+年头	Relative	Time
+时期	Relative	Time
+明早	Relative	Time
+大清早	Relative	Time
+一早	Relative	Time
+每晚	Relative	Time
+凌晨	Relative	Time
+首次	Relative	Time
+早早	Relative	Time
+抢先	Relative	Time
+元宵节	Relative	Time
+五一	Relative	Time
+时有	Relative	Time
+快快	Relative	Time
+最早	Relative	Time
+今夏	Relative	Time
+春夏	Relative	Time
+交易日	Relative	Time
+月月	Relative	Time
+现状	Relative	Time
+春秋	Relative	Time
+饭后	Relative	Time
+想当年	Relative	Time
+日夜	Relative	Time
+圣诞	Relative	Time
+深夜	Relative	Time
+上次	Relative	Time
+一夏	Relative	Time
+早晨	Relative	Time
+早晚	Relative	Time
+新春	Relative	Time
+之际	Relative	Time
+上辈子	Relative	Time
+许久	Relative	Time
+很快	Relative	Time
+一秒	Relative	Time
+饭前	Relative	Time
+一度	Relative	Time
+好日子	Relative	Time
+年底	Relative	Time
+情人节	Relative	Time
+一大早	Relative	Time
+提前	Relative	Time
+农历	Relative	Time
+夏日	Relative	Time
+本月	Relative	Time
+本期	Relative	Time
+定时	Relative	Time
+时不时	Relative	Time
+到时候	Relative	Time
+三个月	Relative	Time
+八点	Relative	Time
+婚后	Relative	Time
+久久	Relative	Time
+星期天	Relative	Time
+四点	Relative	Time
+中秋	Relative	Time
+永远的	Relative	Time
+一刻	Relative	Time
+星期	Relative	Time
+几十年	Relative	Time
+年代	Relative	Time
+很多年	Relative	Time
+自古	Relative	Time
+龙年	Relative	Time
+儿时	Relative	Time
+时光	Relative	Time
+初一	Relative	Time
+明儿	Relative	Time
+明晚	Relative	Time
+始终	Relative	Time
+多久	Relative	Time
+小时候	Relative	Time
+人生	Relative	Time
+今儿	Relative	Time
+半生	Relative	Time
+早上	Relative	Time
+晚间	Relative	Time
+天亮	Relative	Time
+盛夏	Relative	Time
+过后	Relative	Time
+新一代	Relative	Time
+没空	Relative	Time
+节假日	Relative	Time
+一阵	Relative	Time
+端午	Relative	Time
+完毕	Relative	Time
+四季	Relative	Time
+大年	Relative	Time
+周年	Relative	Time
+生日	Relative	Time
+时间	Relative	Time
+每周	Relative	Time
+前期	Relative	Time
+时刻	Relative	Time
+晚点	Relative	Time
+过冬	Relative	Time
+岁月	Relative	Time
+得闲	Relative	Time
+秋冬	Relative	Time
+这天	Relative	Time
+整天	Relative	Time
+今生	Relative	Time
+预定	Relative	Time
+一生	Relative	Time
+倒计时	Relative	Time
+国庆	Relative	Time
+下次	Relative	Time
+到时	Relative	Time
+此时此刻	Relative	Time
+日日	Relative	Time
+最后一天	Relative	Time
+周岁	Relative	Time
+哈佛	Relative	Work	Space
+考场	Relative	Work	Space
+营业厅	Relative	Work	Space
+北大	Relative	Work	Space
+建筑	Relative	Work	Space
+国贸	Relative	Work	Space
+公安局	Relative	Work	Space
+清华	Relative	Work	Space
+布局	Relative	Work	Space
+母校	Relative	Work	Space
+初中	Relative	Work	Time
+初二	Relative	Work	Time
+高三	Relative	Work	Time
+放学	Relative	Work	Time
+中学	Relative	Work	Time
+年会	Relative	Work	Time
+中级	Relative	Work
+同比增长	Relative	Work
+在一个	Relative
+留守	Relative
+过渡	Relative
+小小的	Relative
+后者	Relative
+路线	Relative
+火速	Relative
+暂停	Relative
+增高	Relative
+加快	Relative
+深深	Relative
+第一波	Relative
+同比	Relative
+新版	Relative
+首发	Relative
+减轻	Relative
+打底	Relative
+海拔	Relative
+倒数	Relative
+高达	Relative
+新增	Relative
+新型	Relative
+对比	Relative
+比例	Relative
+大半	Relative
+下调	Relative
+二手	Relative
+增减	Relative
+到位	Relative
+一层	Relative
+缩小	Relative
+现有	Relative
+对外	Relative
+更重要	Relative
+第十二	Relative
+第十一	Relative
+增强	Relative
+加厚	Relative
+终极	Relative
+一方	Relative
+尺度	Relative
+八大	Relative
+铁路	Relative
+咒语	Religion	Leisure
+妖精	Religion	Leisure
+复活	Religion	Leisure
+仙女	Religion	Leisure
+神话	Religion	Leisure
+唐僧	Religion	Leisure
+神仙	Religion	Leisure
+魔力	Religion	Leisure
+莲花	Religion	Percept	See
+上天	Religion
+观音	Religion
+教主	Religion
+仙子	Religion
+重生	Religion
+圣诞树	Religion
+阿拉	Religion
+如来	Religion
+观世音菩萨	Religion
+和尚	Religion
+佛像	Religion
+风水	Religion
+宿命	Religion
+阿弥陀佛	Religion
+佛祖	Religion
+老天	Religion
+美女	See	Humans	Social
+款式	See	Leisure
+色系	See	Percept
+妖娆	See	Percept
+形态	See	Percept
+丰满	See	Percept
+视觉	See	Percept
+妆容	See	Percept
+亮丽	See	Percept
+色调	See	Percept
+绚丽	See	Percept
+直视	See	Percept
+容貌	See	Percept
+外形	See	Percept
+花色	See	Percept
+五彩	See	Percept
+立体	See	Percept
+璀璨	See	Percept
+飘逸	See	Percept
+金色	See	Percept
+靓丽	See	Percept
+回眸	See	Percept
+色泽	See	Percept
+纯色	See	Percept
+超大	See	Percept
+繁华	See	Percept
+花纹	See	Percept
+清澈	See	Percept
+洁白	See	Percept
+大大的	See	Percept
+缤纷	See	Percept
+明媚	See	Percept
+标志	See	Percept
+透明	See	Percept
+美貌	See	Percept
+好看	See	Percept
+美感	See	Percept
+隐形	See	Percept
+茫茫	See	Percept
+看得见	See	Percept
+抢眼	See	Percept
+光泽	See	Percept
+银色	See	Percept
+美观	See	Percept
+看不到	See	Percept
+配色	See	Percept
+米色	See	Percept
+妖艳	See	Percept
+观赏	See	Percept
+细细	See	Percept
+黑白	See	Percept
+闪闪	See	Percept
+大红	See	Percept
+七彩	See	Percept
+透视	See	Percept
+红灯	See	Percept
+大小	See	Percept
+变色	See	Percept
+眼光	See	Percept
+下雨	See
+花瓣	See
+花样	See
+姿态	See
+爱爱	Sexual
+我等	Social	Humans	Inclusive
+一同	Social	Inclusive
+自称	Social
+见证	Social
+平等	Social
+来电	Social
+开门	Social
+称号	Social
+接待	Social
+捧场	Social
+普通话	Social
+敬礼	Social
+礼物	Social
+做客	Social
+请客	Social
+贺电	Social
+礼品	Social
+简称	Social
+攀比	Social
+贵宾	Social
+打发	Social
+背景	Social
+舆论	Social
+辟谣	Social
+为人民	Social
+称呼	Social
+打人	Social
+挽留	Social
+相逢	Social
+飞吻	Social
+帮帮	Social
+表态	Social
+收养	Social
+干杯	Social
+融入	Social
+沟通	Social
+您好	Social
+民主	Social
+当众	Social
+号称	Social
+救救	Social
+告别	Social
+单身	Social
+拜拜	Social
+架子	Social
+拜托	Social
+获赠	Social
+情景	Social
+联系方式	Social
+兑现	Social
+人际关系	Social
+和我	Social
+互联	Social
+请问	Social
+改名	Social
+告白	Social
+礼盒	Social
+世界观	Social
+早安	Social
+你好	Social
+人情	Social
+偶遇	Social
+保重	Social
+调侃	Social
+相处	Social
+送礼	Social
+敬请	Social
+放电	Social
+鞠躬	Social
+人缘	Social
+求助	Social
+世俗	Social
+表白	Social
+面子	Social
+握手	Social
+实名	Social
+口头禅	Social
+聊聊	Social
+生活态度	Social
+相投	Social
+等候	Social
+处世	Social
+晚安	Social
+应对	Social
+缘分	Social
+打扮	Social
+私人	Social
+你老	Social
+礼仪	Social
+呼吁	Social
+坐坐	Social
+相聚	Social
+点头	Social
+笑笑	Social
+赐予	Social
+做人	Social
+吹牛	Social
+共度	Social
+拜年	Social
+昵称	Social
+倾诉	Social
+内向	Social
+观望	Social
+介入	Social
+邂逅	Social
+问候	Social
+离别	Social
+报警	Social
+文明	Social
+追求	Social
+相见	Social
+人和	Social
+伺候	Social
+不争	Social
+一呼百应	Social
+迎接	Social
+氛围	Social
+援助	Social
+答道	Social
+我们的生活	Social
+结交	Social
+名义	Social
+预祝	Social
+待人	Social
+不说	Social
+救助	Social
+酬谢	Social
+口语	Social
+招呼	Social
+眼中	Space
+宾馆	Space
+心上	Space
+森林	Space
+出路	Space
+德化	Space
+大厦	Space
+心头	Space
+场面	Space
+江山	Space
+天都	Space
+博里	Space
+祖国	Space
+定位	Space
+谁家	Tentat	Family	Social
+突发	Time
+母亲节	Time
+一念	Time
+卓越	Work	Achieve	Leisure
+颁奖	Work	Achieve	Leisure
+前途	Work	Achieve
+杰作	Work	Achieve
+首席	Work	Achieve
+革命	Work	Achieve
+创始人	Work	Achieve
+保姆	Work	Family
+师妹	Work	Humans	Friend	Social
+画家	Work	Humans	Leisure
+运动员	Work	Humans	Leisure
+诗人	Work	Humans	Leisure
+代言人	Work	Humans	Leisure
+农民工	Work	Humans	Social
+小学生	Work	Humans	Social
+小组	Work	Humans	Social
+官员	Work	Humans
+人大代表	Work	Humans
+创业者	Work	Humans
+司机	Work	Humans
+研究生	Work	Humans
+作家	Work	Humans
+投资者	Work	Humans
+军人	Work	Humans
+业主	Work	Humans
+职工	Work	Humans
+掌柜	Work	Humans
+农夫	Work	Humans
+管理者	Work	Humans
+民警	Work	Humans
+大使	Work	Humans
+老板娘	Work	Humans
+导游	Work	Humans
+船长	Work	Humans
+工程师	Work	Humans
+农民	Work	Humans
+空姐	Work	Humans
+厂商	Work	Humans
+厨师	Work	Humans
+设计师	Work	Humans
+新手	Work	Humans
+学子	Work	Humans
+海军	Work	Humans
+民工	Work	Humans
+评委	Work	Humans
+留学生	Work	Humans
+发言人	Work	Humans
+科学家	Work	Humans
+积累	Work	Inclusive
+卷子	Work	Ingest
+蒙牛	Work	Ingest
+见面会	Work	Leisure	Social
+争霸	Work	Leisure	Social
+充电	Work	Leisure
+摄影	Work	Leisure
+新闻	Work	Leisure
+索尼	Work	Leisure
+媒体	Work	Leisure
+潜伏	Work	Leisure
+开幕	Work	Leisure
+机器人	Work	Leisure
+台词	Work	Leisure
+百科	Work	Leisure
+放假	Work	Leisure
+栏目	Work	Leisure
+安卓	Work	Leisure
+专柜	Work	Leisure
+诺基亚	Work	Leisure
+文章	Work	Leisure
+信号	Work	Leisure
+上网	Work	Leisure
+主力	Work	Leisure
+纪录片	Work	Leisure
+代言	Work	Leisure
+互联网	Work	Leisure
+球员	Work	Leisure
+电信	Work	Leisure
+访谈	Work	Leisure
+话筒	Work	Leisure
+日报	Work	Leisure
+摄像头	Work	Leisure
+计算机	Work	Leisure
+婚庆	Work	Leisure
+直播	Work	Leisure
+塑造	Work	Leisure
+改编	Work	Leisure
+中国移动	Work	Leisure
+法师	Work	Leisure
+发布会	Work	Leisure
+模特	Work	Leisure
+人民日报	Work	Leisure
+大赛	Work	Leisure
+装备	Work	Leisure
+天气预报	Work	Leisure
+道具	Work	Leisure
+网站	Work	Leisure
+主页	Work	Leisure
+牌子	Work	Leisure
+图书	Work	Leisure
+热线	Work	Leisure
+艺术家	Work	Leisure
+资讯	Work	Leisure
+主持人	Work	Leisure
+激活	Work	Leisure
+网页	Work	Leisure
+万达	Work	Leisure
+拍戏	Work	Leisure
+拍到	Work	Leisure
+联播	Work	Leisure
+收藏	Work	Leisure
+配图	Work	Leisure
+苏宁	Work	Leisure
+录制	Work	Leisure
+组队	Work	Leisure
+摄影师	Work	Leisure
+得分	Work	Leisure
+开幕式	Work	Leisure
+单反	Work	Leisure
+聚焦	Work	Leisure
+记者	Work	Leisure
+旗下	Work	Leisure
+宽带	Work	Leisure
+电视台	Work	Leisure
+刷新	Work	Leisure
+播报	Work	Leisure
+页面	Work	Leisure
+画画	Work	Leisure
+软件	Work	Leisure
+编剧	Work	Leisure
+采访	Work	Leisure
+新作	Work	Leisure
+专访	Work	Leisure
+谷歌	Work	Leisure
+剧组	Work	Leisure
+排练	Work	Leisure
+开场	Work	Leisure
+绣花	Work	Leisure
+传媒	Work	Leisure
+回访	Work	Social
+名片	Work	Social
+选举	Work	Social
+授权	Work	Social
+通讯录	Work	Social
+处事	Work	Social
+发布	Work	Social
+共享	Work	Social
+维权	Work	Social
+问答	Work	Social
+联手	Work	Social
+光顾	Work	Social
+示范	Work	Social
+宣言	Work	Social
+公告	Work	Social
+词汇	Work	Social
+推荐	Work	Social
+募集	Work	Social
+公关	Work	Social
+请教	Work	Social
+基地	Work	Space
+专卖店	Work	Space
+课堂	Work	Space
+法院	Work	Space
+板块	Work	Space
+店铺	Work	Space
+书记	Work
+建造	Work
+品牌	Work
+冲锋	Work
+用途	Work
+报到	Work
+驾照	Work
+设立	Work
+做做	Work
+开工	Work
+商务	Work
+产品	Work
+案件	Work
+人事	Work
+落实	Work
+制成	Work
+修复	Work
+岗位	Work
+就业	Work
+占据	Work
+读书	Work
+正式	Work
+加工	Work
+做出	Work
+配合	Work
+留学	Work
+总理	Work
+坦克	Work
+求职	Work
+服务员	Work
+开张	Work
+认证	Work
+法制	Work
+电子商务	Work
+校长	Work
+机关	Work
+定制	Work
+高考	Work
+流程	Work
+起诉	Work
+部长	Work
+研究中心	Work
+实施	Work
+上学	Work
+报道	Work
+总部	Work
+查看	Work
+志愿者	Work
+加水	Work
+调控	Work
+冷藏	Work
+人大	Work
+搜罗	Work
+芯片	Work
+体制	Work
+名单	Work
+一中	Work
+打印	Work
+扫地	Work
+指标	Work
+锁定	Work
+航班	Work
+劫匪	Work
+万科	Work
+洗涤	Work
+机型	Work
+防治	Work
+好书	Work
+拨打	Work
+文科	Work
+英文	Work
+能源	Work
+订单	Work
+百货	Work
+机器	Work
+自习	Work
+针织	Work
+版权	Work
+保安	Work
+券商	Work
+担任	Work
+拼搏	Work
+智能	Work
+总裁	Work
+名额	Work
+店主	Work
+夜班	Work
+开学	Work
+邮件	Work
+一汽	Work
+笔记本	Work
+标准	Work
+军事	Work
+机制	Work
+报名	Work
+装修	Work
+老总	Work
+检测	Work
+选用	Work
+打造	Work
+数据	Work
+卧底	Work
+商品	Work
+强生	Work
+依法	Work
+下班	Work
+会长	Work
+用于	Work
+使命	Work
+外语	Work
+秩序	Work
+考生	Work
+号码	Work
+强化	Work
+下属	Work
+总经理	Work
+转化	Work
+请假	Work
+企业家	Work
+成立	Work
+指数	Work
+实习	Work
+司法	Work
+档案	Work
+发展	Work
+卖家	Work
+新东方	Work
+成品	Work
+华为	Work
+批准	Work
+铁道部	Work
+新建	Work
+人文	Work
+文字	Work
+满分	Work
+上班	Work
+手段	Work
+事项	Work
+正品	Work
+高校	Work
+体系	Work
+配置	Work
+打工	Work
+及格	Work
+单位	Work
+生物	Work
+按键	Work
+语文	Work
+数据显示	Work
+停电	Work
+业绩	Work
+本科	Work
+标识	Work
+英语	Work
+检讨	Work
+招聘	Work
+标准型	Work
+丰田	Work
+求解	Work
+消防	Work
+中文	Work
+作品	Work
+立案	Work
+催眠	Work
+城管	Work
+题材	Work
+追究	Work
+项目	Work
+转型	Work
+刺绣	Work
+办事	Work
+航天	Work
+主营	Work
+研发	Work
+评论家	Work
+经济学	Work
+模式	Work
+开通	Work
+渠道	Work
+统计	Work
+监控	Work
+教材	Work
+大会	Work
+举报	Work
+厂家	Work
+总局	Work
+人手	Work
+干活	Work
+手法	Work
+推销	Work
+文学	Work
+裁判	Work
+中考	Work
+单词	Work
+录取	Work
+规模	Work
+职位	Work
+国企	Work
+销量	Work
+开发	Work
+领导人	Work
+建成	Work
+上班族	Work
+原创	Work
+国务院	Work
+预订	Work
+预约	Work
+救援	Work
+市委	Work
+航空	Work
+班主任	Work
+标题	Work
+刷刷	Work
+写字	Work
+预警	Work
+电梯	Work
+物理	Work
+配方	Work
+干部	Work
+签约	Work
+主题	Work
+部队	Work
+修改	Work
+教程	Work
+要学习	Work
+总监	Work
+设置	Work
+拍出	Work
+写下	Work
+素材	Work
+汽油	Work
+个股	Work
+科普	Work
+官方	Work
+地理	Work
+日语	Work
+交警	Work
+速递	Work
+教学	Work
+措施	Work
+文件	Work
+调研	Work
+评选	Work
+人工	Work
+树立	Work
+句子	Work
+汉字	Work
+运营商	Work
+开业	Work
+工具	Work
+擦洗	Work
+关键词	Work
+办公	Work
+军团	Work
+公布	Work
+整理	Work
+环节	Work
+主办方	Work
+晋级	Work
+列表	Work
+出品	Work
+步骤	Work
+恒大	Work
+上访	Work
+退换	Work
+挖掘	Work
+施工	Work
+材料	Work
+硬盘	Work
+承载	Work
+发动机	Work
+文档	Work
+权益	Work
+买家	Work
+外贸	Work
+编织	Work
+故障	Work
+盘点	Work
+做旧	Work
+法治	Work
+过程	Work
+科技	Work
+本子	Work
+电力	Work
+学好	Work
+电动	Work
+产业	Work
+下手	Work
+净化	Work
+值班	Work
+办理	Work
+两会	Work
+军训	Work
+浸泡	Work
+雷达	Work
+有限公司	Work
+公务员	Work
+清仓	Work
+物流	Work
+设备	Work
+用户	Work
+常识	Work
+营业	Work
+问卷	Work
+举办	Work
+全文	Work
+学学	Work
+班长	Work
+开发商	Work
+发货	Work
+咨询	Work
+维修	Work
+例子	Work
+工程	Work
+记载	Work
+原文	Work
+理科	Work
+书包	Work
+制定	Work
+三星	Work
+写作	Work
+微软	Work
+合同	Work
+制服	Work
+创业	Work
+行情	Work
+剪辑	Work
+兼职	Work
+行政	Work
+学问	Work
+模型	Work
+会计	Work
+四级	Work
+理工	Work
+自动	Work
+石油	Work
+代理	Work
+书写	Work
+运营	Work
+模板	Work
+出差	Work
+配件	Work
+占领	Work
+改装	Work
+股份有限公司	Work
+没收	Work
+队长	Work
+功能	Work
+营销	Work
+哲学	Work
+公益	Work
+机械	Work
+新人	Work
+出台	Work
+白领	Work
+发改委	Work
+建设	Work
+点名	Work
+物业	Work
+版本	Work
+旗舰	Work
+培训	Work
+设施	Work
+方法	Work
+投稿	Work
+简介	Work
+成交	Work
+化学	Work
+手工	Work
+签到	Work
+补课	Work
+本书	Work
+评级	Work
+系统	Work
+指点	Work
+事业	Work
+解说	Work
+题目	Work
+共产党	Work
+防范	Work
+制度	Work
+考上	Work
+当官	Work
+合成	Work
+抵挡	Work
+做事	Work
+营造	Work
+房地产	Work
+型号	Work
+改革	Work
+联合国	Work
+逃课	Work
+剪裁	Work
+加点	Work
+收纳	Work
+案例	Work
+执法	Work
+做工	Work
+招生	Work
+笔记	Work
+滤镜	Work
+四大	Work
+指南	Work
+作者	Work
+投票	Work
+学历	Work
+资料	Work
+作文	Work
+职责	Work
+下课	Work
+临时工	Work
+稀释	Work
+农业	Work
+上市公司	Work
+性能	Work

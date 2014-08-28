@@ -1,0 +1,264 @@
+%【说明】本文件内的词语为：CLIWC中包含的所有通配符，未作增改。
+赢*	Achieve
+奖*	Affect	Achieve	PosEmo
+赞*	Affect	Achieve	PosEmo
+愁*	Affect	Anx	NegEmo	Sad
+慌*	Affect	Anx	NegEmo
+惶*	Affect	Anx	NegEmo
+愧*	Affect	Anx	NegEmo
+忐忑*	Affect	Anx	NegEmo
+危*	Affect	Anx	NegEmo
+吓*	Affect	Anx	NegEmo
+羞*	Affect	Anx	NegEmo
+疑*	Affect	Anx	NegEmo
+忧*	Affect	Anx	NegEmo	Sad
+困*	Affect	Inhibition	Anx	NegEmo	CogMech
+哀*	Affect	NegEmo	Sad
+懊*	Affect	NegEmo	Sad
+悲*	Affect	NegEmo	Sad
+孤*	Affect	NegEmo	Sad
+悔*	Affect	NegEmo	Sad
+寂*	Affect	NegEmo	Sad
+哭*	Affect	NegEmo	Sad
+郁*	Affect	NegEmo	Sad
+笨*	Affect	NegEmo
+惨*	Affect	NegEmo
+嘲*	Affect	NegEmo
+迟疑*	Affect	NegEmo
+丑*	Affect	NegEmo
+呆*	Affect	NegEmo
+毒*	Affect	NegEmo
+疯*	Affect	NegEmo
+腐*	Affect	NegEmo
+坏*	Affect	NegEmo
+毁*	Affect	NegEmo
+昏*	Affect	NegEmo
+祸*	Affect	NegEmo
+讥*	Affect	NegEmo
+艰*	Affect	NegEmo
+贱*	Affect	NegEmo
+僵*	Affect	NegEmo
+劣*	Affect	NegEmo
+懦*	Affect	NegEmo
+疲*	Affect	NegEmo
+贫*	Affect	NegEmo
+窃*	Affect	NegEmo
+缺*	Affect	NegEmo
+瘸*	Affect	NegEmo
+忍*	Affect	NegEmo
+丧*	Affect	NegEmo
+伤*	Affect	NegEmo
+衰*	Affect	NegEmo
+死*	Affect	NegEmo
+损*	Affect	NegEmo
+贪*	Affect	NegEmo
+违*	Affect	NegEmo
+凶*	Affect	NegEmo
+厌*	Affect	NegEmo
+灾*	Affect	NegEmo
+脏*	Affect	NegEmo
+糟*	Affect	NegEmo
+贼*	Affect	NegEmo
+窒*	Affect	NegEmo
+罪*	Affect	NegEmo
+欢*	Affect	PosEmo
+佳*	Affect	PosEmo
+乐*	Affect	PosEmo
+良*	Affect	PosEmo
+美梦*	Affect	PosEmo
+仁*	Affect	PosEmo
+爽*	Affect	PosEmo
+恬*	Affect	PosEmo
+甜*	Affect	PosEmo
+嘻*	Affect	PosEmo
+喜*	Affect	PosEmo
+欣*	Affect	PosEmo
+友*	Affect	PosEmo
+愉*	Affect	PosEmo
+挚*	Affect	PosEmo
+惊*	Affect
+叹*	Affect
+无能*	Affect
+鄙*	Anger	Affect	NegEmo
+仇*	Anger	Affect	NegEmo
+蠢*	Anger	Affect	NegEmo
+敌*	Anger	Affect	NegEmo
+恶*	Anger	Affect	NegEmo
+烦*	Anger	Affect	NegEmo
+愤*	Anger	Affect	NegEmo
+恨*	Anger	Affect	NegEmo
+嫉*	Anger	Affect	NegEmo
+恼*	Anger	Affect	NegEmo
+怒*	Anger	Affect	NegEmo
+骗*	Anger	Affect	NegEmo
+欺*	Anger	Affect	NegEmo
+嫌*	Anger	Affect	NegEmo
+憎*	Anger	Affect	NegEmo
+损人*	Anger
+惊慌*	Anx	NegEmo
+笔*	CogMech	Cause
+每*	CogMech	Certain	Inclusive
+恒*	CogMech	Certain
+全*	CogMech	Certain
+确*	CogMech	Certain
+直接*	CogMech	Certain
+沿*	CogMech	Inclusive
+绑*	CogMech	Inhibition
+保*	CogMech	Inhibition
+避*	CogMech	Inhibition
+缠*	CogMech	Inhibition
+惩*	CogMech	Inhibition
+抵*	CogMech	Inhibition
+砥*	CogMech	Inhibition
+遏*	CogMech	Inhibition
+防*	CogMech	Inhibition
+封*	CogMech	Inhibition
+禁*	CogMech	Inhibition
+拘*	CogMech	Inhibition
+局*	CogMech	Inhibition
+拒*	CogMech	Inhibition
+迫*	CogMech	Inhibition
+缩*	CogMech	Inhibition
+停*	CogMech	Inhibition
+限*	CogMech	Inhibition
+陷*	CogMech	Inhibition
+制*	CogMech	Inhibition
+抓*	CogMech	Inhibition
+阻*	CogMech	Inhibition
+思*	CogMech	Insight
+意*	CogMech	Insight
+殡*	Death
+棺*	Death
+尸*	Death
+弟*	Family	Social
+姐*	Family	Social
+舅*	Family	Social
+妻*	Family	Social
+婶*	Family	Social
+叔*	Family	Social
+姨*	Family	Social
+侄*	Family	Social
+姊*	Family	Social
+干*	Feel	Percept
+湿*	Feel	Percept
+酸*	Feel	Percept
+听*	Hear
+男*	Humans	Social
+女*	Humans	Social
+想*	Insight
+电影*	Leisure
+高尔夫*	Leisure
+高粱*	Leisure
+歌舞*	Leisure
+逛*	Leisure
+爵士*	Leisure
+雷鬼*	Leisure
+录像*	Leisure
+扑克*	Leisure
+庆*	Leisure
+体育*	Leisure
+摇滚*	Leisure
+艺术*	Leisure
+饮酒*	Leisure
+游戏*	Leisure
+游泳*	Leisure
+运动*	Leisure
+不*	Negate	Funct
+没*	Negate	Funct
+无*	Negate	Funct
+勿*	Negate	Funct
+侵*	NegEmo
+八百*	Number	Funct
+八千*	Number	Funct
+八十*	Number	Funct
+八万*	Number	Funct
+八亿*	Number	Funct
+八兆*	Number	Funct
+第*	Number	Funct
+二百*	Number	Funct
+二千*	Number	Funct
+二十*	Number	Funct
+二万*	Number	Funct
+二亿*	Number	Funct
+二兆*	Number	Funct
+几十*	Number	Funct
+九百*	Number	Funct
+九千*	Number	Funct
+九十*	Number	Funct
+九万*	Number	Funct
+九亿*	Number	Funct
+九兆*	Number	Funct
+两千*	Number	Funct
+两万*	Number	Funct
+两亿*	Number	Funct
+两兆*	Number	Funct
+六百*	Number	Funct
+六千*	Number	Funct
+六十*	Number	Funct
+六万*	Number	Funct
+六亿*	Number	Funct
+六兆*	Number	Funct
+七百*	Number	Funct
+七千*	Number	Funct
+七十*	Number	Funct
+七万*	Number	Funct
+七亿*	Number	Funct
+七兆*	Number	Funct
+三百*	Number	Funct
+三千*	Number	Funct
+三十*	Number	Funct
+三万*	Number	Funct
+三亿*	Number	Funct
+三兆*	Number	Funct
+十八*	Number	Funct
+十二*	Number	Funct
+十九*	Number	Funct
+十六*	Number	Funct
+十七*	Number	Funct
+十三*	Number	Funct
+十四*	Number	Funct
+十万*	Number	Funct
+十五*	Number	Funct
+十一*	Number	Funct
+十亿*	Number	Funct
+十兆*	Number	Funct
+数十*	Number	Funct
+四百*	Number	Funct
+四千*	Number	Funct
+四十*	Number	Funct
+四万*	Number	Funct
+四亿*	Number	Funct
+四兆*	Number	Funct
+五百*	Number	Funct
+五千*	Number	Funct
+五十*	Number	Funct
+五万*	Number	Funct
+五亿*	Number	Funct
+五兆*	Number	Funct
+一百*	Number	Funct
+一千*	Number	Funct
+一万*	Number	Funct
+一亿*	Number	Funct
+亿*	Number	Funct
+一兆*	Number
+看*	Percept	See
+目*	Percept	See
+视*	Percept	See
+艳*	Percept	See
+吐*	Percept
+吞*	Percept
+惊喜*	PosEmo
+奔*	Relative	Motion
+递*	Relative	Motion
+逃*	Relative	Motion
+匆*	Relative	Time
+空前*	Relative	Time
+年*	Relative	Time
+时*	Relative	Time
+晚*	Relative	Time
+星期*	Relative	Time
+早*	Relative	Time
+周*	Relative	Time
+鬼*	Religion
+观*	See
+倏*	Time

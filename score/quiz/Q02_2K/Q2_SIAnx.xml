@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	交往焦虑量表，原问卷共有15道题目，
+	插入了8道测谎题和自我粉饰题，用tag=M和tag=E标出。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q2_STAnx</identifier>
+    <caption>社会交往状况调查问卷</caption>
+    <information><![CDATA[　　欢迎您填写本量表，后面的题目列出了一些与您在社会交往中的感受相关的问题。
+　　请您认真阅读下面的每个题目，并决定其陈述对你适用或其真实的程度，选择你认同的选项。
+
+　　请您在不受外界打扰的情况下，认真、真实地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+		<title>即时在非正式的聚会上，我也常感到紧张</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+	
+	<question qid="M138" tag="M">
+		<title>批评和责骂都使我非常伤心。</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+
+    <question qid="q2">
+		<title>与一群不认识的人在一起时，我通常感到不自在</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+
+	<question qid="q3">
+		<title>在与一位异性交谈时我通常感到轻松</title>
+		<answer aid="a" score="5">一点儿也不相符</answer>
+		<answer aid="b" score="4">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="2">非常相符</answer>
+		<answer aid="e" score="1">极其相符</answer>
+    </question>
+
+	<question qid="q4">
+		<title>在必须同老师或上司谈话时，我感到紧张</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+	
+	<question qid="E12" tag="E">
+		<title>若你说过要做某件事，是否不管遇到什么困难都要把它做成？</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+
+	<question qid="q5">
+		<title>聚会常会使我感到焦虑及不自在</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+	
+	<question qid="E4" tag="E">
+		<title>当别人做了好事，而周围的人却认为是你做的时候，你是否感到洋洋得意？</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q6">
+		<title>与大多数人相比，我在社会交往中可能较少羞怯</title>
+		<answer aid="a" score="5">一点儿也不相符</answer>
+		<answer aid="b" score="4">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="2">非常相符</answer>
+		<answer aid="e" score="1">极其相符</answer>
+    </question>
+	
+	<question qid="q7">
+		<title>在与我不太熟悉的同性谈话时，我常常感到紧张</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+
+	<question qid="M180" tag="M">
+		<title>我觉得我遇到生人的时候就不知道说什么好了</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q8">
+		<title>在求职面试时我会紧张的</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+
+	<question qid="q9">
+		<title>我希望自己在社交场合中信心更足一些</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+	</question>
+	
+	<question qid="E31" tag="E">
+		<title>你在儿童时代是否立即听从大人的吩咐而毫无怨言？</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+
+	<question qid="q10">
+		<title>在社交场合中，我很少感到焦虑</title>
+		<answer aid="a" score="5">一点儿也不相符</answer>
+		<answer aid="b" score="4">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="2">非常相符</answer>
+		<answer aid="e" score="1">极其相符</answer>
+    </question>
+	
+	<question qid="q11">
+		<title>一般而言，我是一个害羞的人</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+	
+	<question qid="E64" tag="E">
+		<title>你曾经是否坚持要照你的想法办事？</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q12">
+		<title>在与一位迷人的异性交谈时我经常感到紧张</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+
+	<question qid="E83" tag="E">
+		<title>你是否有过随口骂人的时候？</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+	<question qid="q13">
+		<title>给不太熟的人打电话时我通常觉得紧张</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+
+	<question qid="q14">
+		<title>我在与权威人士谈话时感到紧张</title>
+		<answer aid="a" score="1">一点儿也不相符</answer>
+		<answer aid="b" score="2">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="4">非常相符</answer>
+		<answer aid="e" score="5">极其相符</answer>
+    </question>
+	
+	<question qid="q15">
+		<title>即使处于一群和我相当不同的人群之中，通常我仍感到放松</title>
+		<answer aid="a" score="5">一点儿也不相符</answer>
+		<answer aid="b" score="4">有一点儿相符</answer>
+		<answer aid="c" score="3">中等程度相符</answer>
+		<answer aid="d" score="2">非常相符</answer>
+		<answer aid="e" score="1">极其相符</answer>
+	</question>
+	
+	<question qid="M406" tag="M">
+		<title>我有时回避见人，因为我怕我会做出或讲出一些事后令我懊悔的事</title>
+		<answer aid="a" score="1">是的</answer>
+		<answer aid="b" score="0">不是</answer>
+    </question>
+	
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

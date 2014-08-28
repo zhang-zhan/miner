@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+计分方法[最后需要11个值]：
+	1、对所有90道题目求平均值，作为维度1；
+	2、对用户评分非0（即回答不是“从无”）的题目，求平均值，作为维度2；
+	3、剩下的9个维度，根据题目所属的tag求平均值：
+	SCL90R九维度(各维度求平均值)			？	[01 02 03 04 05 06 07 08 09 10 11 12 13]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	so Somatization 躯体化						[01 04 12 27 40 42 48 49 52 53 56 58]
+	oc Obsessive-Compulsive 强迫症状			[03 09 10 28 38 45 46 51 55 65]
+	is Interpersonal sensitivity 人际关系敏感	[06 21 34 36 37 41 61 69 73]
+	de Depression 抑郁							[05 14 15 20 22 26 29 30 31 32 54 71 79]
+	an Anxiety 焦虑								[02 17 23 33 39 57 72 78 80 86]
+	ho Hostility 敌对							[11 24 63 67 74 81]
+	pa Photic anxiety 恐怖						[13 25 47 50 70 75 82]
+	pi Paranoid ideation 偏执					[08 18 43 68 76 83]
+	ps Psychoticism 精神病性					[07 16 35 62 77 84 85 87 88 90]
+	xx	对于评估无意义，只是插在题目当中占位	[19 44 59 60 64 66 89]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-->
+
+<questionnaire>
+  <description>
+    <identifier>SCL90R</identifier>
+    <caption>心理健康测试</caption>
+    <information><![CDATA[欢迎您填写本量表，本量表是针对微博使用而设计的。通过填写本量表，您可以评测您最近的心理健康状况。]]>
+	</information>
+    <interfacetype>CompareToAverage</interfacetype>
+  </description>
+
+  <questions>
+	<question qid="q01" tag="so">
+      <title>头痛</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+    <question qid="q02" tag="an">
+      <title>神经过敏，心中不踏实</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+    <question qid="q03" tag="oc">
+      <title>头脑中有不必要的想法或字句盘旋</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+    <question qid="q04" tag="so">
+      <title>头晕或昏倒</title>
+	  <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+    <question qid="q05" tag="de">
+      <title>对异性的兴趣减退</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+    <question qid="q06" tag="is">
+      <title>对旁人责备求全</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+    <question qid="q07" tag="ps">
+      <title>感到别人能控制您的思想</title>
+	  <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+    <question qid="q08" tag="pi">
+      <title>责怪别人制造麻烦</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+    <question qid="q09" tag="oc">
+      <title>忘性大</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+    <question qid="q10" tag="oc">
+      <title>担心自己的衣饰整齐及仪态的端庄</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+    <question qid="q11" tag="ho">
+      <title>容易烦恼和激动</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q12" tag="so">
+      <title>胸痛</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q13" tag="pa">
+      <title>害怕空旷的场所或街道</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q14" tag="de">
+      <title>感到自己精力下降，活动减慢</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q15" tag="de">
+      <title>想结束自己的生命</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q16" tag="ps">
+      <title>听到旁人听不到的声音</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q17" tag="an">
+      <title>发抖</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q18" tag="pi">
+      <title>感到大多数人都不可信任</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q19" tag="xx">
+      <title>胃口不好</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q20" tag="de">
+      <title>容易哭泣</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q21" tag="is">
+      <title>同异性相处时感到害羞不自在</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q22" tag="de">
+      <title>感到受骗，中了圈套或有人想抓住您</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q23" tag="an">
+      <title>无缘无故地突然感到害怕</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q24" tag="ho">
+      <title>自己不能控制地大发脾气</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q25" tag="pa">
+      <title>怕单独出门</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q26" tag="de">
+      <title>经常责怪自己</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q27" tag="so">
+      <title>腰痛</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q28" tag="oc">
+      <title>感到难以完成任务</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q29" tag="de">
+      <title>感到孤独</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q30" tag="de">
+      <title>感到苦闷</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q31" tag="de">
+      <title>过分担忧</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q32" tag="de">
+      <title>对事物不感兴趣</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q33" tag="an">
+      <title>感到害怕</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q34" tag="is">
+      <title>您的感情容易受到伤害</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q35" tag="ps">
+      <title>旁人能知道您的私下想法</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q36" tag="is">
+      <title>感到别人不理解您、不同情您</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q37" tag="is">
+      <title>感到人们对您不友好，不喜欢您</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q38" tag="oc">
+      <title>做事必须做得很慢以保证做得正确</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q39" tag="an">
+      <title>心跳得很厉害</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q40" tag="so">
+      <title>恶心或胃部不舒服</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q41" tag="is">
+      <title>感到比不上别人</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q42" tag="so">
+      <title>肌肉酸痛</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q43" tag="pi">
+      <title>感到有人在监视您、谈论您</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q44" tag="xx">
+      <title>难以入睡</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q45" tag="oc">
+      <title>做事必须反复检查</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q46" tag="oc">
+      <title>难以作出决定</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q47" tag="pa">
+      <title>怕乘电车、公共汽车、地铁或火车</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q48" tag="so">
+      <title>呼吸有困难</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q49" tag="so">
+      <title>一阵阵发冷或发热</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q50" tag="pa">
+      <title>因为感到害怕而避开某些东西、场合或活动</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q51" tag="oc">
+      <title>脑子变空了</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q52" tag="so">
+      <title>身体发麻或刺痛</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q53" tag="so">
+      <title>喉咙有梗塞感</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q54" tag="de">
+      <title>感到前途没有希望</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q55" tag="oc">
+      <title>不能集中注意</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q56" tag="so">
+      <title>感到身体的某一部分软弱无力</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q57" tag="an">
+      <title>感到紧张或容易紧张</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q58" tag="so">
+      <title>感到手或脚发重</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q59" tag="xx">
+      <title>感到死亡的事</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q60" tag="xx">
+      <title>吃得太多</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q61" tag="is">
+      <title>当别人看着您或谈论您时感到不自在</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q62" tag="ps">
+      <title>有一些不属于您自己的想法</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q63" tag="ho">
+      <title>有想打人或伤害他人的冲动</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q64" tag="xx">
+      <title>醒得太早</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q65" tag="oc">
+      <title>必须反复洗手、点数</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q66" tag="xx">
+      <title>睡得不稳不深</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q67" tag="ho">
+      <title>有想摔坏或破坏东西的想法</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q68" tag="pi">
+      <title>有一些别人没有的想法</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q69" tag="is">
+      <title>感到对别人神经过敏</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q70" tag="pa">
+      <title>在商场或电影院等人多的地方感到不自在</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q71" tag="de">
+      <title>感到任何事情都很困难</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q72" tag="an">
+      <title>一阵阵恐惧或惊恐</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q73" tag="is">
+      <title>感到公共场合吃东西很不舒服</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q74" tag="ho">
+      <title>经常与人争论</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q75" tag="pa">
+      <title>单独一人时神经很紧张</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q76" tag="pi">
+      <title>别人对您的成绩没有作出恰当的评论</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+  
+	<question qid="q77" tag="ps">
+      <title>即使和别人在一起也感到孤单</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+
+	<question qid="q78" tag="an">
+      <title>感到坐立不安心神不定</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q79" tag="de">
+      <title>感到自己没有什么价值</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q80" tag="an">
+      <title>感到熟悉的东西变陌生或不象是真的</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q81" tag="ho">
+      <title>大叫或摔东西</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q82" tag="pa">
+      <title>害怕会在公共场合昏倒</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q83" tag="pi">
+      <title>感到别人想占您的便宜</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q84" tag="ps">
+      <title>为一些有关“性”的想法而很苦恼</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q85" tag="ps">
+      <title>您认为应该因为自己的过错而受到惩罚</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q86" tag="an">
+      <title>感到要赶快把事情做完</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q87" tag="ps">
+      <title>感到自己的身体有严重问题</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q88" tag="ps">
+      <title>从未感到和其他人亲近</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q89" tag="xx">
+      <title>感到自己有罪</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+	<question qid="q90" tag="ps">
+      <title>感到自己的脑子有毛病</title>
+      <answer aid="a0" score="0">从无</answer>
+      <answer aid="a1" score="1">轻度</answer>
+	  <answer aid="a2" score="2">中度</answer>
+	  <answer aid="a3" score="3">偏重</answer>
+	  <answer aid="a4" score="4">重度</answer>
+    </question>
+	
+  </questions>
+  
+  <tags>
+	<tag name="so" label="躯体化"><![CDATA[这个维度主要反映身体不适感，包括心血管、胃肠道、呼吸和其他系统的不适，和头痛、背痛、肌肉酸痛，以及焦虑等躯体不适表现。
+得分越高，躯体的不适感越强；得分越低，症状体验越不明显。]]></tag>
+
+	<tag name="oc" label="强迫症状"><![CDATA[这个维度主要指那些明知没有必要，但又无法摆脱的无意义的思想、冲动和行为，还有一些比较一般的认知障碍的行为征象也在这一因子中反映。
+得分越高，表明个体越无法摆脱一些无意义的行为、思想和冲动，并可能表现出一些认知障碍的行为征兆；得分越低，表明个体在此种症状上表现越不明显，没有出现强迫行为。]]></tag>
+
+	<tag name="is" label="人际关系敏感"><![CDATA[这个维度主要是指某些人际的不自在与自卑感，特别是与其他人相比较时更加突出。在人际交往中的自卑感，心神不安，明显的不自在，以及人际交流中的不良自我暗示，消极的期待等是这方面症状的典型原因。
+得分越高，个体在人际交往中表现的问题就越多，自卑，自我中心越突出，并且已表现出消极的期待；得分越低，个体在人际关系上越能应付自如，人际交流自信、胸有成竹，并抱有积极的期待。]]></tag>
+
+	<tag name="de" label="抑郁"><![CDATA[苦闷的情感与心境为代表性症状，还以生活兴趣的减退，动力缺乏，活力丧失等为特征。还表现出失望、悲观以及与抑郁相联系的认知和躯体方面的感受，另外，还包括有关死亡的思想和自杀观念。
+得分越高，抑郁程度越明显；得分越低，抑郁程度越不明显。]]></tag>
+
+	<tag name="an" label="焦虑"><![CDATA[一般指那些烦躁，坐立不安，神经过敏，紧张以及由此产生的躯体征象，如震颤等。
+得分越高，焦虑表现越明显；得分越低，越不会导致焦虑。]]></tag>
+
+	<tag name="ho" label="敌对"><![CDATA[主要从三方面来反映敌对的表现：思想、感情及行为。其项目包括厌烦的感觉，摔物，争论直到不可控制的脾气暴发等各方面。
+得分越高，个体越容易敌对，好争论，脾气难以控制；得分越低，个体的脾气越温和，待人友好，不喜欢争论、无破坏行为。]]></tag>
+
+	<tag name="pa" label="恐怖"><![CDATA[恐惧的对象包括出门旅行，空旷场地，人群或公共场所和交通工具。此外，还有社交恐怖。
+得分越高，个体越容易对一些场所和物体发生恐惧，并伴有明显的躯体症状；得分越低，个体越不易产生恐怖心理，越能正常的交往和活动。]]></tag>
+
+	<tag name="pi" label="偏执"><![CDATA[主要指投射性思维，敌对，猜疑，妄想，被动体验和夸大等。得分越高，个体越易偏执，表现出投射性的思维和妄想；
+得分越低，个体思维越不易走极端。]]></tag>
+
+	<tag name="ps" label="精神病"><![CDATA[反映各式各样的急性症状和行为，即限定不严的精神病性过程的症状表现。
+得分越高，越多的表现出精神病性症状和行为；得分越低，就越少表现出这些症状和行为。]]></tag>
+
+  </tags>
+
+  <remarks>
+    <remark tag="so" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="so" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="oc" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="oc" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="is" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="is" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="de" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="de" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="an" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="an" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="ho" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="ho" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="pa" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="pa" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="pi" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="pi" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+    <remark tag="ps" minScore="avg" maxScore="max">您的得分高于平均水平，属于高分组。</remark>
+    <remark tag="ps" minScore="min" maxScore="avg">您的得分低于平均水平，属于低分组。</remark>
+  </remarks>
+
+</questionnaire>

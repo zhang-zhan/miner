@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+D	抑郁维度：03，05，10，13，16，17，21
+A	焦虑维度：02，04，07，09，15，19，20
+S	压力维度：01，06，08，11，12，14，18
+-->
+
+<questionnaire>
+  <description>
+    <identifier>DASS</identifier>
+    <caption>焦虑、抑郁、压力量表</caption>
+    <information><![CDATA[　　欢迎您填写本量表，以下陈述是用来描述个人感觉和行为的，请阅读以下每一个句子，选择最能代表你的实际状况的选项，答案无对错之分，不要花太多时间在某一句子上。
+	【温馨提示】本问卷没有反馈信息。
+　　本问卷为调查性问卷，我们向您承诺，我们会严格遵守协议，将您的填写结果将只用于科学研究，绝不会以任何形式泄漏您的隐私。请您放心填写真实信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+
+	<question qid="q01" tag="S">
+		<title>我觉得很难让自己安静下来</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+
+	<question qid="q02" tag="A">
+		<title>我感到口干</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q03" tag="D">
+		<title>我好像不能再有任何愉快，舒畅的感觉</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q04" tag="A">
+		<title>我感到呼吸困难（例如不是做运动时也感到气促或透不过气来）</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q05" tag="D">
+		<title>我感到很难自动去开始工作</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q06" tag="S">
+		<title>我对事情往往作出过敏反应</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q07" tag="A">
+		<title>我感到颤抖（例如手震）</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q08" tag="S">
+		<title>我觉得自己消耗很多精神</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q09" tag="A">
+		<title>我忧虑一些令自己恐慌或出丑的场合</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q10" tag="D">
+		<title>我觉得自己对将来没有什么可盼望</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q11" tag="S">
+		<title>我感到忐忑不安</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q12" tag="S">
+		<title>我感到很难放松自己</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q13" tag="D">
+		<title>我感到忧郁沮丧</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q14" tag="S">
+		<title>我无法容忍任何阻碍我继续工作的事情</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q15" tag="A">
+		<title>我感到快要恐慌了</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q16" tag="D">
+		<title>我对任何事也不能热衷</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q17" tag="D">
+		<title>我觉得自己不怎么配做人</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q18" tag="S">
+		<title>我发觉自己很容易被触怒</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q19" tag="A">
+		<title>我察觉自己在没有明显的体力劳动时，也感到心律不正常</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q20" tag="A">
+		<title>我无缘无故地感到害怕</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+	<question qid="q21" tag="D">
+		<title>我感到生命毫无意义</title>
+		<answer aid="a" score="0">不符合</answer>
+		<answer aid="b" score="1">有些符合</answer>
+		<answer aid="c" score="2">很符合</answer>
+		<answer aid="d" score="3">完全符合</answer>
+    </question>
+	
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="max">您的填写结果将用于科学研究，非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

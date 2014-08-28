@@ -1,0 +1,6548 @@
+%【说明】本文件内的词语为：CLIWC原有的词汇。
+表演	Achieve	Leisure
+畅销	Achieve	Leisure
+关系	Achieve	Social
+庆祝	Achieve	Social
+赞许	Achieve	Social
+著名	Achieve	Social
+本领	Achieve
+不配	Achieve
+才华	Achieve
+残存	Achieve
+策划	Achieve
+超级	Achieve
+超越	Achieve
+诚恳	Achieve
+驰名	Achieve
+存活	Achieve
+达成	Achieve
+达人	Achieve
+大红大紫	Achieve
+登峰造极	Achieve
+缔结	Achieve
+巅峰	Achieve
+顶尖	Achieve
+东山再起	Achieve
+对策	Achieve
+发愤	Achieve
+反败为胜	Achieve
+飞黄腾达	Achieve
+奋斗	Achieve
+奋发	Achieve
+改良	Achieve
+赶过	Achieve
+高层	Achieve
+高等	Achieve
+高级	Achieve
+高手	Achieve
+功效	Achieve
+苟延残喘	Achieve
+夯	Achieve
+好手	Achieve
+核准	Achieve
+回报	Achieve
+获取	Achieve
+级别	Achieve
+计策	Achieve
+计谋	Achieve
+技能	Achieve
+技巧	Achieve
+技术	Achieve
+技艺	Achieve
+坚忍	Achieve
+佼佼者	Achieve
+脚踏实地	Achieve
+解套	Achieve
+锦标	Achieve
+晋升	Achieve
+精通	Achieve
+精英	Achieve
+决策者	Achieve
+可行	Achieve
+克服	Achieve
+离职	Achieve
+力量	Achieve
+力争	Achieve
+良机	Achieve
+名闻遐迩	Achieve
+磨练	Achieve
+能力	Achieve
+能手	Achieve
+逆转	Achieve
+女王	Achieve
+平凡	Achieve
+普通	Achieve
+潜力	Achieve
+潜在	Achieve
+强大	Achieve
+强度	Achieve
+勤奋	Achieve
+勤恳	Achieve
+勤勉	Achieve
+驱策	Achieve
+权力	Achieve
+权势	Achieve
+权威	Achieve
+燃尽	Achieve
+人脉	Achieve
+任命	Achieve
+神乎其技	Achieve
+升迁	Achieve
+时机	Achieve
+实力	Achieve
+适任	Achieve
+授予	Achieve
+熟练	Achieve
+天份	Achieve
+偷懒	Achieve
+威信	Achieve
+无比	Achieve
+无敌	Achieve
+娴熟	Achieve
+限制	Achieve
+幸存	Achieve
+勋章	Achieve
+一流	Achieve
+意志	Achieve
+毅力	Achieve
+用功	Achieve
+用心	Achieve
+优等	Achieve
+诱因	Achieve
+远近驰名	Achieve
+造诣	Achieve
+战略	Achieve
+职权	Achieve
+中等	Achieve
+赚取	Achieve
+走后门	Achieve
+以前	Adverb	Funct	PrepEnd	Relative	PastM	Time	TenseM
+至今	Adverb	Funct	PrepEnd	Relative	Time	TenseM	ProgM
+此刻	Adverb	Funct	PresentM	Relative	Time	TenseM
+目前	Adverb	Funct	PresentM	Relative	Time	TenseM
+现在	Adverb	Funct	PresentM	Relative	Time	TenseM
+马上	Adverb	Funct	Relative	FutureM	Time	TenseM
+当时	Adverb	Funct	Relative	PastM	Time	TenseM	Conj
+刚	Adverb	Funct	Relative	PastM	Time	TenseM
+刚才	Adverb	Funct	Relative	PastM	Time	TenseM
+刚刚	Adverb	Funct	Relative	PastM	Time	TenseM
+近期	Adverb	Funct	Relative	Time	TenseM	ProgM
+必	Adverb	Funct
+毕竟	Adverb	Funct
+便	Adverb	Funct
+常	Adverb	Funct
+大都	Adverb	Funct
+大多	Adverb	Funct
+大幅	Adverb	Funct
+倒	Adverb	Funct
+到底	Adverb	Funct
+多半	Adverb	Funct
+纷纷	Adverb	Funct
+更加	Adverb	Funct
+共	Adverb	Funct
+够	Adverb	Funct
+过份	Adverb	Funct
+还	Adverb	Funct
+很	Adverb	Funct
+互相	Adverb	Funct
+即	Adverb	Funct
+即可	Adverb	Funct
+加以	Adverb	Funct
+简单	Adverb	Funct
+渐渐	Adverb	Funct
+仅	Adverb	Funct
+进一步	Adverb	Funct
+竟	Adverb	Funct
+竟然	Adverb	Funct
+均	Adverb	Funct
+恐怕	Adverb	Funct
+陆续	Adverb	Funct
+乃	Adverb	Funct
+全然	Adverb	Funct
+确切	Adverb	Funct
+确实	Adverb	Funct
+仍旧	Adverb	Funct
+尚	Adverb	Funct
+甚	Adverb	Funct
+甚至	Adverb	Funct
+时时	Adverb	Funct
+实际	Adverb	Funct
+实在	Adverb	Funct
+随地	Adverb	Funct
+太	Adverb	Funct
+特别	Adverb	Funct
+往后	Adverb	Funct
+相	Adverb	Funct
+相互	Adverb	Funct
+须	Adverb	Funct
+需	Adverb	Funct
+一般而言	Adverb	Funct
+一向	Adverb	Funct
+尤其	Adverb	Funct
+有没有	Adverb	Funct
+予以	Adverb	Funct
+愈	Adverb	Funct
+愈来愈	Adverb	Funct
+原	Adverb	Funct
+远远	Adverb	Funct
+约	Adverb	Funct
+再度	Adverb	Funct
+这边	Adverb	Funct
+这里	Adverb	Funct
+这么	Adverb	Funct
+这样	Adverb	Funct
+真是	Adverb	Funct
+只好	Adverb	Funct
+至少	Adverb	Funct
+逐渐	Adverb	Funct
+自行	Adverb	Funct
+自然	Adverb	Funct
+没	Adverb
+分红	Affect	Achieve	Money
+懒散	Affect	Achieve	NegEmo	Leisure
+诚实	Affect	Achieve	PosEmo
+得意	Affect	Achieve	PosEmo
+改进	Affect	Achieve	PosEmo
+改善	Affect	Achieve	PosEmo
+高阶	Affect	Achieve	PosEmo
+机敏	Affect	Achieve	PosEmo
+坚强	Affect	Achieve	PosEmo
+凯旋	Affect	Achieve	PosEmo
+满足	Affect	Achieve	PosEmo
+能干	Affect	Achieve	PosEmo
+强健	Affect	Achieve	PosEmo
+荣幸	Affect	Achieve	PosEmo
+荣耀	Affect	Achieve	PosEmo
+适当	Affect	Achieve	PosEmo
+顺利	Affect	Achieve	PosEmo
+效率	Affect	Achieve	PosEmo
+英雄	Affect	Achieve	PosEmo
+优点	Affect	Achieve	PosEmo
+优秀	Affect	Achieve	PosEmo
+有效	Affect	Achieve	PosEmo
+赞同	Affect	Achieve	PosEmo
+长处	Affect	Achieve	PosEmo
+自豪	Affect	Achieve	PosEmo
+自尊	Affect	Achieve	PosEmo
+最好	Affect	Achieve	PosEmo
+最佳	Affect	Achieve	PosEmo
+击败	Affect	Achieve
+骄傲	Affect	Achieve
+竞争	Affect	Achieve
+首要	Affect	Achieve
+战胜	Affect	Achieve
+重大	Affect	Achieve
+认真	Affect	Adverb	Achieve	Funct
+过分	Affect	Adverb	Funct
+胡涂	Affect	Anx	NegEmo	CogMech
+沉迷	Affect	Anx	NegEmo	Health	Bio
+神经病	Affect	Anx	NegEmo	Health	Bio
+失眠	Affect	Anx	NegEmo	Health	Bio
+不安	Affect	Anx	NegEmo	Sad
+不知所措	Affect	Anx	NegEmo	Sad
+打击	Affect	Anx	NegEmo	Sad
+受不了	Affect	Anx	NegEmo	Sad
+震惊	Affect	Anx	NegEmo	Sad
+绷紧	Affect	Anx	NegEmo
+不便	Affect	Anx	NegEmo
+不耐	Affect	Anx	NegEmo
+不耐烦	Affect	Anx	NegEmo
+不适	Affect	Anx	NegEmo
+操劳	Affect	Anx	NegEmo
+颤抖	Affect	Anx	NegEmo
+吃惊	Affect	Anx	NegEmo
+错乱	Affect	Anx	NegEmo
+打扰	Affect	Anx	NegEmo
+担忧	Affect	Anx	NegEmo
+胆怯	Affect	Anx	NegEmo
+胆小	Affect	Anx	NegEmo
+铤而走险	Affect	Anx	NegEmo
+躲避	Affect	Anx	NegEmo
+发抖	Affect	Anx	NegEmo
+妨害	Affect	Anx	NegEmo
+分心	Affect	Anx	NegEmo
+风险	Affect	Anx	NegEmo
+尴尬	Affect	Anx	NegEmo
+挂念	Affect	Anx	NegEmo
+害怕	Affect	Anx	NegEmo
+害羞	Affect	Anx	NegEmo
+含糊	Affect	Anx	NegEmo
+混乱	Affect	Anx	NegEmo
+棘手	Affect	Anx	NegEmo
+焦急	Affect	Anx	NegEmo
+焦虑	Affect	Anx	NegEmo
+搅乱	Affect	Anx	NegEmo
+拮据	Affect	Anx	NegEmo
+紧绷	Affect	Anx	NegEmo
+紧张	Affect	Anx	NegEmo
+禁止	Affect	Anx	NegEmo
+惧怕	Affect	Anx	NegEmo
+可怕	Affect	Anx	NegEmo
+恐怖	Affect	Anx	NegEmo
+恐慌	Affect	Anx	NegEmo
+恐惧	Affect	Anx	NegEmo
+难堪	Affect	Anx	NegEmo
+内疚	Affect	Anx	NegEmo
+怕	Affect	Anx	NegEmo
+怕生	Affect	Anx	NegEmo
+怕羞	Affect	Anx	NegEmo
+牵挂	Affect	Anx	NegEmo
+人心惶惶	Affect	Anx	NegEmo
+弱点	Affect	Anx	NegEmo
+骚动	Affect	Anx	NegEmo
+神经质	Affect	Anx	NegEmo
+失控	Affect	Anx	NegEmo
+心烦意乱	Affect	Anx	NegEmo
+心神不定	Affect	Anx	NegEmo
+心神不宁	Affect	Anx	NegEmo
+压力	Affect	Anx	NegEmo
+淹没	Affect	Anx	NegEmo
+挣扎	Affect	Anx	NegEmo
+棒	Affect	Assent	PosEmo
+哈	Affect	Assent	PosEmo
+哈哈	Affect	Assent	PosEmo
+呵呵	Affect	Assent	PosEmo
+了不起	Affect	Assent	PosEmo
+ㄏㄏ	Affect	Assent
+恰当	Affect	CogMech	Achieve	Certain
+极端	Affect	CogMech	Certain
+真相	Affect	CogMech	Certain
+渴求	Affect	CogMech	Discrep
+向往	Affect	CogMech	Discrep
+愿	Affect	CogMech	Discrep
+不可思议	Affect	CogMech
+担保	Affect	CogMech
+无关紧要	Affect	CogMech
+默哀	Affect	Death	NegEmo	Sad
+致命	Affect	Death	NegEmo
+恰好	Affect	Funct	Adverb	PosEmo
+好	Affect	Funct	Assent	Adverb	PosEmo
+对	Affect	Funct	Assent	QuanUnit	Preps
+足够	Affect	Funct	Quant	CogMech
+多余	Affect	Funct	Quant	NegEmo	Sad
+丰富	Affect	Funct	Quant	PosEmo
+治疗	Affect	Health	Bio
+创伤	Affect	Health	NegEmo	Bio
+精疲力竭	Affect	Health	NegEmo	Bio
+精疲力尽	Affect	Health	NegEmo	Bio
+弱	Affect	Health	NegEmo	Bio
+生病	Affect	Health	NegEmo	Bio
+痛	Affect	Health	NegEmo	Bio
+妨碍	Affect	Inhibition	Anx	NegEmo	CogMech
+勉强	Affect	Inhibition	Anx	NegEmo	CogMech
+强迫	Affect	Inhibition	Anx	NegEmo	CogMech
+服从	Affect	Inhibition	CogMech
+克制	Affect	Inhibition	CogMech
+设防	Affect	Inhibition	CogMech
+严格	Affect	Inhibition	CogMech
+控制	Affect	Inhibition	NegEmo	Achieve	CogMech
+不准	Affect	Inhibition	NegEmo	CogMech
+分歧	Affect	Inhibition	NegEmo	CogMech
+固执	Affect	Inhibition	NegEmo	CogMech
+疏忽	Affect	Inhibition	NegEmo	CogMech
+提防	Affect	Inhibition	NegEmo	CogMech
+狭隘	Affect	Inhibition	NegEmo	CogMech
+压抑	Affect	Inhibition	NegEmo	CogMech
+压制	Affect	Inhibition	NegEmo	CogMech
+严峻	Affect	Inhibition	NegEmo	CogMech
+抑制	Affect	Inhibition	NegEmo	CogMech
+约束	Affect	Inhibition	NegEmo	CogMech
+镇压	Affect	Inhibition	NegEmo	CogMech
+忽略	Affect	Inhibition	NegEmo	Sad	CogMech
+忽视	Affect	Inhibition	NegEmo	Sad	CogMech
+猜疑	Affect	Insight	Anx	NegEmo	CogMech
+质疑	Affect	Insight	CogMech	Achieve	Work
+偏好	Affect	Insight	CogMech
+知识	Affect	Insight	CogMech
+误会	Affect	Insight	NegEmo	CogMech	Discrep
+误解	Affect	Insight	NegEmo	CogMech	Discrep
+粗心	Affect	Insight	NegEmo	CogMech
+曲解	Affect	Insight	NegEmo	CogMech
+果断	Affect	Insight	PosEmo	Achieve	CogMech
+激励	Affect	Insight	PosEmo	Achieve	CogMech
+坚决	Affect	Insight	PosEmo	Achieve	CogMech
+决心	Affect	Insight	PosEmo	Achieve	CogMech
+认可	Affect	Insight	PosEmo	Achieve	CogMech
+下定决心	Affect	Insight	PosEmo	Achieve	CogMech
+鼓舞	Affect	Insight	PosEmo	CogMech
+谨慎	Affect	Insight	PosEmo	CogMech
+理智	Affect	Insight	PosEmo	CogMech
+灵感	Affect	Insight	PosEmo	CogMech
+满意	Affect	Insight	PosEmo	CogMech
+明智	Affect	Insight	PosEmo	CogMech
+深思	Affect	Insight	PosEmo	CogMech
+坦率	Affect	Insight	PosEmo	CogMech
+体会	Affect	Insight	PosEmo	CogMech
+细心	Affect	Insight	PosEmo	CogMech
+答应	Affect	Insight	Verb	CogMech
+确定	Affect	Insight
+耶	Affect	Interjunction	Assent	Funct	PosEmo
+哇	Affect	Interjunction	Assent	Funct
+哎呀	Affect	Interjunction	Funct
+从容	Affect	Leisure	PosEmo
+放松	Affect	Leisure	PosEmo
+轻松	Affect	Leisure	PosEmo
+玩乐	Affect	Leisure	PosEmo
+玩耍	Affect	Leisure	PosEmo
+笑话	Affect	Leisure	PosEmo
+兴趣	Affect	Leisure	PosEmo
+悠闲	Affect	Leisure	PosEmo
+娱乐	Affect	Leisure	PosEmo
+自在	Affect	Leisure	PosEmo
+安逸	Affect	Leisure
+幻想	Affect	Leisure
+松懈	Affect	Leisure
+玩笑	Affect	Leisure
+闲散	Affect	Leisure
+寻欢作乐	Affect	Leisure
+捐赠	Affect	Money
+亏损	Affect	NegEmo	Achieve	Sad
+输掉	Affect	NegEmo	Achieve	Sad
+输家	Affect	NegEmo	Achieve	Sad
+无能	Affect	NegEmo	Achieve	Sad
+辞职	Affect	NegEmo	Achieve
+懒惰	Affect	NegEmo	Achieve
+平庸	Affect	NegEmo	Achieve
+散漫	Affect	NegEmo	Achieve
+自大	Affect	NegEmo	Achieve
+自负	Affect	NegEmo	Achieve
+随便	Affect	NegEmo	Adverb	Funct
+狂热	Affect	NegEmo	Bio
+错	Affect	NegEmo	CogMech	Discrep
+错误	Affect	NegEmo	CogMech	Discrep
+轻忽	Affect	NegEmo	CogMech	Exclusive
+放任	Affect	NegEmo	CogMech
+负债	Affect	NegEmo	Money
+欠债	Affect	NegEmo	Money
+穷	Affect	NegEmo	Money
+牺牲	Affect	NegEmo	Religion
+业障	Affect	NegEmo	Religion
+鼻酸	Affect	NegEmo	Sad
+不幸	Affect	NegEmo	Sad
+迟钝	Affect	NegEmo	Sad
+啜泣	Affect	NegEmo	Sad
+次等	Affect	NegEmo	Sad
+摧毁	Affect	NegEmo	Sad
+低沉	Affect	NegEmo	Sad
+低落	Affect	NegEmo	Sad
+低迷	Affect	NegEmo	Sad
+放弃	Affect	NegEmo	Sad
+肝肠寸断	Affect	NegEmo	Sad
+感伤	Affect	NegEmo	Sad
+哽咽	Affect	NegEmo	Sad
+患病	Affect	NegEmo	Sad
+灰心	Affect	NegEmo	Sad
+沮丧	Affect	NegEmo	Sad
+绝望	Affect	NegEmo	Sad
+可悲	Affect	NegEmo	Sad
+可怜	Affect	NegEmo	Sad
+空洞	Affect	NegEmo	Sad
+空虚	Affect	NegEmo	Sad
+泪流满面	Affect	NegEmo	Sad
+泪珠	Affect	NegEmo	Sad
+流泪	Affect	NegEmo	Sad
+落空	Affect	NegEmo	Sad
+难过	Affect	NegEmo	Sad
+弄痛	Affect	NegEmo	Sad
+破灭	Affect	NegEmo	Sad
+泣	Affect	NegEmo	Sad
+柔肠寸断	Affect	NegEmo	Sad
+扫兴	Affect	NegEmo	Sad
+失望	Affect	NegEmo	Sad
+逝世	Affect	NegEmo	Sad
+受苦	Affect	NegEmo	Sad
+思念	Affect	NegEmo	Sad
+痛不欲生	Affect	NegEmo	Sad
+痛哭流涕	Affect	NegEmo	Sad
+万念俱灰	Affect	NegEmo	Sad
+呜咽	Affect	NegEmo	Sad
+无精打采	Affect	NegEmo	Sad
+无力	Affect	NegEmo	Sad
+无望	Affect	NegEmo	Sad
+无意义	Affect	NegEmo	Sad
+无助	Affect	NegEmo	Sad
+无足轻重	Affect	NegEmo	Sad
+想念	Affect	NegEmo	Sad
+消沉	Affect	NegEmo	Sad
+泄气	Affect	NegEmo	Sad
+心灰意冷	Affect	NegEmo	Sad
+心酸	Affect	NegEmo	Sad
+心碎	Affect	NegEmo	Sad
+眼泪	Affect	NegEmo	Sad
+一无所有	Affect	NegEmo	Sad
+依法剥夺	Affect	NegEmo	Sad
+遗憾	Affect	NegEmo	Sad
+抑郁	Affect	NegEmo	Sad
+阴沉	Affect	NegEmo	Sad
+蹧蹋	Affect	NegEmo	Sad
+自暴自弃	Affect	NegEmo	Sad
+自卑	Affect	NegEmo	Sad
+八卦	Affect	NegEmo	Social
+逗弄	Affect	NegEmo	Social
+隔离	Affect	NegEmo	Social
+拒绝	Affect	NegEmo	Social
+离婚	Affect	NegEmo	Social
+说长道短	Affect	NegEmo	Social
+戏弄	Affect	NegEmo	Social
+闲话	Affect	NegEmo	Social
+抱歉	Affect	NegEmo
+爆发	Affect	NegEmo
+剥夺	Affect	NegEmo
+搏斗	Affect	NegEmo
+跛	Affect	NegEmo
+跛脚	Affect	NegEmo
+不当	Affect	NegEmo
+不服	Affect	NegEmo
+不符	Affect	NegEmo
+不顾一切	Affect	NegEmo
+不利	Affect	NegEmo
+不仁	Affect	NegEmo
+不宜	Affect	NegEmo
+操心	Affect	NegEmo
+草率	Affect	NegEmo
+岔开	Affect	NegEmo
+缠身	Affect	NegEmo
+陈腐	Affect	NegEmo
+惩罚	Affect	NegEmo
+冲击	Affect	NegEmo
+触景伤情	Affect	NegEmo
+触目惊心	Affect	NegEmo
+刺眼	Affect	NegEmo
+粗俗	Affect	NegEmo
+粗野	Affect	NegEmo
+打破	Affect	NegEmo
+淡漠	Affect	NegEmo
+倒霉	Affect	NegEmo
+盗	Affect	NegEmo
+低能儿	Affect	NegEmo
+抵制	Affect	NegEmo
+丢脸	Affect	NegEmo
+丢人	Affect	NegEmo
+丢人现眼	Affect	NegEmo
+钝	Affect	NegEmo
+多疑	Affect	NegEmo
+堕落	Affect	NegEmo
+厄运	Affect	NegEmo
+发愁	Affect	NegEmo
+发牢骚	Affect	NegEmo
+繁琐	Affect	NegEmo
+防	Affect	NegEmo
+费力	Affect	NegEmo
+纷争	Affect	NegEmo
+负担	Affect	NegEmo
+负心	Affect	NegEmo
+攻势	Affect	NegEmo
+古怪	Affect	NegEmo
+怪	Affect	NegEmo
+怪诞	Affect	NegEmo
+怪异	Affect	NegEmo
+诡计	Affect	NegEmo
+过错	Affect	NegEmo
+过失	Affect	NegEmo
+寒酸	Affect	NegEmo
+呼天抢地	Affect	NegEmo
+花招	Affect	NegEmo
+恍惚	Affect	NegEmo
+回避	Affect	NegEmo
+交战	Affect	NegEmo
+局促	Affect	NegEmo
+坎坷	Affect	NegEmo
+抗争	Affect	NegEmo
+刻薄	Affect	NegEmo
+口吃	Affect	NegEmo
+牢骚	Affect	NegEmo
+罹难	Affect	NegEmo
+凌乱	Affect	NegEmo
+乱	Affect	NegEmo
+落伍	Affect	NegEmo
+麻烦	Affect	NegEmo
+漫不经心	Affect	NegEmo
+茫然	Affect	NegEmo
+毛骨悚然	Affect	NegEmo
+霉运	Affect	NegEmo
+闷	Affect	NegEmo
+闷闷不乐	Affect	NegEmo
+迷乱	Affect	NegEmo
+陌生	Affect	NegEmo
+目瞪口呆	Affect	NegEmo
+难熬	Affect	NegEmo
+难题	Affect	NegEmo
+逆向	Affect	NegEmo
+腻	Affect	NegEmo
+扭曲	Affect	NegEmo
+弄坏	Affect	NegEmo
+排斥	Affect	NegEmo
+脾气	Affect	NegEmo
+奇怪	Affect	NegEmo
+奇特	Affect	NegEmo
+强硬	Affect	NegEmo
+轻蔑	Affect	NegEmo
+情绪	Affect	NegEmo
+任性	Affect	NegEmo
+软弱	Affect	NegEmo
+生疏	Affect	NegEmo
+生厌	Affect	NegEmo
+失误	Affect	NegEmo
+首级	Affect	NegEmo
+受虐	Affect	NegEmo
+书呆子	Affect	NegEmo
+疏漏	Affect	NegEmo
+私生子	Affect	NegEmo
+思乡	Affect	NegEmo
+俗	Affect	NegEmo
+俗气	Affect	NegEmo
+诉苦	Affect	NegEmo
+琐事	Affect	NegEmo
+琐碎	Affect	NegEmo
+唐突	Affect	NegEmo
+调戏	Affect	NegEmo
+偷	Affect	NegEmo
+偷窃	Affect	NegEmo
+偷取	Affect	NegEmo
+徒劳无功	Affect	NegEmo
+歪曲	Affect	NegEmo
+外行	Affect	NegEmo
+外伤	Affect	NegEmo
+枉然	Affect	NegEmo
+妄想	Affect	NegEmo
+忘恩负义	Affect	NegEmo
+为难	Affect	NegEmo
+伪造	Affect	NegEmo
+污秽	Affect	NegEmo
+巫婆	Affect	NegEmo
+无聊	Affect	NegEmo
+无趣	Affect	NegEmo
+误	Affect	NegEmo
+消极	Affect	NegEmo
+小偷	Affect	NegEmo
+辛酸	Affect	NegEmo
+炫耀	Affect	NegEmo
+眼花撩乱	Affect	NegEmo
+野蛮	Affect	NegEmo
+阴森	Affect	NegEmo
+元凶	Affect	NegEmo
+杂乱	Affect	NegEmo
+遭受	Affect	NegEmo
+债务	Affect	NegEmo
+沾沾自喜	Affect	NegEmo
+占便宜	Affect	NegEmo
+执拗	Affect	NegEmo
+中断	Affect	NegEmo
+重担	Affect	NegEmo
+拙劣	Affect	NegEmo
+自甘堕落	Affect	NegEmo
+自私	Affect	NegEmo
+极好	Affect	Percept	Achieve	PosEmo
+漂亮	Affect	Percept	Assent	See	PosEmo
+安静	Affect	Percept	Hear	PosEmo
+和谐	Affect	Percept	Hear	PosEmo
+苦	Affect	Percept	NegEmo	Sad
+变味	Affect	Percept	NegEmo
+变质	Affect	Percept	NegEmo
+臭	Affect	Percept	NegEmo
+臭气	Affect	Percept	NegEmo
+臭味	Affect	Percept	NegEmo
+乏味	Affect	Percept	NegEmo
+冷淡	Affect	Percept	NegEmo
+难吃	Affect	Percept	NegEmo
+难闻	Affect	Percept	NegEmo
+酸	Affect	Percept	NegEmo
+无味	Affect	Percept	NegEmo
+可口	Affect	Percept	PosEmo	Ingest	Bio
+美味	Affect	Percept	PosEmo	Ingest	Bio
+亲吻	Affect	Percept	PosEmo	Sexual	Bio
+开朗	Affect	Percept	PosEmo
+可爱	Affect	Percept	PosEmo
+快乐	Affect	Percept	PosEmo
+冷静	Affect	Percept	PosEmo
+平和	Affect	Percept	PosEmo
+平静	Affect	Percept	PosEmo
+光亮	Affect	Percept	See	PosEmo
+美好	Affect	Percept	See	PosEmo
+美丽	Affect	Percept	See	PosEmo
+美人	Affect	Percept	See	PosEmo
+明亮	Affect	Percept	See	PosEmo
+生动	Affect	Percept	See	PosEmo
+鲜明	Affect	Percept	See	PosEmo
+栩栩如生	Affect	Percept	See	PosEmo
+阳光	Affect	Percept	See	PosEmo
+耀眼	Affect	Percept	See	PosEmo
+经历	Affect	Percept	Verb	Social
+强烈	Affect	Percept
+头昏	Affect	Percept
+合适	Affect	PosEmo	Achieve	CogMech
+渴望	Affect	PosEmo	Bio	CogMech	Discrep
+活跃	Affect	PosEmo	Bio
+信奉	Affect	PosEmo	Certain	CogMech	Religion
+把握	Affect	PosEmo	CogMech	Achieve	Certain
+完善	Affect	PosEmo	CogMech	Achieve	Certain
+毅然	Affect	PosEmo	CogMech	Achieve	Certain
+自信	Affect	PosEmo	CogMech	Achieve	Certain
+理想	Affect	PosEmo	CogMech	Achieve	Discrep
+承诺	Affect	PosEmo	CogMech	Certain
+可靠	Affect	PosEmo	CogMech	Certain
+清楚	Affect	PosEmo	CogMech	Certain
+稳健	Affect	PosEmo	CogMech	Certain
+真实	Affect	PosEmo	CogMech	Certain
+投入	Affect	PosEmo	CogMech
+仔细	Affect	PosEmo	CogMech
+忠诚	Affect	PosEmo	CogMech
+活力	Affect	PosEmo	Health	Bio
+敏感	Affect	PosEmo	Health	Bio
+整齐	Affect	PosEmo	Home
+富有	Affect	PosEmo	Money
+富裕	Affect	PosEmo	Money
+慷慨	Affect	PosEmo	Money
+免费	Affect	PosEmo	Money
+益处	Affect	PosEmo	Money
+有钱	Affect	PosEmo	Money
+值得	Affect	PosEmo	Money
+祝福	Affect	PosEmo	Religion	CogMech	Discrep
+慈善	Affect	PosEmo	Religion	Money
+庇护	Affect	PosEmo	Religion
+崇拜	Affect	PosEmo	Religion
+慈悲	Affect	PosEmo	Religion
+恩典	Affect	PosEmo	Religion
+极乐	Affect	PosEmo	Religion
+宽容	Affect	PosEmo	Religion
+虔诚	Affect	PosEmo	Religion
+神圣	Affect	PosEmo	Religion
+天堂	Affect	PosEmo	Religion
+拯救	Affect	PosEmo	Religion
+激情	Affect	PosEmo	Sexual	Bio
+迷人	Affect	PosEmo	Sexual	Bio
+亲	Affect	PosEmo	Sexual	Bio
+吻	Affect	PosEmo	Sexual	Bio
+爱护	Affect	PosEmo
+爱慕	Affect	PosEmo
+爱情	Affect	PosEmo
+爱心	Affect	PosEmo
+安宁	Affect	PosEmo
+安全	Affect	PosEmo
+安稳	Affect	PosEmo
+宝贵	Affect	PosEmo
+保护	Affect	PosEmo
+博爱	Affect	PosEmo
+博学	Affect	PosEmo
+不拘小节	Affect	PosEmo
+才智	Affect	PosEmo
+灿烂	Affect	PosEmo
+缠绵	Affect	PosEmo
+沉着	Affect	PosEmo
+诚心	Affect	PosEmo
+充沛	Affect	PosEmo
+崇高	Affect	PosEmo
+宠爱	Affect	PosEmo
+出色	Affect	PosEmo
+传情	Affect	PosEmo
+慈祥	Affect	PosEmo
+聪明	Affect	PosEmo
+大胆	Affect	PosEmo
+大方	Affect	PosEmo
+大笑	Affect	PosEmo
+胆量	Affect	PosEmo
+得体	Affect	PosEmo
+得意洋洋	Affect	PosEmo
+德行	Affect	PosEmo
+典范	Affect	PosEmo
+动人	Affect	PosEmo
+动听	Affect	PosEmo
+逗趣	Affect	PosEmo
+恩惠	Affect	PosEmo
+扶持	Affect	PosEmo
+福气	Affect	PosEmo
+抚育	Affect	PosEmo
+感恩	Affect	PosEmo
+感激	Affect	PosEmo
+高贵	Affect	PosEmo
+高兴	Affect	PosEmo
+高雅	Affect	PosEmo
+咯咯笑	Affect	PosEmo
+恭维	Affect	PosEmo
+光辉	Affect	PosEmo
+光荣	Affect	PosEmo
+豪华	Affect	PosEmo
+豪爽	Affect	PosEmo
+好棒	Affect	PosEmo
+好处	Affect	PosEmo
+好玩	Affect	PosEmo
+好笑	Affect	PosEmo
+好运	Affect	PosEmo
+喝采	Affect	PosEmo
+和蔼	Affect	PosEmo
+和睦	Affect	PosEmo
+和平	Affect	PosEmo
+和善	Affect	PosEmo
+和煦	Affect	PosEmo
+宏大	Affect	PosEmo
+宏伟	Affect	PosEmo
+护	Affect	PosEmo
+华丽	Affect	PosEmo
+诙谐	Affect	PosEmo
+辉煌	Affect	PosEmo
+回春	Affect	PosEmo
+活泼	Affect	PosEmo
+获奖	Affect	PosEmo
+机警	Affect	PosEmo
+机灵	Affect	PosEmo
+积极	Affect	PosEmo
+及时	Affect	PosEmo
+简洁	Affect	PosEmo
+洁净	Affect	PosEmo
+解脱	Affect	PosEmo
+精彩	Affect	PosEmo
+精美	Affect	PosEmo
+精心	Affect	PosEmo
+景仰	Affect	PosEmo
+敬畏	Affect	PosEmo
+敬意	Affect	PosEmo
+敬重	Affect	PosEmo
+绝妙	Affect	PosEmo
+俊美	Affect	PosEmo
+开明	Affect	PosEmo
+开心	Affect	PosEmo
+酷爱	Affect	PosEmo
+狂喜	Affect	PosEmo
+狂笑	Affect	PosEmo
+浪漫	Affect	PosEmo
+伶俐	Affect	PosEmo
+灵活	Affect	PosEmo
+灵敏	Affect	PosEmo
+灵巧	Affect	PosEmo
+美德	Affect	PosEmo
+美满	Affect	PosEmo
+美妙	Affect	PosEmo
+魅力	Affect	PosEmo
+敏捷	Affect	PosEmo
+宁静	Affect	PosEmo
+诺言	Affect	PosEmo
+品德	Affect	PosEmo
+品行	Affect	PosEmo
+平安	Affect	PosEmo
+平稳	Affect	PosEmo
+魄力	Affect	PosEmo
+强	Affect	PosEmo
+钦佩	Affect	PosEmo
+亲和	Affect	PosEmo
+轻快	Affect	PosEmo
+热烈	Affect	PosEmo
+热切	Affect	PosEmo
+热衷	Affect	PosEmo
+容光焕发	Affect	PosEmo
+融洽	Affect	PosEmo
+傻笑	Affect	PosEmo
+善良	Affect	PosEmo
+善心	Affect	PosEmo
+善意	Affect	PosEmo
+深爱	Affect	PosEmo
+深情	Affect	PosEmo
+生命力	Affect	PosEmo
+生气勃勃	Affect	PosEmo
+时髦	Affect	PosEmo
+适时	Affect	PosEmo
+适宜	Affect	PosEmo
+收获	Affect	PosEmo
+受惠	Affect	PosEmo
+舒服	Affect	PosEmo
+帅	Affect	PosEmo
+帅气	Affect	PosEmo
+坦诚	Affect	PosEmo
+陶醉	Affect	PosEmo
+讨喜	Affect	PosEmo
+疼爱	Affect	PosEmo
+体谅	Affect	PosEmo
+体面	Affect	PosEmo
+体贴	Affect	PosEmo
+天才	Affect	PosEmo
+天赋	Affect	PosEmo
+天资	Affect	PosEmo
+推崇	Affect	PosEmo
+外向	Affect	PosEmo
+完备	Affect	PosEmo
+万岁	Affect	PosEmo
+微笑	Affect	PosEmo
+微醺	Affect	PosEmo
+伟大	Affect	PosEmo
+温和	Affect	PosEmo
+温情	Affect	PosEmo
+温馨	Affect	PosEmo
+无惧	Affect	PosEmo
+无畏	Affect	PosEmo
+无忧无虑	Affect	PosEmo
+妩媚	Affect	PosEmo
+鲜美	Affect	PosEmo
+享受	Affect	PosEmo
+孝	Affect	PosEmo
+孝敬	Affect	PosEmo
+孝顺	Affect	PosEmo
+笑	Affect	PosEmo
+笑容	Affect	PosEmo
+笑死	Affect	PosEmo
+谢天谢地	Affect	PosEmo
+谢意	Affect	PosEmo
+心爱	Affect	PosEmo
+信实	Affect	PosEmo
+信义	Affect	PosEmo
+兴奋	Affect	PosEmo
+兴旺	Affect	PosEmo
+兴致	Affect	PosEmo
+幸福	Affect	PosEmo
+幸运	Affect	PosEmo
+许诺	Affect	PosEmo
+雅致	Affect	PosEmo
+养育	Affect	PosEmo
+依恋	Affect	PosEmo
+宜人	Affect	PosEmo
+引人注目	Affect	PosEmo
+英俊	Affect	PosEmo
+英勇	Affect	PosEmo
+拥护	Affect	PosEmo
+勇敢	Affect	PosEmo
+勇气	Affect	PosEmo
+优	Affect	PosEmo
+优惠	Affect	PosEmo
+优良	Affect	PosEmo
+优美	Affect	PosEmo
+优雅	Affect	PosEmo
+幽默	Affect	PosEmo
+有利	Affect	PosEmo
+有趣	Affect	PosEmo
+有益	Affect	PosEmo
+有用	Affect	PosEmo
+有助	Affect	PosEmo
+珍爱	Affect	PosEmo
+珍藏	Affect	PosEmo
+珍贵	Affect	PosEmo
+珍奇	Affect	PosEmo
+珍视	Affect	PosEmo
+珍惜	Affect	PosEmo
+真诚	Affect	PosEmo
+振奋	Affect	PosEmo
+镇定	Affect	PosEmo
+镇静	Affect	PosEmo
+整洁	Affect	PosEmo
+知足	Affect	PosEmo
+值钱	Affect	PosEmo
+至高无上	Affect	PosEmo
+至善	Affect	PosEmo
+忠	Affect	PosEmo
+忠实	Affect	PosEmo
+忠孝	Affect	PosEmo
+忠心	Affect	PosEmo
+衷心	Affect	PosEmo
+周到	Affect	PosEmo
+祝贺	Affect	PosEmo
+庄严	Affect	PosEmo
+壮观	Affect	PosEmo
+壮阔	Affect	PosEmo
+壮丽	Affect	PosEmo
+自由	Affect	PosEmo
+走运	Affect	PosEmo
+尊贵	Affect	PosEmo
+尊敬	Affect	PosEmo
+尊荣	Affect	PosEmo
+尊严	Affect	PosEmo
+尊重	Affect	PosEmo
+末日	Affect	Religion
+智慧	Affect	Religion
+穷困	Affect	Sad	Anx	NegEmo	Money
+累	Affect	Sad	Health	NegEmo	Bio
+疼痛	Affect	Sad	Health	NegEmo	Bio
+心痛	Affect	Sad	Health	NegEmo	Bio
+无用	Affect	Sad	NegEmo	Achieve	CogMech
+后悔	Affect	Sad	NegEmo	CogMech	Discrep
+惋惜	Affect	Sad	NegEmo	CogMech	Discrep
+放纵	Affect	Sad	NegEmo	CogMech
+阴暗	Affect	See	Sad	Percept	NegEmo
+色情	Affect	Sexual	Bio
+引诱	Affect	Sexual	CogMech	Bio
+娼妓	Affect	Sexual	NegEmo	Bio
+勾引	Affect	Sexual	NegEmo	Bio
+妓女	Affect	Sexual	NegEmo	Bio
+称赞	Affect	Social	Achieve	PosEmo
+嘉奖	Affect	Social	Achieve	PosEmo
+归咎	Affect	Social	Cause	NegEmo	CogMech
+宝贝	Affect	Social	Friend	PosEmo
+恋人	Affect	Social	Friend	PosEmo
+朋友	Affect	Social	Friend	PosEmo
+亲爱的	Affect	Social	Friend	PosEmo
+知己	Affect	Social	Friend	PosEmo
+坦白	Affect	Social	Insight	CogMech	PosEmo
+原谅	Affect	Social	Insight	CogMech	PosEmo
+放心	Affect	Social	Leisure	PosEmo
+安心	Affect	Social	PosEmo
+奉献	Affect	Social	PosEmo
+款待	Affect	Social	PosEmo
+亲爱	Affect	Social	PosEmo
+亲切	Affect	Social	PosEmo
+热爱	Affect	Social	PosEmo
+调情	Affect	Social	PosEmo
+信服	Affect	Social	PosEmo
+钟爱	Affect	Social	PosEmo
+同情	Affect	Social	Sad	NegEmo	PosEmo
+爱恋	Affect	Social	Sexual	Bio	PosEmo
+恋爱	Affect	Social	Sexual	Bio	PosEmo
+帮忙	Affect	Social	Verb	PosEmo
+帮助	Affect	Social	Verb	PosEmo
+分享	Affect	Social	Verb	PosEmo
+付出	Affect	Social	Verb	PosEmo
+协助	Affect	Social	Verb	PosEmo
+游戏	Affect	Social	Verb	PosEmo
+谄媚	Affect	Social
+分担	Affect	Social
+奉承	Affect	Social
+交往	Affect	Social
+开玩笑	Affect	Social
+饶恕	Affect	Social
+说服	Affect	Social
+怪胎	Affect	Swear	NegEmo
+不长眼	Affect	Swear
+踌躇	Affect	Tentat	Anx	NegEmo	CogMech
+冒险	Affect	Tentat	Anx	NegEmo	CogMech
+迷惑	Affect	Tentat	Anx	NegEmo	CogMech
+优柔寡断	Affect	Tentat	Anx	NegEmo	CogMech
+犹疑	Affect	Tentat	Anx	NegEmo	CogMech
+犹豫	Affect	Tentat	Anx	NegEmo	CogMech
+迷失	Affect	Tentat	CogMech
+无常	Affect	Tentat	CogMech
+随意	Affect	Tentat	Funct	Adverb	CogMech
+假装	Affect	Tentat	Insight	NegEmo	CogMech
+不定	Affect	Tentat	NegEmo	CogMech
+徘徊	Affect	Tentat	NegEmo	CogMech
+盼望	Affect	Tentat	PosEmo	CogMech	Discrep
+期盼	Affect	Tentat	PosEmo	CogMech	Discrep
+迷惘	Affect	Tentat	Sad	NegEmo	CogMech
+逃避	Affect	Verb	Anx	NegEmo	Achieve
+担心	Affect	Verb	Anx	NegEmo
+忘记	Affect	Verb	Inhibition	CogMech
+小心	Affect	Verb	Inhibition	CogMech
+玩	Affect	Verb	Leisure	PosEmo
+失去	Affect	Verb	NegEmo	Achieve	Sad
+输	Affect	Verb	NegEmo	Achieve	Sad
+打	Affect	Verb	NegEmo
+成功	Affect	Verb	PosEmo	Achieve	Work
+支持	Affect	Verb	PosEmo	CogMech	Certain
+适合	Affect	Verb	PosEmo	CogMech
+爱好	Affect	Verb	PosEmo
+感谢	Affect	Verb	PosEmo
+贡献	Affect	Verb	PosEmo
+关怀	Affect	Verb	PosEmo
+吸引	Affect	Verb	PosEmo
+谢谢	Affect	Verb	PosEmo
+赢	Affect	Verb	PosEmo
+赢得	Affect	Verb	PosEmo
+抱	Affect	Verb	Sexual	PosEmo	Bio
+遇到	Affect	Verb	Social
+关心	Affect	Verb
+应付	Affect	Verb
+承担	Affect	Work	Achieve	CogMech
+获胜	Affect	Work	Achieve	Leisure	PosEmo
+利益	Affect	Work	Achieve	Money
+才能	Affect	Work	Achieve	PosEmo
+成就	Affect	Work	Achieve	PosEmo
+冠军	Affect	Work	Achieve	PosEmo
+荣誉	Affect	Work	Achieve	PosEmo
+擅长	Affect	Work	Achieve	PosEmo
+胜利	Affect	Work	Achieve	PosEmo
+挑战	Affect	Work	Achieve	PosEmo
+优胜	Affect	Work	Achieve	PosEmo
+优势	Affect	Work	Achieve	PosEmo
+无益	Affect	Work	NegEmo	Achieve	Sad
+统治	Affect	Work	NegEmo	Achieve
+无效	Affect	Work	NegEmo	Achieve
+降级	Affect	Work	NegEmo
+利润	Affect	Work	PosEmo	Money
+功劳	Affect	Work	PosEmo
+信誉	Affect	Work	PosEmo
+昂贵	Affect
+百感交集	Affect
+保卫	Affect
+诧异	Affect
+痴狂	Affect
+痴迷	Affect
+打倒	Affect
+打情骂俏	Affect
+胆战心惊	Affect
+独自	Affect
+多情	Affect
+发臭	Affect
+防护	Affect
+防卫	Affect
+防御	Affect
+放肆	Affect
+非人	Affect
+分散	Affect
+分手	Affect
+感情	Affect
+高傲	Affect
+挂虑	Affect
+滑稽	Affect
+缓和	Affect
+火热	Affect
+娇弱	Affect
+结巴	Affect
+精力	Affect
+救	Affect
+就绪	Affect
+剧烈	Affect
+夸大	Affect
+滥情	Affect
+利己	Affect
+怜惜	Affect
+流行	Affect
+隆重	Affect
+猛烈	Affect
+迷恋	Affect
+迷路	Affect
+面临	Affect
+铭印	Affect
+命运	Affect
+嫩	Affect
+偏爱	Affect
+偏心	Affect
+拼命	Affect
+强力	Affect
+亲密	Affect
+清白	Affect
+确信	Affect
+热泪盈眶	Affect
+热闹	Affect
+热望	Affect
+容忍	Affect
+柔顺	Affect
+若无其事	Affect
+傻	Affect
+傻子	Affect
+上级	Affect
+使劲	Affect
+首创	Affect
+思	Affect
+思念故乡	Affect
+酸甜苦辣	Affect
+淘气	Affect
+调皮	Affect
+威严	Affect
+无辜	Affect
+无害	Affect
+无暇	Affect
+无知	Affect
+羡慕	Affect
+心情	Affect
+性情	Affect
+虚荣	Affect
+虚荣心	Affect
+虚心	Affect
+严重	Affect
+眼花缭乱	Affect
+怡人	Affect
+踊跃	Affect
+用力	Affect
+有力	Affect
+着迷	Affect
+真心	Affect
+震颤	Affect
+自鸣得意	Affect
+侮辱	Anger	Affect	Anx	NegEmo	Social
+打搅	Anger	Affect	Anx	NegEmo
+荒谬	Anger	Affect	Anx	NegEmo
+唠叨	Anger	Affect	Anx	NegEmo
+谋杀	Anger	Affect	Death	NegEmo
+杀	Anger	Affect	Death	NegEmo
+杀死	Anger	Affect	Death	NegEmo
+消灭	Anger	Affect	Death	NegEmo
+战火	Anger	Affect	Death	NegEmo
+战乱	Anger	Affect	Death	NegEmo
+战争	Anger	Affect	Death	NegEmo
+狂躁	Anger	Affect	Health	NegEmo	Bio
+有害	Anger	Affect	Health	NegEmo	Bio
+作呕	Anger	Affect	Health	NegEmo	Bio
+对抗	Anger	Affect	Inhibition	NegEmo	CogMech
+反对	Anger	Affect	Inhibition	NegEmo	CogMech
+倔强	Anger	Affect	Inhibition	NegEmo	CogMech
+矛盾	Anger	Affect	Inhibition	NegEmo	CogMech
+严厉	Anger	Affect	Inhibition	NegEmo	CogMech
+不甘	Anger	Affect	NegEmo	CogMech	Discrep
+激怒	Anger	Affect	NegEmo	CogMech
+挑衅	Anger	Affect	NegEmo	CogMech
+无理	Anger	Affect	NegEmo	CogMech
+小气	Anger	Affect	NegEmo	Money
+邪恶	Anger	Affect	NegEmo	Religion
+差	Anger	Affect	NegEmo	Sad
+差劲	Anger	Affect	NegEmo	Sad
+挫折	Anger	Affect	NegEmo	Sad
+烂	Anger	Affect	NegEmo	Sad
+气馁	Anger	Affect	NegEmo	Sad
+蹂躏	Anger	Affect	NegEmo	Sad
+折磨	Anger	Affect	NegEmo	Sad
+自责	Anger	Affect	NegEmo	Sad
+驳斥	Anger	Affect	NegEmo	Social
+插嘴	Anger	Affect	NegEmo	Social
+打岔	Anger	Affect	NegEmo	Social
+打断	Anger	Affect	NegEmo	Social
+打架	Anger	Affect	NegEmo	Social
+斗争	Anger	Affect	NegEmo	Social
+忌妒	Anger	Affect	NegEmo	Social
+抗议	Anger	Affect	NegEmo	Social
+冒犯	Anger	Affect	NegEmo	Social
+批评	Anger	Affect	NegEmo	Social
+谴责	Anger	Affect	NegEmo	Social
+取笑	Anger	Affect	NegEmo	Social
+辱骂	Anger	Affect	NegEmo	Social
+怨恨	Anger	Affect	NegEmo	Social
+责备	Anger	Affect	NegEmo	Social
+争吵	Anger	Affect	NegEmo	Social
+指责	Anger	Affect	NegEmo	Social
+诅咒	Anger	Affect	NegEmo	Social
+肮脏	Anger	Affect	NegEmo
+傲慢	Anger	Affect	NegEmo
+败坏	Anger	Affect	NegEmo
+报仇	Anger	Affect	NegEmo
+报复	Anger	Affect	NegEmo
+暴力	Anger	Affect	NegEmo
+暴怒	Anger	Affect	NegEmo
+暴躁	Anger	Affect	NegEmo
+卑鄙	Anger	Affect	NegEmo
+卑劣	Anger	Affect	NegEmo
+背叛	Anger	Affect	NegEmo
+不满	Anger	Affect	NegEmo
+不悦	Anger	Affect	NegEmo
+不贞	Anger	Affect	NegEmo
+残暴	Anger	Affect	NegEmo
+残酷	Anger	Affect	NegEmo
+残忍	Anger	Affect	NegEmo
+成见	Anger	Affect	NegEmo
+吃醋	Anger	Affect	NegEmo
+冲突	Anger	Affect	NegEmo
+处罚	Anger	Affect	NegEmo
+触怒	Anger	Affect	NegEmo
+吹毛求疵	Anger	Affect	NegEmo
+刺伤	Anger	Affect	NegEmo
+粗暴	Anger	Affect	NegEmo
+粗鲁	Anger	Affect	NegEmo
+打仗	Anger	Affect	NegEmo
+得罪	Anger	Affect	NegEmo
+低能	Anger	Affect	NegEmo
+丢下	Anger	Affect	NegEmo
+对质	Anger	Affect	NegEmo
+发狂	Anger	Affect	NegEmo
+发怒	Anger	Affect	NegEmo
+反感	Anger	Affect	NegEmo
+反抗	Anger	Affect	NegEmo
+反派	Anger	Affect	NegEmo
+反叛	Anger	Affect	NegEmo
+非礼	Anger	Affect	NegEmo
+非难	Anger	Affect	NegEmo
+讽刺	Anger	Affect	NegEmo
+复仇	Anger	Affect	NegEmo
+公愤	Anger	Affect	NegEmo
+攻击	Anger	Affect	NegEmo
+狠心	Anger	Affect	NegEmo
+哄骗	Anger	Affect	NegEmo
+胡扯	Anger	Affect	NegEmo
+荒唐	Anger	Affect	NegEmo
+混账	Anger	Affect	NegEmo
+激动	Anger	Affect	NegEmo
+看不起	Anger	Affect	NegEmo
+拷打	Anger	Affect	NegEmo
+拷问	Anger	Affect	NegEmo
+苛求	Anger	Affect	NegEmo
+可鄙	Anger	Affect	NegEmo
+可耻	Anger	Affect	NegEmo
+可恶	Anger	Affect	NegEmo
+可笑	Anger	Affect	NegEmo
+可憎	Anger	Affect	NegEmo
+恐吓	Anger	Affect	NegEmo
+酷刑	Anger	Affect	NegEmo
+狂暴	Anger	Affect	NegEmo
+狂怒	Anger	Affect	NegEmo
+冷酷	Anger	Affect	NegEmo
+吝啬	Anger	Affect	NegEmo
+蔑视	Anger	Affect	NegEmo
+虐待	Anger	Affect	NegEmo
+叛乱	Anger	Affect	NegEmo
+抛弃	Anger	Affect	NegEmo
+咆啸	Anger	Affect	NegEmo
+抨击	Anger	Affect	NegEmo
+批判	Anger	Affect	NegEmo
+屁眼	Anger	Affect	NegEmo
+偏见	Anger	Affect	NegEmo
+偏执	Anger	Affect	NegEmo
+破坏	Anger	Affect	NegEmo
+七窍生烟	Anger	Affect	NegEmo
+歧视	Anger	Affect	NegEmo
+气愤	Anger	Affect	NegEmo
+气急败坏	Anger	Affect	NegEmo
+瞧不起	Anger	Affect	NegEmo
+轻视	Anger	Affect	NegEmo
+惹恼	Anger	Affect	NegEmo
+撒谎	Anger	Affect	NegEmo
+骚扰	Anger	Affect	NegEmo
+上当	Anger	Affect	NegEmo
+生气	Anger	Affect	NegEmo
+盛怒	Anger	Affect	NegEmo
+世仇	Anger	Affect	NegEmo
+势利	Anger	Affect	NegEmo
+受害	Anger	Affect	NegEmo
+受骗	Anger	Affect	NegEmo
+受罪	Anger	Affect	NegEmo
+说谎	Anger	Affect	NegEmo
+挑剔	Anger	Affect	NegEmo
+挖苦	Anger	Affect	NegEmo
+顽固	Anger	Affect	NegEmo
+顽强	Anger	Affect	NegEmo
+威胁	Anger	Affect	NegEmo
+龌龊	Anger	Affect	NegEmo
+无礼	Anger	Affect	NegEmo
+无情	Anger	Affect	NegEmo
+奚落	Anger	Affect	NegEmo
+胁迫	Anger	Affect	NegEmo
+亵渎	Anger	Affect	NegEmo
+性骚扰	Anger	Affect	NegEmo
+严酷	Anger	Affect	NegEmo
+咬牙切齿	Anger	Affect	NegEmo
+义愤	Anger	Affect	NegEmo
+易怒	Anger	Affect	NegEmo
+愚笨	Anger	Affect	NegEmo
+遇难	Anger	Affect	NegEmo
+造反	Anger	Affect	NegEmo
+诈骗	Anger	Affect	NegEmo
+战斗	Anger	Affect	NegEmo
+震怒	Anger	Affect	NegEmo
+众怒	Anger	Affect	NegEmo
+咒骂	Anger	Affect	NegEmo
+作弊	Anger	Affect	NegEmo
+不平	Anger	Affect	Percept	Feel	NegEmo
+讨厌	Anger	Affect	Percept	Verb	NegEmo
+强奸	Anger	Affect	Sexual	NegEmo	Bio
+强奸犯	Anger	Affect	Sexual	NegEmo	Bio
+抱怨	Anger	Affect	Social	NegEmo	CogMech
+争论	Anger	Affect	Social	NegEmo	CogMech
+白痴	Anger	Affect	Swear	NegEmo
+蹩脚	Anger	Affect	Swear	NegEmo
+操	Anger	Affect	Swear	NegEmo
+放屁	Anger	Affect	Swear	NegEmo
+该死	Anger	Affect	Swear	NegEmo
+狗屁	Anger	Affect	Swear	NegEmo
+混蛋	Anger	Affect	Swear	NegEmo
+垃圾	Anger	Affect	Swear	NegEmo
+烂货	Anger	Affect	Swear	NegEmo
+妈的	Anger	Affect	Swear	NegEmo
+呸	Anger	Affect	Swear	NegEmo
+他妈的	Anger	Affect	Swear	NegEmo
+王八蛋	Anger	Affect	Swear	NegEmo
+下流	Anger	Affect	Swear	NegEmo
+淫妇	Anger	Affect	Swear	NegEmo
+愚蠢	Anger	Affect	Swear	NegEmo
+打败	Anger	Affect	Work	NegEmo	Achieve
+伤害	Anger	Bio	Health
+贱人	Anger	Bio	Swear	Sexual
+滥用	Anger	NegEmo
+毁坏	Anger	Sad
+嘲弄	Anger	Social
+笨蛋	Anger	Swear
+呆子	Anger	Swear
+贱	Anger	Swear
+笨	Anger
+惨痛	Anger
+嘲讽	Anger
+嘲笑	Anger
+丑陋	Anger
+呆	Anger
+疯狂	Anger
+坏蛋	Anger
+坏人	Anger
+毁谤	Anger
+祸首	Anger
+讥讽	Anger
+讥笑	Anger
+困扰	Anger
+侵犯	Anger
+侵略	Anger
+侵袭	Anger
+缺德	Anger
+伤天害理	Anger
+损坏	Anger
+凶恶	Anger
+凶猛	Anger
+厌恶	Anger
+厌烦	Anger
+脏	Anger
+糟蹋	Anger
+惊呆	Anx	NegEmo
+惊骇	Anx	NegEmo
+惊恐	Anx	NegEmo
+惊悚	Anx	NegEmo
+惊吓	Anx	NegEmo
+烦扰	Anx
+糟糕	Anx
+罪恶感	Anx
+不错	Assent	Adverb
+ㄏ	Assent
+呵	Assent
+家家户户	Assent
+就是说	Assent
+酷	Assent
+厉害	Assent
+瞭	Assent
+噢	Assent
+唔	Assent
+赞	Assent
+啧啧	Assent
+该	AuxVerb	Funct	SpecArt
+敢	AuxVerb	Funct
+肯	AuxVerb	Funct
+应	AuxVerb	Funct
+得	AuxVerb	Verb	MultiFun	Funct
+不行	AuxVerb
+烦恼	Bio	Anx	Health	Sad
+水	Bio	Assent	Ingest
+苦恼	Bio	CogMech	Sad	Health	Affect	Anx	NegEmo
+活	Bio	Death	Health	Verb
+伴侣	Bio	Family	PosEmo	Social	Affect	Sexual	Friend
+冷	Bio	Feel	Percept	Health	Affect	NegEmo
+热情	Bio	Feel	PosEmo	Percept	Affect	Sexual
+拥抱	Bio	Feel	PosEmo	Percept	Affect	Sexual
+喝醉	Bio	Health	Ingest	Leisure
+酒	Bio	Health	Ingest	Leisure
+酒精	Bio	Health	Ingest	Leisure
+暴食	Bio	Health	Ingest
+暴饮暴食	Bio	Health	Ingest
+超重	Bio	Health	Ingest
+肥胖	Bio	Health	Ingest
+肥胖症	Bio	Health	Ingest
+过重	Bio	Health	Ingest
+减肥	Bio	Health	Ingest
+狂饮	Bio	Health	Ingest
+摄入	Bio	Health	Ingest
+摄食	Bio	Health	Ingest
+食入	Bio	Health	Ingest
+吸收	Bio	Health	Ingest
+消化	Bio	Health	Ingest
+厌食	Bio	Health	Ingest
+营养	Bio	Health	Ingest
+打瞌睡	Bio	Health	Leisure
+健康	Bio	Health	Leisure
+晒黑	Bio	Health	Leisure
+晒伤	Bio	Health	Leisure
+伤	Bio	Health	Sad
+艾滋	Bio	Health	Sexual
+艾滋病	Bio	Health	Sexual
+堕胎	Bio	Health	Sexual
+怀孕	Bio	Health	Sexual
+流产	Bio	Health	Sexual
+梅毒	Bio	Health	Sexual
+妊娠	Bio	Health	Sexual
+性病	Bio	Health	Sexual
+孕	Bio	Health	Sexual
+孕期	Bio	Health	Sexual
+x射线	Bio	Health
+阿司匹林	Bio	Health
+癌	Bio	Health
+癌症	Bio	Health
+安眠药	Bio	Health
+按摩	Bio	Health
+拔罐	Bio	Health
+白内障	Bio	Health
+白血病	Bio	Health
+百忧解	Bio	Health
+斑点	Bio	Health
+贲门	Bio	Health
+绷带	Bio	Health
+鼻窦炎	Bio	Health
+避孕药	Bio	Health
+便秘	Bio	Health
+病	Bio	Health
+病房	Bio	Health
+病理	Bio	Health
+病理学	Bio	Health
+病态	Bio	Health
+病原	Bio	Health
+病征	Bio	Health
+哺乳	Bio	Health
+不良	Bio	Health
+擦伤	Bio	Health
+沉溺	Bio	Health
+成药	Bio	Health
+充血	Bio	Health
+抽动	Bio	Health
+抽筋	Bio	Health
+抽血	Bio	Health
+出血	Bio	Health
+处方	Bio	Health
+喘气	Bio	Health
+疮	Bio	Health
+催吐	Bio	Health
+打嗝	Bio	Health
+胆固醇	Bio	Health
+低温	Bio	Health
+锭	Bio	Health
+痘	Bio	Health
+窦	Bio	Health
+毒	Bio	Health
+毒品	Bio	Health
+毒素	Bio	Health
+毒物	Bio	Health
+毒药	Bio	Health
+堵塞	Bio	Health
+恶心	Bio	Health
+儿科	Bio	Health
+发烧	Bio	Health
+发炎	Bio	Health
+发育	Bio	Health
+发作	Bio	Health
+反胃	Bio	Health
+放射	Bio	Health
+肺气肿	Bio	Health
+分裂症	Bio	Health
+粉刺	Bio	Health
+服药	Bio	Health
+妇科	Bio	Health
+复原	Bio	Health
+腹痛	Bio	Health
+腹泻	Bio	Health
+感冒	Bio	Health
+高血压	Bio	Health
+睾	Bio	Health
+哽	Bio	Health
+刮除	Bio	Health
+挂号	Bio	Health
+冠状动脉	Bio	Health
+灌肠	Bio	Health
+过敏	Bio	Health
+过敏原	Bio	Health
+寒颤	Bio	Health
+荷尔蒙	Bio	Health
+核磁共振	Bio	Health
+喉糖	Bio	Health
+候诊	Bio	Health
+呼气	Bio	Health
+护理	Bio	Health
+护士	Bio	Health
+幻觉	Bio	Health
+幻视	Bio	Health
+幻听	Bio	Health
+昏倒	Bio	Health
+昏昏欲睡	Bio	Health
+昏厥	Bio	Health
+昏迷	Bio	Health
+昏睡	Bio	Health
+昏眩	Bio	Health
+畸形	Bio	Health
+激素	Bio	Health
+疾病	Bio	Health
+剂	Bio	Health
+剂量	Bio	Health
+悸动	Bio	Health
+加护	Bio	Health
+痂	Bio	Health
+甲状腺	Bio	Health
+健康保险	Bio	Health
+僵	Bio	Health
+僵硬	Bio	Health
+胶布	Bio	Health
+绞痛	Bio	Health
+矫正	Bio	Health
+脚病	Bio	Health
+结石	Bio	Health
+截肢	Bio	Health
+解毒	Bio	Health
+戒毒、戒酒	Bio	Health
+疥癣	Bio	Health
+近视	Bio	Health
+精神病	Bio	Health
+精神病药	Bio	Health
+痉挛	Bio	Health
+军医	Bio	Health
+开药	Bio	Health
+康复	Bio	Health
+抗过动药	Bio	Health
+抗酸	Bio	Health
+抗药	Bio	Health
+磕药	Bio	Health
+咳	Bio	Health
+咳嗽	Bio	Health
+恐惧症	Bio	Health
+溃疡	Bio	Health
+拉皮	Bio	Health
+阑尾炎	Bio	Health
+老花眼	Bio	Health
+雷射	Bio	Health
+利他林	Bio	Health
+链球菌	Bio	Health
+疗法	Bio	Health
+临床	Bio	Health
+淋巴	Bio	Health
+淋巴液	Bio	Health
+流感	Bio	Health
+流食	Bio	Health
+隆起	Bio	Health
+麻痹	Bio	Health
+慢性	Bio	Health
+慢性病	Bio	Health
+盲肠炎	Bio	Health
+盲人	Bio	Health
+美白	Bio	Health
+免疫	Bio	Health
+脓包	Bio	Health
+呕	Bio	Health
+排毒	Bio	Health
+疱疹	Bio	Health
+配药	Bio	Health
+披衣菌	Bio	Health
+疲惫	Bio	Health
+疲倦	Bio	Health
+疲劳	Bio	Health
+气喘	Bio	Health
+强迫症	Bio	Health
+切除	Bio	Health
+青春痘	Bio	Health
+青光眼	Bio	Health
+丘疹	Bio	Health
+躯体	Bio	Health
+人命	Bio	Health
+乳癌	Bio	Health
+伤疤	Bio	Health
+伤口	Bio	Health
+神经学	Bio	Health
+沈溺	Bio	Health
+生理	Bio	Health
+手术	Bio	Health
+手术室	Bio	Health
+寿命	Bio	Health
+受孕	Bio	Health
+衰弱	Bio	Health
+死尸	Bio	Health
+瘫痪	Bio	Health
+糖尿病	Bio	Health
+体格	Bio	Health
+体检	Bio	Health
+体温计	Bio	Health
+头昏眼花	Bio	Health
+头痛	Bio	Health
+头晕目眩	Bio	Health
+退烧药	Bio	Health
+外科	Bio	Health
+维生素	Bio	Health
+维他命	Bio	Health
+胃痛	Bio	Health
+胃灼热	Bio	Health
+温度计	Bio	Health
+无痛	Bio	Health
+吸毒	Bio	Health
+洗肠	Bio	Health
+洗澡	Bio	Health
+下药	Bio	Health
+腺	Bio	Health
+腺体	Bio	Health
+消炎	Bio	Health
+小儿科	Bio	Health
+哮喘	Bio	Health
+心电图	Bio	Health
+心跳	Bio	Health
+心血管	Bio	Health
+心脏病	Bio	Health
+性命	Bio	Health
+宿醉	Bio	Health
+眩晕	Bio	Health
+血癌	Bio	Health
+血清	Bio	Health
+牙科	Bio	Health
+牙医	Bio	Health
+厌食症	Bio	Health
+验光	Bio	Health
+药	Bio	Health
+药方	Bio	Health
+药房	Bio	Health
+药剂	Bio	Health
+药理学	Bio	Health
+药片	Bio	Health
+药丸	Bio	Health
+噎	Bio	Health
+医疗	Bio	Health
+医药	Bio	Health
+医院	Bio	Health
+医治	Bio	Health
+胰岛素	Bio	Health
+瘾	Bio	Health
+忧郁	Bio	Health
+疣	Bio	Health
+有病	Bio	Health
+淤血	Bio	Health
+瘀	Bio	Health
+元气	Bio	Health
+远视	Bio	Health
+晕眩	Bio	Health
+早产	Bio	Health
+造影	Bio	Health
+躁郁症	Bio	Health
+胀气	Bio	Health
+照料	Bio	Health
+针灸	Bio	Health
+诊断	Bio	Health
+诊断书	Bio	Health
+诊所	Bio	Health
+镇静剂	Bio	Health
+镇痛	Bio	Health
+征候	Bio	Health
+整形	Bio	Health
+症候群	Bio	Health
+症状	Bio	Health
+支气管	Bio	Health
+止咳	Bio	Health
+止痛药	Bio	Health
+指压	Bio	Health
+制酸	Bio	Health
+治愈	Bio	Health
+痔疮	Bio	Health
+窒息	Bio	Health
+中毒	Bio	Health
+中风	Bio	Health
+中医	Bio	Health
+肿	Bio	Health
+肿块	Bio	Health
+肿瘤	Bio	Health
+肿胀	Bio	Health
+住院	Bio	Health
+转诊	Bio	Health
+壮阳药	Bio	Health
+足病	Bio	Health
+足科	Bio	Health
+阻塞	Bio	Health
+醉酒	Bio	Health
+烘培	Bio	Home
+厨房	Bio	Ingest	Home
+烘	Bio	Ingest	Home
+烘焙	Bio	Ingest	Home
+烘烤	Bio	Ingest	Home
+烤	Bio	Ingest	Home
+宴会	Bio	Ingest	Leisure	Social
+餐馆	Bio	Ingest	Leisure
+餐厅	Bio	Ingest	Leisure
+饭店	Bio	Ingest	Leisure
+鸡尾酒	Bio	Ingest	Leisure
+酒吧	Bio	Ingest	Leisure
+咖啡	Bio	Ingest	Leisure
+烈酒	Bio	Ingest	Leisure
+烹饪	Bio	Ingest	Leisure
+烹调	Bio	Ingest	Leisure
+啤酒	Bio	Ingest	Leisure
+葡萄酒	Bio	Ingest	Leisure
+威士忌	Bio	Ingest	Leisure
+小吃店	Bio	Ingest	Leisure
+饮	Bio	Ingest	Leisure
+饮料	Bio	Ingest	Leisure
+煮菜	Bio	Ingest	Leisure
+做菜	Bio	Ingest	Leisure
+素食	Bio	Ingest	Religion
+挨饿	Bio	Ingest
+饱	Bio	Ingest
+冰淇淋	Bio	Ingest
+冰糖	Bio	Ingest
+菜肴	Bio	Ingest
+餐	Bio	Ingest
+餐车	Bio	Ingest
+茶	Bio	Ingest
+茶叶	Bio	Ingest
+畅饮	Bio	Ingest
+撑	Bio	Ingest
+吃饱	Bio	Ingest
+吃素	Bio	Ingest
+抽烟	Bio	Ingest
+蛋	Bio	Ingest
+点心	Bio	Ingest
+碟子	Bio	Ingest
+饿	Bio	Ingest
+份量	Bio	Ingest
+糕点	Bio	Ingest
+果	Bio	Ingest
+果酒	Bio	Ingest
+果实	Bio	Ingest
+果汁	Bio	Ingest
+火锅	Bio	Ingest
+饥饿	Bio	Ingest
+煎	Bio	Ingest
+嚼	Bio	Ingest
+节食	Bio	Ingest
+进食	Bio	Ingest
+酒醉	Bio	Ingest
+咀嚼	Bio	Ingest
+咖啡豆	Bio	Ingest
+开胃	Bio	Ingest
+开胃菜	Bio	Ingest
+可乐	Bio	Ingest
+快餐	Bio	Ingest
+狼吞虎咽	Bio	Ingest
+老饕	Bio	Ingest
+卤味	Bio	Ingest
+蜜饯	Bio	Ingest
+面包	Bio	Ingest
+面食	Bio	Ingest
+面团	Bio	Ingest
+奶	Bio	Ingest
+牛奶	Bio	Ingest
+盘子	Bio	Ingest
+披萨	Bio	Ingest
+汽水	Bio	Ingest
+青菜	Bio	Ingest
+乳	Bio	Ingest
+乳汁	Bio	Ingest
+乳制品	Bio	Ingest
+三明治	Bio	Ingest
+色拉	Bio	Ingest
+膳食	Bio	Ingest
+上菜	Bio	Ingest
+食品	Bio	Ingest
+食物	Bio	Ingest
+蔬菜	Bio	Ingest
+薯条	Bio	Ingest
+水果	Bio	Ingest
+苏打	Bio	Ingest
+贪吃	Bio	Ingest
+糖	Bio	Ingest
+糖果	Bio	Ingest
+饕客	Bio	Ingest
+体重	Bio	Ingest
+甜点	Bio	Ingest
+痛饮	Bio	Ingest
+吞	Bio	Ingest
+吞下	Bio	Ingest
+吞咽	Bio	Ingest
+晚餐	Bio	Ingest
+晚饭	Bio	Ingest
+喂	Bio	Ingest
+喂食	Bio	Ingest
+午餐	Bio	Ingest
+午饭	Bio	Ingest
+吸烟	Bio	Ingest
+喜酒	Bio	Ingest
+下午茶	Bio	Ingest
+宵夜	Bio	Ingest
+小吃	Bio	Ingest
+雪茄	Bio	Ingest
+咽	Bio	Ingest
+咽下	Bio	Ingest
+烟	Bio	Ingest
+宴	Bio	Ingest
+意大利面	Bio	Ingest
+饮食	Bio	Ingest
+用餐	Bio	Ingest
+油炸	Bio	Ingest
+杂货店	Bio	Ingest
+早餐	Bio	Ingest
+早饭	Bio	Ingest
+炸	Bio	Ingest
+正餐	Bio	Ingest
+主餐	Bio	Ingest
+煮沸	Bio	Ingest
+煮熟	Bio	Ingest
+盲	Bio	Percept	Health	See
+失明	Bio	Percept	Health	See
+瞎	Bio	Percept	Health	See
+呕吐	Bio	Percept	Health
+头晕	Bio	Percept	Health
+聋	Bio	Percept	Hear	Health
+聋哑	Bio	Percept	Hear	Health
+重听	Bio	Percept	Hear	Health
+好吃	Bio	Percept	Ingest
+甜	Bio	Percept	Ingest
+味道	Bio	Percept	Ingest
+滋味	Bio	Percept	Ingest
+爱人	Bio	PosEmo	Social	Affect	Sexual	Friend
+情人	Bio	PosEmo	Social	Affect	Sexual	Friend
+爱	Bio	PosEmo	Verb	Social	Affect	Sexual
+份	Bio	QuanUnit	Ingest	Funct
+受伤	Bio	Sad	Health	Affect	Anx	NegEmo
+痛苦	Bio	Sad	Percept	Health	Affect	NegEmo
+虚弱	Bio	Sad	Percept	Health	Affect	NegEmo
+性欲	Bio	Sexual	Health
+保险套	Bio	Sexual
+娼	Bio	Sexual
+炒饭	Bio	Sexual
+耻骨	Bio	Sexual
+处女	Bio	Sexual
+肛交	Bio	Sexual
+好色	Bio	Sexual
+激	Bio	Sexual
+妓	Bio	Sexual
+精液	Bio	Sexual
+口交	Bio	Sexual
+狂欢	Bio	Sexual
+蕾丝边	Bio	Sexual
+两性	Bio	Sexual
+淋病	Bio	Sexual
+搂抱	Bio	Sexual
+乱伦	Bio	Sexual
+卖淫	Bio	Sexual
+男	Bio	Sexual
+女人	Bio	Sexual
+嫖	Bio	Sexual
+嫖妓	Bio	Sexual
+强暴	Bio	Sexual
+上床	Bio	Sexual
+双性恋	Bio	Sexual
+水性杨花	Bio	Sexual
+挑逗	Bio	Sexual
+同性恋	Bio	Sexual
+童贞	Bio	Sexual
+偷情	Bio	Sexual
+吻痕	Bio	Sexual
+西斯	Bio	Sexual
+洨	Bio	Sexual
+性爱	Bio	Sexual
+性变态	Bio	Sexual
+性别	Bio	Sexual
+性感	Bio	Sexual
+依偎	Bio	Sexual
+阴毛	Bio	Sexual
+淫荡	Bio	Sexual
+淫乱	Bio	Sexual
+淫欲	Bio	Sexual
+诱惑	Bio	Sexual
+诱奸	Bio	Sexual
+贞操	Bio	Sexual
+贞节	Bio	Sexual
+贞洁	Bio	Sexual
+种马	Bio	Sexual
+做爱	Bio	Sexual
+荡妇	Bio	Swear	Anger	Affect	Sexual	NegEmo
+生存	Bio	Verb	Health	Achieve
+感染	Bio	Verb	Health
+照顾	Bio	Verb	Health
+喝	Bio	Verb	Ingest	Leisure
+煮	Bio	Verb	Ingest	Leisure
+吃	Bio	Verb	Ingest
+干	Bio	Verb	Swear	Anger	Affect	Sexual	NegEmo
+病假	Bio	Work	Health
+大夫	Bio	Work	Health
+医生	Bio	Work	Health
+医师	Bio	Work	Health
+医学	Bio	Work	Health
+自助餐	Bio	Work	Ingest
+撤退	Bio
+流质	Bio
+卵	Bio
+女性	Bio
+皮疹	Bio
+胃酸	Bio
+消掉	Bio
+血腥	Bio
+滋养	Bio
+麻木	Body	Affect	NegEmo	Bio
+强壮	Body	Affect	PosEmo	Achieve	Bio
+刺痛	Body	Bio	Health	Anger	Affect	NegEmo
+肥	Body	Bio	Health	Ingest
+胖	Body	Bio	Health	Ingest
+胃口	Body	Bio	Health	Ingest
+脂肪	Body	Bio	Health	Ingest
+阴部	Body	Bio	Health	Sexual
+疙瘩	Body	Bio	Health
+脊椎	Body	Bio	Health
+腱	Body	Bio	Health
+结肠	Body	Bio	Health
+静脉	Body	Bio	Health
+阑尾	Body	Bio	Health
+流血	Body	Bio	Health
+脉搏	Body	Bio	Health
+盲肠	Body	Bio	Health
+膀胱	Body	Bio	Health
+肉体	Body	Bio	Health
+生命	Body	Bio	Health
+吐	Body	Bio	Health
+痒	Body	Bio	Health
+疹	Body	Bio	Health
+渴	Body	Bio	Ingest
+口渴	Body	Bio	Ingest
+食	Body	Bio	Ingest
+食欲	Body	Bio	Ingest
+耳朵	Body	Bio	Percept	Hear
+瘦	Body	Bio	Percept	Relative	Ingest
+眼睛	Body	Bio	Percept	See
+鼻	Body	Bio	Percept
+鼻孔	Body	Bio	Percept
+鼻子	Body	Bio	Percept
+垂涎	Body	Bio	Percept
+气息	Body	Bio	Percept
+舌	Body	Bio	Percept
+舌头	Body	Bio	Percept
+舔	Body	Bio	Percept
+听觉	Body	Bio	Percept
+唾液	Body	Bio	Percept
+股	Body	Bio	QuanUnit	Funct
+口	Body	Bio	QuanUnit	Funct
+头	Body	Bio	QuanUnit	Funct
+勃起	Body	Bio	Sexual
+赤裸	Body	Bio	Sexual
+高潮	Body	Bio	Sexual
+老二	Body	Bio	Sexual
+卵巢	Body	Bio	Sexual
+裸	Body	Bio	Sexual
+裸露	Body	Bio	Sexual
+裸体	Body	Bio	Sexual
+咪咪	Body	Bio	Sexual
+奶头	Body	Bio	Sexual
+屁股	Body	Bio	Sexual
+前列腺	Body	Bio	Sexual
+情欲	Body	Bio	Sexual
+乳房	Body	Bio	Sexual
+乳头	Body	Bio	Sexual
+生殖	Body	Bio	Sexual
+生殖器	Body	Bio	Sexual
+性	Body	Bio	Sexual
+性高潮	Body	Bio	Sexual
+性交	Body	Bio	Sexual
+胸部	Body	Bio	Sexual
+胸脯	Body	Bio	Sexual
+阳具	Body	Bio	Sexual
+阳物	Body	Bio	Sexual
+阴道	Body	Bio	Sexual
+阴茎	Body	Bio	Sexual
+子宫	Body	Bio	Sexual
+屎	Body	Bio	Swear
+死	Body	Bio	Verb	Death
+睡	Body	Bio	Verb	Home
+睡觉	Body	Bio	Verb	Home
+穿	Body	Bio	Verb
+戴	Body	Bio	Verb
+鼻腔	Body	Bio
+臂	Body	Bio
+扁桃体	Body	Bio
+脖子	Body	Bio
+肠	Body	Bio
+肠道	Body	Bio
+肠胃	Body	Bio
+肠子	Body	Bio
+齿	Body	Bio
+出汗	Body	Bio
+穿戴	Body	Bio
+唇	Body	Bio
+唇部	Body	Bio
+大便	Body	Bio
+大脑	Body	Bio
+大腿	Body	Bio
+胆囊	Body	Bio
+动脉	Body	Bio
+肚子	Body	Bio
+额	Body	Bio
+额头	Body	Bio
+二头肌	Body	Bio
+发	Body	Bio
+发汗	Body	Bio
+肺	Body	Bio
+肺脏	Body	Bio
+粪	Body	Bio
+服装	Body	Bio
+腹部	Body	Bio
+腹肌	Body	Bio
+腹腔	Body	Bio
+肝	Body	Bio
+肝脏	Body	Bio
+感官	Body	Bio
+肛门	Body	Bio
+睪丸	Body	Bio
+胳肢窝	Body	Bio
+骨	Body	Bio
+骨骼	Body	Bio
+骨盆	Body	Bio
+骨瘦如柴	Body	Bio
+骨头	Body	Bio
+骨质	Body	Bio
+关节	Body	Bio
+汗	Body	Bio
+汗水	Body	Bio
+喉咙	Body	Bio
+喉头	Body	Bio
+呼吸	Body	Bio
+踝	Body	Bio
+唤醒	Body	Bio
+肌	Body	Bio
+肌腱	Body	Bio
+肌肉	Body	Bio
+鸡皮疙瘩	Body	Bio
+脊髓	Body	Bio
+脊柱	Body	Bio
+肩膀	Body	Bio
+角膜	Body	Bio
+脚	Body	Bio
+脚背	Body	Bio
+脚跟	Body	Bio
+脚后跟	Body	Bio
+脚踝	Body	Bio
+脚趾	Body	Bio
+脚趾甲	Body	Bio
+颈	Body	Bio
+口腔	Body	Bio
+口水	Body	Bio
+骷髅	Body	Bio
+胯	Body	Bio
+胯部	Body	Bio
+困	Body	Bio
+拉屎	Body	Bio
+肋骨	Body	Bio
+脸	Body	Bio
+脸颊	Body	Bio
+流汗	Body	Bio
+颅	Body	Bio
+脉冲	Body	Bio
+毛发	Body	Bio
+苗条	Body	Bio
+脑	Body	Bio
+脑袋	Body	Bio
+内脏	Body	Bio
+黏膜	Body	Bio
+黏液	Body	Bio
+尿	Body	Bio
+尿道	Body	Bio
+尿液	Body	Bio
+脓	Body	Bio
+弄醒	Body	Bio
+排骨	Body	Bio
+排汗	Body	Bio
+配戴	Body	Bio
+躯干	Body	Bio
+肉	Body	Bio
+撒尿	Body	Bio
+腮帮子	Body	Bio
+上衣	Body	Bio
+身体	Body	Bio
+神经	Body	Bio
+神经元	Body	Bio
+肾脏	Body	Bio
+视网膜	Body	Bio
+手臂	Body	Bio
+手心	Body	Bio
+手掌	Body	Bio
+手肘	Body	Bio
+双脚	Body	Bio
+睡着	Body	Bio
+体力	Body	Bio
+头发	Body	Bio
+头盖骨	Body	Bio
+头骨	Body	Bio
+头颅	Body	Bio
+头脑	Body	Bio
+头皮	Body	Bio
+秃头	Body	Bio
+腿	Body	Bio
+臀	Body	Bio
+臀部	Body	Bio
+驼背	Body	Bio
+唾腺	Body	Bio
+腕	Body	Bio
+胃	Body	Bio
+膝盖	Body	Bio
+膝关节	Body	Bio
+下巴	Body	Bio
+纤细	Body	Bio
+小便	Body	Bio
+小腿	Body	Bio
+心	Body	Bio
+心肌	Body	Bio
+心脏	Body	Bio
+醒	Body	Bio
+胸	Body	Bio
+胸膛	Body	Bio
+修长	Body	Bio
+削瘦	Body	Bio
+血	Body	Bio
+血管	Body	Bio
+血淋淋	Body	Bio
+血统	Body	Bio
+血液	Body	Bio
+牙	Body	Bio
+牙齿	Body	Bio
+牙床	Body	Bio
+牙龈	Body	Bio
+咽喉	Body	Bio
+眼角膜	Body	Bio
+腰	Body	Bio
+腰部	Body	Bio
+腰身	Body	Bio
+腋	Body	Bio
+腋窝	Body	Bio
+衣服	Body	Bio
+掌	Body	Bio
+掌心	Body	Bio
+真皮	Body	Bio
+疹子	Body	Bio
+直肠	Body	Bio
+指关节	Body	Bio
+指节	Body	Bio
+趾	Body	Bio
+肘	Body	Bio
+足	Body	Bio
+足尖	Body	Bio
+嘴	Body	Bio
+嘴巴	Body	Bio
+嘴部	Body	Bio
+嘴唇	Body	Bio
+感觉	Body	CogMech	Bio	Feel	Insight	Percept	Verb
+知觉	Body	CogMech	Insight	Bio
+鞋	Body
+意图	Cause	Achieve
+迫使	Cause
+无疑	Certain
+无法	CogMech	Achieve	Discrep
+设计	CogMech	Achieve
+重要	CogMech	Achieve
+此外	CogMech	Adverb	Exclusive	Funct	Discrep	Conj	Preps
+不	CogMech	Adverb	Exclusive
+从来	CogMech	Adverb	Funct	Certain	Relative	Time
+一直	CogMech	Adverb	Funct	Certain	Relative	Time
+总是	CogMech	Adverb	Funct	Certain	Relative	Time
+最后	CogMech	Adverb	Funct	Certain	Relative	Time
+经常	CogMech	Adverb	Funct	Discrep	Relative	Time
+就	CogMech	Adverb	Funct	Filler	Exclusive	Conj
+也	CogMech	Adverb	Funct	Inclusive	Interjunction	Conj
+肯定	CogMech	Adverb	Funct	PosEmo	Certain	Affect
+平常	CogMech	Adverb	Funct	PresentM	Relative	Time	TenseM
+立即	CogMech	Adverb	Funct	Relative	FutureM	Time	TenseM
+需要	CogMech	Adverb	Funct	Work	Verb	Discrep	Achieve
+简直	CogMech	Adverb	Funct
+十分	CogMech	Adverb	Funct
+最	CogMech	Adverb	Funct
+不解	CogMech	Anx	Insight	Affect	Cause	NegEmo
+能够	CogMech	AuxVerb	Achieve	Funct
+不得	CogMech	AuxVerb	Discrep	Certain
+不可	CogMech	AuxVerb	Discrep	Certain
+不可以	CogMech	AuxVerb	Discrep	Certain
+不应该	CogMech	AuxVerb	Discrep	Certain
+不必	CogMech	AuxVerb	Discrep
+不能	CogMech	AuxVerb	Discrep
+可	CogMech	AuxVerb	Funct	Assent	Discrep
+必须	CogMech	AuxVerb	Funct	Certain	Discrep
+必要	CogMech	AuxVerb	Funct	Certain	Discrep
+必得	CogMech	AuxVerb	Funct	Discrep
+能	CogMech	AuxVerb	Funct	Discrep
+应当	CogMech	AuxVerb	Funct	Discrep
+应该	CogMech	AuxVerb	Funct	Tentat	Discrep
+也许	CogMech	AuxVerb	Tentat	Adverb	Funct
+或许	CogMech	AuxVerb	Tentat	Funct
+让	CogMech	AuxVerb	Verb	Cause	Funct
+不会	CogMech	AuxVerb	Verb	Discrep
+会	CogMech	AuxVerb	Verb	Funct	Discrep
+要	CogMech	AuxVerb	Verb	Funct	Discrep
+操纵	CogMech	Cause	Achieve
+创办人	CogMech	Cause	Achieve
+创建	CogMech	Cause	Achieve
+创立	CogMech	Cause	Achieve
+创造	CogMech	Cause	Achieve
+创作	CogMech	Cause	Achieve
+动机	CogMech	Cause	Achieve
+发明	CogMech	Cause	Achieve
+结局	CogMech	Cause	Achieve
+企图	CogMech	Cause	Achieve
+效果	CogMech	Cause	Achieve
+作用	CogMech	Cause	Achieve
+如何	CogMech	Cause	Adverb	Funct
+必然	CogMech	Cause	Certain
+根据	CogMech	Cause	Preps	Funct
+报应	CogMech	Cause	Religion
+暗示	CogMech	Cause
+操控	CogMech	Cause
+成果	CogMech	Cause
+成效	CogMech	Cause
+触发	CogMech	Cause
+道理	CogMech	Cause
+发动	CogMech	Cause
+发源	CogMech	Cause
+改正	CogMech	Cause
+根基	CogMech	Cause
+根源	CogMech	Cause
+归因	CogMech	Cause
+果然	CogMech	Cause
+果真	CogMech	Cause
+何以	CogMech	Cause
+何以见得	CogMech	Cause
+混淆	CogMech	Cause
+基本	CogMech	Cause
+基础	CogMech	Cause
+基于	CogMech	Cause
+加剧	CogMech	Cause
+加强	CogMech	Cause
+加重	CogMech	Cause
+教唆	CogMech	Cause
+起因	CogMech	Cause
+牵涉	CogMech	Cause
+涉及	CogMech	Cause
+使得	CogMech	Cause
+条理	CogMech	Cause
+为何	CogMech	Cause
+为啥	CogMech	Cause
+为什么	CogMech	Cause
+许可	CogMech	Cause
+因果	CogMech	Cause
+因之	CogMech	Cause
+引出	CogMech	Cause
+引发	CogMech	Cause
+由来	CogMech	Cause
+原本	CogMech	Cause
+原理	CogMech	Cause
+原因	CogMech	Cause
+缘故	CogMech	Cause
+造福	CogMech	Cause
+造孽	CogMech	Cause
+致使	CogMech	Cause
+无所不包	CogMech	Certain	Inclusive
+反驳	CogMech	Certain	Inhibition	Social	Anger	Affect	NegEmo
+明白	CogMech	Certain	Insight	Assent	Verb	Social
+完成	CogMech	Certain	Work	Relative	Verb	Time	Achieve
+必定	CogMech	Certain
+不可能	CogMech	Certain
+不容置疑	CogMech	Certain
+纯	CogMech	Certain
+纯粹	CogMech	Certain
+笃定	CogMech	Certain
+公定	CogMech	Certain
+海枯石烂	CogMech	Certain
+截然	CogMech	Certain
+精确	CogMech	Certain
+决定性	CogMech	Certain
+明了	CogMech	Certain
+明确	CogMech	Certain
+明显	CogMech	Certain
+判处	CogMech	Certain
+实话	CogMech	Certain
+实情	CogMech	Certain
+事实	CogMech	Certain
+铁定	CogMech	Certain
+铁证如山	CogMech	Certain
+万无一失	CogMech	Certain
+无条件	CogMech	Certain
+无庸置疑	CogMech	Certain
+一辈子	CogMech	Certain
+正确	CogMech	Certain
+准确	CogMech	Certain
+总	CogMech	Certain
+总之	CogMech	Certain
+如此	CogMech	Conj	Cause	Adverb	Funct
+如此一来	CogMech	Conj	Cause	Funct
+所以	CogMech	Conj	Cause	Funct
+因此	CogMech	Conj	Cause	Funct
+因为	CogMech	Conj	Cause	Preps	Funct
+由于	CogMech	Conj	Cause	Preps	Funct
+无论	CogMech	Conj	Certain
+无论如何	CogMech	Conj	Certain
+不管	CogMech	Conj	Discrep	Adverb	Exclusive
+仅仅	CogMech	Conj	Funct	Adverb	Exclusive
+同样	CogMech	Conj	Funct	Adverb	Inclusive
+除非	CogMech	Conj	Funct	Exclusive
+但是	CogMech	Conj	Funct	Exclusive
+否则	CogMech	Conj	Funct	Exclusive
+然而	CogMech	Conj	Funct	Exclusive
+若非	CogMech	Conj	Funct	Exclusive
+而且	CogMech	Conj	Funct	Inclusive
+及	CogMech	Conj	Funct	Inclusive
+又	CogMech	Conj	Funct	Inclusive
+和	CogMech	Conj	Funct	Preps	Inclusive
+与	CogMech	Conj	Funct	Preps	Inclusive
+可是	CogMech	Conj	Funct
+同	CogMech	Conj	Inclusive	Funct	SpecArt
+还是	CogMech	Conj	Tentat	Adverb	Funct
+不然	CogMech	Conj	Tentat	Exclusive
+或	CogMech	Conj	Tentat	Funct
+或者	CogMech	Conj	Tentat	Funct
+必备	CogMech	Discrep	Certain
+应有	CogMech	Discrep	Certain
+而是	CogMech	Discrep	Exclusive
+反而	CogMech	Discrep	Funct	Adverb	Exclusive
+宁愿	CogMech	Discrep	Funct	Adverb	Exclusive
+宁可	CogMech	Discrep	Inclusive
+欲望	CogMech	Discrep	Sexual	Bio
+懊悔	CogMech	Discrep
+不须	CogMech	Discrep
+不需	CogMech	Discrep
+不用	CogMech	Discrep
+差距	CogMech	Discrep
+差异	CogMech	Discrep
+悔不当初	CogMech	Discrep
+悔恨	CogMech	Discrep
+冀望	CogMech	Discrep
+匮乏	CogMech	Discrep
+期待	CogMech	Discrep
+欠缺	CogMech	Discrep
+缺	CogMech	Discrep
+缺乏	CogMech	Discrep
+缺少	CogMech	Discrep
+希冀	CogMech	Discrep
+相见恨晚	CogMech	Discrep
+优于	CogMech	Discrep
+预期	CogMech	Discrep
+愿望	CogMech	Discrep
+正常	CogMech	Discrep
+祝	CogMech	Discrep
+非关	CogMech	Exclusive
+减除	CogMech	Exclusive
+漠视	CogMech	Exclusive
+排除	CogMech	Exclusive
+弃权	CogMech	Exclusive
+取消	CogMech	Exclusive
+去除	CogMech	Exclusive
+省略	CogMech	Exclusive
+遗忘	CogMech	Exclusive
+压迫	CogMech	Feel	Percept	Inhibition	Affect	NegEmo
+彻底	CogMech	Funct	Adverb	Certain
+的确	CogMech	Funct	Adverb	Certain
+非常	CogMech	Funct	Adverb	Certain
+根本	CogMech	Funct	Adverb	Certain
+绝对	CogMech	Funct	Adverb	Certain
+完全	CogMech	Funct	Adverb	Certain
+显然	CogMech	Funct	Adverb	Certain
+一定	CogMech	Funct	Adverb	Certain
+真	CogMech	Funct	Adverb	Certain
+真正	CogMech	Funct	Adverb	Certain
+正好	CogMech	Funct	Adverb	Certain
+只是	CogMech	Funct	Adverb	Exclusive
+都	CogMech	Funct	Adverb	Inclusive
+当然	CogMech	Funct	Assent	Adverb	Certain
+真的	CogMech	Funct	Assent	Adverb	Certain
+从不	CogMech	Funct	Certain	Relative	Time	Negate
+从未	CogMech	Funct	Certain	Relative	Time	Negate
+来	CogMech	Funct	Inclusive	PrepEnd	Relative	Verb	Interjunction	Motion
+中	CogMech	Funct	Inclusive	PresentM	PrepEnd	Relative	Space	TenseM
+到	CogMech	Funct	Inclusive	Relative	Verb	Motion	Preps
+来自	CogMech	Funct	Inclusive	Relative	Verb	Motion	Preps
+了	CogMech	Funct	Insight	Assent	Interjunction	TenseM	ProgM
+否定	CogMech	Funct	Negate	Inhibition	Social	Anger	Affect	NegEmo
+否认	CogMech	Funct	Negate	Inhibition	Social	Anger	Affect	NegEmo
+愿意	CogMech	Funct	PosEmo	Verb	Discrep	Affect	AuxVerb
+除此之外	CogMech	Funct	Preps	Discrep
+除外	CogMech	Funct	Preps	Exclusive
+合计	CogMech	Funct	Quant	Certain
+完整	CogMech	Funct	Quant	Certain
+整体	CogMech	Funct	Quant	Certain
+总共	CogMech	Funct	Quant	Certain
+总计	CogMech	Funct	Quant	Certain
+总数	CogMech	Funct	Quant	Certain
+额外	CogMech	Funct	Quant	Inclusive
+同一	CogMech	Funct	Quant	Inclusive
+一样	CogMech	Funct	Quant	Inclusive
+只	CogMech	Funct	QuanUnit	Adverb	Exclusive
+之外	CogMech	Funct	Space	PrepEnd	Relative	Discrep
+底	CogMech	Funct	Space	PrepEnd	Relative	Inhibition
+附近	CogMech	Inclusive	Adverb	Funct	Space	Relative	Preps
+四处	CogMech	Inclusive	Adverb	Space	Funct	Relative
+各	CogMech	Inclusive	Quant	Funct	SpecArt
+到达	CogMech	Inclusive	Relative	Verb	Motion	Achieve
+内	CogMech	Inclusive	Space	Funct	PrepEnd	Relative
+一起	CogMech	Inclusive	Space	Relative	Time	Motion
+进入	CogMech	Inclusive	Space	Relative	Verb	Time	Motion
+包括	CogMech	Inclusive
+带	CogMech	Inclusive
+带有	CogMech	Inclusive
+附带	CogMech	Inclusive
+附加	CogMech	Inclusive
+改期	CogMech	Inclusive
+归属	CogMech	Inclusive
+加	CogMech	Inclusive
+加入	CogMech	Inclusive
+加上	CogMech	Inclusive
+皆	CogMech	Inclusive
+靠拢	CogMech	Inclusive
+扩充	CogMech	Inclusive
+扩展	CogMech	Inclusive
+扩张	CogMech	Inclusive
+内幕	CogMech	Inclusive
+其实	CogMech	Inclusive
+添加	CogMech	Inclusive
+拓展	CogMech	Inclusive
+相关	CogMech	Inclusive
+相加	CogMech	Inclusive
+相似	CogMech	Inclusive
+相同	CogMech	Inclusive
+异于	CogMech	Inclusive
+责任	CogMech	Inhibition	Achieve	Work
+极限	CogMech	Inhibition	Achieve
+征服	CogMech	Inhibition	Achieve
+主宰	CogMech	Inhibition	Achieve
+误导	CogMech	Inhibition	Cause
+义务	CogMech	Inhibition	Certain	Achieve	Work
+不顾	CogMech	Inhibition	Discrep
+检查	CogMech	Inhibition	Health	Bio
+束	CogMech	Inhibition	QuanUnit	Funct
+戒律	CogMech	Inhibition	Religion
+对付	CogMech	Inhibition	Social
+回绝	CogMech	Inhibition	Social
+秘密	CogMech	Inhibition	Social
+占有	CogMech	Inhibition	Work
+被迫	CogMech	Inhibition
+逼迫	CogMech	Inhibition
+捕捉	CogMech	Inhibition
+不理	CogMech	Inhibition
+撤销	CogMech	Inhibition
+持有	CogMech	Inhibition
+打消	CogMech	Inhibition
+挡开	CogMech	Inhibition
+抵触	CogMech	Inhibition
+对立	CogMech	Inhibition
+废除	CogMech	Inhibition
+废止	CogMech	Inhibition
+干扰	CogMech	Inhibition
+干预	CogMech	Inhibition
+告诫	CogMech	Inhibition
+管制	CogMech	Inhibition
+规定	CogMech	Inhibition
+规范	CogMech	Inhibition
+规律	CogMech	Inhibition
+规则	CogMech	Inhibition
+急迫	CogMech	Inhibition
+挤压	CogMech	Inhibition
+忌讳	CogMech	Inhibition
+艰难	CogMech	Inhibition
+监察	CogMech	Inhibition
+监管	CogMech	Inhibition
+监禁	CogMech	Inhibition
+监视	CogMech	Inhibition
+僵固	CogMech	Inhibition
+节制	CogMech	Inhibition
+截止	CogMech	Inhibition
+戒除	CogMech	Inhibition
+界线	CogMech	Inhibition
+紧急	CogMech	Inhibition
+警告	CogMech	Inhibition
+警戒	CogMech	Inhibition
+警惕	CogMech	Inhibition
+抗辩	CogMech	Inhibition
+扣除	CogMech	Inhibition
+捆	CogMech	Inhibition
+凝固	CogMech	Inhibition
+平定	CogMech	Inhibition
+强制	CogMech	Inhibition
+屈服	CogMech	Inhibition
+取缔	CogMech	Inhibition
+劝阻	CogMech	Inhibition
+让步	CogMech	Inhibition
+煞车	CogMech	Inhibition
+设定	CogMech	Inhibition
+慎重	CogMech	Inhibition
+守旧	CogMech	Inhibition
+守住	CogMech	Inhibition
+受限	CogMech	Inhibition
+束缚	CogMech	Inhibition
+死板	CogMech	Inhibition
+通牒	CogMech	Inhibition
+违背	CogMech	Inhibition
+相反	CogMech	Inhibition
+小心翼翼	CogMech	Inhibition
+削减	CogMech	Inhibition
+压缩	CogMech	Inhibition
+严谨	CogMech	Inhibition
+隐瞒	CogMech	Inhibition
+幽禁	CogMech	Inhibition
+有限	CogMech	Inhibition
+有异	CogMech	Inhibition
+预防	CogMech	Inhibition
+掌管	CogMech	Inhibition
+掌控	CogMech	Inhibition
+专制	CogMech	Inhibition
+准则	CogMech	Inhibition
+捉	CogMech	Inhibition
+自制	CogMech	Inhibition
+遵从	CogMech	Inhibition
+裁定	CogMech	Insight	Achieve	Work
+决策	CogMech	Insight	Achieve
+了解	CogMech	Insight	Assent	Verb	Social
+结论	CogMech	Insight	Cause	Achieve
+究竟	CogMech	Insight	Cause	Adverb	Funct
+反应	CogMech	Insight	Cause	Social
+证明	CogMech	Insight	Cause	Verb	Certain
+允许	CogMech	Insight	Cause	Verb	Social
+不详	CogMech	Insight	Cause
+断定	CogMech	Insight	Cause
+理由	CogMech	Insight	Cause
+求证	CogMech	Insight	Cause
+推断	CogMech	Insight	Cause
+推理	CogMech	Insight	Cause
+推论	CogMech	Insight	Cause
+追溯	CogMech	Insight	Cause
+定义	CogMech	Insight	Certain
+证据	CogMech	Insight	Certain
+证实	CogMech	Insight	Certain
+教训	CogMech	Insight	Inhibition	Achieve
+沉思	CogMech	Insight	Leisure
+信念	CogMech	Insight	Religion
+怀念	CogMech	Insight	Sad	Verb	Affect	NegEmo
+辩护	CogMech	Insight	Social
+答复	CogMech	Insight	Social
+发问	CogMech	Insight	Social
+告知	CogMech	Insight	Social
+关联	CogMech	Insight	Social
+回答	CogMech	Insight	Social
+回应	CogMech	Insight	Social
+揭发	CogMech	Insight	Social
+揭露	CogMech	Insight	Social
+坦承	CogMech	Insight	Social
+提及	CogMech	Insight	Social
+透露	CogMech	Insight	Social
+议论	CogMech	Insight	Social
+知会	CogMech	Insight	Social
+准许	CogMech	Insight	Social
+信仰	CogMech	Insight	Verb	Religion
+承认	CogMech	Insight	Verb	Social
+解释	CogMech	Insight	Verb	Social
+说明	CogMech	Insight	Verb	Social
+提	CogMech	Insight	Verb	Social
+叙述	CogMech	Insight	Verb	Social
+认识	CogMech	Insight	Verb	Work	Social
+估算	CogMech	Insight	Work
+计算	CogMech	Insight	Work
+判决	CogMech	Insight	Work
+习得	CogMech	Insight	Work
+学会	CogMech	Insight	Work
+辨别	CogMech	Insight
+辨明	CogMech	Insight
+辨认	CogMech	Insight
+辩驳	CogMech	Insight
+表示	CogMech	Insight
+不同	CogMech	Insight
+裁决	CogMech	Insight
+采用	CogMech	Insight
+参考	CogMech	Insight
+差别	CogMech	Insight
+阐明	CogMech	Insight
+阐述	CogMech	Insight
+陈述	CogMech	Insight
+澄清	CogMech	Insight
+答案	CogMech	Insight
+洞察	CogMech	Insight
+洞察力	CogMech	Insight
+洞悉	CogMech	Insight
+笃信	CogMech	Insight
+断然	CogMech	Insight
+顿悟	CogMech	Insight
+发觉	CogMech	Insight
+翻译	CogMech	Insight
+反省	CogMech	Insight
+反思	CogMech	Insight
+反映	CogMech	Insight
+费解	CogMech	Insight
+分辨	CogMech	Insight
+分类	CogMech	Insight
+分清	CogMech	Insight
+分析	CogMech	Insight
+复议	CogMech	Insight
+概念	CogMech	Insight
+供认	CogMech	Insight
+估计	CogMech	Insight
+故意	CogMech	Insight
+归类	CogMech	Insight
+好奇	CogMech	Insight
+合理	CogMech	Insight
+和解	CogMech	Insight
+恍然大悟	CogMech	Insight
+回想	CogMech	Insight
+回忆	CogMech	Insight
+豁然开朗	CogMech	Insight
+记得	CogMech	Insight
+记起	CogMech	Insight
+记忆	CogMech	Insight
+记住	CogMech	Insight
+检视	CogMech	Insight
+见解	CogMech	Insight
+鉴别	CogMech	Insight
+鉴定	CogMech	Insight
+鉴识	CogMech	Insight
+觉察	CogMech	Insight
+觉悟	CogMech	Insight
+揭示	CogMech	Insight
+解答	CogMech	Insight
+解析	CogMech	Insight
+精选	CogMech	Insight
+决然	CogMech	Insight
+决议	CogMech	Insight
+决意	CogMech	Insight
+抉择	CogMech	Insight
+看出	CogMech	Insight
+看法	CogMech	Insight
+考虑到	CogMech	Insight
+刻意	CogMech	Insight
+理会	CogMech	Insight
+理性	CogMech	Insight
+料想	CogMech	Insight
+灵光	CogMech	Insight
+灵机一动	CogMech	Insight
+领会	CogMech	Insight
+领悟	CogMech	Insight
+论说	CogMech	Insight
+逻辑	CogMech	Insight
+茅塞顿开	CogMech	Insight
+难懂	CogMech	Insight
+弄懂	CogMech	Insight
+判别	CogMech	Insight
+判断	CogMech	Insight
+批露	CogMech	Insight
+披露	CogMech	Insight
+评估	CogMech	Insight
+评价	CogMech	Insight
+启发	CogMech	Insight
+清醒	CogMech	Insight
+区别	CogMech	Insight
+区分	CogMech	Insight
+诠释	CogMech	Insight
+认出	CogMech	Insight
+认知	CogMech	Insight
+容许	CogMech	Insight
+三思	CogMech	Insight
+深思熟虑	CogMech	Insight
+声明	CogMech	Insight
+识别	CogMech	Insight
+始料未及	CogMech	Insight
+视为	CogMech	Insight
+是否	CogMech	Insight
+熟谙	CogMech	Insight
+谈及	CogMech	Insight
+探究	CogMech	Insight
+醍醐灌顶	CogMech	Insight
+体察认识	CogMech	Insight
+挑选	CogMech	Insight
+调节	CogMech	Insight
+调解	CogMech	Insight
+调停	CogMech	Insight
+调整	CogMech	Insight
+推敲	CogMech	Insight
+妥协	CogMech	Insight
+未料	CogMech	Insight
+问题	CogMech	Insight
+细想	CogMech	Insight
+泄漏	CogMech	Insight
+心思	CogMech	Insight
+蓄意	CogMech	Insight
+演绎	CogMech	Insight
+议	CogMech	Insight
+预计	CogMech	Insight
+赞赏	CogMech	Insight
+找	CogMech	Insight
+找出	CogMech	Insight
+知	CogMech	Insight
+知情	CogMech	Insight
+知悉	CogMech	Insight
+指望	CogMech	Insight
+质问	CogMech	Insight
+重估	CogMech	Insight
+重建	CogMech	Insight
+重现	CogMech	Insight
+重造	CogMech	Insight
+重整	CogMech	Insight
+重组	CogMech	Insight
+主意	CogMech	Insight
+专心	CogMech	Insight
+追忆	CogMech	Insight
+琢磨	CogMech	Insight
+自白	CogMech	Insight
+综合	CogMech	Insight
+没有	CogMech	MultiFun	Verb	Exclusive
+然后	CogMech	Nonfl	Funct	Relative	Time	Conj
+触动	CogMech	Percept	Cause
+清晰	CogMech	Percept	Hear	Certain
+经验	CogMech	Percept	Insight	Achieve
+协调	CogMech	Percept	Insight	Hear
+表明	CogMech	Percept	Insight	Social
+察觉	CogMech	Percept	Insight
+感受	CogMech	Percept	Insight
+设想	CogMech	Percept	Insight
+欣赏	CogMech	Percept	Insight
+注意	CogMech	Percept	Verb	See	Insight
+描述	CogMech	Percept	Verb	See	Social
+同意	CogMech	PosEmo	Insight	Assent	Verb	Social	Affect
+坚定	CogMech	PosEmo	Insight	Certain	Affect	Achieve
+决定	CogMech	PosEmo	Insight	Certain	Affect	Achieve
+宽恕	CogMech	PosEmo	Insight	Religion	Social	Affect
+相信	CogMech	PosEmo	Insight	Religion	Verb	Social	Affect
+鼓励	CogMech	PosEmo	Insight	Verb	Social	Affect	Achieve
+信任	CogMech	PosEmo	Insight	Verb	Social	Affect
+信心	CogMech	PosEmo	Religion	Certain	Affect	Achieve
+完美	CogMech	PosEmo	Work	Certain	Affect	Achieve
+胜过	CogMech	PosEmo	Work	Relative	Affect	Achieve
+其他	CogMech	Pronoun	Funct	iPron	Inclusive	Quant
+最多	CogMech	Quant	Adverb	Funct
+无限	CogMech	Quant	Certain
+无	CogMech	Quant	Exclusive
+里	CogMech	QuanUnit	Funct	Inclusive	PrepEnd	Relative	Space
+不足	CogMech	Sad	Relative	Quant	Discrep	Affect	NegEmo	Achieve
+激起	CogMech	Sexual	Bio
+请求	CogMech	Social	Insight	Achieve	Work
+公认	CogMech	Social	Insight	Certain
+忏悔	CogMech	Social	Insight	Religion
+名声	CogMech	Social
+名誉	CogMech	Social
+提到	CogMech	Social
+委托	CogMech	Social
+紧密	CogMech	Space	Feel	Relative	Percept	Inhibition
+分别	CogMech	Space	Insight	Relative	Time	Motion
+正面	CogMech	Space	PosEmo	Relative	Certain	Affect
+机会	CogMech	Tentat	Achieve
+可能	CogMech	Tentat	Adverb	Funct	Discrep	AuxVerb
+曾经	CogMech	Tentat	Adverb	Funct	Relative	PastM	Time	TenseM
+常常	CogMech	Tentat	Adverb	Funct	Relative	Time
+偶尔	CogMech	Tentat	Adverb	Funct	Relative	Time
+随时	CogMech	Tentat	Adverb	Funct	Relative	Time
+通常	CogMech	Tentat	Adverb	Funct	Relative	Time
+有时	CogMech	Tentat	Adverb	Funct	Relative	Time
+大约	CogMech	Tentat	Adverb	Funct	Space	Relative
+随处	CogMech	Tentat	Adverb	Funct	Space	Relative
+大致	CogMech	Tentat	Adverb	Funct
+几乎	CogMech	Tentat	Adverb	Funct
+将近	CogMech	Tentat	Adverb	Funct
+颇	CogMech	Tentat	Adverb	Funct
+稍微	CogMech	Tentat	Adverb	Funct
+时常	CogMech	Tentat	Adverb	Funct
+往往	CogMech	Tentat	Adverb	Funct
+相当	CogMech	Tentat	Adverb	Funct
+彷徨	CogMech	Tentat	Anx	NegEmo
+变动	CogMech	Tentat	Anx
+迟疑	CogMech	Tentat	Anx
+怎么	CogMech	Tentat	Cause	Adverb	Funct
+校正	CogMech	Tentat	Cause
+但愿	CogMech	Tentat	Discrep
+可以	CogMech	Tentat	Funct	Assent	Discrep	AuxVerb
+假设	CogMech	Tentat	Funct	Insight	Verb	Discrep	Exclusive	Conj
+部分	CogMech	Tentat	Funct	Space	Relative	Quant
+大量	CogMech	Tentat	Funct	Space	Relative	Quant
+想	CogMech	Tentat	Funct	Verb	Discrep	Affect	AuxVerb
+顾虑	CogMech	Tentat	Inhibition	Affect	Anx	NegEmo
+似乎	CogMech	Tentat	Insight	Adverb	Funct
+怀疑	CogMech	Tentat	Insight	Social	Affect	Anx	NegEmo
+疑问	CogMech	Tentat	Insight	Social
+问	CogMech	Tentat	Insight	Verb	Social
+猜想	CogMech	Tentat	Insight
+揣测	CogMech	Tentat	Insight
+答辩	CogMech	Tentat	Insight
+假定	CogMech	Tentat	Insight
+纳闷	CogMech	Tentat	Insight
+推测	CogMech	Tentat	Insight
+选	CogMech	Tentat	Insight
+选择	CogMech	Tentat	Insight
+疑虑	CogMech	Tentat	Insight
+赌博	CogMech	Tentat	Leisure	Money
+打赌	CogMech	Tentat	Money
+赌注	CogMech	Tentat	Money
+期望	CogMech	Tentat	PosEmo	Verb	Discrep	Affect
+希望	CogMech	Tentat	PosEmo	Verb	Discrep	Affect
+依照	CogMech	Tentat	Preps	Funct
+部份	CogMech	Tentat	Quant	Funct
+大部分	CogMech	Tentat	Quant	Funct
+大多数	CogMech	Tentat	Quant	Funct
+很多	CogMech	Tentat	Quant	Funct
+任何	CogMech	Tentat	Quant	Funct
+任一	CogMech	Tentat	Quant	Funct
+些许	CogMech	Tentat	Quant	Funct
+一些	CogMech	Tentat	Quant	Funct
+有点	CogMech	Tentat	Quant	Funct
+不少	CogMech	Tentat	Quant
+变更	CogMech	Tentat	Relative	Verb	Motion	Cause
+传闻	CogMech	Tentat	Social
+尝试	CogMech	Tentat	Verb	Achieve
+觉得	CogMech	Tentat	Verb	Insight
+认为	CogMech	Tentat	Verb	Insight
+以为	CogMech	Tentat	Verb	Insight
+询问	CogMech	Tentat	Verb	Social
+猜	CogMech	Tentat	Verb
+试验	CogMech	Tentat	Work
+暧昧	CogMech	Tentat
+奥秘	CogMech	Tentat
+半信半疑	CogMech	Tentat
+不明	CogMech	Tentat
+不清	CogMech	Tentat
+不清不楚	CogMech	Tentat
+不全	CogMech	Tentat
+不一定	CogMech	Tentat
+猜不透	CogMech	Tentat
+猜测	CogMech	Tentat
+揣度	CogMech	Tentat
+典型	CogMech	Tentat
+动摇	CogMech	Tentat
+多变	CogMech	Tentat
+好像	CogMech	Tentat
+机率	CogMech	Tentat
+机遇	CogMech	Tentat
+假说	CogMech	Tentat
+间接	CogMech	Tentat
+尽量	CogMech	Tentat
+近似	CogMech	Tentat
+看来	CogMech	Tentat
+靠不住	CogMech	Tentat
+可疑	CogMech	Tentat
+类似	CogMech	Tentat
+理论	CogMech	Tentat
+朦胧	CogMech	Tentat
+谜	CogMech	Tentat
+模棱两可	CogMech	Tentat
+模拟	CogMech	Tentat
+某物	CogMech	Tentat
+某些	CogMech	Tentat
+难解	CogMech	Tentat
+彷佛	CogMech	Tentat
+取决	CogMech	Tentat
+任意	CogMech	Tentat
+若干	CogMech	Tentat
+神秘	CogMech	Tentat
+随机	CogMech	Tentat
+忐忑	CogMech	Tentat
+未定	CogMech	Tentat
+未决	CogMech	Tentat
+未知	CogMech	Tentat
+悬而未决	CogMech	Tentat
+选项	CogMech	Tentat
+侥幸	CogMech	Tentat
+疑惑	CogMech	Tentat
+隐晦	CogMech	Tentat
+有点儿	CogMech	Tentat
+有时候	CogMech	Tentat
+运气	CogMech	Tentat
+怎地	CogMech	Tentat
+获得	CogMech	Verb	Achieve
+发现	CogMech	Verb	Cause	Achieve	Insight
+试图	CogMech	Verb	Cause	Achieve
+影响	CogMech	Verb	Cause	Achieve
+造成	CogMech	Verb	Cause	Achieve
+成为	CogMech	Verb	Cause	Funct
+打算	CogMech	Verb	Cause	Insight
+引起	CogMech	Verb	Cause	Insight
+发表	CogMech	Verb	Cause	Work
+制造	CogMech	Verb	Cause	Work
+制作	CogMech	Verb	Cause	Work
+操作	CogMech	Verb	Cause
+利用	CogMech	Verb	Cause
+使	CogMech	Verb	Cause
+使用	CogMech	Verb	Cause
+管理	CogMech	Verb	Inhibition	Achieve	Work
+逼	CogMech	Verb	Inhibition
+等	CogMech	Verb	Inhibition
+等待	CogMech	Verb	Inhibition
+忘	CogMech	Verb	Inhibition
+维持	CogMech	Verb	Inhibition
+遵守	CogMech	Verb	Inhibition
+懂	CogMech	Verb	Insight
+接受	CogMech	Verb	Insight
+考虑	CogMech	Verb	Insight
+理解	CogMech	Verb	Insight
+挑	CogMech	Verb	Insight
+喜欢	CogMech	Verb	Insight
+显示	CogMech	Verb	Insight
+晓得	CogMech	Verb	Insight
+寻找	CogMech	Verb	Insight
+找到	CogMech	Verb	Insight
+知道	CogMech	Verb	Insight
+调查	CogMech	Verb	Work	Insight
+学习	CogMech	Verb	Work	Insight
+训练	CogMech	Verb	Work
+处理	CogMech	Verb
+适应	CogMech	Verb
+规划	CogMech	Work	Achieve	Social
+负责	CogMech	Work	Achieve
+尽责	CogMech	Work	Achieve
+指挥	CogMech	Work	Achieve
+目的	CogMech	Work	Cause	Achieve
+共同	CogMech	Work	Inclusive
+指定	CogMech	Work	Inclusive
+指派	CogMech	Work	Inclusive
+支配	CogMech	Work	Inhibition	Affect	NegEmo	Achieve
+要求	CogMech	Work	Inhibition	Verb	Social	Achieve
+信赖	CogMech	Work	PosEmo	Insight	Social	Affect	Achieve
+引导	CogMech	Work	Relative	Motion	Cause	Achieve
+引领	CogMech	Work	Relative	Motion	Cause	Achieve
+达到	CogMech	Work	Relative	Verb	Motion	Cause	Achieve
+挫败	CogMech	Work	Sad	Affect	NegEmo	Achieve
+报导	CogMech	Work	Social
+联系	CogMech	Work	Social
+安排	CogMech
+变得	CogMech
+不合	CogMech
+差遣	CogMech
+出于	CogMech
+打听	CogMech
+法则	CogMech
+激发	CogMech
+交代	CogMech
+交付	CogMech
+交托	CogMech
+解开	CogMech
+例如	CogMech
+埋怨	CogMech
+难免	CogMech
+排列	CogMech
+排序	CogMech
+扰乱	CogMech
+提交	CogMech
+托付	CogMech
+委任	CogMech
+无解	CogMech
+无为	CogMech
+无意	CogMech
+武断	CogMech
+显露	CogMech
+显现	CogMech
+现实	CogMech
+信息	CogMech
+形成	CogMech
+讯问	CogMech
+讯息	CogMech
+一致	CogMech
+依从	CogMech
+议题	CogMech
+迂回	CogMech
+征象	CogMech
+征兆	CogMech
+准备	CogMech
+总体	CogMech
+并	Conj	Adverb	Funct
+才	Conj	Adverb	Funct
+反正	Conj	Adverb	Funct
+那么	Conj	Adverb	Funct
+只有	Conj	Adverb	Funct
+不论	Conj	Adverb
+另	Conj	Funct	SpecArt
+并且	Conj	Funct
+但	Conj	Funct
+的话	Conj	Funct
+而	Conj	Funct
+故	Conj	Funct
+还有	Conj	Funct
+或是	Conj	Funct
+即使	Conj	Funct
+既	Conj	Funct
+既然	Conj	Funct
+假如	Conj	Funct
+假使	Conj	Funct
+鉴于	Conj	Funct
+尽管	Conj	Funct
+况且	Conj	Funct
+连	Conj	Funct
+另外	Conj	Funct
+另一方面	Conj	Funct
+且	Conj	Funct
+却	Conj	Funct
+若是	Conj	Funct
+虽	Conj	Funct
+虽然	Conj	Funct
+随着	Conj	Funct
+倘若	Conj	Funct
+要是	Conj	Funct
+一边	Conj	Funct
+一旦	Conj	Funct
+一方面	Conj	Funct
+一面	Conj	Funct
+以及	Conj	Funct
+以免	Conj	Funct
+亦	Conj	Funct
+因	Conj	Funct
+因而	Conj	Funct
+于是	Conj	Funct
+与其	Conj	Funct
+只要	Conj	Funct
+关于	Conj	Preps	Funct
+如	Conj	Preps	Funct
+像	Conj	Preps	Funct
+至	Conj	Preps	Funct
+不但	Conj
+不过	Conj
+不仅	Conj
+不如	Conj
+不只	Conj
+伤心	Death	Sad
+丧失	Death	Verb	Achieve	Sad
+哀悼	Death
+哀伤	Death
+哀恸	Death
+安乐死	Death
+安葬	Death
+白包	Death
+悲伤	Death
+悲恸	Death
+濒死	Death
+残骸	Death
+残杀	Death
+处决	Death
+处死	Death
+垂死	Death
+大体	Death
+大屠杀	Death
+带孝	Death
+奠仪	Death
+法事	Death
+分尸	Death
+坟地	Death
+坟墓	Death
+服丧	Death
+讣告	Death
+讣文	Death
+告别式	Death
+公墓	Death
+古墓	Death
+骨灰	Death
+骨灰坛	Death
+鬼	Death
+鬼魂	Death
+护柩	Death
+毁灭	Death
+火化	Death
+火葬	Death
+祸害	Death
+祭拜	Death
+祭祀	Death
+祭文	Death
+祭祖	Death
+家祭	Death
+解剖	Death
+枯	Death
+灵车	Death
+灵骨塔	Death
+灵柩	Death
+灵堂	Death
+陵墓	Death
+流行病	Death
+埋葬	Death
+灭绝	Death
+灭种	Death
+母逝	Death
+墓	Death
+墓碑	Death
+墓地	Death
+墓穴	Death
+溺死	Death
+披麻	Death
+凄凉	Death
+枪毙	Death
+入殓	Death
+丧服	Death
+丧礼	Death
+丧亲	Death
+丧葬	Death
+扫墓	Death
+杀戮	Death
+杀人	Death
+伤亡	Death
+伤者	Death
+上吊	Death
+上香	Death
+尸体	Death
+事故	Death
+收殓	Death
+受害人	Death
+私刑	Death
+死神	Death
+死刑	Death
+死者	Death
+太平间	Death
+屠杀	Death
+屠宰	Death
+挽联	Death
+亡故	Death
+往生	Death
+危及	Death
+危险	Death
+瘟疫	Death
+误杀	Death
+孝服	Death
+凶案	Death
+凶杀	Death
+严制	Death
+验尸	Death
+验尸官	Death
+遗书	Death
+遗嘱	Death
+忧伤	Death
+灾难	Death
+葬礼	Death
+致死	Death
+追悼会	Death
+自残	Death
+自毁	Death
+自杀	Death
+如果	Exclusive	Tentat	Funct	Discrep	Conj	CogMech
+若	Exclusive	Tentat	Funct	Discrep	Conj	CogMech
+某	Exclusive	Tentat	SpecArt	Funct	CogMech
+阿妈	Family	Social
+阿姨	Family	Social
+爸	Family	Social
+爸爸	Family	Social
+表弟	Family	Social
+表哥	Family	Social
+表姐	Family	Social
+表妹	Family	Social
+表兄	Family	Social
+表姊	Family	Social
+伯	Family	Social
+伯伯	Family	Social
+伯父	Family	Social
+伯公	Family	Social
+伯母	Family	Social
+曾祖父母	Family	Social
+出嫁	Family	Social
+大伯	Family	Social
+爹	Family	Social
+爹爹	Family	Social
+父	Family	Social
+父母	Family	Social
+父亲	Family	Social
+妇女	Family	Social
+干爸	Family	Social
+干弟	Family	Social
+干爹	Family	Social
+干哥	Family	Social
+干姐	Family	Social
+干妈	Family	Social
+哥	Family	Social
+哥哥	Family	Social
+公公	Family	Social
+公婆	Family	Social
+姑父	Family	Social
+姑妈	Family	Social
+姑母	Family	Social
+姑丈	Family	Social
+过继	Family	Social
+后母	Family	Social
+婚姻	Family	Social
+继父	Family	Social
+继母	Family	Social
+继子	Family	Social
+家属	Family	Social
+嫁	Family	Social
+嫁娶	Family	Social
+结婚	Family	Social
+妗	Family	Social
+老公	Family	Social
+老婆	Family	Social
+姥姥	Family	Social
+妈	Family	Social
+妈妈	Family	Social
+妹妹	Family	Social
+母	Family	Social
+母亲	Family	Social
+奶爸	Family	Social
+奶妈	Family	Social
+奶奶	Family	Social
+内人	Family	Social
+配偶	Family	Social
+婆婆	Family	Social
+前夫	Family	Social
+前妻	Family	Social
+前任	Family	Social
+亲家	Family	Social
+亲戚	Family	Social
+亲属	Family	Social
+娶	Family	Social
+入赘	Family	Social
+双亲	Family	Social
+孙	Family	Social
+孙儿	Family	Social
+孙女	Family	Social
+孙子	Family	Social
+太祖	Family	Social
+堂弟	Family	Social
+堂哥	Family	Social
+堂姐	Family	Social
+堂妹	Family	Social
+堂兄	Family	Social
+堂姊	Family	Social
+外公	Family	Social
+外婆	Family	Social
+外甥	Family	Social
+外甥女	Family	Social
+外子	Family	Social
+外祖父	Family	Social
+外祖母	Family	Social
+媳妇	Family	Social
+小狗	Family	Social
+小姑	Family	Social
+小叔	Family	Social
+兄	Family	Social
+养父	Family	Social
+养母	Family	Social
+养女	Family	Social
+养子	Family	Social
+爷爷	Family	Social
+已婚	Family	Social
+义父	Family	Social
+义母	Family	Social
+义女	Family	Social
+义子	Family	Social
+异父	Family	Social
+异母	Family	Social
+迎娶	Family	Social
+远亲	Family	Social
+丈夫	Family	Social
+妯娌	Family	Social
+祖父	Family	Social
+祖母	Family	Social
+祖先	Family	Social
+女儿	Family
+刺激	Feel	Affect	Percept	Achieve
+脆弱	Feel	Affect	Percept	Anx	NegEmo
+舒适	Feel	Affect	Percept	Leisure	PosEmo
+沉重	Feel	Affect	Percept	NegEmo
+敏锐	Feel	Affect	Percept	PosEmo
+暖和	Feel	Affect	Percept	PosEmo
+温暖	Feel	Affect	Percept	PosEmo
+温柔	Feel	Affect	Percept	PosEmo
+击	Feel	Affect	Percept
+柔软	Feel	Affect	Percept
+柔	Feel	Affect	PosEmo
+毛	Feel	Bio	Percept	Body
+皮	Feel	Bio	Percept	Body
+皮肤	Feel	Bio	Percept	Body
+手	Feel	Bio	Percept	Body
+手指	Feel	Bio	Percept	Body
+寒冷	Feel	Bio	Percept	Health
+重	Feel	Bio	Percept	Ingest
+重量	Feel	Bio	Percept	Ingest
+紧	Feel	CogMech	Percept	Inhibition
+牢固	Feel	CogMech	Percept	Inhibition
+握住	Feel	CogMech	Percept	Inhibition
+模糊	Feel	CogMech	Tentat	Percept
+擦	Feel	Home	Percept
+圆	Feel	Money	Percept	See
+轻柔	Feel	Percept	Hear
+圆弧	Feel	Percept	See
+圆形	Feel	Percept	See
+接触	Feel	Percept	Verb	Social
+爱抚	Feel	Percept
+冰冻	Feel	Percept
+冰冷	Feel	Percept
+潮湿	Feel	Percept
+触	Feel	Percept
+触摸	Feel	Percept
+刺	Feel	Percept
+粗糙	Feel	Percept
+弹性	Feel	Percept
+冻	Feel	Percept
+冻结	Feel	Percept
+夺	Feel	Percept
+锋利	Feel	Percept
+拂	Feel	Percept
+刮	Feel	Percept
+光滑	Feel	Percept
+火	Feel	Percept
+尖	Feel	Percept
+尖锐	Feel	Percept
+坚硬	Feel	Percept
+紧握	Feel	Percept
+紧抓	Feel	Percept
+均匀	Feel	Percept
+宽松	Feel	Percept
+冷冻	Feel	Percept
+凉快	Feel	Percept
+零散	Feel	Percept
+麻	Feel	Percept
+毛茸茸	Feel	Percept
+鸣声	Feel	Percept
+摩	Feel	Percept
+摩擦	Feel	Percept
+抹	Feel	Percept
+黏稠	Feel	Percept
+捏	Feel	Percept
+拧	Feel	Percept
+碰	Feel	Percept
+碰触	Feel	Percept
+碰到	Feel	Percept
+平滑	Feel	Percept
+平坦	Feel	Percept
+敲	Feel	Percept
+轻拍	Feel	Percept
+热	Feel	Percept
+柔和	Feel	Percept
+软	Feel	Percept
+软绵绵	Feel	Percept
+搔	Feel	Percept
+搔痒	Feel	Percept
+沙	Feel	Percept
+沙沙	Feel	Percept
+烧	Feel	Percept
+失重	Feel	Percept
+湿	Feel	Percept
+湿答答	Feel	Percept
+湿湿	Feel	Percept
+刷	Feel	Percept
+丝	Feel	Percept
+丝柔	Feel	Percept
+松弛	Feel	Percept
+松垮	Feel	Percept
+松软	Feel	Percept
+松散	Feel	Percept
+酸痛	Feel	Percept
+烫	Feel	Percept
+涂	Feel	Percept
+微弱	Feel	Percept
+稀薄	Feel	Percept
+辛辣	Feel	Percept
+压	Feel	Percept
+硬	Feel	Percept
+榨	Feel	Percept
+抓	Feel	Percept
+挤	Feel	Relative	Percept	Motion	Space
+推	Feel	Relative	Percept	Motion
+稀少	Feel	Relative	Percept	Quant	Funct
+薄	Feel	Relative	Percept	Space
+粗	Feel	Relative	Percept	Space
+厚	Feel	Relative	Percept	Space
+密集	Feel	Relative	Percept	Space
+松	Feel	Relative	Percept	Space
+细	Feel	Relative	Percept	Space
+抓住	Feel	Relative	Percept	Verb	Motion
+稀疏	Feel	Relative	Percept
+像是	Filler	MultiFun	Verb	Funct
+恩	Filler	Nonfl
+就是	Filler	Nonfl
+等等	Filler
+对了	Filler
+话说	Filler
+之类	Filler
+宾客	Friend	Social
+点头之交	Friend	Social
+订婚	Friend	Social
+客人	Friend	Social
+莫逆	Friend	Social
+莫逆之交	Friend	Social
+女友	Friend	Social
+社团	Friend	Social
+熟人	Friend	Social
+甜心	Friend	Social
+同胞	Friend	Social
+同志	Friend	Social
+未婚夫	Friend	Social
+嘻哈组合	Friend	Social
+相识	Friend	Social
+心肝	Friend	Social
+友	Friend	Social
+友谊	Friend	Social
+挚友	Friend	Social
+男伴	Friend
+男朋友	Friend
+男友	Friend
+女伴	Friend
+女朋友	Friend
+一般	Funct	Adverb	PrepEnd
+想要	Funct	AuxVerb	Verb	Discrep
+嘿	Funct	Interjunction	Assent	Social
+以后	Funct	PrepEnd	Relative	FutureM	Time	TenseM
+般	Funct	PrepEnd
+初	Funct	PrepEnd
+当中	Funct	PrepEnd
+貌	Funct	PrepEnd
+时	Funct	PrepEnd
+似的	Funct	PrepEnd
+为止	Funct	PrepEnd
+以来	Funct	PrepEnd
+以上	Funct	PrepEnd
+以外	Funct	PrepEnd
+之内	Funct	PrepEnd
+之余	Funct	PrepEnd
+止	Funct	PrepEnd
+状	Funct	PrepEnd
+自从	Funct	PrepEnd
+左右	Funct	PrepEnd
+彼此	Funct	Pronoun	Social
+数	Funct	Quant	QuanUnit	Number
+群	Funct	Quant	QuanUnit	Social
+每	Funct	Quant	SpecArt
+间	Funct	QuanUnit	PrepEnd
+伙	Funct	QuanUnit	Social
+本	Funct	QuanUnit	SpecArt
+次	Funct	QuanUnit	SpecArt
+首	Funct	QuanUnit	SpecArt
+本身	Funct	Social
+之后	Funct	Space	PrepEnd	Relative	FutureM	Time	TenseM
+之前	Funct	Space	PrepEnd	Relative	PastM	Time	TenseM
+后	Funct	Space	PrepEnd	Relative	SpecArt	FutureM	Time	TenseM
+何	Funct	SpecArt
+诸	Funct	SpecArt
+组	Funct	Work	QuanUnit	Social
+事物	Funct
+小人物	Funct
+牌位	Home	Death
+家人	Home	Family	Leisure	Social
+家庭	Home	Family	Leisure	Social
+家族	Home	Family	Leisure	Social
+邻居	Home	Friend	Social
+室友	Home	Friend	Social
+居民	Home	Humans	Social
+电视	Home	Leisure
+花园	Home	Leisure
+假期	Home	Leisure
+沐浴	Home	Leisure
+睡眠	Home	Leisure
+庭院	Home	Leisure
+休假	Home	Leisure
+浴缸	Home	Leisure
+浴室	Home	Leisure
+院子	Home	Leisure
+地契	Home	Money
+房契	Home	Money
+房租	Home	Money
+租金	Home	Money
+租赁	Home	Money
+租契	Home	Money
+租约	Home	Money
+家	Home	QuanUnit	Funct
+门	Home	QuanUnit	Funct
+居住	Home	Verb
+功课	Home	Work	Achieve
+抵押	Home	Work	Money
+房屋	Home	Work
+画室	Home	Work
+宿舍	Home	Work
+佣人	Home	Work
+作业	Home	Work
+壁橱	Home
+壁炉	Home
+冰箱	Home
+布幕	Home
+草地	Home
+草坪	Home
+厕所	Home
+巢	Home
+车库	Home
+宠物	Home
+橱	Home
+窗户	Home
+窗帘	Home
+床	Home
+床垫	Home
+厝	Home
+打扫	Home
+大楼	Home
+大门	Home
+地毯	Home
+地址	Home
+地主	Home
+垫子	Home
+顶楼	Home
+独栋	Home
+翻新	Home
+翻修	Home
+房东	Home
+房客	Home
+房子	Home
+阁楼	Home
+工作室	Home
+公寓	Home
+狗窝	Home
+寡妇	Home
+鳏夫	Home
+盥洗室	Home
+烘干机	Home
+后院	Home
+火炉	Home
+家具	Home
+家事	Home
+家务	Home
+家乡	Home
+就寝	Home
+烤炉	Home
+烤箱	Home
+帘	Home
+淋浴	Home
+楼顶	Home
+炉	Home
+露台	Home
+门帘	Home
+密室	Home
+暖炉	Home
+女佣	Home
+平台	Home
+前院	Home
+寝具	Home
+寝室	Home
+清除	Home
+清洁	Home
+清理	Home
+扫	Home
+扫除	Home
+扫帚	Home
+沙发	Home
+神桌	Home
+梳妆台	Home
+睡椅	Home
+躺椅	Home
+套房	Home
+天井	Home
+拖把	Home
+拖地	Home
+碗橱	Home
+微波	Home
+微波炉	Home
+帷幔	Home
+窝	Home
+卧室	Home
+屋主	Home
+屋子	Home
+吸尘器	Home
+洗碗机	Home
+洗衣机	Home
+信箱	Home
+修理	Home
+雅房	Home
+阳台	Home
+摇椅	Home
+衣橱	Home
+衣柜	Home
+椅垫	Home
+佣	Home
+邮箱	Home
+游泳池	Home
+跃层	Home
+杂务	Home
+澡盆	Home
+宅	Home
+长椅	Home
+枕头	Home
+住户	Home
+住址	Home
+儿子	Humans	Family	Social
+孩子	Humans	Family	Social
+太太	Humans	Family	Social
+先生	Humans	Family	Social
+搭档	Humans	Friend	Social
+伙伴	Humans	Friend	Social
+家伙	Humans	Friend	Social
+同伴	Humans	Friend	Social
+同伙	Humans	Friend	Social
+百姓	Humans	Social
+成年人	Humans	Social
+成人	Humans	Social
+成员	Humans	Social
+大人	Humans	Social
+儿童	Humans	Social
+份子	Humans	Social
+夫人	Humans	Social
+阁下	Humans	Social
+个人	Humans	Social
+公民	Humans	Social
+孩童	Humans	Social
+会员	Humans	Social
+老百姓	Humans	Social
+平民	Humans	Social
+群众	Humans	Social
+人类	Humans	Social
+人们	Humans	Social
+人民	Humans	Social
+人群	Humans	Social
+少妇	Humans	Social
+少女	Humans	Social
+绅士	Humans	Social
+市民	Humans	Social
+小孩	Humans	Social
+小伙子	Humans	Social
+小姐	Humans	Social
+小妞	Humans	Social
+新生儿	Humans	Social
+婴儿	Humans	Social
+婴孩	Humans	Social
+幼儿	Humans	Social
+长官	Humans	Social
+子女	Humans	Social
+自我	Humans	Social
+消夜	Ingest
+矜持	Inhibition
+约定	Inhibition
+保密	Insight	Social
+确认	Insight
+嗯哼	Interjunction	Assent	Funct
+哦	Interjunction	Assent	Funct
+喔	Interjunction	Assent	Funct
+嗯	Interjunction	Assent	Nonfl	Funct
+哎	Interjunction	Funct
+唉	Interjunction	Funct
+欸	Interjunction	Funct
+罢了	Interjunction	Funct
+吧	Interjunction	Funct
+而已	Interjunction	Funct
+啦	Interjunction	Funct
+咧	Interjunction	Funct
+吗	Interjunction	Funct
+嘛	Interjunction	Funct
+呢	Interjunction	Funct
+挖咧	Interjunction	Funct
+哇咧	Interjunction	Funct
+呀	Interjunction	Funct
+也好	Interjunction	Funct
+与否	Interjunction	Funct
+啊	Interjunction	Nonfl	Funct
+ㄟ	Interjunction
+人人	iPron	Funct	Certain	CogMech	Social
+事事	iPron	Funct	Certain	Pronoun	CogMech
+人	iPron	Funct	Humans	Pronoun	Social
+对方	iPron	Funct	Pronoun	Social
+一切	iPron	Funct	Quant	CogMech	Certain
+哪	iPron	Interjunction	Pronoun	Funct
+别人	iPron	Pronoun	Funct
+此	iPron	Pronoun	Funct
+东西	iPron	Pronoun	Funct
+家家	iPron	Pronoun	Funct
+哪些	iPron	Pronoun	Funct
+那个	iPron	Pronoun	Funct
+那里	iPron	Pronoun	Funct
+那些	iPron	Pronoun	Funct
+其	iPron	Pronoun	Funct
+什么	iPron	Pronoun	Funct
+事	iPron	Pronoun	Funct
+事情	iPron	Pronoun	Funct
+它	iPron	Pronoun	Funct
+它们	iPron	Pronoun	Funct
+这	iPron	Pronoun	Funct
+这些	iPron	Pronoun	Funct
+自身	iPron	Pronoun	Funct
+那	iPron	Pronoun	Nonfl	Funct
+其余	iPron	Quant	Pronoun	Funct
+谁	iPron	Tentat	Funct	Pronoun	CogMech
+比赛	Leisure	Social
+搭讪	Leisure	Social
+纪念	Leisure	Social
+聚会	Leisure	Social
+聊天	Leisure	Social
+名流	Leisure	Social
+名人	Leisure	Social
+闲谈	Leisure	Social
+﻿21点	Leisure
+COS	Leisure
+COSPLAY	Leisure
+ipod	Leisure
+KTV	Leisure
+MTV	Leisure
+wii	Leisure
+芭蕾	Leisure
+芭蕾舞	Leisure
+白酒	Leisure
+伴唱机	Leisure
+棒球	Leisure
+变装	Leisure
+便服	Leisure
+播音员	Leisure
+博客	Leisure
+博物馆	Leisure
+布置	Leisure
+唱片	Leisure
+唱诗班	Leisure
+春假	Leisure
+打盹	Leisure
+打猎	Leisure
+打屁	Leisure
+雕刻	Leisure
+雕塑	Leisure
+钓鱼	Leisure
+动画	Leisure
+独角戏	Leisure
+读	Leisure
+锻炼	Leisure
+飞盘	Leisure
+伏特加	Leisure
+橄榄球	Leisure
+歌词	Leisure
+歌剧	Leisure
+歌谣	Leisure
+工艺	Leisure
+公园	Leisure
+鼓	Leisure
+管弦乐	Leisure
+光盘	Leisure
+广播	Leisure
+广播员	Leisure
+鬼扯	Leisure
+海边	Leisure
+海滨	Leisure
+海滩	Leisure
+寒假	Leisure
+红酒	Leisure
+湖	Leisure
+划船	Leisure
+滑雪	Leisure
+画本	Leisure
+欢乐	Leisure
+吉他	Leisure
+假日	Leisure
+剪贴簿	Leisure
+健身	Leisure
+健壮	Leisure
+交响乐	Leisure
+脚踏车	Leisure
+教练	Leisure
+酒店	Leisure
+酒馆	Leisure
+酒会	Leisure
+举重	Leisure
+俱乐部	Leisure
+剧本	Leisure
+剧场	Leisure
+剧院	Leisure
+咖啡厅	Leisure
+卡通	Leisure
+瞌睡	Leisure
+快步走	Leisure
+篮球	Leisure
+览车	Leisure
+朗读	Leisure
+乐队	Leisure
+乐团	Leisure
+立体声	Leisure
+连续剧	Leisure
+溜达	Leisure
+录音	Leisure
+露营	Leisure
+旅馆	Leisure
+旅舍	Leisure
+旅社	Leisure
+麻将	Leisure
+马车	Leisure
+马拉松	Leisure
+漫步	Leisure
+漫画	Leisure
+美术	Leisure
+美术品	Leisure
+门票	Leisure
+梦	Leisure
+梦想	Leisure
+民宿	Leisure
+摩托车	Leisure
+女演员	Leisure
+爬山	Leisure
+排球	Leisure
+牌	Leisure
+派对	Leisure
+飘飘然	Leisure
+票价	Leisure
+票券	Leisure
+频道	Leisure
+球	Leisure
+球棒	Leisure
+曲棍球	Leisure
+券	Leisure
+饶舌	Leisure
+任天堂	Leisure
+日光浴	Leisure
+日记	Leisure
+日记本	Leisure
+日剧	Leisure
+日志	Leisure
+容易	Leisure
+三铁	Leisure
+射击	Leisure
+诗	Leisure
+诗集	Leisure
+饰品	Leisure
+饰物	Leisure
+嗜好	Leisure
+收音机	Leisure
+狩猎	Leisure
+暑假	Leisure
+水疗	Leisure
+厮混	Leisure
+随身听	Leisure
+陶艺	Leisure
+踢球	Leisure
+跳棋	Leisure
+庭园	Leisure
+投球	Leisure
+投手	Leisure
+徒步	Leisure
+涂鸦	Leisure
+玩具	Leisure
+玩偶	Leisure
+玩物	Leisure
+网络	Leisure
+网球	Leisure
+围棋	Leisure
+温泉	Leisure
+午睡	Leisure
+午休	Leisure
+舞会	Leisure
+舞曲	Leisure
+西洋棋	Leisure
+嘻哈	Leisure
+喜剧	Leisure
+戏剧	Leisure
+戏院	Leisure
+闲逛	Leisure
+闲聊	Leisure
+象棋	Leisure
+消遣	Leisure
+小睡	Leisure
+小说	Leisure
+休憩	Leisure
+休息	Leisure
+休闲	Leisure
+秀	Leisure
+演员	Leisure
+氧	Leisure
+野营	Leisure
+夜店	Leisure
+夜市	Leisure
+夜总会	Leisure
+音响	Leisure
+影带	Leisure
+影碟	Leisure
+影片	Leisure
+游览车	Leisure
+游轮	Leisure
+游艇	Leisure
+瑜珈	Leisure
+浴场	Leisure
+杂志	Leisure
+展览	Leisure
+纸牌	Leisure
+周末	Leisure
+周年庆	Leisure
+煮饭	Leisure
+庄园	Leisure
+装饰	Leisure
+足球	Leisure
+醉	Leisure
+店	Money	Leisure
+赌场	Money	Leisure
+购物	Money	Leisure
+商店	Money	Leisure
+元	Money	QuanUnit	Funct
+付	Money	Verb	Work
+购买	Money	Verb
+花费	Money	Verb
+花钱	Money	Verb
+浪费	Money	Verb
+买	Money	Verb
+卖	Money	Verb
+报酬	Money	Work	Achieve
+促销	Money	Work	Achieve
+红利	Money	Work	Achieve
+继承	Money	Work	Achieve
+津贴	Money	Work	Achieve
+所得	Money	Work	Achieve
+协议	Money	Work	Achieve
+资源	Money	Work	Achieve
+财金	Money	Work
+仓库	Money	Work
+存货	Money	Work
+待遇	Money	Work
+法人	Money	Work
+付费	Money	Work
+付款	Money	Work
+付钱	Money	Work
+工资	Money	Work
+公司	Money	Work
+股份	Money	Work
+股票	Money	Work
+股息	Money	Work
+顾客	Money	Work
+会费	Money	Work
+加班	Money	Work
+奖学金	Money	Work
+金融	Money	Work
+经济	Money	Work
+课税	Money	Work
+库存	Money	Work
+利息	Money	Work
+买主	Money	Work
+贸易	Money	Work
+批发	Money	Work
+清单	Money	Work
+商业	Money	Work
+收入	Money	Work
+税	Money	Work
+税金	Money	Work
+特权	Money	Work
+消费者	Money	Work
+薪水	Money	Work
+薪饷	Money	Work
+薪资	Money	Work
+营利	Money	Work
+营收	Money	Work
+月薪	Money	Work
+职业	Money	Work
+资金	Money	Work
+保管	Money
+保险	Money
+保证金	Money
+币	Money
+便宜	Money
+补偿	Money
+补贴	Money
+财产	Money
+财富	Money
+采买	Money
+彩票	Money
+彩券	Money
+查账	Money
+偿付	Money
+偿还	Money
+钞票	Money
+车票	Money
+成本	Money
+出借	Money
+储存	Money
+储蓄	Money
+存款	Money
+存钱	Money
+打折	Money
+代价	Money
+贷	Money
+贷款	Money
+盗用	Money
+订金	Money
+独占	Money
+赌金	Money
+兑换	Money
+发票	Money
+法郎	Money
+费	Money
+费用	Money
+估价	Money
+国税局	Money
+核对	Money
+汇率	Money
+汇票	Money
+贿赂	Money
+货币	Money
+基金	Money
+稽核	Money
+加班费	Money
+价	Money
+价格	Money
+价钱	Money
+价值	Money
+奖金	Money
+奖券	Money
+奖状	Money
+节俭	Money
+节省	Money
+节约	Money
+借	Money
+借方	Money
+借记卡	Money
+借款	Money
+借入	Money
+金钱	Money
+经费	Money
+九牛一毛	Money
+捐	Money
+捐献	Money
+开销	Money
+客户	Money
+款项	Money
+乐透	Money
+廉价	Money
+零售	Money
+垄断	Money
+买卖	Money
+美金	Money
+面值	Money
+摸彩	Money
+年收入	Money
+年薪	Money
+挪威币	Money
+挪用	Money
+欧元	Money
+拍卖	Money
+赔偿	Money
+批发商	Money
+披索	Money
+票据	Money
+贫困	Money
+贫穷	Money
+破产	Money
+乞丐	Money
+乞讨	Money
+签赌	Money
+签证	Money
+钱	Money
+钱币	Money
+欠	Money
+清贫	Money
+穷人	Money
+杀价	Money
+商	Money
+商机	Money
+商人	Money
+赏金	Money
+赊欠	Money
+赊账	Money
+审计	Money
+生活费	Money
+省钱	Money
+施舍	Money
+收买	Money
+收益	Money
+首奖	Money
+售	Money
+刷卡	Money
+税收	Money
+贪财	Money
+贪婪	Money
+贪污	Money
+贪心	Money
+讨价还价	Money
+特价品	Money
+提款机	Money
+通货	Money
+铜板	Money
+头彩	Money
+头奖	Money
+投资	Money
+退款	Money
+无价	Money
+物价	Money
+现金	Money
+现款	Money
+萧条	Money
+销售	Money
+销售额	Money
+销售量	Money
+信用卡	Money
+学费	Money
+血拼	Money
+押金	Money
+一角	Money
+一毛不拔	Money
+遗产	Money
+银行	Money
+英镑	Money
+硬币	Money
+佣金	Money
+优惠券	Money
+预算	Money
+月入	Money
+债	Money
+帐	Money
+账单	Money
+账户	Money
+账目	Money
+折价卷	Money
+折扣	Money
+证券	Money
+支出	Money
+支票	Money
+专利	Money
+庄家	Money
+资助	Money
+之	MultiFun	Funct
+的	MultiFun	Interjunction	Funct
+个	MultiFun	QuanUnit	Funct
+是	MultiFun	Verb	Assent	Funct
+乃是	MultiFun	Verb	Funct
+有	MultiFun	Verb	Preps	Funct
+不是	MultiFun
+未必	Negate	CogMech	AuxVerb	Tentat	Funct
+决不	Negate	CogMech	Funct	Certain
+绝不	Negate	CogMech	Funct	Certain
+否	Negate	CogMech	Funct	Exclusive
+毫无	Negate	CogMech	Funct	Quant	Certain
+绝无	Negate	CogMech	Funct	Relative	Certain
+否决	Negate	CogMech	Inhibition	Funct
+别	Negate	Funct	Verb	SpecArt
+并非	Negate	Funct
+反	Negate	Funct
+非	Negate	Funct
+非得	Negate	Funct
+还不是	Negate	Funct
+毫不	Negate	Funct
+绝非	Negate	Funct
+莫	Negate	Funct
+莫非	Negate	Funct
+难以	Negate	Funct
+岂不	Negate	Funct
+岂不是	Negate	Funct
+切勿	Negate	Funct
+尚未	Negate	Funct
+未	Negate	Funct
+未曾	Negate	Funct
+未有	Negate	Funct
+毋须	Negate	Funct
+用不到	Negate	Funct
+暂不	Negate	Funct
+少	Negate	Relative	Quant	Adverb	Funct
+乐极生悲	NegEmo	Sad
+爽约	NegEmo
+喜怒无常	NegEmo
+呃	Nonfl
+八	Number	Funct
+捌	Number	Funct
+百	Number	Funct
+百万	Number	Funct
+佰	Number	Funct
+半	Number	Funct
+参	Number	Funct
+二	Number	Funct
+贰	Number	Funct
+好几	Number	Funct
+九	Number	Funct
+玖	Number	Funct
+两	Number	Funct
+两百	Number	Funct
+零	Number	Funct
+六	Number	Funct
+陆	Number	Funct
+廿	Number	Funct
+七	Number	Funct
+柒	Number	Funct
+千	Number	Funct
+仟	Number	Funct
+三	Number	Funct
+十	Number	Funct
+拾	Number	Funct
+四	Number	Funct
+肆	Number	Funct
+五	Number	Funct
+伍	Number	Funct
+一	Number	Funct
+壹	Number	Funct
+乙	Number	Funct
+唱歌	Percept	Hear	Leisure
+歌	Percept	Hear	Leisure
+歌唱	Percept	Hear	Leisure
+歌曲	Percept	Hear	Leisure
+合唱	Percept	Hear	Leisure
+合唱团	Percept	Hear	Leisure
+乐曲	Percept	Hear	Leisure
+乐音	Percept	Hear	Leisure
+演奏会	Percept	Hear	Leisure
+音乐	Percept	Hear	Leisure
+音乐会	Percept	Hear	Leisure
+聆听	Percept	Hear	Social
+倾听	Percept	Hear	Social
+谈话	Percept	Hear	Social
+谈论	Percept	Hear	Social
+嘈杂	Percept	Hear
+唱	Percept	Hear
+吵	Percept	Hear
+吵闹	Percept	Hear
+沉默	Percept	Hear
+刺耳	Percept	Hear
+大喊	Percept	Hear
+大吼	Percept	Hear
+大叫	Percept	Hear
+大声	Percept	Hear
+低语	Percept	Hear
+耳语	Percept	Hear
+发声	Percept	Hear
+分贝	Percept	Hear
+隔音	Percept	Hear
+聒噪	Percept	Hear
+喊	Percept	Hear
+喊叫	Percept	Hear
+合奏	Percept	Hear
+轰隆	Percept	Hear
+吼叫	Percept	Hear
+呼喊	Percept	Hear
+呼声	Percept	Hear
+寂静	Percept	Hear
+尖叫	Percept	Hear
+叫喊	Percept	Hear
+静	Percept	Hear
+静默	Percept	Hear
+雷	Percept	Hear
+雷声	Percept	Hear
+铃声	Percept	Hear
+隆隆	Percept	Hear
+隆隆声	Percept	Hear
+鸣	Percept	Hear
+鸣叫	Percept	Hear
+呐喊	Percept	Hear
+怒吼	Percept	Hear
+嗓门	Percept	Hear
+嗓子	Percept	Hear
+沙哑	Percept	Hear
+声响	Percept	Hear
+声音	Percept	Hear
+私语	Percept	Hear
+嘶吼	Percept	Hear
+嗡嗡	Percept	Hear
+无声	Percept	Hear
+响	Percept	Hear
+响亮	Percept	Hear
+响起	Percept	Hear
+喧闹	Percept	Hear
+言论	Percept	Hear
+演奏	Percept	Hear
+音调	Percept	Hear
+有声	Percept	Hear
+噪音	Percept	Hear
+震耳欲聋	Percept	Hear
+吼	Percept	Interjunction	Hear	Funct
+影像	Percept	See	Leisure
+黯淡	Percept	See
+白	Percept	See
+白色	Percept	See
+白皙	Percept	See
+逼真	Percept	See
+变暗	Percept	See
+变黑	Percept	See
+播放	Percept	See
+彩色	Percept	See
+橙色	Percept	See
+淡红色	Percept	See
+淡黄色	Percept	See
+瞪眼	Percept	See
+点亮	Percept	See
+点燃	Percept	See
+电灯	Percept	See
+盯	Percept	See
+发光	Percept	See
+发亮	Percept	See
+方	Percept	See
+方形	Percept	See
+放映	Percept	See
+粉红	Percept	See
+粉红色	Percept	See
+肤色	Percept	See
+光	Percept	See
+光线	Percept	See
+光源	Percept	See
+褐色	Percept	See
+黑暗	Percept	See
+黑色	Percept	See
+红色	Percept	See
+环	Percept	See
+环状	Percept	See
+黄色	Percept	See
+灰	Percept	See
+灰色	Percept	See
+金黄	Percept	See
+金黄色	Percept	See
+景色	Percept	See
+橘色	Percept	See
+矩形	Percept	See
+咖啡色	Percept	See
+蓝色	Percept	See
+亮	Percept	See
+浏览	Percept	See
+留神	Percept	See
+留意	Percept	See
+绿	Percept	See
+绿色	Percept	See
+盲目	Percept	See
+美容	Percept	See
+凝视	Percept	See
+旁观	Percept	See
+瞥	Percept	See
+漆黑	Percept	See
+浅色	Percept	See
+青色	Percept	See
+晴朗	Percept	See
+球形	Percept	See
+日光	Percept	See
+乳白	Percept	See
+三角	Percept	See
+扫描	Percept	See
+扫瞄	Percept	See
+色彩	Percept	See
+闪亮	Percept	See
+闪烁	Percept	See
+闪耀	Percept	See
+双眸	Percept	See
+天蓝色	Percept	See
+通红	Percept	See
+图	Percept	See
+图片	Percept	See
+图像	Percept	See
+外表	Percept	See
+外貌	Percept	See
+微光	Percept	See
+微亮	Percept	See
+细看	Percept	See
+鲜亮	Percept	See
+鲜艳	Percept	See
+相片	Percept	See
+绚烂	Percept	See
+雪白	Percept	See
+亚麻	Percept	See
+颜料	Percept	See
+颜色	Percept	See
+印象	Percept	See
+游览	Percept	See
+圆圈	Percept	See
+圆柱	Percept	See
+阅览	Percept	See
+长方形	Percept	See
+涨红	Percept	See
+照亮	Percept	See
+照片	Percept	See
+遮蔽	Percept	See
+烛光	Percept	See
+注视	Percept	See
+紫	Percept	See
+紫红	Percept	See
+紫红色	Percept	See
+紫色	Percept	See
+棕色	Percept	See
+表达	Percept	Social
+听闻	Percept	Social
+浓厚	Percept	Space
+告诉	Percept	Verb	Hear	Social
+讲	Percept	Verb	Hear	Social
+讲话	Percept	Verb	Hear	Social
+念	Percept	Verb	Hear	Social
+说	Percept	Verb	Hear	Social
+说话	Percept	Verb	Hear	Social
+见	Percept	Verb	See
+听	Percept	Verb	Social
+听到	Percept	Verb	Social
+听见	Percept	Verb	Social
+观察	Percept	Verb
+吸	Percept	Verb
+演讲	Percept	Work	Hear	Social
+苍白	Percept
+尝	Percept
+除臭	Percept
+吹送	Percept
+恶臭	Percept
+发白	Percept
+发热	Percept
+芳香	Percept
+芬芳	Percept
+风	Percept
+风味	Percept
+腐败	Percept
+腐臭	Percept
+腐烂	Percept
+甘美	Percept
+甘甜	Percept
+观	Percept
+观点	Percept
+观看	Percept
+和颜悦色	Percept
+胡说	Percept
+坏透	Percept
+昏	Percept
+激烈	Percept
+尖酸	Percept
+喀嚓	Percept
+口味	Percept
+苦涩	Percept
+苦味	Percept
+辣	Percept
+览	Percept
+蜜	Percept
+黏	Percept
+喷	Percept
+皮制	Percept
+飘荡	Percept
+品尝	Percept
+气味	Percept
+巧克力色	Percept
+润滑	Percept
+扫视	Percept
+色	Percept
+舐	Percept
+爽口	Percept
+嘶	Percept
+嘶嘶	Percept
+四方	Percept
+酸性	Percept
+体验	Percept
+甜美	Percept
+甜密	Percept
+甜蜜	Percept
+甜言蜜语	Percept
+调味	Percept
+听力	Percept
+味觉	Percept
+闻	Percept
+吸入	Percept
+咸	Percept
+香	Percept
+香料	Percept
+香喷喷	Percept
+香气	Percept
+香味	Percept
+想象	Percept
+嗅	Percept
+嗅觉	Percept
+忆起	Percept
+油	Percept
+油腻	Percept
+愉快	Percept
+晕	Percept
+照耀	Percept
+真理	PosEmo	CogMech	Certain
+解决	PosEmo	Insight	Cause	Achieve	CogMech
+怜悯	PosEmo	Sad	Religion	Social	Affect	NegEmo
+帮手	PosEmo	Social
+支撑	PosEmo	Verb
+保证	PosEmo	Work	Certain
+操守	PosEmo
+诚	PosEmo
+独创	PosEmo
+惊奇	PosEmo
+惊叹	PosEmo
+惊讶	PosEmo
+净土	PosEmo
+义	PosEmo
+某人	PPron	CogMech	Tentat	Pronoun	Funct	iPron	Exclusive	Social
+大家	PPron	CogMech	We	Pronoun	Funct	Certain	Humans	Social
+我们	PPron	CogMech	We	Pronoun	Inclusive	Funct	Religion	Social
+那位	PPron	Funct	Pronoun	SheHe	Social
+他	PPron	Funct	Pronoun	SheHe	Social
+她	PPron	Funct	Pronoun	SheHe	Social
+祂	PPron	Funct	Pronoun	SheHe	Social
+这位	PPron	Funct	Pronoun	SheHe	Social
+他人	PPron	Funct	Pronoun	Social
+他们	PPron	Funct	Pronoun	They	Social
+她们	PPron	Funct	Pronoun	They	Social
+小弟	PPron	I	Funct	Pronoun	Social
+俺	PPron	I	Pronoun	Funct
+敝人	PPron	I	Pronoun	Funct
+我	PPron	I	Pronoun	Funct
+吾	PPron	I	Pronoun	Funct
+在下	PPron	I	Pronoun	Funct
+本人	PPron	Pronoun	Funct	I	Humans	Social
+自己	PPron	Pronoun	Funct	I	Humans	Social
+人家	PPron	Pronoun	Funct	I	iPron	Social	SheHe
+我俩	PPron	We	Funct	Pronoun	Social
+吾等	PPron	We	Funct	Pronoun	Social
+吾人	PPron	We	Funct	Pronoun	Social
+咱	PPron	We	Funct	Pronoun	Social
+咱们	PPron	We	Funct	Pronoun	Social
+祢	PPron	You	Funct	Pronoun	Social
+你	PPron	You	Funct	Pronoun	Social
+您	PPron	You	Funct	Pronoun	Social
+汝	PPron	You	Funct	Pronoun	Social
+尔等	PPron	YouPL	Funct	Pronoun	Social
+你们	PPron	YouPL	Funct	Pronoun	Social
+妳们	PPron	YouPL	Funct	Pronoun	Social
+您们	PPron	YouPL	Funct	Pronoun	Social
+汝等	PPron	YouPL	Funct	Pronoun	Social
+较	Preps	Adverb	Funct
+越来越	Preps	Adverb	Funct
+把	Preps	Funct
+帮	Preps	Funct
+被	Preps	Funct
+比	Preps	Funct
+比较	Preps	Funct
+差于	Preps	Funct
+除	Preps	Funct
+除了	Preps	Funct
+对于	Preps	Funct
+多于	Preps	Funct
+跟	Preps	Funct
+藉	Preps	Funct
+经由	Preps	Funct
+据	Preps	Funct
+譬如	Preps	Funct
+如同	Preps	Funct
+顺	Preps	Funct
+随	Preps	Funct
+替	Preps	Funct
+透过	Preps	Funct
+为	Preps	Funct
+为了	Preps	Funct
+沿	Preps	Funct
+依	Preps	Funct
+以	Preps	Funct
+由	Preps	Funct
+于	Preps	Funct
+遭	Preps	Funct
+针对	Preps	Funct
+至于	Preps	Funct
+自	Preps	Funct
+近年来	ProgM	Funct
+哪里	Pronoun	Adverb	Funct	iPron	Space	Relative
+很少	Quant	Adverb	Funct
+极	Quant	Adverb	Funct
+唯一	Quant	Adverb	Funct
+充足	Quant	Funct
+单一	Quant	Funct
+独一无二	Quant	Funct
+多	Quant	Funct
+多点	Quant	Funct
+多量	Quant	Funct
+多少	Quant	Funct
+各式各样	Quant	Funct
+更	Quant	Funct
+更多	Quant	Funct
+更少	Quant	Funct
+较少	Quant	Funct
+其它	Quant	Funct
+千千	Quant	Funct
+全体	Quant	Funct
+少数	Quant	Funct
+剩下	Quant	Funct
+剩余	Quant	Funct
+双倍	Quant	Funct
+所有	Quant	Funct
+万万	Quant	Funct
+一半	Quant	Funct
+一点点	Quant	Funct
+一段	Quant	Funct
+一会儿	Quant	Funct
+有的	Quant	Funct
+余	Quant	Funct
+整	Quant	Funct
+种种	Quant	Funct
+众多	Quant	Funct
+总额	Quant	Funct
+最少	Quant	Funct
+几	Quant	Number	Funct
+倍	Quant	QuanUnit	Funct
+串	Quant	QuanUnit	Funct
+块	Quant	QuanUnit	Funct
+双	Quant	QuanUnit	Funct
+系列	Quant	QuanUnit	Funct
+不计其数	Quant
+下	QuanUnit	Funct	Space	PrepEnd	Relative	SpecArt
+百分比	QuanUnit	Funct
+杯	QuanUnit	Funct
+遍	QuanUnit	Funct
+波	QuanUnit	Funct
+步	QuanUnit	Funct
+层	QuanUnit	Funct
+场	QuanUnit	Funct
+栋	QuanUnit	Funct
+度	QuanUnit	Funct
+段	QuanUnit	Funct
+堆	QuanUnit	Funct
+吨	QuanUnit	Funct
+顿	QuanUnit	Funct
+朵	QuanUnit	Funct
+番	QuanUnit	Funct
+封	QuanUnit	Funct
+幅	QuanUnit	Funct
+副	QuanUnit	Funct
+根	QuanUnit	Funct
+公分	QuanUnit	Funct
+公斤	QuanUnit	Funct
+公顷	QuanUnit	Funct
+号	QuanUnit	Funct
+户	QuanUnit	Funct
+级	QuanUnit	Funct
+集	QuanUnit	Funct
+架	QuanUnit	Funct
+件	QuanUnit	Funct
+节	QuanUnit	Funct
+届	QuanUnit	Funct
+斤	QuanUnit	Funct
+句	QuanUnit	Funct
+棵	QuanUnit	Funct
+颗	QuanUnit	Funct
+款	QuanUnit	Funct
+类	QuanUnit	Funct
+辆	QuanUnit	Funct
+枚	QuanUnit	Funct
+美元	QuanUnit	Funct
+面	QuanUnit	Funct
+名	QuanUnit	Funct
+年	QuanUnit	Funct
+排	QuanUnit	Funct
+盘	QuanUnit	Funct
+批	QuanUnit	Funct
+篇	QuanUnit	Funct
+片	QuanUnit	Funct
+坪	QuanUnit	Funct
+瓶	QuanUnit	Funct
+圈	QuanUnit	Funct
+声	QuanUnit	Funct
+式	QuanUnit	Funct
+艘	QuanUnit	Funct
+岁	QuanUnit	Funct
+所	QuanUnit	Funct
+台	QuanUnit	Funct
+趟	QuanUnit	Funct
+套	QuanUnit	Funct
+题	QuanUnit	Funct
+条	QuanUnit	Funct
+团	QuanUnit	Funct
+位	QuanUnit	Funct
+项	QuanUnit	Funct
+些	QuanUnit	Funct
+样	QuanUnit	Funct
+页	QuanUnit	Funct
+则	QuanUnit	Funct
+阵	QuanUnit	Funct
+支	QuanUnit	Funct
+种	QuanUnit	Funct
+周	QuanUnit	Funct
+幢	QuanUnit	Funct
+座	QuanUnit	Funct
+票	QuanUnit	Leisure	Funct
+顶点	Relative	Achieve	Space
+终点	Relative	Achieve	Space
+领先	Relative	Achieve
+限度	Relative	Achieve
+忽然	Relative	Adverb	Funct
+不断	Relative	Adverb	Time
+不久	Relative	Adverb	Time
+宽大	Relative	Affect	Home	PosEmo	Space
+慢	Relative	Affect	Leisure	Time
+遗弃	Relative	Affect	NegEmo	Motion	Sad
+丢弃	Relative	Affect	NegEmo	Motion
+远离	Relative	Affect	NegEmo	Motion
+分裂	Relative	Affect	NegEmo	Space
+狭小	Relative	Affect	NegEmo	Space
+迟到	Relative	Affect	NegEmo	Time
+单独	Relative	Affect	Quant	NegEmo	Funct
+拉紧	Relative	Affect	Space
+次要	Relative	Affect
+传染	Relative	Bio	Health	Motion
+运动	Relative	Bio	Verb	Health	Motion
+创始	Relative	CogMech	Cause	Achieve	Time
+结果	Relative	CogMech	Cause	Achieve	Time
+发起	Relative	CogMech	Cause	Achieve
+后果	Relative	CogMech	Cause	Achieve
+导向	Relative	CogMech	Cause	Motion
+更改	Relative	CogMech	Cause	Motion
+来源	Relative	CogMech	Cause	Time
+起源	Relative	CogMech	Cause	Time
+原来	Relative	CogMech	Cause	Time
+源头	Relative	CogMech	Cause	Time
+源自	Relative	CogMech	Cause	Time
+不变	Relative	CogMech	Certain	Time
+天长地久	Relative	CogMech	Certain	Time
+一再	Relative	CogMech	Certain	Time
+永恒	Relative	CogMech	Certain	Time
+永久	Relative	CogMech	Certain	Time
+永远	Relative	CogMech	Certain	Time
+相对	Relative	CogMech	Exclusive	Space
+相比	Relative	CogMech	Exclusive
+两者	Relative	CogMech	Funct	Quant	Inclusive
+局部	Relative	CogMech	Funct	Quant	Space
+开	Relative	CogMech	Inclusive	Motion	Space
+包含	Relative	CogMech	Inclusive	Space
+敞开	Relative	CogMech	Inclusive	Space
+到处	Relative	CogMech	Inclusive	Space
+环绕	Relative	CogMech	Inclusive	Space
+开放	Relative	CogMech	Inclusive	Space
+里面	Relative	CogMech	Inclusive	Space
+入	Relative	CogMech	Inclusive	Space
+张开	Relative	CogMech	Inclusive	Space
+周围	Relative	CogMech	Inclusive	Space
+增加	Relative	CogMech	Inclusive
+中止	Relative	CogMech	Inhibition	Motion	Time
+终止	Relative	CogMech	Inhibition	Motion	Time
+止住	Relative	CogMech	Inhibition	Motion
+围住	Relative	CogMech	Inhibition	Space
+障碍	Relative	CogMech	Inhibition	Space
+耽误	Relative	CogMech	Inhibition	Time
+推迟	Relative	CogMech	Inhibition	Time
+延期	Relative	CogMech	Inhibition	Time
+耽搁	Relative	CogMech	Inhibition	Work	Time
+拖延	Relative	CogMech	Inhibition	Work	Time
+延迟	Relative	CogMech	Inhibition	Work	Time
+延误	Relative	CogMech	Inhibition	Work	Time
+严密	Relative	CogMech	Inhibition
+探索	Relative	CogMech	Insight	Motion	Work
+领导	Relative	CogMech	Motion	Cause	Achieve
+消除	Relative	CogMech	Motion	Exclusive
+率领	Relative	CogMech	Motion	Work	Achieve
+差不多	Relative	CogMech	Tentat	Adverb	Funct
+大概	Relative	CogMech	Tentat	Adverb	Funct
+普遍	Relative	CogMech	Tentat	Adverb	Funct
+主要	Relative	CogMech	Tentat	Adverb	Funct
+接近	Relative	CogMech	Tentat	Motion	Space
+多数	Relative	CogMech	Tentat	Quant	Funct
+改天	Relative	CogMech	Tentat	Time	Exclusive
+短暂	Relative	CogMech	Tentat	Time
+间或	Relative	CogMech	Tentat	Time
+偶然	Relative	CogMech	Tentat	Time
+碰巧	Relative	CogMech	Tentat	Time
+暂时	Relative	CogMech	Tentat	Time
+倾向	Relative	CogMech	Tentat	Verb	Space
+惯常	Relative	CogMech	Time
+持续	Relative	CogMech	Verb	Achieve	Time
+变成	Relative	CogMech	Verb	Cause	Motion
+变化	Relative	CogMech	Verb	Cause	Motion
+变迁	Relative	CogMech	Verb	Cause	Motion
+促使	Relative	CogMech	Verb	Cause	Motion
+改变	Relative	CogMech	Verb	Cause	Motion
+产生	Relative	CogMech	Verb	Cause	Time
+导致	Relative	CogMech	Verb	Cause
+带领	Relative	CogMech	Verb	Motion	Inclusive
+出现	Relative	CogMech	Verb	Motion	Space
+交换	Relative	CogMech	Verb	Motion	Work
+无关	Relative	CogMech
+当	Relative	Conj	Funct	Preps	Time
+直到	Relative	Conj	Funct	Preps	Time
+直至	Relative	Conj	Funct	Preps	Time
+接着	Relative	Conj	Funct	Time
+每当	Relative	Conj	Funct	Time
+最终	Relative	Funct	Adverb	Achieve	Time
+何处	Relative	Funct	Adverb	Space
+远	Relative	Funct	Adverb	Space
+远处	Relative	Funct	Adverb	Space
+何时	Relative	Funct	Adverb	Time
+即刻	Relative	Funct	Adverb	Time
+近来	Relative	Funct	Adverb	Time
+快	Relative	Funct	Adverb	Time
+快速	Relative	Funct	Adverb	Time
+频繁	Relative	Funct	Adverb	Time
+起初	Relative	Funct	Adverb	Time
+仍	Relative	Funct	Adverb	Time
+仍然	Relative	Funct	Adverb	Time
+实时	Relative	Funct	Adverb	Time
+首先	Relative	Funct	Adverb	Time
+迅速	Relative	Funct	Adverb	Time
+再	Relative	Funct	Adverb	Time
+再次	Relative	Funct	Adverb	Time
+长久	Relative	Funct	Adverb	Time
+终于	Relative	Funct	Adverb	Time
+重新	Relative	Funct	Adverb	Time
+最近	Relative	Funct	Adverb	Time
+哩	Relative	Funct	Interjunction	Space
+之间	Relative	Funct	PrepEnd	Space	Time
+从	Relative	Funct	Preps	Space
+低于	Relative	Funct	Preps	Space
+其中	Relative	Funct	Preps	Space
+始于	Relative	Funct	Preps	Time
+先于	Relative	Funct	Preps	Time
+片段	Relative	Funct	Quant	QuanUnit	Space
+充满	Relative	Funct	Quant	Space
+大	Relative	Funct	Quant	Space
+低	Relative	Funct	Quant	Space
+短	Relative	Funct	Quant	Space
+高	Relative	Funct	Quant	Space
+满	Relative	Funct	Quant	Space
+全部	Relative	Funct	Quant	Space
+小	Relative	Funct	Quant	Space
+一点	Relative	Funct	Quant	Space
+整个	Relative	Funct	Quant	Space
+长	Relative	Funct	Quant	Time
+吋	Relative	Funct	QuanUnit	Space
+道	Relative	Funct	QuanUnit	Space
+点	Relative	Funct	QuanUnit	Space
+公尺	Relative	Funct	QuanUnit	Space
+公里	Relative	Funct	QuanUnit	Space
+张	Relative	Funct	QuanUnit	Space
+分	Relative	Funct	QuanUnit	Time
+分钟	Relative	Funct	QuanUnit	Time
+回	Relative	Funct	QuanUnit	Time
+秒	Relative	Funct	QuanUnit	Time
+期	Relative	Funct	QuanUnit	Time
+日	Relative	Funct	QuanUnit	Time
+天	Relative	Funct	QuanUnit	Time
+前	Relative	Funct	Space	PrepEnd	Motion	SpecArt	Time
+上	Relative	Funct	Space	PrepEnd	Motion	SpecArt
+外	Relative	Funct	Space	PrepEnd
+以下	Relative	Funct	Space	PrepEnd
+之下	Relative	Funct	Space	PrepEnd
+之中	Relative	Funct	Space	PrepEnd
+近	Relative	Funct	Space	SpecArt
+开始	Relative	Funct	Time	Verb	PrepEnd
+在	Relative	Funct	Verb	Preps	Space
+处	Relative	Funct	Work	QuanUnit	Space
+房间	Relative	Home	Leisure	Space
+节日	Relative	Home	Leisure	Time
+空间	Relative	Home	Space
+宽敞	Relative	Home	Space
+室	Relative	Home	Space
+厅	Relative	Home	Space
+处处	Relative	iPron	Funct	Pronoun	Space
+静止	Relative	Leisure	Time
+角	Relative	Money	Space
+衰退	Relative	Money	Time
+渡过	Relative	Motion	Achieve
+赶上	Relative	Motion	Achieve
+驾驭	Relative	Motion	Achieve
+进展	Relative	Motion	Achieve
+驱使	Relative	Motion	Achieve
+提高	Relative	Motion	Achieve
+推进	Relative	Motion	Achieve
+朝	Relative	Motion	Funct	Preps	Space
+往	Relative	Motion	Funct	Preps	Space
+向	Relative	Motion	Funct	Preps	Space
+旅行	Relative	Motion	Leisure
+慢跑	Relative	Motion	Leisure
+跑步	Relative	Motion	Leisure
+赛跑	Relative	Motion	Leisure
+跳舞	Relative	Motion	Leisure
+舞蹈	Relative	Motion	Leisure
+游荡	Relative	Motion	Leisure
+远足	Relative	Motion	Leisure
+取	Relative	Motion	Percept	Verb
+按	Relative	Motion	Percept
+滑	Relative	Motion	Percept
+交易	Relative	Motion	Social	Work	Money
+拜访	Relative	Motion	Social
+参加	Relative	Motion	Social
+发送	Relative	Motion	Social
+派遣	Relative	Motion	Social
+视察	Relative	Motion	Social
+朝向	Relative	Motion	Space
+穿过	Relative	Motion	Space
+传	Relative	Motion	Space
+放	Relative	Motion	Space
+分离	Relative	Motion	Space
+盖上	Relative	Motion	Space
+各自	Relative	Motion	Space
+合拢	Relative	Motion	Space
+合上	Relative	Motion	Space
+靠近	Relative	Motion	Space
+离开	Relative	Motion	Space
+离去	Relative	Motion	Space
+上楼	Relative	Motion	Space
+下降	Relative	Motion	Space
+越过	Relative	Motion	Space
+逗留	Relative	Motion	Time
+更新	Relative	Motion	Time
+前往	Relative	Motion	Time
+上传	Relative	Motion	Time
+停下	Relative	Motion	Time
+停住	Relative	Motion	Time
+给予	Relative	Motion	Verb	Achieve	Social
+进步	Relative	Motion	Verb	Achieve
+前进	Relative	Motion	Verb	Achieve
+去	Relative	Motion	Verb	Interjunction	Funct
+跑	Relative	Motion	Verb	Leisure
+传达	Relative	Motion	Verb	Social
+寄	Relative	Motion	Verb	Social
+送	Relative	Motion	Verb	Social
+消失	Relative	Motion	Verb	Space
+进行	Relative	Motion	Verb	Time
+停	Relative	Motion	Verb	Time
+停留	Relative	Motion	Verb	Time
+停止	Relative	Motion	Verb	Time
+出发	Relative	Motion	Verb
+带来	Relative	Motion	Verb
+抵达	Relative	Motion	Verb
+动	Relative	Motion	Verb
+动作	Relative	Motion	Verb
+飞	Relative	Motion	Verb
+行动	Relative	Motion	Verb
+换	Relative	Motion	Verb
+开车	Relative	Motion	Verb
+来到	Relative	Motion	Verb
+流动	Relative	Motion	Verb
+拿	Relative	Motion	Verb
+拿来	Relative	Motion	Verb
+投	Relative	Motion	Verb
+携带	Relative	Motion	Verb
+移动	Relative	Motion	Verb
+走	Relative	Motion	Verb
+走路	Relative	Motion	Verb
+阻止	Relative	Motion	Verb
+提升	Relative	Motion	Work	Achieve
+替代	Relative	Motion	Work
+调动	Relative	Motion	Work
+推动	Relative	Motion	Work
+安置	Relative	Motion
+安装	Relative	Motion
+搬	Relative	Motion
+搬迁	Relative	Motion
+搬运	Relative	Motion
+伴随	Relative	Motion
+背离	Relative	Motion
+步伐	Relative	Motion
+步调	Relative	Motion
+踩	Relative	Motion
+参观	Relative	Motion
+扯	Relative	Motion
+成长	Relative	Motion
+乘坐	Relative	Motion
+冲	Relative	Motion
+冲破	Relative	Motion
+出席	Relative	Motion
+传导	Relative	Motion
+传送	Relative	Motion
+逮住	Relative	Motion
+弹跳	Relative	Motion
+到来	Relative	Motion
+吊	Relative	Motion
+掉	Relative	Motion
+掉落	Relative	Motion
+掉下	Relative	Motion
+抖动	Relative	Motion
+陡峭	Relative	Motion
+发射	Relative	Motion
+放置	Relative	Motion
+飞行	Relative	Motion
+浮	Relative	Motion
+跟随	Relative	Motion
+更换	Relative	Motion
+挂	Relative	Motion
+行程	Relative	Motion
+行进	Relative	Motion
+行驶	Relative	Motion
+行走	Relative	Motion
+航程	Relative	Motion
+航行	Relative	Motion
+阖上	Relative	Motion
+互换	Relative	Motion
+滑动	Relative	Motion
+滑落	Relative	Motion
+活动	Relative	Motion
+驾	Relative	Motion
+驾驶	Relative	Motion
+脚步	Relative	Motion
+接棒	Relative	Motion
+接到	Relative	Motion
+接收	Relative	Motion
+接住	Relative	Motion
+解除	Relative	Motion
+解救	Relative	Motion
+经过	Relative	Motion
+举止	Relative	Motion
+跨步	Relative	Motion
+快递	Relative	Motion
+拉	Relative	Motion
+拉扯	Relative	Motion
+临近	Relative	Motion
+流	Relative	Motion
+落下	Relative	Motion
+旅程	Relative	Motion
+旅途	Relative	Motion
+律动	Relative	Motion
+漫游	Relative	Motion
+拿到	Relative	Motion
+拿开	Relative	Motion
+拿去	Relative	Motion
+拿走	Relative	Motion
+扭转	Relative	Motion
+爬	Relative	Motion
+攀登	Relative	Motion
+抛	Relative	Motion
+跑者	Relative	Motion
+陪同	Relative	Motion
+偏移	Relative	Motion
+漂流	Relative	Motion
+骑	Relative	Motion
+骑乘	Relative	Motion
+起程	Relative	Motion
+汽车	Relative	Motion
+牵引	Relative	Motion
+亲近	Relative	Motion
+驱动	Relative	Motion
+取代	Relative	Motion
+去掉	Relative	Motion
+扔	Relative	Motion
+散步	Relative	Motion
+上升	Relative	Motion
+升	Relative	Motion
+生长	Relative	Motion
+失踪	Relative	Motion
+事过境迁	Relative	Motion
+收到	Relative	Motion
+手舞足蹈	Relative	Motion
+踏	Relative	Motion
+跳	Relative	Motion
+跳跃	Relative	Motion
+通过	Relative	Motion
+投递	Relative	Motion
+拖	Relative	Motion
+握	Relative	Motion
+下落	Relative	Motion
+悬吊	Relative	Motion
+悬挂	Relative	Motion
+旋转	Relative	Motion
+巡逻	Relative	Motion
+摇摆	Relative	Motion
+摇动	Relative	Motion
+移开	Relative	Motion
+遗留	Relative	Motion
+游	Relative	Motion
+游动	Relative	Motion
+游历	Relative	Motion
+游泳	Relative	Motion
+跃	Relative	Motion
+运输	Relative	Motion
+运送	Relative	Motion
+运载	Relative	Motion
+长大	Relative	Motion
+震动	Relative	Motion
+掷	Relative	Motion
+拽	Relative	Motion
+撞见	Relative	Motion
+追踪	Relative	Motion
+走过	Relative	Motion
+足迹	Relative	Motion
+阻挡	Relative	Motion
+地	Relative	MultiFun	Funct	Adverb	Space
+吻合	Relative	Percept	See
+腐朽	Relative	Percept	Time
+轻微	Relative	Quant	Funct
+少量	Relative	Quant	Funct
+双方	Relative	Quant	Funct
+许多	Relative	Quant	Funct
+无穷	Relative	Quant	Time
+行	Relative	QuanUnit	Funct	Assent	Motion	Verb
+不朽	Relative	Religion	Death	Time
+长生	Relative	Religion	Death	Time
+来世	Relative	Religion	Time
+礼拜	Relative	Religion	Time
+轮回	Relative	Religion	Time
+圣诞节	Relative	Religion	Time
+错过	Relative	Sad	Motion	Verb	Affect	NegEmo
+地位	Relative	Social	Achieve	Space
+少年	Relative	Social	Humans	Time
+碰面	Relative	Social	Space
+成年	Relative	Social	Time
+再见	Relative	Social	Time
+公共	Relative	Social
+超过	Relative	Space	Achieve	Time
+上部	Relative	Space	Time
+矮	Relative	Space
+矮小	Relative	Space
+摆	Relative	Space
+包围	Relative	Space
+北	Relative	Space
+北部	Relative	Space
+北方	Relative	Space
+北面	Relative	Space
+本地	Relative	Space
+笔直	Relative	Space
+闭	Relative	Space
+边	Relative	Space
+边际	Relative	Space
+边沿	Relative	Space
+边缘	Relative	Space
+遍及	Relative	Space
+表面	Relative	Space
+濒临	Relative	Space
+部位	Relative	Space
+侧	Relative	Space
+层级	Relative	Space
+拆散	Relative	Space
+场地	Relative	Space
+场所	Relative	Space
+超出	Relative	Space
+朝下	Relative	Space
+车道	Relative	Space
+城市	Relative	Space
+稠密	Relative	Space
+出	Relative	Space
+出口	Relative	Space
+出来	Relative	Space
+出去	Relative	Space
+处所	Relative	Space
+垂直	Relative	Space
+大规模	Relative	Space
+大厅	Relative	Space
+单行	Relative	Space
+当地	Relative	Space
+倒退	Relative	Space
+道路	Relative	Space
+登陆	Relative	Space
+低垂	Relative	Space
+底部	Relative	Space
+底层	Relative	Space
+底下	Relative	Space
+地板	Relative	Space
+地点	Relative	Space
+地方	Relative	Space
+地面	Relative	Space
+地区	Relative	Space
+地图	Relative	Space
+顶	Relative	Space
+顶部	Relative	Space
+顶上	Relative	Space
+东	Relative	Space
+东方	Relative	Space
+都市	Relative	Space
+端	Relative	Space
+对角	Relative	Space
+对角线	Relative	Space
+对面	Relative	Space
+反向	Relative	Space
+范围	Relative	Space
+方面	Relative	Space
+方位	Relative	Space
+分割	Relative	Space
+分隔	Relative	Space
+分开	Relative	Space
+封闭	Relative	Space
+幅度	Relative	Space
+俯	Relative	Space
+覆盖	Relative	Space
+高大	Relative	Space
+高度	Relative	Space
+隔开	Relative	Space
+关	Relative	Space
+关闭	Relative	Space
+关上	Relative	Space
+广大	Relative	Space
+广度	Relative	Space
+广泛	Relative	Space
+广阔	Relative	Space
+国际	Relative	Space
+国家	Relative	Space
+国土	Relative	Space
+浩瀚	Relative	Space
+核心	Relative	Space
+阖	Relative	Space
+横	Relative	Space
+横跨	Relative	Space
+横越	Relative	Space
+后面	Relative	Space
+后退	Relative	Space
+厚度	Relative	Space
+环境	Relative	Space
+寰宇	Relative	Space
+计量	Relative	Space
+加大	Relative	Space
+渐进	Relative	Space
+降落	Relative	Space
+交叉	Relative	Space
+交错	Relative	Space
+交迭	Relative	Space
+交集	Relative	Space
+郊外	Relative	Space
+角落	Relative	Space
+接通	Relative	Space
+街	Relative	Space
+街道	Relative	Space
+街角	Relative	Space
+界限	Relative	Space
+尽头	Relative	Space
+经线	Relative	Space
+境地	Relative	Space
+居中	Relative	Space
+巨大	Relative	Space
+距	Relative	Space
+距离	Relative	Space
+开辟	Relative	Space
+空	Relative	Space
+空白	Relative	Space
+空中	Relative	Space
+跨越	Relative	Space
+宽	Relative	Space
+宽度	Relative	Space
+宽阔	Relative	Space
+扩大	Relative	Space
+拉长	Relative	Space
+离	Relative	Space
+立场	Relative	Space
+连接	Relative	Space
+辽阔	Relative	Space
+邻近	Relative	Space
+领海	Relative	Space
+领土	Relative	Space
+领域	Relative	Space
+楼上	Relative	Space
+楼梯	Relative	Space
+陆地	Relative	Space
+路	Relative	Space
+路程	Relative	Space
+落后	Relative	Space
+密度	Relative	Space
+面积	Relative	Space
+那边	Relative	Space
+南	Relative	Space
+南边	Relative	Space
+南方	Relative	Space
+内部	Relative	Space
+内在	Relative	Space
+浓密	Relative	Space
+庞大	Relative	Space
+旁	Relative	Space
+旁边	Relative	Space
+碰头	Relative	Space
+偏僻	Relative	Space
+偏远	Relative	Space
+前面	Relative	Space
+浅	Relative	Space
+墙	Relative	Space
+墙壁	Relative	Space
+球面	Relative	Space
+区域	Relative	Space
+全面	Relative	Space
+全球	Relative	Space
+绕	Relative	Space
+人间	Relative	Space
+容积	Relative	Space
+容量	Relative	Space
+容纳	Relative	Space
+入口	Relative	Space
+上方	Relative	Space
+上面	Relative	Space
+上文	Relative	Space
+伸出	Relative	Space
+伸长	Relative	Space
+伸直	Relative	Space
+深	Relative	Space
+深处	Relative	Space
+深度	Relative	Space
+深渊	Relative	Space
+世界	Relative	Space
+市	Relative	Space
+市镇	Relative	Space
+室内	Relative	Space
+疏远	Relative	Space
+竖	Relative	Space
+双向	Relative	Space
+水平	Relative	Space
+水平面	Relative	Space
+四周	Relative	Space
+台上	Relative	Space
+台下	Relative	Space
+太空	Relative	Space
+梯级	Relative	Space
+天空	Relative	Space
+填满	Relative	Space
+通道	Relative	Space
+突出物	Relative	Space
+途径	Relative	Space
+土地	Relative	Space
+外边	Relative	Space
+外部	Relative	Space
+外侧	Relative	Space
+外出	Relative	Space
+外面	Relative	Space
+外围	Relative	Space
+弯曲	Relative	Space
+微小	Relative	Space
+围	Relative	Space
+围绕	Relative	Space
+位置	Relative	Space
+位子	Relative	Space
+舞台	Relative	Space
+西	Relative	Space
+西方	Relative	Space
+细小	Relative	Space
+狭窄	Relative	Space
+下端	Relative	Space
+下方	Relative	Space
+下级	Relative	Space
+下面	Relative	Space
+下游	Relative	Space
+衔接	Relative	Space
+乡村	Relative	Space
+乡下	Relative	Space
+相隔	Relative	Space
+相交	Relative	Space
+小巧	Relative	Space
+斜	Relative	Space
+斜坡	Relative	Space
+形状	Relative	Space
+延伸	Relative	Space
+遥远	Relative	Space
+溢出	Relative	Space
+英村	Relative	Space
+英里	Relative	Space
+右	Relative	Space
+右边	Relative	Space
+右侧	Relative	Space
+右方	Relative	Space
+宇宙	Relative	Space
+远程	Relative	Space
+越	Relative	Space
+窄	Relative	Space
+窄小	Relative	Space
+站台	Relative	Space
+镇	Relative	Space
+之上	Relative	Space
+直	Relative	Space
+直角	Relative	Space
+直立	Relative	Space
+直线	Relative	Space
+至高	Relative	Space
+质量	Relative	Space
+置	Relative	Space
+中间	Relative	Space
+中心	Relative	Space
+中央	Relative	Space
+重迭	Relative	Space
+转角	Relative	Space
+转弯	Relative	Space
+装进	Relative	Space
+左	Relative	Space
+左边	Relative	Space
+左方	Relative	Space
+左面	Relative	Space
+座位	Relative	Space
+将来	Relative	TenseM	Time	FutureM	Funct
+接下来	Relative	TenseM	Time	FutureM	Funct
+明年	Relative	TenseM	Time	FutureM	Funct
+明天	Relative	TenseM	Time	FutureM	Funct
+未来	Relative	TenseM	Time	FutureM	Funct
+从前	Relative	TenseM	Time	PastM	Funct
+古代	Relative	TenseM	Time	PastM	Funct
+过去	Relative	TenseM	Time	PastM	Funct
+前天	Relative	TenseM	Time	PastM	Funct
+去年	Relative	TenseM	Time	PastM	Funct
+昔日	Relative	TenseM	Time	PastM	Funct
+以往	Relative	TenseM	Time	PastM	Funct
+昨天	Relative	TenseM	Time	PastM	Funct
+当前	Relative	TenseM	Time	PresentM	Funct
+今日	Relative	TenseM	Time	PresentM	Funct
+今天	Relative	TenseM	Time	PresentM	Funct
+现今	Relative	TenseM	Time	PresentM	Funct
+正在	Relative	TenseM	Time	PresentM	Funct
+已经	Relative	TenseM	Time	ProgM	Funct
+八月	Relative	Time
+白驹过隙	Relative	Time
+白天	Relative	Time
+白云苍狗	Relative	Time
+白昼	Relative	Time
+百年	Relative	Time
+半夜	Relative	Time
+傍晚	Relative	Time
+不再	Relative	Time
+仓促	Relative	Time
+苍老	Relative	Time
+沧海桑田	Relative	Time
+沧桑	Relative	Time
+常见	Relative	Time
+晨间	Relative	Time
+成熟	Relative	Time
+迟	Relative	Time
+迟缓	Relative	Time
+持久	Relative	Time
+出生	Relative	Time
+除夕	Relative	Time
+春季	Relative	Time
+春节	Relative	Time
+春天	Relative	Time
+大后天	Relative	Time
+大前天	Relative	Time
+代	Relative	Time
+待会	Relative	Time
+诞生	Relative	Time
+当代	Relative	Time
+到期	Relative	Time
+等一会	Relative	Time
+等一下	Relative	Time
+点钟	Relative	Time
+凋谢	Relative	Time
+冬季	Relative	Time
+冬天	Relative	Time
+端午节	Relative	Time
+而后	Relative	Time
+尔后	Relative	Time
+二月	Relative	Time
+反复	Relative	Time
+返	Relative	Time
+返回	Relative	Time
+费时	Relative	Time
+复发	Relative	Time
+赶快	Relative	Time
+高龄	Relative	Time
+隔月	Relative	Time
+隔周	Relative	Time
+亘古	Relative	Time
+古	Relative	Time
+古今	Relative	Time
+古老	Relative	Time
+关头	Relative	Time
+过年	Relative	Time
+过期	Relative	Time
+过时	Relative	Time
+过往	Relative	Time
+后来	Relative	Time
+后期	Relative	Time
+后天	Relative	Time
+后续	Relative	Time
+坏掉	Relative	Time
+缓慢	Relative	Time
+回归	Relative	Time
+急忙	Relative	Time
+计时	Relative	Time
+季	Relative	Time
+季节	Relative	Time
+继而	Relative	Time
+间隔	Relative	Time
+间歇	Relative	Time
+阶段	Relative	Time
+节气	Relative	Time
+节奏	Relative	Time
+结尾	Relative	Time
+今晚	Relative	Time
+今夜	Relative	Time
+近代	Relative	Time
+近况	Relative	Time
+九月	Relative	Time
+久	Relative	Time
+旧	Relative	Time
+开端	Relative	Time
+开头	Relative	Time
+快行	Relative	Time
+老	Relative	Time
+老化	Relative	Time
+老旧	Relative	Time
+老年	Relative	Time
+老是	Relative	Time
+黎明	Relative	Time
+历史	Relative	Time
+连贯	Relative	Time
+连续	Relative	Time
+临时	Relative	Time
+流逝	Relative	Time
+六月	Relative	Time
+漫长	Relative	Time
+民国	Relative	Time
+明日	Relative	Time
+片刻	Relative	Time
+频率	Relative	Time
+七夕	Relative	Time
+七月	Relative	Time
+期间	Relative	Time
+启程	Relative	Time
+启动	Relative	Time
+起点	Relative	Time
+起始	Relative	Time
+前年	Relative	Time
+前夕	Relative	Time
+前者	Relative	Time
+青春	Relative	Time
+清晨	Relative	Time
+清明节	Relative	Time
+秋季	Relative	Time
+秋天	Relative	Time
+趋势	Relative	Time
+荏苒	Relative	Time
+日常	Relative	Time
+日期	Relative	Time
+日子	Relative	Time
+冗长	Relative	Time
+闰年	Relative	Time
+三月	Relative	Time
+上午	Relative	Time
+上旬	Relative	Time
+稍后	Relative	Time
+十二月	Relative	Time
+十年	Relative	Time
+十一月	Relative	Time
+十月	Relative	Time
+世代	Relative	Time
+世纪	Relative	Time
+衰败	Relative	Time
+衰减	Relative	Time
+顺序	Relative	Time
+瞬间	Relative	Time
+四月	Relative	Time
+速度	Relative	Time
+速率	Relative	Time
+岁末	Relative	Time
+岁月如梭	Relative	Time
+提早	Relative	Time
+天天	Relative	Time
+停息	Relative	Time
+同步	Relative	Time
+童年	Relative	Time
+突然	Relative	Time
+蜕变	Relative	Time
+褪色	Relative	Time
+往日	Relative	Time
+无垠	Relative	Time
+五月	Relative	Time
+午	Relative	Time
+午后	Relative	Time
+物换星移	Relative	Time
+下午	Relative	Time
+下旬	Relative	Time
+夏季	Relative	Time
+夏天	Relative	Time
+先	Relative	Time
+先前	Relative	Time
+现存	Relative	Time
+现代	Relative	Time
+现行	Relative	Time
+现时	Relative	Time
+消逝	Relative	Time
+小时	Relative	Time
+新	Relative	Time
+新潮	Relative	Time
+新进	Relative	Time
+新近	Relative	Time
+寻常	Relative	Time
+循环	Relative	Time
+延续	Relative	Time
+夜	Relative	Time
+夜半	Relative	Time
+夜晚	Relative	Time
+一年	Relative	Time
+一日	Relative	Time
+一时	Relative	Time
+一下	Relative	Time
+一下子	Relative	Time
+一月	Relative	Time
+依次	Relative	Time
+依序	Relative	Time
+悠久	Relative	Time
+幼年	Relative	Time
+幼小	Relative	Time
+余波	Relative	Time
+预先	Relative	Time
+元旦	Relative	Time
+原处	Relative	Time
+源于	Relative	Time
+月	Relative	Time
+月底	Relative	Time
+月份	Relative	Time
+再现	Relative	Time
+崭新	Relative	Time
+长命	Relative	Time
+长期	Relative	Time
+长寿	Relative	Time
+照旧	Relative	Time
+正午	Relative	Time
+中年	Relative	Time
+中秋节	Relative	Time
+中午	Relative	Time
+中旬	Relative	Time
+中元节	Relative	Time
+终生	Relative	Time
+钟	Relative	Time
+钟头	Relative	Time
+重复	Relative	Time
+重回	Relative	Time
+转世	Relative	Time
+资深	Relative	Time
+最初	Relative	Time
+结束	Relative	Verb	Inhibition	Time
+发生	Relative	Verb	Time
+继续	Relative	Verb	Work	Time
+留	Relative	Verb
+留下	Relative	Verb
+站	Relative	Verb
+坐	Relative	Verb
+突出	Relative	Work	Achieve	Space
+等级	Relative	Work	Achieve
+增进	Relative	Work	Achieve
+菜鸟	Relative	Work	Time
+期限	Relative	Work	Time
+任期	Relative	Work	Time
+学期	Relative	Work	Time
+承接	Relative
+程度	Relative
+次序	Relative
+单方	Relative
+低微	Relative
+蹲	Relative
+个别	Relative
+固定	Relative
+激增	Relative
+简略	Relative
+交会	Relative
+来生	Relative
+漫出	Relative
+媒介	Relative
+前世	Relative
+上限	Relative
+少许	Relative
+深厚	Relative
+升级	Relative
+瘦小	Relative
+双面	Relative
+天生	Relative
+突破	Relative
+外在	Relative
+违反	Relative
+有关	Relative
+增	Relative
+增长	Relative
+至上	Relative
+死亡	Religion	Death
+仪式	Religion	Leisure	Social
+打坐	Religion	Leisure
+静坐	Religion	Leisure
+冥想	Religion	Leisure
+诗歌	Religion	Leisure
+赞美	Religion	Social
+集会	Religion	Work	Social
+阿门	Religion
+阿们	Religion
+安息	Religion
+安息日	Religion
+拜佛	Religion
+保佑	Religion
+悲心	Religion
+布道	Religion
+禅	Religion
+禅定	Religion
+禅师	Religion
+禅修	Religion
+禅宗	Religion
+朝圣	Religion
+持戒	Religion
+出家	Religion
+传教	Religion
+传教士	Religion
+大悲咒	Religion
+大乘	Religion
+大殿	Religion
+祷告	Religion
+道教	Religion
+涤罪	Religion
+地狱	Religion
+典礼	Religion
+东正教	Religion
+恶魔	Religion
+恶业	Religion
+法会	Religion
+法轮	Religion
+法王	Religion
+梵谛冈	Religion
+梵蒂冈	Religion
+佛	Religion
+佛诞	Religion
+佛教	Religion
+佛经	Religion
+佛陀	Religion
+佛珠	Religion
+福报	Religion
+福音	Religion
+告解	Religion
+歌颂	Religion
+功德	Religion
+供养	Religion
+古兰经	Religion
+观世音	Religion
+灌顶	Religion
+好兄弟	Religion
+弘法	Religion
+回教	Religion
+回向	Religion
+悔罪	Religion
+乩童	Religion
+基督	Religion
+基督教	Religion
+基督教徒	Religion
+基督徒	Religion
+极乐世界	Religion
+偈诵	Religion
+祭司	Religion
+祭坛	Religion
+加持	Religion
+讲道	Religion
+教会	Religion
+教派	Religion
+教士	Religion
+教堂	Religion
+教条	Religion
+教徒	Religion
+教义	Religion
+教宗	Religion
+洁食	Religion
+金刚经	Religion
+金纸	Religion
+浸礼	Religion
+禁欲	Religion
+经	Religion
+经文	Religion
+净食	Religion
+敬神	Religion
+旧约	Religion
+救赎	Religion
+居士	Religion
+苦行	Religion
+拉比	Religion
+喇嘛	Religion
+老天爷	Religion
+乐园	Religion
+礼拜堂	Religion
+礼佛	Religion
+炼狱	Religion
+灵魂	Religion
+伦理	Religion
+律仪	Religion
+马丁路德	Religion
+麦加	Religion
+密宗	Religion
+庙	Religion
+庙宇	Religion
+冥纸	Religion
+摩门	Religion
+摩门教	Religion
+魔鬼	Religion
+魔王	Religion
+牧师	Religion
+穆罕默德	Religion
+穆加希德	Religion
+穆斯林	Religion
+尼姑	Religion
+念珠	Religion
+派别	Religion
+平安夜	Religion
+菩萨	Religion
+普渡	Religion
+祈祷	Religion
+祈求	Religion
+虔敬	Religion
+清教徒	Religion
+清真寺	Religion
+人子	Religion
+仁慈	Religion
+撒旦	Religion
+僧侣	Religion
+僧团	Religion
+善男信女	Religion
+上帝	Religion
+上师	Religion
+烧香	Religion
+摄持	Religion
+什叶派	Religion
+神	Religion
+神殿	Religion
+神父	Religion
+神龛	Religion
+神明	Religion
+神通	Religion
+神学	Religion
+神职	Religion
+圣地	Religion
+圣歌	Religion
+圣洁	Religion
+圣经	Religion
+圣母	Religion
+圣人	Religion
+圣诗	Religion
+圣坛	Religion
+圣徒	Religion
+圣战	Religion
+师父	Religion
+十字架	Religion
+十字军	Religion
+守护神	Religion
+赎罪	Religion
+赎罪日	Religion
+寺	Religion
+寺庙	Religion
+寺院	Religion
+颂扬	Religion
+太极	Religion
+剃度	Religion
+天赐	Religion
+天国	Religion
+天使	Religion
+天主教	Religion
+天主教堂	Religion
+西藏	Religion
+希腊正教	Religion
+锡克教	Religion
+洗礼	Religion
+先知	Religion
+香客	Religion
+香炉	Religion
+香油	Religion
+小乘	Religion
+心经	Religion
+心灵	Religion
+新教	Religion
+新教徒	Religion
+新约	Religion
+信	Religion
+信教	Religion
+信条	Religion
+信徒	Religion
+信众	Religion
+修道士	Religion
+修道院	Religion
+修行	Religion
+修女	Religion
+修士	Religion
+阎王	Religion
+耶路撒冷	Religion
+耶稣	Religion
+耶稣会	Religion
+业	Religion
+业果	Religion
+业力	Religion
+一贯道	Religion
+伊斯兰	Religion
+伊斯兰教	Religion
+仪轨	Religion
+异教	Religion
+异教徒	Religion
+因缘	Religion
+印度	Religion
+印度教	Religion
+犹大	Religion
+犹太	Religion
+犹太教	Religion
+犹太人	Religion
+玉皇大帝	Religion
+浴佛节	Religion
+预言	Religion
+预知	Religion
+缘起	Religion
+赞美诗	Religion
+赞颂	Religion
+斋戒	Religion
+斋月	Religion
+占卜	Religion
+长老	Religion
+真主	Religion
+纸钱	Religion
+中元	Religion
+主	Religion
+主教	Religion
+宗教	Religion
+宗派	Religion
+罪恶	Religion
+罪孽	Religion
+伤感	Sad
+伤痛	Sad
+伤心欲绝	Sad
+损害	Sad
+帮派	Social
+暴民	Social
+暴徒	Social
+辩解	Social
+辩论	Social
+参赛	Social
+参与	Social
+仇敌	Social
+仇恨	Social
+传说	Social
+辞呈	Social
+辞令	Social
+慈母	Social
+措词	Social
+打招呼	Social
+大哥大	Social
+大众	Social
+党	Social
+道歉	Social
+敌人	Social
+独处	Social
+对待	Social
+发牌	Social
+分摊	Social
+封建	Social
+个体	Social
+公开	Social
+公有	Social
+公众	Social
+供应	Social
+哈啰	Social
+函件	Social
+嗨	Social
+后代	Social
+呼唤	Social
+呼叫	Social
+互动	Social
+欢迎	Social
+回复	Social
+会话	Social
+会面	Social
+会众	Social
+婚礼	Social
+伙计	Social
+积怨	Social
+基层	Social
+集合	Social
+建议	Social
+讲述	Social
+交际	Social
+交流	Social
+交谈	Social
+角色	Social
+接纳	Social
+借口	Social
+局外人	Social
+军队	Social
+控诉	Social
+抠	Social
+叩	Social
+乐意	Social
+联合	Social
+联络	Social
+联谊	Social
+马屁	Social
+描绘	Social
+民众	Social
+名号	Social
+名字	Social
+年轻人	Social
+拍马屁	Social
+攀谈	Social
+旁听	Social
+请辞	Social
+庆典	Social
+劝说	Social
+群体	Social
+群组	Social
+人际	Social
+人身	Social
+三姑六婆	Social
+商量	Social
+商讨	Social
+商议	Social
+社会	Social
+社交	Social
+士兵	Social
+淑女	Social
+说起	Social
+私密	Social
+私下	Social
+送信	Social
+诉说	Social
+探望	Social
+踢爆	Social
+提议	Social
+听从	Social
+通话	Social
+同辈	Social
+偷听	Social
+投诉	Social
+吐露	Social
+团体	Social
+外行人	Social
+外人	Social
+文化	Social
+武装	Social
+喜好	Social
+相遇	Social
+详述	Social
+消息	Social
+小区	Social
+姓名	Social
+羞辱	Social
+言语	Social
+谣言	Social
+音信	Social
+隐私	Social
+约会	Social
+赞叹	Social
+赞扬	Social
+召唤	Social
+召集	Social
+忠告	Social
+种族	Social
+主持	Social
+主张	Social
+子孙	Social
+过	Space	Funct	Relative	Verb	PastM	TenseM	Preps
+屌	Swear	Assent
+靠	Swear	Preps	Funct
+瘪三	Swear
+畜生	Swear
+废物	Swear
+狗屎	Swear
+怪咖	Swear
+花痴	Swear
+机车	Swear
+拷	Swear
+靠背	Swear
+米共	Swear
+孬	Swear
+孬种	Swear
+尼玛	Swear
+娘儿们	Swear
+娘娘腔	Swear
+屁	Swear
+泼妇	Swear
+去你的	Swear
+人妖	Swear
+人渣	Swear
+傻瓜	Swear
+讨厌鬼	Swear
+窝囊废	Swear
+无耻	Swear
+嘘	Swear
+夭折	Swear
+杂种	Swear
+智障	Swear
+当下	TenseM	Adverb	PresentM	Funct
+正	TenseM	Affect	Funct	PresentM	PosEmo
+本来	TenseM	CogMech	Funct	PastM	Discrep
+起	TenseM	Funct	Preps	PresentM	PrepEnd
+下来	TenseM	Funct	ProgM	PrepEnd
+当天	TenseM	Funct
+即将	TenseM	FutureM	Funct
+将	TenseM	FutureM	Funct
+将要	TenseM	FutureM	Funct
+届时	TenseM	FutureM	Funct
+今后	TenseM	FutureM	Funct
+明	TenseM	FutureM	Funct
+日后	TenseM	FutureM	Funct
+下去	TenseM	FutureM	Funct
+早日	TenseM	FutureM	Funct
+当初	TenseM	PastM	Adverb	Funct
+当年	TenseM	PastM	Funct
+甫	TenseM	PastM	Funct
+日前	TenseM	PastM	Funct
+原先	TenseM	PastM	Funct
+昨	TenseM	PastM	Funct
+昨日	TenseM	PastM	Funct
+此时	TenseM	PresentM	Funct
+即日	TenseM	PresentM	Funct
+今	TenseM	PresentM	Funct
+今年	TenseM	PresentM	Funct
+平时	TenseM	PresentM	Funct
+起来	TenseM	PresentM	Funct
+如今	TenseM	PresentM	Funct
+现阶段	TenseM	PresentM	Funct
+这时	TenseM	PresentM	Funct
+着	TenseM	PresentM	Funct
+近年	TenseM	ProgM	Funct
+近日	TenseM	ProgM	Funct
+已	TenseM	ProgM	Funct
+早已	TenseM	ProgM	Funct
+立刻	TenseM	Relative	Funct	FutureM	Time
+随后	TenseM	Relative	Funct	FutureM	Time
+曾	TenseM	Relative	Funct	PastM	Time
+古早	TenseM	Relative	Funct	PastM	Time
+那时	TenseM	Relative	Funct	PastM	Time
+同时	TenseM	Relative	Funct	PresentM	Time
+现	TenseM	Relative	Funct	PresentM	Time
+看	TenseM	Verb	FutureM	Funct
+意外	Tentat	Death	Discrep
+变异	Tentat
+朝代	Time
+损失	Verb	Achieve	Sad
+工作	Verb	Achieve	Work
+考验	Verb	Achieve	Work
+努力	Verb	Achieve	Work
+赚钱	Verb	Achieve	Work
+保持	Verb	Achieve
+表现	Verb	Achieve
+得到	Verb	Achieve
+度过	Verb	Achieve
+坚持	Verb	Achieve
+建立	Verb	Achieve
+作	Verb	Funct
+演出	Verb	Leisure
+按照	Verb	Preps	Funct
+打电话	Verb	Social
+给	Verb	Social
+见面	Verb	Social
+开会	Verb	Social
+描写	Verb	Social
+谈	Verb	Social
+提供	Verb	Social
+喜爱	Verb	Social
+邀请	Verb	Social
+召开	Verb	Social
+访问	Verb	Work	Social
+经营	Verb	Work	Social
+命令	Verb	Work	Social
+出版	Verb	Work
+代表	Verb	Work
+教	Verb	Work
+教导	Verb	Work
+教授	Verb	Work
+研究	Verb	Work
+扮演	Verb
+保存	Verb
+保留	Verb
+背	Verb
+存在	Verb
+等于	Verb
+动手	Verb
+发挥	Verb
+翻	Verb
+恨	Verb
+画	Verb
+看到	Verb
+看见	Verb
+哭	Verb
+露出	Verb
+忍受	Verb
+生活	Verb
+实行	Verb
+收	Verb
+受	Verb
+思考	Verb
+提出	Verb
+勿	Verb
+习惯	Verb
+洗	Verb
+显得	Verb
+写	Verb
+形容	Verb
+宣传	Verb
+寻求	Verb
+依赖	Verb
+意味	Verb
+拥有	Verb
+用	Verb
+运用	Verb
+在乎	Verb
+遭遇	Verb
+展现	Verb
+着手	Verb
+住	Verb
+做	Verb
+团队	Work	Achieve	Leisure	Social
+组织	Work	Achieve	Social
+抱负	Work	Achieve
+财力	Work	Achieve
+策略	Work	Achieve
+辍学	Work	Achieve
+大师	Work	Achieve
+定案	Work	Achieve
+方案	Work	Achieve
+负责人	Work	Achieve
+机构	Work	Achieve
+计划	Work	Achieve
+继任	Work	Achieve
+降职	Work	Achieve
+阶级	Work	Achieve
+可用	Work	Achieve
+练习	Work	Achieve
+目标	Work	Achieve
+升职	Work	Achieve
+生产	Work	Achieve
+胜任	Work	Achieve
+实践	Work	Achieve
+实现	Work	Achieve
+徒劳	Work	Achieve
+退学	Work	Achieve
+雄心	Work	Achieve
+野心	Work	Achieve
+业务	Work	Achieve
+员工	Work	Achieve
+政权	Work	Achieve
+执行	Work	Achieve
+主席	Work	Achieve
+专家	Work	Achieve
+专业	Work	Achieve
+赚	Work	Achieve
+总统	Work	Achieve
+兄弟	Work	Family	Social
+同行	Work	Friend	Social
+同僚	Work	Friend	Social
+同事	Work	Friend	Social
+助手	Work	Friend	Social
+老师	Work	Humans	Social
+新生	Work	Humans	Social
+商场	Work	Leisure
+书本	Work	Leisure
+书籍	Work	Leisure
+阅读	Work	Leisure
+班	Work	QuanUnit	Funct
+笔	Work	QuanUnit	Funct
+部	Work	QuanUnit	Funct
+局	Work	QuanUnit	Funct
+队	Work	QuanUnit	Leisure	Funct
+失败	Work	Sad	Verb	Affect	NegEmo	Achieve
+党派	Work	Social
+分配	Work	Social
+会谈	Work	Social
+会议	Work	Social
+聚集	Work	Social
+论述	Work	Social
+面试	Work	Social
+面谈	Work	Social
+评论	Work	Social
+劝告	Work	Social
+商定	Work	Social
+谈判	Work	Social
+听众	Work	Social
+通知	Work	Social
+协商	Work	Social
+政党	Work	Social
+政府	Work	Social
+主人	Work	Social
+组成	Work	Social
+班级	Work
+颁发	Work
+办公室	Work
+办公桌	Work
+报告	Work
+报纸	Work
+备忘	Work
+备忘录	Work
+必修	Work
+毕业	Work
+毕业生	Work
+编辑	Work
+编辑部	Work
+便条纸	Work
+辩护人	Work
+并吞	Work
+播音室	Work
+博士	Work
+博学多闻	Work
+补助	Work
+部门	Work
+裁员	Work
+参谋	Work
+藏书室	Work
+测验	Work
+产	Work
+抄本	Work
+成绩	Work
+成绩单	Work
+呈现	Work
+程序	Work
+初级	Work
+初中生	Work
+处长	Work
+传真	Work
+打字	Work
+大三	Work
+大学	Work
+大学生	Work
+代表队	Work
+代理人	Work
+代理商	Work
+单据	Work
+导师	Work
+导演	Work
+登记	Work
+典当	Work
+电脑	Work
+店员	Work
+订约	Work
+董事	Work
+董事长	Work
+动员	Work
+读书人	Work
+发行	Work
+法官	Work
+法律	Work
+法律人	Work
+法学家	Work
+方针	Work
+分派	Work
+分数	Work
+粉笔	Work
+服务	Work
+服务台	Work
+福利	Work
+妇女会	Work
+复习	Work
+复印	Work
+副本	Work
+副总	Work
+副总裁	Work
+副总统	Work
+概述	Work
+概要	Work
+纲领	Work
+钢笔	Work
+高年级	Work
+高中	Work
+隔间	Work
+工厂	Work
+工会	Work
+工人	Work
+工头	Work
+工业	Work
+工作间	Work
+公安	Work
+公会	Work
+公文	Work
+顾问	Work
+雇用	Work
+雇主	Work
+广告	Work
+归并	Work
+归于	Work
+柜台	Work
+行业	Work
+好学	Work
+合并	Work
+合法	Work
+合格	Work
+合伙人	Work
+合约	Work
+合作	Work
+黑板	Work
+回馈	Work
+汇报	Work
+集团	Work
+记录	Work
+纪录	Work
+加分	Work
+加盟	Work
+家教	Work
+间谍	Work
+监督	Work
+兼并	Work
+检验	Work
+简历	Work
+键盘	Work
+讲课	Work
+讲师	Work
+讲授	Work
+讲座	Work
+奖	Work
+奖品	Work
+教科书	Work
+教师	Work
+教室	Work
+教学主管	Work
+教育	Work
+教育性	Work
+节目	Work
+结合	Work
+截稿	Work
+解雇	Work
+介绍	Work
+经纪人	Work
+经理	Work
+精简	Work
+精神	Work
+警察	Work
+警方	Work
+警力	Work
+局长	Work
+剧团	Work
+决赛	Work
+开除	Work
+考试	Work
+科	Work
+科目	Work
+科系	Work
+科学	Work
+课	Work
+课本	Work
+课程	Work
+课业	Work
+亏待	Work
+劳动	Work
+劳方	Work
+劳工	Work
+劳力	Work
+老板	Work
+类型	Work
+联络处	Work
+联盟	Work
+量产	Work
+猎人	Work
+领袖	Work
+陆军	Work
+论点	Work
+论题	Work
+论文	Work
+履历	Work
+律师	Work
+忙碌	Work
+秘书	Work
+命题	Work
+目录	Work
+幕僚	Work
+年级	Work
+拍摄	Work
+盘问	Work
+培养	Work
+聘请	Work
+聘用	Work
+评分	Work
+凭据	Work
+仆	Work
+仆人	Work
+期末考	Work
+期中	Work
+期中考	Work
+企划	Work
+企业	Work
+契约	Work
+迁移	Work
+铅笔	Work
+前辈	Work
+遣散	Work
+缺席	Work
+入学考试	Work
+商号	Work
+上课	Work
+上流	Work
+上司	Work
+上校	Work
+少校	Work
+社	Work
+申请	Work
+申请人	Work
+神学家	Work
+审查	Work
+生物学	Work
+生涯	Work
+生意	Work
+失业	Work
+师兄	Work
+实验	Work
+市场	Work
+市长	Work
+试卷	Work
+试题	Work
+收发室	Work
+首领	Work
+首席执行官	Work
+书桌	Work
+数学	Work
+硕士	Work
+司	Work
+司法部	Work
+讨论	Work
+讨论会	Work
+特派员	Work
+特许	Work
+调任	Work
+同仁	Work
+同学	Work
+图书馆	Work
+退休	Work
+退休金	Work
+退职	Work
+托福	Work
+挖角	Work
+外包	Work
+外交	Work
+委派	Work
+委外	Work
+委员	Work
+委员会	Work
+委员长	Work
+文凭	Work
+文书	Work
+文献	Work
+系	Work
+系所	Work
+系主任	Work
+先修	Work
+消费群	Work
+小考	Work
+小学	Work
+校队	Work
+校园	Work
+协会	Work
+协商会	Work
+协作	Work
+心理	Work
+心理学	Work
+新鲜	Work
+修习	Work
+宣布	Work
+宣誓	Work
+学姐	Work
+学年	Work
+学生	Work
+学术	Work
+学徒	Work
+学校	Work
+学业	Work
+学园	Work
+学院	Work
+学长	Work
+学者	Work
+演说	Work
+养老金	Work
+样式	Work
+要职	Work
+移交	Work
+义卖	Work
+议会	Work
+议长	Work
+影印	Work
+应用	Work
+邮件室	Work
+游戏机	Work
+幼儿园	Work
+原则	Work
+院	Work
+院长	Work
+运算	Work
+摘要	Work
+展示	Work
+招募	Work
+折合	Work
+折价	Work
+征募	Work
+正当	Work
+证书	Work
+证照	Work
+政策	Work
+政见	Work
+政治	Work
+政治学	Work
+执照	Work
+职务	Work
+职校	Work
+职员	Work
+纸张	Work
+指导	Work
+指示	Work
+制造业	Work
+中介	Work
+主攻	Work
+主管	Work
+主任	Work
+主修	Work
+助教	Work
+助理	Work
+注册	Work
+著作	Work
+专科	Work
+专题	Work
+转让	Work
+转校	Work
+赚得	Work
+咨商	Work
+资格	Work
+资格考试	Work
+资遣	Work
+自助餐厅	Work

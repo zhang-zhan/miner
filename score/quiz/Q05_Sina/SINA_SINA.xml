@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>SINA_SINA</identifier>
+    <caption>新浪微博用户调查</caption>
+    <information><![CDATA[本问卷调查由中科院心理所和新浪微博联合发起，调查微博用户使用微博状况、心理状况。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q01" type="text">
+		<title>您的年龄(请填写数字，例如25；请真实填写，此题目将作为甄别填写是否有效的信息)：</title>
+    </question>
+
+	<question qid="q02">
+		<title>是否为独生子女：</title>
+		<answer aid="y" score="0">是</answer>
+		<answer aid="n" score="0">否</answer>
+    </question>
+	
+	<question qid="q03">
+		<title>家庭人均月收入：</title>
+		<answer aid="a" score="0">2千元以下</answer>
+		<answer aid="b" score="0">2千—4千元</answer>
+		<answer aid="c" score="0">4千—6千元</answer>
+		<answer aid="d" score="0">6千—8千元</answer>
+		<answer aid="e" score="0">8千—1万元</answer>
+		<answer aid="f" score="0">1万元以上</answer>
+	</question>
+
+	<question qid="q04" type="multi">
+		<title>您觉得大学生用户在使用“新浪微博”时，会对以下哪一类（或几类）内容感兴趣？</title>
+		<answer aid="a" score="1">科学教育</answer>
+		<answer aid="b" score="2">财经商业</answer>
+		<answer aid="c" score="3">民生时政</answer>
+		<answer aid="d" score="4">文艺体育</answer>
+		<answer aid="e" score="5">娱乐八卦</answer>
+		<answer aid="f" score="6" type="text">其他</answer>
+    </question>
+
+	<question qid="q05">
+		<title>在“科学教育”类微博应用中，您更关注、甚至寻找哪方面信息或资源？</title>
+		<answer aid="a" score="0">大众百科</answer>
+		<answer aid="b" score="0">专业或同行相关</answer>
+		<answer aid="c" score="0">感兴趣的其他专业信息</answer>
+		<answer aid="d" score="0">校园相关</answer>
+		<answer aid="e" score="0" type="text">其他</answer>
+    </question>
+	
+	<question qid="q06">
+		<title>在大学生用户中间已经形成了一种使用“新浪微博”的流行风尚和校园文化。</title>
+		<answer aid="a" score="0">非常不同意</answer>
+		<answer aid="b" score="0">比较不统一</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">比较同意</answer>
+		<answer aid="e" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q07">
+		<title>您愿意通过“新浪微博”与他人一起分享个人生活中的点点滴滴。</title>
+		<answer aid="a" score="0">非常不同意</answer>
+		<answer aid="b" score="0">比较不统一</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">比较同意</answer>
+		<answer aid="e" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q08">
+		<title>需要了解时事新闻或朋友动态时，您首先会联想到使用“新浪微博”。</title>
+		<answer aid="a" score="0">非常不同意</answer>
+		<answer aid="b" score="0">比较不统一</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">比较同意</answer>
+		<answer aid="e" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q09">
+		<title>“新浪微博”对大学生的日常学习具有良好的帮助促进作用。</title>
+		<answer aid="a" score="0">非常不同意</answer>
+		<answer aid="b" score="0">比较不统一</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">比较同意</answer>
+		<answer aid="e" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q10">
+		<title>“新浪微博”对大学生用户提高就业技能具有良好的帮助促进作用。</title>
+		<answer aid="a" score="0">非常不同意</answer>
+		<answer aid="b" score="0">比较不统一</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">比较同意</answer>
+		<answer aid="e" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q11">
+		<title>“新浪微博”对大学生用户开展自主创业具有良好的推动促进作用。</title>
+		<answer aid="a" score="0">非常不同意</answer>
+		<answer aid="b" score="0">比较不统一</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">比较同意</answer>
+		<answer aid="e" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q12">
+		<title>大学生用户在使用“新浪微博”时能够积极参与社会公益类活动。</title>
+		<answer aid="a" score="0">非常不同意</answer>
+		<answer aid="b" score="0">比较不统一</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">比较同意</answer>
+		<answer aid="e" score="0">非常同意</answer>
+    </question>
+	
+	<question qid="q13">
+		<title>“新浪微博”对传递社会正能量具有良好的推动促进作用。</title>
+		<answer aid="a" score="0">非常不同意</answer>
+		<answer aid="b" score="0">比较不统一</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">比较同意</answer>
+		<answer aid="e" score="0">非常同意</answer>
+    </question>
+
+    <question qid="D01" tag="D">
+      <title>最近一周以来，我为一些在平常并不会烦我的事而烦扰。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D02" tag="D">
+      <title>最近一周以来，我不想吃东西，食欲很差。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D03" tag="D">
+      <title>最近一周以来，即使在家人或朋友的帮助下，我还觉得摆脱不了忧郁。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D04" tag="D">
+      <title>最近一周以来，我感到我和别人一样好。</title>
+      <answer aid="a" score="3">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="2">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="1">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="0">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D05" tag="D">
+      <title>最近一周以来，我难以把心思集中于正在做的事情上。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D06" tag="D">
+      <title>最近一周以来，我感到沮丧。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D07" tag="D">
+      <title>最近一周以来，我感到自己所做的每一件事都很费力。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D08" tag="D">
+      <title>最近一周以来，我对前途充满希望。</title>
+      <answer aid="a" score="3">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="2">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="1">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="0">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D09" tag="D">
+      <title>最近一周以来，我认为我的一生是一个失败。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D10" tag="D">
+      <title>最近一周以来，我感到害怕。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D11" tag="D">
+      <title>最近一周以来，我睡不安稳。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D12" tag="D">
+      <title>最近一周以来，我很快乐。</title>
+      <answer aid="a" score="3">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="2">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="1">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="0">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D13" tag="D">
+      <title>最近一周以来，我比平时说话少了。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D14" tag="D">
+      <title>最近一周以来，我感到孤独寂寞。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D15" tag="D">
+      <title>最近一周以来，人们对我不友善。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D16" tag="D">
+      <title>最近一周以来，我享受生活的惬意。</title>
+      <answer aid="a" score="3">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="2">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="1">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="0">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D17" tag="D">
+      <title>最近一周以来，我曾一阵阵的哭过。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D18" tag="D">
+      <title>最近一周以来，我感到悲伤。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D19" tag="D">
+      <title>最近一周以来，我感到别人不喜欢我。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+
+    <question qid="D20" tag="D">
+      <title>最近一周以来，我提不起劲儿来做事。</title>
+      <answer aid="a" score="0">极少或从未有过（少于1天）</answer>
+      <answer aid="b" score="1">较少的时候是这样（1-2天）</answer>
+      <answer aid="c" score="2">较多的时候是这样（3-4天）</answer>
+      <answer aid="d" score="3">大多数或所有的时候都是这样（5-7天)</answer>
+    </question>
+	
+	<question qid="S1" tag="S">
+	  <title>在很多方面，我的生活与我的理想很接近。</title>
+	  <answer aid="a" score="1">非常不同意</answer>
+	  <answer aid="b" score="2">不同意</answer>
+	  <answer aid="c" score="3">有些不同意</answer>
+	  <answer aid="d" score="4">无所谓</answer>
+	  <answer aid="e" score="5">有些同意</answer>
+	  <answer aid="f" score="6">同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+	</question>
+
+	<question qid="S2" tag="S">
+	  <title>我的生活状况非常好。</title>
+	  <answer aid="a" score="1">非常不同意</answer>
+	  <answer aid="b" score="2">不同意</answer>
+	  <answer aid="c" score="3">有些不同意</answer>
+	  <answer aid="d" score="4">无所谓</answer>
+	  <answer aid="e" score="5">有些同意</answer>
+	  <answer aid="f" score="6">同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+	</question>
+
+	<question qid="S3" tag="S">
+	  <title>我对自己的生活感到满意。</title>
+	  <answer aid="a" score="1">非常不同意</answer>
+	  <answer aid="b" score="2">不同意</answer>
+	  <answer aid="c" score="3">有些不同意</answer>
+	  <answer aid="d" score="4">无所谓</answer>
+	  <answer aid="e" score="5">有些同意</answer>
+	  <answer aid="f" score="6">同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+	</question>
+
+	<question qid="S4" tag="S">
+	  <title>到目前为止，生活中我已经得到了自己想要的重要的东西。</title>
+	  <answer aid="a" score="1">非常不同意</answer>
+	  <answer aid="b" score="2">不同意</answer>
+	  <answer aid="c" score="3">有些不同意</answer>
+	  <answer aid="d" score="4">无所谓</answer>
+	  <answer aid="e" score="5">有些同意</answer>
+	  <answer aid="f" score="6">同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+	</question>
+
+	<question qid="S5" tag="S">
+	  <title>如果有来世，我几乎不会改变目前的生活方式。</title>
+	  <answer aid="a" score="1">非常不同意</answer>
+	  <answer aid="b" score="2">不同意</answer>
+	  <answer aid="c" score="3">有些不同意</answer>
+	  <answer aid="d" score="4">无所谓</answer>
+	  <answer aid="e" score="5">有些同意</answer>
+	  <answer aid="f" score="6">同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+	</question>
+		
+  </questions>
+
+</questionnaire>

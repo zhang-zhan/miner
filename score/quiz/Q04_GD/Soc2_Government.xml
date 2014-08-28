@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<questionnaire>
+  <description>
+    <identifier>Soc_GOV</identifier>
+    <caption>对政府工作的看法</caption>
+    <information><![CDATA[　　欢迎您填写本问卷，后面的题目列出了与您对政府工作看法的一些问题，对每项描述，请指出您具有哪种感受，选择您认同的选项。
+　　提示：本问卷为调查性问卷，收集的数据用于科学研究，您如实填写完后会发放报酬，但是本问卷【没有反馈信息】，我们同时依照协议严格保护您的个人信息。
+　　请您在不受外界打扰的情况下，认真、真实、连续地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+		<title>总体来说，您对目前中央政府的工作是否满意？</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q2">
+		<title>您是否相信中央会尽力去做有利于老百姓的事情？</title>
+		<answer aid="a" score="0">很不相信</answer>
+		<answer aid="b" score="0">较不相信</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较相信</answer>
+		<answer aid="e" score="0">很相信</answer>
+    </question>
+	
+	<question qid="q3">
+		<title>您认为中央对你们当地的社会问题是否了解?</title>
+		<answer aid="a" score="0">很不了解</answer>
+		<answer aid="b" score="0">较不了解</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较了解</answer>
+		<answer aid="e" score="0">很了解</answer>
+    </question>
+	
+	<question qid="q4">
+		<title>总体来说，您对本地政府的工作是否满意？</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+
+	<question qid="q5">
+		<title>本地政府的工作给您的感受如何？</title>
+		<answer aid="a" score="0">很赞赏</answer>
+		<answer aid="b" score="0">较赞赏</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">较失望</answer>
+		<answer aid="e" score="0">很失望</answer>
+    </question>
+	
+	<question qid="q6">
+		<title>总体上讲，您如何评价本地政府的可信程度？</title>
+		<answer aid="a" score="0">很不相信</answer>
+		<answer aid="b" score="0">较不相信</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较相信</answer>
+		<answer aid="e" score="0">很相信</answer>
+    </question>
+	
+	<question qid="q7">
+		<title>您是否相信本地政府会尽力去做有益于大多数民众利益的事情？</title>
+		<answer aid="a" score="0">很不相信</answer>
+		<answer aid="b" score="0">较不相信</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较相信</answer>
+		<answer aid="e" score="0">很相信</answer>
+    </question>
+	
+	<question qid="q8">
+		<title>您认为本地政府工作人员在他们应该做的工作上完成得如何？</title>
+		<answer aid="a" score="0">完成得很差</answer>
+		<answer aid="b" score="0">完成得较差</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">完成得比较好</answer>
+		<answer aid="e" score="0">完成得很好</answer>
+    </question>
+	
+	<question qid="q9.1">
+		<title>您对本地县（市）政府在【养老保障】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.2">
+		<title>您对本地县（市）政府在【医疗保障】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.3">
+		<title>您对本地县（市）政府在【教育工作】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.4">
+		<title>您对本地县（市）政府在【公共基础设施建设】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.6">
+		<title>您对本地县（市）政府在【解决就业问题】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.7">
+		<title>您对本地县（市）政府在【反腐倡廉】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.8">
+		<title>您对本地县（市）政府在【维护社会治安】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.9">
+		<title>您对本地县（市）政府在【减轻农民负担】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.10">
+		<title>您对本地县（市）政府在【缩小贫富差距】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.11">
+		<title>您对本地县（市）政府在【推行计划生育】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.12">
+		<title>您对本地县（市）政府在【加强环境保护】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.13">
+		<title>您对本地县（市）政府在【改进工作作风】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.14">
+		<title>您对本地县（市）政府在【户籍管理改革】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.15">
+		<title>您对本地县（市）政府在【道路交通管理】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.16">
+		<title>您对本地县（市）政府在【促进经济发展】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.17">
+		<title>您对本地县（市）政府在【安全生产监管】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.18">
+		<title>您对本地县（市）政府在【健全公民利益诉求渠道】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q9.19">
+		<title>您对本地县（市）政府在【物价调控】方面的工作是否满意：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q10">
+		<title>您如何评价本地政府推行的政策？</title>
+		<answer aid="a" score="0">很差</answer>
+		<answer aid="b" score="0">较差</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">较好</answer>
+		<answer aid="e" score="0">很好</answer>
+    </question>
+	
+	<question qid="q11">
+		<title>您认为本地政府在推行一项政策时，是否征求过老百姓的意见？</title>
+		<answer aid="a" score="0">很少</answer>
+		<answer aid="b" score="0">较少</answer>
+		<answer aid="c" score="0">不好说</answer>
+		<answer aid="d" score="0">有时</answer>
+		<answer aid="e" score="0">经常</answer>
+    </question>
+	
+	<question qid="q12">
+		<title>您认为与您类似的民众意见能在多大程度上影响本地政府的决策？</title>
+		<answer aid="a" score="0">没有影响</answer>
+		<answer aid="b" score="0">影响较小</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">影响较大</answer>
+		<answer aid="e" score="0">非常有影响</answer>
+    </question>
+	
+	<question qid="q13" type="multi">
+		<title>一想到要去本地政府部门办事，您的主要感受是什么（可以选多项）：</title>
+		<answer aid="a" score="0">胆怯</answer>
+		<answer aid="b" score="0">厌恶</answer>
+		<answer aid="c" score="0">生气</answer>
+		<answer aid="d" score="0">无所谓</answer>
+		<answer aid="f" score="0">尊重</answer>
+		<answer aid="g" score="0">愉快</answer>
+		<answer aid="h" score="0">亲切</answer>
+		<answer aid="i" score="0" type="text">其他感受（请具体说明）</answer>
+    </question>
+	
+	<question qid="q14">
+		<title>您对本村或街道干部的工作：</title>
+		<answer aid="a" score="0">很不满意</answer>
+		<answer aid="b" score="0">较不满意</answer>
+		<answer aid="c" score="0">一般</answer>
+		<answer aid="d" score="0">比较满意</answer>
+		<answer aid="e" score="0">很满意</answer>
+    </question>
+	
+	<question qid="q15" type="text">
+		<title>看到“政府”一词，您会联想到什么（词语或句子皆可，至少列出三个首先想到的词语或句子。请认真填写，此问题将作为甄别问卷填写是否合格的重要标准）：</title>
+    </question>
+
+  </questions>
+
+  <remarks>
+    <remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！</remark>
+  </remarks>
+
+</questionnaire>

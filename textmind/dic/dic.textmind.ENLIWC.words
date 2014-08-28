@@ -1,0 +1,2147 @@
+%【说明】本文件内的词语为：英文版LIWC词汇。
+ace	Achieve
+beat	Achieve
+founding	Achieve
+master	Achieve
+mastered	Achieve
+mastering	Achieve
+mastery	Achieve
+overcome	Achieve
+plan	Achieve
+planned	Achieve
+planning	Achieve
+plans	Achieve
+progress	Achieve
+queen	Achieve
+queenly	Achieve
+quit	Achieve
+rank	Achieve
+ranked	Achieve
+ranking	Achieve
+ranks	Achieve
+skill	Achieve
+skilled	Achieve
+skills	Achieve
+trying	Achieve
+unable	Achieve
+actually	Adverb	Funct
+basically	Adverb	Funct
+especially	Adverb	Funct
+even	Adverb	Funct
+here	Adverb	Funct
+instead	Adverb	Funct
+only	Adverb	Funct
+primarily	Adverb	Funct
+rarely	Adverb	Funct
+simply	Adverb	Funct
+such	Adverb	Funct
+there	Adverb	Funct
+too	Adverb	Funct
+very	Adverb	Funct
+better	Affect	Achieve	PosEmo
+improving	Affect	Achieve	PosEmo
+pride	Affect	Achieve	PosEmo
+super	Affect	Achieve	PosEmo
+win	Affect	Achieve	PosEmo
+wins	Affect	Achieve	PosEmo
+afraid	Affect	Anx	NegEmo
+distraught	Affect	Anx	NegEmo
+emotional	Affect	Anx	NegEmo
+fear	Affect	Anx	NegEmo
+feared	Affect	Anx	NegEmo
+fearing	Affect	Anx	NegEmo
+fears	Affect	Anx	NegEmo
+scaring	Affect	Anx	NegEmo
+scary	Affect	Anx	NegEmo
+stunned	Affect	Anx	NegEmo
+stuns	Affect	Anx	NegEmo
+tensing	Affect	Anx	NegEmo
+terrified	Affect	Anx	NegEmo
+terrifies	Affect	Anx	NegEmo
+terrifying	Affect	Anx	NegEmo
+turmoil	Affect	Anx	NegEmo
+agree	Affect	Assent	PosEmo
+aok	Affect	Assent	PosEmo
+awesome	Affect	Assent	PosEmo
+ha	Affect	Assent	PosEmo
+lol	Affect	Assent	PosEmo
+ok	Affect	Assent	PosEmo
+okay	Affect	Assent	PosEmo
+rofl	Affect	Assent	PosEmo
+yay	Affect	Assent	PosEmo
+grief	Affect	Death	NegEmo	Sad
+won	Affect	enPast	Verb	Achieve	PosEmo
+played	Affect	enPast	Verb	Leisure	PosEmo
+disliked	Affect	enPast	Verb	NegEmo
+cared	Affect	enPast	Verb	PosEmo
+liked	Affect	enPast	Verb	PosEmo
+supported	Affect	enPast	Verb	PosEmo
+thanked	Affect	enPast	Verb	PosEmo
+cried	Affect	enPast	Verb	Sad	NegEmo
+missed	Affect	enPast	Verb	Sad	NegEmo
+suffered	Affect	enPast	Verb	Sad	NegEmo
+miss	Affect	enPresent	Verb	NegEmo	Sad
+misses	Affect	enPresent	Verb	NegEmo	Sad
+helps	Affect	enPresent	Verb	PosEmo	Social
+care	Affect	enPresent	Verb	PosEmo
+cares	Affect	enPresent	Verb	PosEmo
+support	Affect	enPresent	Verb	PosEmo
+supports	Affect	enPresent	Verb	PosEmo
+thank	Affect	enPresent	Verb	PosEmo
+thanks	Affect	enPresent	Verb	PosEmo
+well	Affect	Funct	Adverb	Nonfl	PosEmo
+pain	Affect	Health	NegEmo	Bio
+pained	Affect	Health	NegEmo	Bio
+paining	Affect	Health	NegEmo	Bio
+pains	Affect	Health	NegEmo	Bio
+save	Affect	Inhibition	PosEmo	CogMech
+determined	Affect	Insight	PosEmo	Achieve	CogMech
+accept	Affect	Insight	PosEmo	CogMech
+accepting	Affect	Insight	PosEmo	CogMech
+accepts	Affect	Insight	PosEmo	CogMech
+casual	Affect	Leisure	PosEmo
+joking	Affect	Leisure	PosEmo
+laidback	Affect	Leisure	PosEmo
+play	Affect	Leisure	PosEmo
+playing	Affect	Leisure	PosEmo
+plays	Affect	Leisure	PosEmo
+lose	Affect	NegEmo	Achieve	Sad
+loses	Affect	NegEmo	Achieve	Sad
+losing	Affect	NegEmo	Achieve	Sad
+lazy	Affect	NegEmo	Achieve
+seriously	Affect	NegEmo	Adverb	Funct
+sin	Affect	NegEmo	Religion
+sins	Affect	NegEmo	Religion
+agony	Affect	NegEmo	Sad
+alone	Affect	NegEmo	Sad
+broke	Affect	NegEmo	Sad
+cries	Affect	NegEmo	Sad
+crushed	Affect	NegEmo	Sad
+cry	Affect	NegEmo	Sad
+crying	Affect	NegEmo	Sad
+missing	Affect	NegEmo	Sad
+sad	Affect	NegEmo	Sad
+sadly	Affect	NegEmo	Sad
+sadness	Affect	NegEmo	Sad
+sobbed	Affect	NegEmo	Sad
+sobbing	Affect	NegEmo	Sad
+sobs	Affect	NegEmo	Sad
+suffer	Affect	NegEmo	Sad
+suffering	Affect	NegEmo	Sad
+suffers	Affect	NegEmo	Sad
+tears	Affect	NegEmo	Sad
+unimportant	Affect	NegEmo	Sad
+wept	Affect	NegEmo	Sad
+whining	Affect	NegEmo	Sad
+awful	Affect	NegEmo
+bad	Affect	NegEmo
+boring	Affect	NegEmo
+disliking	Affect	NegEmo
+fake	Affect	NegEmo
+harm	Affect	NegEmo
+harmed	Affect	NegEmo
+harming	Affect	NegEmo
+harms	Affect	NegEmo
+impersonal	Affect	NegEmo
+jaded	Affect	NegEmo
+mess	Affect	NegEmo
+messy	Affect	NegEmo
+moody	Affect	NegEmo
+needy	Affect	NegEmo
+serious	Affect	NegEmo
+seriousness	Affect	NegEmo
+sorry	Affect	NegEmo
+strange	Affect	NegEmo
+thief	Affect	NegEmo
+trite	Affect	NegEmo
+ugh	Affect	NegEmo
+unattractive	Affect	NegEmo
+unfriendly	Affect	NegEmo
+unkind	Affect	NegEmo
+unpleasant	Affect	NegEmo
+unprotected	Affect	NegEmo
+vain	Affect	NegEmo
+vanity	Affect	NegEmo
+witch	Affect	NegEmo
+sigh	Affect	Nonfl
+rotten	Affect	Percept	NegEmo
+stank	Affect	Percept	NegEmo
+stunk	Affect	Percept	NegEmo
+sweet	Affect	Percept	PosEmo
+sweets	Affect	Percept	PosEmo
+confidence	Affect	PosEmo	CogMech	Achieve	Certain
+confident	Affect	PosEmo	CogMech	Achieve	Certain
+confidently	Affect	PosEmo	CogMech	Achieve	Certain
+definite	Affect	PosEmo	CogMech	Certain
+truest	Affect	PosEmo	CogMech	Certain
+free	Affect	PosEmo	Money
+value	Affect	PosEmo	Money
+best	Affect	PosEmo	Quant	Achieve	Funct
+paradise	Affect	PosEmo	Religion
+hugs	Affect	PosEmo	Sexual	Bio
+agreed	Affect	PosEmo
+agreeing	Affect	PosEmo
+agrees	Affect	PosEmo
+beloved	Affect	PosEmo
+benefit	Affect	PosEmo
+carefree	Affect	PosEmo
+caring	Affect	PosEmo
+casually	Affect	PosEmo
+considerate	Affect	PosEmo
+contentment	Affect	PosEmo
+daring	Affect	PosEmo
+easily	Affect	PosEmo
+easiness	Affect	PosEmo
+easing	Affect	PosEmo
+fab	Affect	PosEmo
+fine	Affect	PosEmo
+fond	Affect	PosEmo
+fondly	Affect	PosEmo
+fondness	Affect	PosEmo
+freeing	Affect	PosEmo
+freely	Affect	PosEmo
+freeness	Affect	PosEmo
+freer	Affect	PosEmo
+fun	Affect	PosEmo
+gentle	Affect	PosEmo
+gentler	Affect	PosEmo
+gentlest	Affect	PosEmo
+gently	Affect	PosEmo
+glad	Affect	PosEmo
+gladly	Affect	PosEmo
+glory	Affect	PosEmo
+good	Affect	PosEmo
+goodness	Affect	PosEmo
+grace	Affect	PosEmo
+graced	Affect	PosEmo
+graces	Affect	PosEmo
+grand	Affect	PosEmo
+great	Affect	PosEmo
+grin	Affect	PosEmo
+grins	Affect	PosEmo
+happy	Affect	PosEmo
+heartfelt	Affect	PosEmo
+hilarious	Affect	PosEmo
+kindly	Affect	PosEmo
+likes	Affect	PosEmo
+liking	Affect	PosEmo
+lmao	Affect	PosEmo
+lovely	Affect	PosEmo
+madly	Affect	PosEmo
+okays	Affect	PosEmo
+oks	Affect	PosEmo
+openness	Affect	PosEmo
+original	Affect	PosEmo
+outgoing	Affect	PosEmo
+pleasing	Affect	PosEmo
+readiness	Affect	PosEmo
+ready	Affect	PosEmo
+relief	Affect	PosEmo
+respect	Affect	PosEmo
+silly	Affect	PosEmo
+special	Affect	PosEmo
+sunnier	Affect	PosEmo
+sunniest	Affect	PosEmo
+sunny	Affect	PosEmo
+supporting	Affect	PosEmo
+sweetly	Affect	PosEmo
+tehe	Affect	PosEmo
+treat	Affect	PosEmo
+trueness	Affect	PosEmo
+truer	Affect	PosEmo
+valued	Affect	PosEmo
+values	Affect	PosEmo
+valuing	Affect	PosEmo
+wisdom	Affect	PosEmo
+worthwhile	Affect	PosEmo
+yays	Affect	PosEmo
+worst	Affect	Quant	NegEmo	Funct
+aching	Affect	Sad	Health	NegEmo	Bio
+hug	Affect	Sexual	Bio	PosEmo
+shared	Affect	Social	enPast	Verb	PosEmo
+forgave	Affect	Social	Insight	CogMech	PosEmo
+giving	Affect	Social	PosEmo
+helping	Affect	Social	PosEmo
+kidding	Affect	Social	PosEmo
+share	Affect	Social	PosEmo
+shares	Affect	Social	PosEmo
+sharing	Affect	Social	PosEmo
+personal	Affect	Social
+willing	Affect	Social
+sob	Affect	Swear	NegEmo	Sad
+shaky	Affect	Tentat	Anx	NegEmo	CogMech
+hazy	Affect	Tentat	CogMech
+hopeful	Affect	Tentat	PosEmo	CogMech	Discrep
+hopefulness	Affect	Tentat	PosEmo	CogMech	Discrep
+hoping	Affect	Tentat	PosEmo	CogMech	Discrep
+luck	Affect	Tentat	PosEmo	CogMech
+lucked	Affect	Tentat	PosEmo	CogMech
+lucks	Affect	Tentat	PosEmo	CogMech
+lucky	Affect	Tentat	PosEmo	CogMech
+pretty	Affect	Tentat	PosEmo	CogMech
+dislike	Affect	Verb	NegEmo	enPresent
+dislikes	Affect	Verb	NegEmo	enPresent
+fired	Affect	Work	NegEmo
+benefits	Affect	Work	PosEmo
+concerned	Affect
+emotion	Affect
+emotions	Affect
+mood	Affect
+moods	Affect
+sighed	Affect
+sighing	Affect
+sighs	Affect
+terrify	Anger	Affect	Anx	NegEmo
+war	Anger	Affect	Death	NegEmo
+hated	Anger	Affect	enPast	Verb	NegEmo
+lied	Anger	Affect	enPast	Verb	NegEmo
+hellish	Anger	Affect	NegEmo	Religion
+critical	Anger	Affect	NegEmo
+cut	Anger	Affect	NegEmo
+cynic	Anger	Affect	NegEmo
+envious	Anger	Affect	NegEmo
+fiery	Anger	Affect	NegEmo
+fuming	Anger	Affect	NegEmo
+fury	Anger	Affect	NegEmo
+hating	Anger	Affect	NegEmo
+hatred	Anger	Affect	NegEmo
+hit	Anger	Affect	NegEmo
+jerk	Anger	Affect	NegEmo
+jerked	Anger	Affect	NegEmo
+jerks	Anger	Affect	NegEmo
+lies	Anger	Affect	NegEmo
+lying	Anger	Affect	NegEmo
+mad	Anger	Affect	NegEmo
+maddening	Anger	Affect	NegEmo
+madder	Anger	Affect	NegEmo
+maddest	Anger	Affect	NegEmo
+mock	Anger	Affect	NegEmo
+mocked	Anger	Affect	NegEmo
+mocking	Anger	Affect	NegEmo
+mocks	Anger	Affect	NegEmo
+protest	Anger	Affect	NegEmo
+protested	Anger	Affect	NegEmo
+protesting	Anger	Affect	NegEmo
+raging	Anger	Affect	NegEmo
+sinister	Anger	Affect	NegEmo
+sucky	Anger	Affect	NegEmo
+temper	Anger	Affect	NegEmo
+tempers	Anger	Affect	NegEmo
+ticked	Anger	Affect	NegEmo
+vile	Anger	Affect	NegEmo
+warred	Anger	Affect	NegEmo
+warring	Anger	Affect	NegEmo
+wars	Anger	Affect	NegEmo
+raping	Anger	Affect	Sexual	NegEmo	Bio
+hell	Anger	Affect	Swear	NegEmo	Religion
+crappy	Anger	Affect	Swear	NegEmo
+hate	Anger	Affect	Verb	NegEmo	enPresent
+hates	Anger	Affect	Verb	NegEmo	enPresent
+beaten	Anger	Affect	Work	NegEmo	Achieve
+a	Article	Funct
+an	Article	Funct
+the	Article	Funct
+alot	Article	Tentat	Funct	Quant	CogMech
+ah	Assent
+aw	Assent
+duh	Assent
+hah	Assent
+huh	Assent
+oh	Assent
+yah	Assent
+yea	Assent
+yeah	Assent
+yes	Assent
+yup	Assent
+been	AuxVerb	enPast	Verb	Funct
+did	AuxVerb	enPast	Verb	Funct
+done	AuxVerb	enPast	Verb	Funct
+had	AuxVerb	enPast	Verb	Funct
+was	AuxVerb	enPast	Verb	Funct
+were	AuxVerb	enPast	Verb	Funct
+shall	AuxVerb	Verb	enFuture	Funct
+will	AuxVerb	Verb	enFuture	Funct
+he'll	AuxVerb	Verb	enFuture	Social
+gonna	AuxVerb	Verb	enFuture
+gotta	AuxVerb	Verb	enFuture
+be	AuxVerb	Verb	Funct
+being	AuxVerb	Verb	Funct
+doing	AuxVerb	Verb	Funct
+having	AuxVerb	Verb	Funct
+let	AuxVerb	Verb	Funct
+alive	Bio	Death	Health
+loved	Bio	enPast	PosEmo	Verb	Social	Affect	Sexual
+ate	Bio	enPast	Verb	Ingest
+drank	Bio	enPast	Verb	Ingest
+eaten	Bio	enPast	Verb	Ingest
+fed	Bio	enPast	Verb	Ingest
+fuck	Bio	enPresent	Verb	Swear	Anger	Affect	Sexual	NegEmo
+fucks	Bio	enPresent	Verb	Swear	Anger	Affect	Sexual	NegEmo
+binging	Bio	Health	Ingest
+fats	Bio	Health	Ingest
+overweight	Bio	Health	Ingest
+aids	Bio	Health	Sexual
+chlamydia	Bio	Health	Sexual
+hiv	Bio	Health	Sexual
+acne	Bio	Health
+advil	Bio	Health
+bandaid	Bio	Health
+bipolar	Bio	Health
+chills	Bio	Health
+codeine	Bio	Health
+dosage	Bio	Health
+dosing	Bio	Health
+dr	Bio	Health
+drs	Bio	Health
+dx	Bio	Health
+farsighted	Bio	Health
+flu	Bio	Health
+glaucoma	Bio	Health
+heal	Bio	Health
+healed	Bio	Health
+healing	Bio	Health
+heals	Bio	Health
+herpes	Bio	Health
+hungover	Bio	Health
+ibuprofen	Bio	Health
+icu	Bio	Health
+ill	Bio	Health
+indigestion	Bio	Health
+insulin	Bio	Health
+iv	Bio	Health
+life	Bio	Health
+living	Bio	Health
+lump	Bio	Health
+mammogram	Bio	Health
+mono	Bio	Health
+mri	Bio	Health
+nearsighted	Bio	Health
+ocd	Bio	Health
+pap	Bio	Health
+pill	Bio	Health
+pills	Bio	Health
+pms	Bio	Health
+prozac	Bio	Health
+puss	Bio	Health
+ritalin	Bio	Health
+rx	Bio	Health
+sick	Bio	Health
+sicker	Bio	Health
+sickest	Bio	Health
+sickly	Bio	Health
+swelling	Bio	Health
+swollen	Bio	Health
+tiring	Bio	Health
+tylenol	Bio	Health
+vertigo	Bio	Health
+viagra	Bio	Health
+vicodin	Bio	Health
+wart	Bio	Health
+warts	Bio	Health
+wash	Bio	Health
+weary	Bio	Health
+withdrawal	Bio	Health
+xanax	Bio	Health
+zit	Bio	Health
+zits	Bio	Health
+zoloft	Bio	Health
+baking	Bio	Ingest	Home
+bar	Bio	Ingest	Leisure
+bars	Bio	Ingest	Leisure
+wine	Bio	Ingest	Leisure
+wines	Bio	Ingest	Leisure
+bread	Bio	Ingest
+candy	Bio	Ingest
+dine	Bio	Ingest
+dined	Bio	Ingest
+diner	Bio	Ingest
+diners	Bio	Ingest
+dines	Bio	Ingest
+dining	Bio	Ingest
+dish	Bio	Ingest
+dishes	Bio	Ingest
+eat	Bio	Ingest
+eating	Bio	Ingest
+eats	Bio	Ingest
+feed	Bio	Ingest
+feeds	Bio	Ingest
+fries	Bio	Ingest
+gobbling	Bio	Ingest
+helpings	Bio	Ingest
+overate	Bio	Ingest
+servings	Bio	Ingest
+starving	Bio	Ingest
+stuffed	Bio	Ingest
+tea	Bio	Ingest
+water	Bio	Ingest
+weigh	Bio	Ingest
+weighed	Bio	Ingest
+weighs	Bio	Ingest
+love	Bio	PosEmo	enPresent	Verb	Social	Affect	Sexual
+loves	Bio	PosEmo	enPresent	Verb	Social	Affect	Sexual
+bi	Bio	Sexual
+condom	Bio	Sexual
+condoms	Bio	Sexual
+foreplay	Bio	Sexual
+gay	Bio	Sexual
+gays	Bio	Sexual
+gonorrhea	Bio	Sexual
+gonorrhoea	Bio	Sexual
+ho	Bio	Sexual
+homos	Bio	Sexual
+jissom	Bio	Sexual
+jizz	Bio	Sexual
+orgies	Bio	Sexual
+orgy	Bio	Sexual
+pubic	Bio	Sexual
+stud	Bio	Sexual
+vd	Bio	Sexual
+homo	Bio	Swear	Sexual
+fat	Body	Bio	Health	Ingest
+hand	Body	Bio	Percept	Feel
+hands	Body	Bio	Percept	Feel
+ear	Body	Bio	Percept	Hear
+ears	Body	Bio	Percept	Hear
+nasal	Body	Bio	Percept
+erectile	Body	Bio	Sexual
+horny	Body	Bio	Sexual
+naked	Body	Bio	Sexual
+crap	Body	Bio	Swear	Anger	Affect	NegEmo
+ass	Body	Bio	Swear	Sexual
+asses	Body	Bio	Swear	Sexual
+butt	Body	Bio	Swear	Sexual
+butts	Body	Bio	Swear	Sexual
+butt's	Body	Bio	Swear	Sexual
+cock	Body	Bio	Swear	Sexual
+dick	Body	Bio	Swear	Sexual
+dicks	Body	Bio	Swear	Sexual
+tit	Body	Bio	Swear	Sexual
+tits	Body	Bio	Swear	Sexual
+titties	Body	Bio	Swear	Sexual
+titty	Body	Bio	Swear	Sexual
+arse	Body	Bio	Swear
+arses	Body	Bio	Swear
+bloody	Body	Bio	Swear
+slept	Body	Bio	Verb	enPast
+abs	Body	Bio
+appendix	Body	Bio
+arch	Body	Bio
+arm	Body	Bio
+asleep	Body	Bio
+bald	Body	Bio
+bellies	Body	Bio
+belly	Body	Bio
+blood	Body	Bio
+bone	Body	Bio
+bones	Body	Bio
+bony	Body	Bio
+clothes	Body	Bio
+colon	Body	Bio
+colons	Body	Bio
+crotch	Body	Bio
+face	Body	Bio
+faces	Body	Bio
+feet	Body	Bio
+foot	Body	Bio
+gums	Body	Bio
+gut	Body	Bio
+guts	Body	Bio
+head	Body	Bio
+heads	Body	Bio
+heart	Body	Bio
+hearts	Body	Bio
+hip	Body	Bio
+hips	Body	Bio
+joints	Body	Bio
+leg	Body	Bio
+lip	Body	Bio
+muscular	Body	Bio
+neck	Body	Bio
+palm	Body	Bio
+palms	Body	Bio
+pee	Body	Bio
+pulse	Body	Bio
+pussies	Body	Bio
+rib	Body	Bio
+ribs	Body	Bio
+scalp	Body	Bio
+sensation	Body	Bio
+sensations	Body	Bio
+skull	Body	Bio
+spat	Body	Bio
+spinal	Body	Bio
+spine	Body	Bio
+spit	Body	Bio
+spits	Body	Bio
+spitting	Body	Bio
+tendon	Body	Bio
+tendons	Body	Bio
+toe	Body	Bio
+toes	Body	Bio
+tonsils	Body	Bio
+wake	Body	Bio
+wear	Body	Bio
+anal	Body	CogMech	Inhibition	Bio
+ever	CogMech	Adverb	Funct	Certain	Relative	Time
+definitely	CogMech	Adverb	Funct	PosEmo	Certain	Affect
+truly	CogMech	Adverb	Funct	PosEmo	Certain	Affect
+around	CogMech	Adverb	Space	Inclusive	Relative	Preps	Funct
+TRUE	CogMech	Affect	Certain	PosEmo
+could	CogMech	AuxVerb	Verb	Funct	Discrep
+becoming	CogMech	AuxVerb	Verb	Funct	Insight
+mightve	CogMech	AuxVerb	Verb	Tentat	Funct
+might've	CogMech	AuxVerb	Verb	Tentat	Funct
+founded	CogMech	Cause	Achieve
+since	CogMech	Cause	Preps	Funct
+affect	CogMech	Cause
+affecting	CogMech	Cause
+affects	CogMech	Cause
+based	CogMech	Cause
+bases	CogMech	Cause
+basis	CogMech	Cause
+compliance	CogMech	Cause
+cos	CogMech	Cause
+coz	CogMech	Cause
+experiment	CogMech	Cause
+generating	CogMech	Cause
+hence	CogMech	Cause
+making	CogMech	Cause
+origins	CogMech	Cause
+pick	CogMech	Cause
+thus	CogMech	Cause
+why	CogMech	Cause
+absolute	CogMech	Certain
+altogether	CogMech	Certain
+apparent	CogMech	Certain
+clear	CogMech	Certain
+commit	CogMech	Certain
+commits	CogMech	Certain
+complete	CogMech	Certain
+completed	CogMech	Certain
+completes	CogMech	Certain
+defined	CogMech	Certain
+directly	CogMech	Certain
+essential	CogMech	Certain
+fact	CogMech	Certain
+facts	CogMech	Certain
+frankly	CogMech	Certain
+fundamental	CogMech	Certain
+fundamentally	CogMech	Certain
+fundamentals	CogMech	Certain
+indeed	CogMech	Certain
+law	CogMech	Certain
+proof	CogMech	Certain
+real	CogMech	Certain
+reality	CogMech	Certain
+wholly	CogMech	Certain
+how	CogMech	Conj	Cause	Adverb	Funct
+because	CogMech	Conj	Cause	Funct
+cuz	CogMech	Conj	Cause	Funct
+but	CogMech	Conj	Funct	Exclusive
+whether	CogMech	Conj	Funct	Exclusive
+and	CogMech	Conj	Funct	Inclusive
+unless	CogMech	Conj	Funct	Preps	Exclusive
+plus	CogMech	Conj	Funct	Preps	Inclusive
+or	CogMech	Conj	Funct	Tentat	Exclusive
+rather	CogMech	Discrep	Funct	Adverb	Exclusive
+needing	CogMech	Discrep
+normal	CogMech	Discrep
+outstanding	CogMech	Discrep
+regardless	CogMech	Discrep
+shoulds	CogMech	Discrep
+undo	CogMech	Discrep
+wanting	CogMech	Discrep
+wishing	CogMech	Discrep
+must	CogMech	enFuture	Funct	Certain	Verb	Discrep	AuxVerb
+mustnt	CogMech	enFuture	Funct	Certain	Verb	Discrep	Negate	AuxVerb
+mustn't	CogMech	enFuture	Funct	Certain	Verb	Discrep	Negate	AuxVerb
+must'nt	CogMech	enFuture	Funct	Certain	Verb	Discrep	Negate	AuxVerb
+ought	CogMech	enFuture	Funct	Verb	Discrep	AuxVerb
+oughta	CogMech	enFuture	Funct	Verb	Discrep	AuxVerb
+oughtve	CogMech	enFuture	Funct	Verb	Discrep	AuxVerb
+ought've	CogMech	enFuture	Funct	Verb	Discrep	AuxVerb
+should	CogMech	enFuture	Funct	Verb	Discrep	AuxVerb
+would	CogMech	enFuture	Funct	Verb	Discrep	AuxVerb
+oughtnt	CogMech	enFuture	Funct	Verb	Discrep	Negate	AuxVerb
+oughtn't	CogMech	enFuture	Funct	Verb	Discrep	Negate	AuxVerb
+ought'nt	CogMech	enFuture	Funct	Verb	Discrep	Negate	AuxVerb
+shouldnt	CogMech	enFuture	Funct	Verb	Discrep	Negate	AuxVerb
+shouldn't	CogMech	enFuture	Funct	Verb	Discrep	Negate	AuxVerb
+should'nt	CogMech	enFuture	Funct	Verb	Discrep	Negate	AuxVerb
+wouldnt	CogMech	enFuture	Funct	Verb	Discrep	Negate	AuxVerb
+wouldn't	CogMech	enFuture	Funct	Verb	Discrep	Negate	AuxVerb
+affected	CogMech	enPast	Cause	Verb
+made	CogMech	enPast	Cause	Verb
+used	CogMech	enPast	Cause	Verb
+mustve	CogMech	enPast	enFuture	Funct	Certain	Verb	Discrep	AuxVerb
+must've	CogMech	enPast	enFuture	Funct	Certain	Verb	Discrep	AuxVerb
+couldve	CogMech	enPast	enFuture	Funct	Verb	Discrep	AuxVerb
+could've	CogMech	enPast	enFuture	Funct	Verb	Discrep	AuxVerb
+shouldve	CogMech	enPast	enFuture	Funct	Verb	Discrep	AuxVerb
+should've	CogMech	enPast	enFuture	Funct	Verb	Discrep	AuxVerb
+wouldve	CogMech	enPast	enFuture	Funct	Verb	Discrep	AuxVerb
+would've	CogMech	enPast	enFuture	Funct	Verb	Discrep	AuxVerb
+felt	CogMech	enPast	Feel	Insight	Percept	Verb
+became	CogMech	enPast	Funct	Insight	Verb	AuxVerb
+came	CogMech	enPast	Inclusive	Relative	Verb	Motion
+accepted	CogMech	enPast	PosEmo	Insight	Verb	Affect
+stopped	CogMech	enPast	Relative	Inhibition	Verb	Time
+changed	CogMech	enPast	Relative	Motion	Verb	Cause
+needed	CogMech	enPast	Verb	Discrep
+wanted	CogMech	enPast	Verb	Discrep
+wished	CogMech	enPast	Verb	Discrep
+believed	CogMech	enPast	Verb	Insight
+found	CogMech	enPast	Verb	Insight
+knew	CogMech	enPast	Verb	Insight
+meant	CogMech	enPast	Verb	Insight
+sensed	CogMech	enPast	Verb	Insight
+thought	CogMech	enPast	Verb	Insight
+understood	CogMech	enPast	Verb	Insight
+wrote	CogMech	enPast	Verb	Social
+need	CogMech	enPresent	Verb	Discrep
+needs	CogMech	enPresent	Verb	Discrep
+want	CogMech	enPresent	Verb	Discrep
+wants	CogMech	enPresent	Verb	Discrep
+wish	CogMech	enPresent	Verb	Discrep
+wishes	CogMech	enPresent	Verb	Discrep
+versus	CogMech	Exclusive
+vs	CogMech	Exclusive
+feel	CogMech	Feel	Insight	enPresent	Percept	Verb
+feels	CogMech	Feel	Insight	enPresent	Percept	Verb
+clearly	CogMech	Funct	Adverb	Certain
+completely	CogMech	Funct	Adverb	Certain
+totally	CogMech	Funct	Adverb	Certain
+just	CogMech	Funct	Adverb	Exclusive
+really	CogMech	Funct	Adverb	Exclusive
+absolutely	CogMech	Funct	Assent	Adverb	Certain
+never	CogMech	Funct	Certain	Relative	Time	Negate
+become	CogMech	Funct	Insight	enPresent	Verb	AuxVerb
+becomes	CogMech	Funct	Insight	enPresent	Verb	AuxVerb
+wanna	CogMech	Funct	Preps	Discrep
+except	CogMech	Funct	Preps	Exclusive
+along	CogMech	Funct	Preps	Inclusive
+with	CogMech	Funct	Preps	Inclusive
+all	CogMech	Funct	Quant	Certain
+every	CogMech	Funct	Quant	Certain
+extremely	CogMech	Funct	Quant	Certain
+either	CogMech	Funct	Quant	Exclusive
+each	CogMech	Funct	Quant	Inclusive
+besides	CogMech	Funct	Quant	Preps	Discrep
+couldnt	CogMech	Funct	Verb	Discrep	Negate	AuxVerb
+couldn't	CogMech	Funct	Verb	Discrep	Negate	AuxVerb
+come	CogMech	Inclusive	enPresent	Relative	Verb	Motion
+inside	CogMech	Inclusive	Space	Funct	Relative	Preps
+into	CogMech	Inclusive	Space	Funct	Relative	Preps
+out	CogMech	Inclusive	Space	Funct	Relative	Preps
+add	CogMech	Inclusive
+held	CogMech	Inhibition	enPast	Verb
+kept	CogMech	Inhibition	enPast	Verb
+waited	CogMech	Inhibition	enPast	Verb
+prude	CogMech	Inhibition	Sexual	Bio
+prudes	CogMech	Inhibition	Sexual	Bio
+duty	CogMech	Inhibition	Work
+ban	CogMech	Inhibition
+banned	CogMech	Inhibition
+banning	CogMech	Inhibition
+bans	CogMech	Inhibition
+binding	CogMech	Inhibition
+block	CogMech	Inhibition
+blocked	CogMech	Inhibition
+blocking	CogMech	Inhibition
+blocks	CogMech	Inhibition
+reserved	CogMech	Inhibition
+tidy	CogMech	Inhibition
+veto	CogMech	Inhibition
+waiting	CogMech	Inhibition
+wariness	CogMech	Inhibition
+wary	CogMech	Inhibition
+withheld	CogMech	Inhibition
+closure	CogMech	Insight	Achieve
+solve	CogMech	Insight	Cause	Achieve
+solved	CogMech	Insight	Cause	Achieve
+solves	CogMech	Insight	Cause	Achieve
+solving	CogMech	Insight	Cause	Achieve
+infer	CogMech	Insight	Cause
+infers	CogMech	Insight	Cause
+admitting	CogMech	Insight	Social
+explaining	CogMech	Insight	Social
+inform	CogMech	Insight	Social
+informs	CogMech	Insight	Social
+secret	CogMech	Insight	Social
+secrets	CogMech	Insight	Social
+believe	CogMech	Insight	Verb	enPresent
+believes	CogMech	Insight	Verb	enPresent
+know	CogMech	Insight	Verb	enPresent
+knows	CogMech	Insight	Verb	enPresent
+mean	CogMech	Insight	Verb	enPresent
+means	CogMech	Insight	Verb	enPresent
+think	CogMech	Insight	Verb	enPresent
+thinks	CogMech	Insight	Verb	enPresent
+understand	CogMech	Insight	Verb	enPresent
+understands	CogMech	Insight	Verb	enPresent
+believing	CogMech	Insight
+consider	CogMech	Insight
+considered	CogMech	Insight
+considering	CogMech	Insight
+considers	CogMech	Insight
+define	CogMech	Insight
+defines	CogMech	Insight
+defining	CogMech	Insight
+determine	CogMech	Insight
+determines	CogMech	Insight
+determining	CogMech	Insight
+idea	CogMech	Insight
+ideas	CogMech	Insight
+info	CogMech	Insight
+information	CogMech	Insight
+informed	CogMech	Insight
+informing	CogMech	Insight
+knowing	CogMech	Insight
+known	CogMech	Insight
+noticing	CogMech	Insight
+proving	CogMech	Insight
+relating	CogMech	Insight
+relation	CogMech	Insight
+sense	CogMech	Insight
+senses	CogMech	Insight
+sensing	CogMech	Insight
+thoughts	CogMech	Insight
+total	CogMech	Quant	Certain	Funct
+same	CogMech	Quant	Funct
+admitted	CogMech	Social	enPast	Verb	Insight
+explained	CogMech	Social	enPast	Verb	Insight
+name	CogMech	Social
+stories	CogMech	Social
+story	CogMech	Social
+write	CogMech	Social
+writing	CogMech	Social
+hopefully	CogMech	Tentat	Adverb	Funct	PosEmo	Discrep	Affect
+usually	CogMech	Tentat	Adverb	Funct	Relative	Time
+anywhere	CogMech	Tentat	Adverb	Funct	Space	Relative
+apparently	CogMech	Tentat	Adverb	Funct
+generally	CogMech	Tentat	Adverb	Funct
+maybe	CogMech	Tentat	Adverb	Funct
+mostly	CogMech	Tentat	Adverb	Funct
+nearly	CogMech	Tentat	Adverb	Funct
+often	CogMech	Tentat	Adverb	Funct
+perhaps	CogMech	Tentat	Adverb	Funct
+probably	CogMech	Tentat	Adverb	Funct
+somehow	CogMech	Tentat	Adverb	Funct
+depend	CogMech	Tentat	Cause
+depending	CogMech	Tentat	Cause
+may	CogMech	Tentat	enFuture	Funct	Verb	AuxVerb
+might	CogMech	Tentat	enFuture	Funct	Verb	AuxVerb
+depended	CogMech	Tentat	enPast	Cause	Verb
+hoped	CogMech	Tentat	enPast	PosEmo	Verb	Discrep	Affect
+appeared	CogMech	Tentat	enPast	Relative	Verb	Motion
+seemed	CogMech	Tentat	enPast	Verb	Insight
+wondered	CogMech	Tentat	enPast	Verb	Insight
+guessed	CogMech	Tentat	enPast	Verb
+supposed	CogMech	Tentat	enPast	Verb
+appear	CogMech	Tentat	enPresent	Relative	Verb	Motion
+appears	CogMech	Tentat	enPresent	Relative	Verb	Motion
+seem	CogMech	Tentat	Insight	Verb	enPresent
+seems	CogMech	Tentat	Insight	Verb	enPresent
+wonder	CogMech	Tentat	Insight	Verb	enPresent
+wondering	CogMech	Tentat	Insight
+wonders	CogMech	Tentat	Insight
+bet	CogMech	Tentat	Money
+bets	CogMech	Tentat	Money
+betting	CogMech	Tentat	Money
+hope	CogMech	Tentat	PosEmo	enPresent	Verb	Discrep	Affect
+hopes	CogMech	Tentat	PosEmo	enPresent	Verb	Discrep	Affect
+somewhere	CogMech	Tentat	Pronoun	Space	iPron	Funct	Relative
+allot	CogMech	Tentat	Quant	Funct
+any	CogMech	Tentat	Quant	Funct
+fairly	CogMech	Tentat	Quant	Funct
+lot	CogMech	Tentat	Quant	Funct
+lotof	CogMech	Tentat	Quant	Funct
+lots	CogMech	Tentat	Quant	Funct
+lotsa	CogMech	Tentat	Quant	Funct
+lotta	CogMech	Tentat	Quant	Funct
+most	CogMech	Tentat	Quant	Funct
+partly	CogMech	Tentat	Quant	Funct
+some	CogMech	Tentat	Quant	Funct
+somewhat	CogMech	Tentat	Quant	Funct
+depends	CogMech	Tentat	Verb	Cause	enPresent
+guess	CogMech	Tentat	Verb	enPresent
+guesses	CogMech	Tentat	Verb	enPresent
+suppose	CogMech	Tentat	Verb	enPresent
+supposes	CogMech	Tentat	Verb	enPresent
+almost	CogMech	Tentat
+anyhow	CogMech	Tentat
+barely	CogMech	Tentat
+chance	CogMech	Tentat
+dunno	CogMech	Tentat
+guessing	CogMech	Tentat
+hardly	CogMech	Tentat
+kinda	CogMech	Tentat
+kindof	CogMech	Tentat
+mainly	CogMech	Tentat
+opinion	CogMech	Tentat
+option	CogMech	Tentat
+overall	CogMech	Tentat
+practically	CogMech	Tentat
+probable	CogMech	Tentat
+quite	CogMech	Tentat
+sort	CogMech	Tentat
+sorta	CogMech	Tentat
+sortof	CogMech	Tentat
+sorts	CogMech	Tentat
+sortsa	CogMech	Tentat
+spose	CogMech	Tentat
+supposing	CogMech	Tentat
+typically	CogMech	Tentat
+varies	CogMech	Tentat
+vary	CogMech	Tentat
+hows	CogMech	Verb	Cause	enPresent
+how's	CogMech	Verb	Cause	enPresent
+make	CogMech	Verb	Cause	enPresent
+makes	CogMech	Verb	Cause	enPresent
+use	CogMech	Verb	Cause	enPresent
+uses	CogMech	Verb	Cause	enPresent
+using	CogMech	Verb	Cause	enPresent
+keep	CogMech	Verb	Inhibition	enPresent
+keeps	CogMech	Verb	Inhibition	enPresent
+wait	CogMech	Verb	Inhibition	enPresent
+waits	CogMech	Verb	Inhibition	enPresent
+general	CogMech
+issue	CogMech
+mind	CogMech
+news	CogMech
+sign	CogMech
+standard	CogMech
+also	Conj	Adverb	Funct
+however	Conj	Adverb	Funct
+so	Conj	Adverb	Funct
+tho	Conj	Adverb	Funct
+though	Conj	Adverb	Funct
+although	Conj	Funct
+atho	Conj	Funct
+otherwise	Conj	Funct
+whereas	Conj	Funct
+as	Conj	Preps	Funct
+died	Death	enPast	Verb
+dies	Death	Verb	enPresent
+buried	Death
+bury	Death
+dead	Death
+demise	Death
+die	Death
+doa	Death
+dying	Death
+od	Death
+oded	Death
+overdosed	Death
+itll	enFuture	Pronoun	Funct	iPron	Verb	AuxVerb
+it'll	enFuture	Pronoun	Funct	iPron	Verb	AuxVerb
+thatll	enFuture	Pronoun	Funct	iPron	Verb	AuxVerb
+that'll	enFuture	Pronoun	Funct	iPron	Verb	AuxVerb
+wholl	enFuture	Pronoun	Funct	iPron	Verb	Social	AuxVerb
+who'll	enFuture	Pronoun	Funct	iPron	Verb	Social	AuxVerb
+lost	enPast	Sad	Verb	Affect	NegEmo	Achieve
+worked	enPast	Verb	Achieve	Work
+tried	enPast	Verb	Achieve
+fought	enPast	Verb	Social	Anger	Affect	NegEmo
+asked	enPast	Verb	Social
+called	enPast	Verb	Social
+described	enPast	Verb	Social
+emailed	enPast	Verb	Social
+gave	enPast	Verb	Social
+met	enPast	Verb	Social
+talked	enPast	Verb	Social
+told	enPast	Verb	Social
+sucked	enPast	Verb	Swear	Anger	Affect	NegEmo
+studied	enPast	Verb	Work
+taught	enPast	Verb	Work
+given	enPast	Verb
+got	enPast	Verb
+gotten	enPast	Verb
+happened	enPast	Verb
+helped	enPast	Verb
+lived	enPast	Verb
+sat	enPast	Verb
+showed	enPast	Verb
+stayed	enPast	Verb
+stood	enPast	Verb
+stuck	enPast	Verb
+taken	enPast	Verb
+tended	enPast	Verb
+turned	enPast	Verb
+viewed	enPast	Verb
+woke	enPast	Verb
+woken	enPast	Verb
+wore	enPast	Verb
+worn	enPast	Verb
+written	enPast	Verb
+admit	enPresent	CogMech	Insight	Verb	Social
+admits	enPresent	CogMech	Insight	Verb	Social
+explain	enPresent	CogMech	Insight	Verb	Social
+explains	enPresent	CogMech	Insight	Verb	Social
+hear	enPresent	Percept	Verb	Hear	Social
+hears	enPresent	Percept	Verb	Hear	Social
+listen	enPresent	Percept	Verb	Hear	Social
+listens	enPresent	Percept	Verb	Hear	Social
+ask	enPresent	Verb	Social
+asks	enPresent	Verb	Social
+describe	enPresent	Verb	Social
+describes	enPresent	Verb	Social
+give	enPresent	Verb	Social
+gives	enPresent	Verb	Social
+whos	enPresent	Verb	Social
+who's	enPresent	Verb	Social
+suck	enPresent	Verb	Swear	Anger	Affect	NegEmo
+sucks	enPresent	Verb	Swear	Anger	Affect	NegEmo
+if	Exclusive	Tentat	Funct	Discrep	Conj	CogMech
+bro	Family	Social
+bros	Family	Social
+ex	Family	Social
+exes	Family	Social
+folks	Family	Social
+granny	Family	Social
+hubby	Family	Social
+kin	Family	Social
+ma	Family	Social
+ma's	Family	Social
+mom	Family	Social
+moms	Family	Social
+mom's	Family	Social
+mother	Family	Social
+mothers	Family	Social
+mum	Family	Social
+mums	Family	Social
+mum's	Family	Social
+pa	Family	Social
+pappy	Family	Social
+pa's	Family	Social
+relatives	Family	Social
+sis	Family	Social
+son	Family	Social
+sons	Family	Social
+son's	Family	Social
+uncle	Family	Social
+uncles	Family	Social
+uncle's	Family	Social
+cool	Feel	Affect	Percept	Assent	PosEmo
+skin	Feel	Bio	Percept	Body
+weight	Feel	Bio	Percept	Ingest
+weights	Feel	Percept	Leisure
+drily	Feel	Percept
+fire	Feel	Percept
+grip	Feel	Percept
+grips	Feel	Percept
+hard	Feel	Percept
+hot	Feel	Percept
+press	Feel	Percept
+pressed	Feel	Percept
+presses	Feel	Percept
+rub	Feel	Percept
+rubbed	Feel	Percept
+rubbing	Feel	Percept
+rubs	Feel	Percept
+sand	Feel	Percept
+sands	Feel	Percept
+sandy	Feel	Percept
+weighted	Feel	Percept
+weighting	Feel	Percept
+wet	Feel	Percept
+wetly	Feel	Percept
+blah	Filler
+idontknow	Filler
+idon'tknow	Filler
+imean	Filler
+ohwell	Filler
+bud	Friend	Social
+companion	Friend	Social
+companions	Friend	Social
+mate	Friend	Social
+mates	Friend	Social
+mate's	Friend	Social
+pal	Friend	Social
+pals	Friend	Social
+theyre	Funct	AuxVerb	Social	Verb	enPresent
+they're	Funct	AuxVerb	Social	Verb	enPresent
+heres	Funct	AuxVerb	Verb	Adverb	enPresent
+here's	Funct	AuxVerb	Verb	Adverb	enPresent
+theres	Funct	AuxVerb	Verb	Adverb	enPresent
+there's	Funct	AuxVerb	Verb	Adverb	enPresent
+am	Funct	AuxVerb	Verb	enPresent
+are	Funct	AuxVerb	Verb	enPresent
+can	Funct	AuxVerb	Verb	enPresent
+do	Funct	AuxVerb	Verb	enPresent
+does	Funct	AuxVerb	Verb	enPresent
+has	Funct	AuxVerb	Verb	enPresent
+have	Funct	AuxVerb	Verb	enPresent
+is	Funct	AuxVerb	Verb	enPresent
+wheres	Funct	Space	enPresent	Relative	Verb	AuxVerb
+where's	Funct	Space	enPresent	Relative	Verb	AuxVerb
+family	Home	Family	Leisure	Social
+yard	Home	Leisure
+address	Home
+backyard	Home
+bed	Home
+bedding	Home
+beds	Home
+closet	Home
+closets	Home
+condo	Home
+condos	Home
+den	Home
+furniture	Home
+home	Home
+homes	Home
+housing	Home
+loft	Home
+lofts	Home
+mailbox	Home
+mop	Home
+pet	Home
+pets	Home
+porch	Home
+rug	Home
+rugs	Home
+studio	Home
+studios	Home
+adult	Humans	Social
+adults	Humans	Social
+babies	Humans	Social
+boy	Humans	Social
+boy's	Humans	Social
+chick	Humans	Social
+child	Humans	Social
+child's	Humans	Social
+citizen	Humans	Social
+citizens	Humans	Social
+girl	Humans	Social
+girl's	Humans	Social
+infant	Humans	Social
+infant's	Humans	Social
+kid	Humans	Social
+ladies	Humans	Social
+lady	Humans	Social
+lady's	Humans	Social
+ma'am	Humans	Social
+male	Humans	Social
+males	Humans	Social
+male's	Humans	Social
+mam	Humans	Social
+man	Humans	Social
+man's	Humans	Social
+members	Humans	Social
+men	Humans	Social
+mr	Humans	Social
+mrs	Humans	Social
+person	Humans	Social
+persons	Humans	Social
+person's	Humans	Social
+self	Humans	Social
+sir	Humans	Social
+woman	Humans	Social
+woman's	Humans	Social
+itd	iPron	AuxVerb	Verb	Pronoun	Funct
+it'd	iPron	AuxVerb	Verb	Pronoun	Funct
+thatd	iPron	AuxVerb	Verb	Pronoun	Funct
+that'd	iPron	AuxVerb	Verb	Pronoun	Funct
+who	iPron	Funct	Pronoun	Social
+whom	iPron	Funct	Pronoun	Social
+whose	iPron	Funct	Pronoun	Social
+it	iPron	Pronoun	Funct
+its	iPron	Pronoun	Funct
+itself	iPron	Pronoun	Funct
+other	iPron	Pronoun	Funct
+others	iPron	Pronoun	Funct
+stuff	iPron	Pronoun	Funct
+that	iPron	Pronoun	Funct
+these	iPron	Pronoun	Funct
+this	iPron	Pronoun	Funct
+those	iPron	Pronoun	Funct
+what	iPron	Pronoun	Funct
+whatever	iPron	Pronoun	Funct
+which	iPron	Pronoun	Funct
+whichever	iPron	Pronoun	Funct
+anything	iPron	Tentat	Funct	Pronoun	CogMech
+band	Leisure	Social
+bands	Leisure	Social
+art	Leisure
+arts	Leisure
+ball	Leisure
+blackjack	Leisure
+camping	Leisure
+cards	Leisure
+checkers	Leisure
+chess	Leisure
+chorus	Leisure
+diaries	Leisure
+diary	Leisure
+drama	Leisure
+drum	Leisure
+drums	Leisure
+fantasy	Leisure
+fishing	Leisure
+fitness	Leisure
+gaming	Leisure
+hiphop	Leisure
+horseback	Leisure
+hunting	Leisure
+inn	Leisure
+inns	Leisure
+karaoke	Leisure
+keg	Leisure
+kegger	Leisure
+keggers	Leisure
+kegs	Leisure
+mall	Leisure
+malls	Leisure
+minesweeper	Leisure
+nap	Leisure
+naps	Leisure
+netflix	Leisure
+novel	Leisure
+novels	Leisure
+orchestra	Leisure
+parks	Leisure
+poetry	Leisure
+poker	Leisure
+pub	Leisure
+pubs	Leisure
+rap	Leisure
+reading	Leisure
+reggae	Leisure
+resting	Leisure
+rock	Leisure
+rocks	Leisure
+rowing	Leisure
+rum	Leisure
+salsa	Leisure
+scrabble	Leisure
+show	Leisure
+shows	Leisure
+sing	Leisure
+singing	Leisure
+sings	Leisure
+ski	Leisure
+skied	Leisure
+skiing	Leisure
+skis	Leisure
+soaps	Leisure
+solitaire	Leisure
+spa	Leisure
+spas	Leisure
+standup	Leisure
+stereo	Leisure
+stereos	Leisure
+stoned	Leisure
+tanning	Leisure
+techno	Leisure
+tequila	Leisure
+yoga	Leisure
+bought	Money	enPast	Verb
+owed	Money	enPast	Verb
+paid	Money	enPast	Verb
+sold	Money	enPast	Verb
+spent	Money	enPast	Verb
+shop	Money	Leisure
+shops	Money	Leisure
+owe	Money	Verb	enPresent
+owes	Money	Verb	enPresent
+overpaid	Money	Work
+overtime	Money	Work
+stocks	Money	Work
+tax	Money	Work
+taxed	Money	Work
+taxes	Money	Work
+taxing	Money	Work
+trading	Money	Work
+underpaid	Money	Work
+wage	Money	Work
+wages	Money	Work
+atm	Money
+atms	Money
+audit	Money
+audited	Money
+auditing	Money
+auditor	Money
+auditors	Money
+audits	Money
+begging	Money
+bill	Money
+billed	Money
+bills	Money
+buck	Money
+bucks	Money
+cent	Money
+cents	Money
+check	Money
+checking	Money
+checks	Money
+coin	Money
+coins	Money
+dinero	Money
+euro	Money
+euros	Money
+fee	Money
+fees	Money
+franc	Money
+francs	Money
+fund	Money
+funded	Money
+funding	Money
+funds	Money
+insurance	Money
+irs	Money
+lira	Money
+owing	Money
+pence	Money
+pennies	Money
+penny	Money
+peso	Money
+pesos	Money
+sale	Money
+sales	Money
+sell	Money
+selling	Money
+sells	Money
+spend	Money
+spender	Money
+spending	Money
+spends	Money
+store	Money
+tuition	Money
+worth	Money
+yen	Money
+yuan	Money
+shook	Motion	Affect	Anx	NegEmo	Relative
+led	Motion	CogMech	Cause	Relative
+appearing	Motion	CogMech	Tentat	Relative
+driven	Motion	Relative	enPast	Verb	Achieve
+arrived	Motion	Relative	enPast	Verb
+brought	Motion	Relative	enPast	Verb
+carried	Motion	Relative	enPast	Verb
+drove	Motion	Relative	enPast	Verb
+entered	Motion	Relative	enPast	Verb
+fled	Motion	Relative	enPast	Verb
+flew	Motion	Relative	enPast	Verb
+followed	Motion	Relative	enPast	Verb
+gone	Motion	Relative	enPast	Verb
+moved	Motion	Relative	enPast	Verb
+ran	Motion	Relative	enPast	Verb
+threw	Motion	Relative	enPast	Verb
+took	Motion	Relative	enPast	Verb
+walked	Motion	Relative	enPast	Verb
+went	Motion	Relative	enPast	Verb
+running	Motion	Relative	Leisure
+arrive	Motion	Relative	Verb	enPresent
+arrives	Motion	Relative	Verb	enPresent
+bring	Motion	Relative	Verb	enPresent
+brings	Motion	Relative	Verb	enPresent
+carries	Motion	Relative	Verb	enPresent
+carry	Motion	Relative	Verb	enPresent
+comes	Motion	Relative	Verb	enPresent
+follow	Motion	Relative	Verb	enPresent
+follows	Motion	Relative	Verb	enPresent
+go	Motion	Relative	Verb	enPresent
+goes	Motion	Relative	Verb	enPresent
+arriving	Motion	Relative
+attend	Motion	Relative
+attended	Motion	Relative
+attending	Motion	Relative
+attends	Motion	Relative
+bringing	Motion	Relative
+carrying	Motion	Relative
+closely	Motion	Relative
+closes	Motion	Relative
+closing	Motion	Relative
+coming	Motion	Relative
+depart	Motion	Relative
+departed	Motion	Relative
+departing	Motion	Relative
+departs	Motion	Relative
+drive	Motion	Relative
+drives	Motion	Relative
+driving	Motion	Relative
+enter	Motion	Relative
+entering	Motion	Relative
+enters	Motion	Relative
+fall	Motion	Relative
+fallen	Motion	Relative
+falling	Motion	Relative
+falls	Motion	Relative
+fell	Motion	Relative
+flies	Motion	Relative
+fly	Motion	Relative
+flying	Motion	Relative
+following	Motion	Relative
+going	Motion	Relative
+headed	Motion	Relative
+heading	Motion	Relative
+leave	Motion	Relative
+leaves	Motion	Relative
+leaving	Motion	Relative
+move	Motion	Relative
+moves	Motion	Relative
+moving	Motion	Relative
+pass	Motion	Relative
+passed	Motion	Relative
+passes	Motion	Relative
+passing	Motion	Relative
+replacing	Motion	Relative
+ridden	Motion	Relative
+ride	Motion	Relative
+rides	Motion	Relative
+riding	Motion	Relative
+rising	Motion	Relative
+rode	Motion	Relative
+run	Motion	Relative
+runs	Motion	Relative
+slid	Motion	Relative
+slide	Motion	Relative
+slides	Motion	Relative
+sliding	Motion	Relative
+step	Motion	Relative
+steps	Motion	Relative
+swam	Motion	Relative
+trip	Motion	Relative
+tripped	Motion	Relative
+tripping	Motion	Relative
+trips	Motion	Relative
+walk	Motion	Relative
+walking	Motion	Relative
+walks	Motion	Relative
+uhuh	Negate	Assent	Funct
+didnt	Negate	AuxVerb	enPast	Verb	Funct
+didn't	Negate	AuxVerb	enPast	Verb	Funct
+hadnt	Negate	AuxVerb	enPast	Verb	Funct
+hadn't	Negate	AuxVerb	enPast	Verb	Funct
+wasnt	Negate	AuxVerb	enPast	Verb	Funct
+wasn't	Negate	AuxVerb	enPast	Verb	Funct
+weren't	Negate	AuxVerb	enPast	Verb	Funct
+wont	Negate	AuxVerb	Verb	enFuture	Funct
+won't	Negate	AuxVerb	Verb	enFuture	Funct
+shant	Negate	AuxVerb	Verb	Funct
+shan't	Negate	AuxVerb	Verb	Funct
+neednt	Negate	CogMech	Funct	Discrep
+needn't	Negate	CogMech	Funct	Discrep
+need'nt	Negate	CogMech	Funct	Discrep
+not	Negate	CogMech	Funct	Exclusive
+without	Negate	CogMech	Funct	Preps	Exclusive
+nor	Negate	Conj	Funct
+aint	Negate	Funct	AuxVerb	Verb	enPresent
+ain't	Negate	Funct	AuxVerb	Verb	enPresent
+arent	Negate	Funct	AuxVerb	Verb	enPresent
+aren't	Negate	Funct	AuxVerb	Verb	enPresent
+cannot	Negate	Funct	AuxVerb	Verb	enPresent
+cant	Negate	Funct	AuxVerb	Verb	enPresent
+can't	Negate	Funct	AuxVerb	Verb	enPresent
+doesnt	Negate	Funct	AuxVerb	Verb	enPresent
+doesn't	Negate	Funct	AuxVerb	Verb	enPresent
+dont	Negate	Funct	AuxVerb	Verb	enPresent
+don't	Negate	Funct	AuxVerb	Verb	enPresent
+hasnt	Negate	Funct	AuxVerb	Verb	enPresent
+hasn't	Negate	Funct	AuxVerb	Verb	enPresent
+havent	Negate	Funct	AuxVerb	Verb	enPresent
+haven't	Negate	Funct	AuxVerb	Verb	enPresent
+isnt	Negate	Funct	AuxVerb	Verb	enPresent
+isn't	Negate	Funct	AuxVerb	Verb	enPresent
+no	Negate	Funct
+nope	Negate	Funct
+nothing	Negate	Funct
+neither	Negate	Quant	Funct
+none	Negate	Quant	Funct
+nowhere	Negate	Relative	Funct	Space
+like	None	Time
+kind	None
+er	Nonfl
+uh	Nonfl
+um	Nonfl
+eleven	Number	Funct
+five	Number	Funct
+half	Number	Funct
+one	Number	Funct
+second	Number	Funct
+ten	Number	Funct
+tenth	Number	Funct
+third	Number	Funct
+three	Number	Funct
+twice	Number	Funct
+two	Number	Funct
+zero	Number	Funct
+heard	Percept	enPast	Hear	Verb	Social
+listened	Percept	enPast	Hear	Verb	Social
+said	Percept	enPast	Hear	Verb	Social
+honey	Percept	Friend	Social
+sang	Percept	Hear	Leisure
+hearing	Percept	Hear	Social
+listening	Percept	Hear	Social
+speak	Percept	Hear	Social
+speaking	Percept	Hear	Social
+speaks	Percept	Hear	Social
+noise	Percept	Hear
+noises	Percept	Hear
+noisy	Percept	Hear
+rang	Percept	Hear
+ring	Percept	Hear
+ringing	Percept	Hear
+rings	Percept	Hear
+yell	Percept	Hear
+yelled	Percept	Hear
+yelling	Percept	Hear
+yells	Percept	Hear
+black	Percept	See
+blacks	Percept	See
+circle	Percept	See
+cream	Percept	See
+eying	Percept	See
+lit	Percept	See
+looking	Percept	See
+picture	Percept	See
+red	Percept	See
+redness	Percept	See
+reds	Percept	See
+scan	Percept	See
+scans	Percept	See
+screen	Percept	See
+seeing	Percept	See
+seer	Percept	See
+shine	Percept	See
+shiny	Percept	See
+staring	Percept	See
+view	Percept	See
+views	Percept	See
+look	Percept	Verb	See	enPresent
+looks	Percept	Verb	See	enPresent
+see	Percept	Verb	See	enPresent
+sees	Percept	Verb	See	enPresent
+light	Percept
+saccharine	Percept
+sour	Percept
+sours	Percept
+soury	Percept
+spice	Percept
+spiced	Percept
+spices	Percept
+spicy	Percept
+tang	Percept
+tangy	Percept
+tart	Percept
+we	PPron	CogMech	We	Pronoun	Inclusive	Funct	Social
+i'll	PPron	enFuture	Pronoun	Funct	I	Verb	AuxVerb
+she'll	PPron	enFuture	Pronoun	Funct	Verb	Social	AuxVerb	SheHe
+youll	PPron	enFuture	Pronoun	Funct	Verb	Social	You	AuxVerb
+you'll	PPron	enFuture	Pronoun	Funct	Verb	Social	You	AuxVerb
+theyll	PPron	enFuture	Pronoun	Funct	Verb	They	Social	AuxVerb
+they'll	PPron	enFuture	Pronoun	Funct	Verb	They	Social	AuxVerb
+he	PPron	Funct	Pronoun	SheHe	Social
+her	PPron	Funct	Pronoun	SheHe	Social
+hers	PPron	Funct	Pronoun	SheHe	Social
+herself	PPron	Funct	Pronoun	SheHe	Social
+him	PPron	Funct	Pronoun	SheHe	Social
+himself	PPron	Funct	Pronoun	SheHe	Social
+his	PPron	Funct	Pronoun	SheHe	Social
+she	PPron	Funct	Pronoun	SheHe	Social
+them	PPron	Funct	Pronoun	They	Social
+themselves	PPron	Funct	Pronoun	They	Social
+they	PPron	Funct	Pronoun	They	Social
+i	PPron	I	Pronoun	Funct
+me	PPron	I	Pronoun	Funct
+mine	PPron	I	Pronoun	Funct
+my	PPron	I	Pronoun	Funct
+myself	PPron	I	Pronoun	Funct
+hes	PPron	Pronoun	Funct	enPresent	Verb	Social	AuxVerb	SheHe
+he's	PPron	Pronoun	Funct	enPresent	Verb	Social	AuxVerb	SheHe
+shes	PPron	Pronoun	Funct	enPresent	Verb	Social	AuxVerb	SheHe
+she's	PPron	Pronoun	Funct	enPresent	Verb	Social	AuxVerb	SheHe
+youre	PPron	Pronoun	Funct	enPresent	Verb	Social	You	AuxVerb
+you're	PPron	Pronoun	Funct	enPresent	Verb	Social	You	AuxVerb
+youve	PPron	Pronoun	Funct	enPresent	Verb	Social	You	AuxVerb
+you've	PPron	Pronoun	Funct	enPresent	Verb	Social	You	AuxVerb
+theyve	PPron	Pronoun	Funct	enPresent	Verb	They	Social	AuxVerb
+they've	PPron	Pronoun	Funct	enPresent	Verb	They	Social	AuxVerb
+im	PPron	Pronoun	Funct	I	enPresent	Verb	AuxVerb
+i'm	PPron	Pronoun	Funct	I	enPresent	Verb	AuxVerb
+ive	PPron	Pronoun	Funct	I	enPresent	Verb	AuxVerb
+i've	PPron	Pronoun	Funct	I	enPresent	Verb	AuxVerb
+id	PPron	Pronoun	Funct	I	Verb	AuxVerb
+i'd	PPron	Pronoun	Funct	I	Verb	AuxVerb
+hed	PPron	Pronoun	Funct	Verb	Social	AuxVerb	SheHe
+he'd	PPron	Pronoun	Funct	Verb	Social	AuxVerb	SheHe
+she'd	PPron	Pronoun	Funct	Verb	Social	AuxVerb	SheHe
+youd	PPron	Pronoun	Funct	Verb	Social	You	AuxVerb
+you'd	PPron	Pronoun	Funct	Verb	Social	You	AuxVerb
+theyd	PPron	Pronoun	Funct	Verb	They	Social	AuxVerb
+they'd	PPron	Pronoun	Funct	Verb	They	Social	AuxVerb
+oneself	PPron	Pronoun	Funct
+we'll	PPron	We	enFuture	Pronoun	Funct	Verb	Social	AuxVerb
+weve	PPron	We	enPast	Pronoun	Funct	Verb	Social	AuxVerb
+we've	PPron	We	enPast	Pronoun	Funct	Verb	Social	AuxVerb
+our	PPron	We	Funct	Pronoun	Social
+ours	PPron	We	Funct	Pronoun	Social
+ourselves	PPron	We	Funct	Pronoun	Social
+us	PPron	We	Funct	Pronoun	Social
+lets	PPron	We	Pronoun	Funct	enPresent	Verb	Social
+let's	PPron	We	Pronoun	Funct	enPresent	Verb	Social
+we're	PPron	We	Pronoun	Funct	enPresent	Verb	Social
+we'd	PPron	We	Pronoun	Funct	Verb	Social	AuxVerb
+thee	PPron	You	Funct	Pronoun	Social
+thine	PPron	You	Funct	Pronoun	Social
+thou	PPron	You	Funct	Pronoun	Social
+thoust	PPron	You	Funct	Pronoun	Social
+thy	PPron	You	Funct	Pronoun	Social
+ya	PPron	You	Funct	Pronoun	Social
+yall	PPron	You	Funct	Pronoun	Social
+y'all	PPron	You	Funct	Pronoun	Social
+ye	PPron	You	Funct	Pronoun	Social
+you	PPron	You	Funct	Pronoun	Social
+your	PPron	You	Funct	Pronoun	Social
+yours	PPron	You	Funct	Pronoun	Social
+about	Preps	Adverb	Funct
+against	Preps	Funct
+behind	Preps	Funct
+between	Preps	Funct
+by	Preps	Funct
+despite	Preps	Funct
+for	Preps	Funct
+from	Preps	Funct
+of	Preps	Funct
+than	Preps	Funct
+thru	Preps	Funct
+to	Preps	Funct
+unto	Preps	Funct
+it's	Pronoun	Funct	iPron	enPresent	Verb	AuxVerb
+thats	Pronoun	Funct	iPron	enPresent	Verb	AuxVerb
+that's	Pronoun	Funct	iPron	enPresent	Verb	AuxVerb
+whats	Pronoun	Funct	iPron	enPresent	Verb	AuxVerb
+what's	Pronoun	Funct	iPron	enPresent	Verb	AuxVerb
+whod	Pronoun	Funct	iPron	Verb	Social	AuxVerb
+who'd	Pronoun	Funct	iPron	Verb	Social	AuxVerb
+another	Quant	Funct
+bunch	Quant	Funct
+cetera	Quant	Funct
+couple	Quant	Funct
+else	Quant	Funct
+enough	Quant	Funct
+etc	Quant	Funct
+extent	Quant	Funct
+extra	Quant	Funct
+form	Quant	Funct
+greater	Quant	Funct
+greatest	Quant	Funct
+highly	Quant	Funct
+least	Quant	Funct
+less	Quant	Funct
+loads	Quant	Funct
+main	Quant	Funct
+majority	Quant	Funct
+many	Quant	Funct
+more	Quant	Funct
+much	Quant	Funct
+mucho	Quant	Funct
+ones	Quant	Funct
+own	Quant	Funct
+part	Quant	Funct
+plenty	Quant	Funct
+remaining	Quant	Funct
+rest	Quant	Funct
+several	Quant	Funct
+ton	Quant	Funct
+tons	Quant	Funct
+unique	Quant	Funct
+various	Quant	Funct
+whole	Quant	Funct
+bit	Quant
+bits	Quant
+major	Quant
+page	Quant
+percent	Quant
+portion	Quant
+selection	Quant
+series	Quant
+significant	Quant
+top	Relative	Achieve	Space
+origin	Relative	CogMech	Cause	Time
+always	Relative	CogMech	Certain	Time
+forever	Relative	CogMech	Certain	Time
+close	Relative	CogMech	Inclusive	Space
+open	Relative	CogMech	Inclusive	Space
+ceasing	Relative	CogMech	Inhibition	Time
+stop	Relative	CogMech	Inhibition	Time
+stopping	Relative	CogMech	Inhibition	Time
+stops	Relative	CogMech	Inhibition	Time
+sometime	Relative	CogMech	Tentat	Exclusive	Time
+anytime	Relative	CogMech	Tentat	Time
+sometimes	Relative	CogMech	Tentat	Time
+when	Relative	Conj	Funct	Adverb	Time
+whenever	Relative	Conj	Funct	Adverb	Time
+til	Relative	Conj	Funct	Preps	Time
+till	Relative	Conj	Funct	Preps	Time
+until	Relative	Conj	Funct	Preps	Time
+then	Relative	Conj	Funct	Time
+while	Relative	Conj	Funct	Time
+began	Relative	enPast	Verb	Time
+ended	Relative	enPast	Verb	Time
+started	Relative	enPast	Verb	Time
+begin	Relative	enPresent	Verb	Time
+begins	Relative	enPresent	Verb	Time
+start	Relative	enPresent	Verb	Time
+starts	Relative	enPresent	Verb	Time
+edge	Relative	Feel	Percept	Space
+edges	Relative	Feel	Percept	Space
+edging	Relative	Feel	Percept	Space
+thin	Relative	Feel	Percept	Space
+where	Relative	Funct	Adverb	Space
+again	Relative	Funct	Adverb	Time
+back	Relative	Funct	Adverb	Time
+constantly	Relative	Funct	Adverb	Time
+eventually	Relative	Funct	Adverb	Time
+frequently	Relative	Funct	Adverb	Time
+immediately	Relative	Funct	Adverb	Time
+lately	Relative	Funct	Adverb	Time
+now	Relative	Funct	Adverb	Time
+soon	Relative	Funct	Adverb	Time
+still	Relative	Funct	Adverb	Time
+yet	Relative	Funct	Adverb	Time
+first	Relative	Funct	Number	Achieve	Time
+firsts	Relative	Funct	Number	Achieve	Time
+firstly	Relative	Funct	Number	Time
+once	Relative	Funct	Number	Time
+ahead	Relative	Funct	Preps	Achieve	Time
+beyond	Relative	Funct	Preps	Adverb	Space
+above	Relative	Funct	Preps	Space
+across	Relative	Funct	Preps	Space
+at	Relative	Funct	Preps	Space
+atop	Relative	Funct	Preps	Space
+away	Relative	Funct	Preps	Space
+below	Relative	Funct	Preps	Space
+beneath	Relative	Funct	Preps	Space
+beside	Relative	Funct	Preps	Space
+down	Relative	Funct	Preps	Space
+in	Relative	Funct	Preps	Space
+insides	Relative	Funct	Preps	Space
+near	Relative	Funct	Preps	Space
+off	Relative	Funct	Preps	Space
+on	Relative	Funct	Preps	Space
+onto	Relative	Funct	Preps	Space
+outside	Relative	Funct	Preps	Space
+over	Relative	Funct	Preps	Space
+under	Relative	Funct	Preps	Space
+underneath	Relative	Funct	Preps	Space
+up	Relative	Funct	Preps	Space
+upon	Relative	Funct	Preps	Space
+within	Relative	Funct	Preps	Space
+after	Relative	Funct	Preps	Time
+before	Relative	Funct	Preps	Time
+during	Relative	Funct	Preps	Time
+anymore	Relative	Funct	Quant	Time
+roomed	Relative	Home	Social	Space
+rooming	Relative	Home	Social	Space
+room	Relative	Home	Space
+rooms	Relative	Home	Space
+change	Relative	Motion	Cause	CogMech
+changes	Relative	Motion	Cause	CogMech
+changing	Relative	Motion	Cause	CogMech
+caught	Relative	Motion	enPast	Verb
+sent	Relative	Motion	Verb	enPast	Social
+act	Relative	Motion
+car	Relative	Motion
+catch	Relative	Motion
+front	Relative	Motion
+grew	Relative	Motion
+grow	Relative	Motion
+growing	Relative	Motion
+grown	Relative	Motion
+growth	Relative	Motion
+hang	Relative	Motion
+put	Relative	Motion
+puts	Relative	Motion
+putting	Relative	Motion
+segment	Relative	Quant	Space
+term	Relative	Quant	Time
+bye	Relative	Social	Time
+section	Relative	Space	Quant	Funct
+air	Relative	Space
+apart	Relative	Space
+bend	Relative	Space
+bending	Relative	Space
+bends	Relative	Space
+bent	Relative	Space
+big	Relative	Space
+bigger	Relative	Space
+biggest	Relative	Space
+breadth	Relative	Space
+brink	Relative	Space
+city	Relative	Space
+closed	Relative	Space
+closer	Relative	Space
+closest	Relative	Space
+corner	Relative	Space
+corners	Relative	Space
+coverage	Relative	Space
+dense	Relative	Space
+everywhere	Relative	Space
+far	Relative	Space
+farther	Relative	Space
+farthest	Relative	Space
+fit	Relative	Space
+gigantic	Relative	Space
+ginormous	Relative	Space
+hall	Relative	Space
+high	Relative	Space
+land	Relative	Space
+ledging	Relative	Space
+left	Relative	Space
+level	Relative	Space
+levels	Relative	Space
+map	Relative	Space
+mapped	Relative	Space
+mapping	Relative	Space
+maps	Relative	Space
+mass	Relative	Space
+mid	Relative	Space
+neared	Relative	Space
+nearer	Relative	Space
+nearest	Relative	Space
+nearing	Relative	Space
+nears	Relative	Space
+opened	Relative	Space
+outsides	Relative	Space
+point	Relative	Space
+right	Relative	Space
+shut	Relative	Space
+side	Relative	Space
+sides	Relative	Space
+siding	Relative	Space
+site	Relative	Space
+space	Relative	Space
+spaced	Relative	Space
+spaces	Relative	Space
+span	Relative	Space
+straight	Relative	Space
+tall	Relative	Space
+taller	Relative	Space
+tallest	Relative	Space
+thinly	Relative	Space
+tinier	Relative	Space
+tiniest	Relative	Space
+tiny	Relative	Space
+together	Relative	Space
+town	Relative	Space
+upper	Relative	Space
+uppermost	Relative	Space
+upstairs	Relative	Space
+wall	Relative	Space
+walling	Relative	Space
+walls	Relative	Space
+wherever	Relative	Space
+world	Relative	Space
+age	Relative	Time
+aged	Relative	Time
+ages	Relative	Time
+aging	Relative	Time
+ago	Relative	Time
+already	Relative	Time
+april	Relative	Time
+august	Relative	Time
+autumn	Relative	Time
+awhile	Relative	Time
+begun	Relative	Time
+born	Relative	Time
+childhood	Relative	Time
+common	Relative	Time
+constant	Relative	Time
+december	Relative	Time
+due	Relative	Time
+early	Relative	Time
+end	Relative	Time
+ending	Relative	Time
+ends	Relative	Time
+era	Relative	Time
+eve	Relative	Time
+event	Relative	Time
+everyday	Relative	Time
+fast	Relative	Time
+faster	Relative	Time
+fastest	Relative	Time
+february	Relative	Time
+final	Relative	Time
+finally	Relative	Time
+frequent	Relative	Time
+frequented	Relative	Time
+frequenting	Relative	Time
+frequents	Relative	Time
+happening	Relative	Time
+immediate	Relative	Time
+immediateness	Relative	Time
+january	Relative	Time
+july	Relative	Time
+june	Relative	Time
+late	Relative	Time
+later	Relative	Time
+latest	Relative	Time
+long	Relative	Time
+meantime	Relative	Time
+meanwhile	Relative	Time
+min	Relative	Time
+new	Relative	Time
+newer	Relative	Time
+newest	Relative	Time
+newly	Relative	Time
+next	Relative	Time
+night	Relative	Time
+nightly	Relative	Time
+nights	Relative	Time
+november	Relative	Time
+october	Relative	Time
+old	Relative	Time
+olden	Relative	Time
+older	Relative	Time
+oldest	Relative	Time
+past	Relative	Time
+present	Relative	Time
+presently	Relative	Time
+prior	Relative	Time
+recency	Relative	Time
+respectively	Relative	Time
+seconds	Relative	Time
+sped	Relative	Time
+spring	Relative	Time
+starting	Relative	Time
+timing	Relative	Time
+usual	Relative	Time
+week	Relative	Time
+weeks	Relative	Time
+whilst	Relative	Time
+year	Relative	Time
+yearly	Relative	Time
+years	Relative	Time
+busy	Relative	Work	Time
+break	Relative
+building	Relative
+drop	Relative
+order	Relative
+post	Relative
+set	Relative
+sit	Relative
+sitting	Relative
+stage	Relative
+stand	Relative
+state	Relative
+way	Relative
+alla	Religion
+amen	Religion
+amish	Religion
+angel	Religion
+angels	Religion
+christ	Religion
+clergy	Religion
+convent	Religion
+convents	Religion
+god	Religion
+hells	Religion
+holy	Religion
+jesus	Religion
+jew	Religion
+jews	Religion
+karma	Religion
+kippur	Religion
+koran	Religion
+kosher	Religion
+mecca	Religion
+mercy	Religion
+moral	Religion
+morality	Religion
+morals	Religion
+nun	Religion
+nuns	Religion
+passover	Religion
+penance	Religion
+pew	Religion
+pews	Religion
+piety	Religion
+pious	Religion
+rabbi	Religion
+rabbinical	Religion
+rabbis	Religion
+ramadan	Religion
+rite	Religion
+rites	Religion
+rosaries	Religion
+rosary	Religion
+sacred	Religion
+salvation	Religion
+sect	Religion
+sectarian	Religion
+sects	Religion
+soul	Religion
+souls	Religion
+sunni	Religion
+sunnis	Religion
+torah	Religion
+yiddish	Religion
+zen	Religion
+looked	See	Percept	enPast	Verb
+saw	See	Percept	enPast	Verb
+seen	See	Percept	enPast	Verb
+advice	Social
+armies	Social
+army	Social
+asking	Social
+call	Social
+calling	Social
+calls	Social
+captain	Social
+cell	Social
+cells	Social
+confide	Social
+confided	Social
+confides	Social
+confiding	Social
+dating	Social
+deal	Social
+describing	Social
+email	Social
+emailing	Social
+emails	Social
+help	Social
+hey	Social
+hi	Social
+letter	Social
+mail	Social
+mailed	Social
+mailing	Social
+mails	Social
+mating	Social
+meet	Social
+meets	Social
+mob	Social
+mobs	Social
+motherly	Social
+phoning	Social
+private	Social
+provide	Social
+public	Social
+talk	Social
+talking	Social
+talks	Social
+tell	Social
+telling	Social
+tells	Social
+ur	Social
+wed	Social
+weds	Social
+womanhood	Social
+womanly	Social
+both	Space	CogMech	Inclusive	Funct	Relative	Quant
+dang	Swear
+darn	Swear
+heck	Swear
+jeez	Swear
+mofo	Swear
+tries	Verb	Achieve	enPresent
+try	Verb	Achieve	enPresent
+get	Verb	enPresent
+gets	Verb	enPresent
+happen	Verb	enPresent
+happens	Verb	enPresent
+take	Verb	enPresent
+takes	Verb	enPresent
+taking	Verb	enPresent
+tend	Verb	enPresent
+tends	Verb	enPresent
+turn	Verb	enPresent
+turns	Verb	enPresent
+masters	Work	Achieve
+practice	Work	Achieve
+work	Work	Achieve
+works	Work	Achieve
+read	Work	Leisure
+advertising	Work
+agent	Work
+agents	Work
+biz	Work
+calculus	Work
+chalk	Work
+class	Work
+classes	Work
+com	Work
+commuting	Work
+companies	Work
+company	Work
+contracts	Work
+corp	Work
+corps	Work
+dept	Work
+dotcom	Work
+elementary	Work
+esl	Work
+exam	Work
+exams	Work
+factories	Work
+factory	Work
+feedback	Work
+finals	Work
+firing	Work
+frat	Work
+gmat	Work
+gov	Work
+gpa	Work
+grad	Work
+grading	Work
+gre	Work
+hiring	Work
+inc	Work
+inventory	Work
+jd	Work
+laidoff	Work
+lsat	Work
+ltd	Work
+majoring	Work
+majors	Work
+mcat	Work
+mda	Work
+memo	Work
+memos	Work
+menial	Work
+mfg	Work
+mfr	Work
+mgmt	Work
+mgr	Work
+ngo	Work
+org	Work
+overworked	Work
+pen	Work
+pens	Work
+police	Work
+policy	Work
+political	Work
+politics	Work
+prof	Work
+profs	Work
+project	Work
+projects	Work
+prom	Work
+psych	Work
+publish	Work
+resource	Work
+resources	Work
+resourcing	Work
+resume	Work
+retiring	Work
+scholar	Work
+scholaring	Work
+scholarly	Work
+scholars	Work
+stock	Work
+stocked	Work
+stocker	Work
+studies	Work
+studious	Work
+test	Work
+tested	Work
+testing	Work
+tests	Work
+theses	Work
+thesis	Work
+toefl	Work
+typing	Work
+vita	Work
+vitas	Work
+welfare	Work

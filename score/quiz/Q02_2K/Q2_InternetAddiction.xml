@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	网络成瘾量表（原问卷共有20道题目）；
+	插入了7道测谎题和自我粉饰题，用tag=M和tag=E标出。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q2_NetAddiction</identifier>
+    <caption>互联网使用行为习惯调查问卷</caption>
+    <information><![CDATA[　　欢迎您填写本问卷，后面的题目列出了与您使用互联网的行为习惯相关的一些问题，对每项描述，请指出您具有哪种感受的频度，选择您认同的选项。
+
+　　请您在不受外界打扰的情况下，认真、真实地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+		<title>你会发现上网的时间超过原先预计的时间吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+  
+    <question qid="q2">
+		<title>你会因为上网忽略自己要做的事情吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q3">
+		<title>你更愿意上网而不是和亲密的朋友呆在一起吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q4">
+		<title>你经常在网上结交新朋友吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="M148" tag="M">
+		<title>当我正在做一件重要事情的时候，如果有人向我请教或打扰我，我会不耐烦的。</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q5">
+		<title>生活中，朋友、家人会抱怨你上网时间太长吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="M383" tag="M">
+		<title>我喜欢人多热闹的场合</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q6">
+		<title>你因为上网影响学习了吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q7">
+		<title>你是否会不顾身边需要解决的一些问题，而上网查看E-mail或留言？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q8">
+		<title>你因为上网影响到你的日常生活了吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+
+	<question qid="q9">
+		<title>当有人问你上网做些什么时，你会有所防范或隐瞒吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+	</question>
+	
+	<question qid="E52" tag="E">
+		<title>在游戏或打牌时你曾经作弊吗？</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+
+	<question qid="q10">
+		<title>你会因为心情不好去上网吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q11">
+		<title>你在一次上网后会渴望下一次上网吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q12">
+		<title>如果无法上网你会觉得生活空虚无聊吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q13">
+		<title>你会因为别人打搅你上网而发脾气吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="M30" tag="M">
+		<title>有时我真想骂人。</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q14">
+		<title>你会上网到深夜不去睡觉吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q15">
+		<title>你在离开网络后会想着网上的事情吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+	</question>
+	
+	<question qid="q16">
+		<title>你在上网时会对自己说：“就再玩一会儿”吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q17">
+		<title>你曾尝试减少上网时间而最终失败吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="E71" tag="E">
+		<title>你去赴约会或上班时，曾否迟到？</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q18">
+		<title>你会对人隐瞒你上网多长时间吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="q19">
+		<title>你宁愿上网而不愿意和朋友们出去玩吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="M397" tag="M">
+		<title>我喜欢聚会和社交活动</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q20">
+		<title>你会因为不能上网变得烦躁不安，喜怒无常吗？</title>
+		<answer aid="a" score="1">几乎没有</answer>
+		<answer aid="b" score="2">偶尔</answer>
+		<answer aid="c" score="3">有时</answer>
+		<answer aid="d" score="4">经常</answer>
+		<answer aid="e" score="5">总是</answer>
+    </question>
+	
+	<question qid="M234" tag="M">
+		<title>我很容易生气，但很快就平静下来</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+  </questions>
+
+  <remarks>
+    <remark minScore="min" maxScore="max">非常感谢您填写我们的问卷！您填写的信息将仅用于科学研究。</remark>
+  </remarks>
+
+</questionnaire>

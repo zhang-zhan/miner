@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	流调中心用抑郁焦虑量表，原问卷共有20道题目，
+	插入了8道测谎题和自我粉饰题，用tag=M和tag=E标出。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q2_CES-D</identifier>
+    <caption>心理抑郁状况调查问卷</caption>
+    <information><![CDATA[　　欢迎您填写本量表！
+　　后面的题目描述了您可能存在的或最近有过的感受，请在每一道题目后点击选择合适的数字来表示在【最近一周来】您产生这种感受的频繁度。
+
+　　请您在不受外界打扰的情况下，认真、真实地填写完成本问卷。]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+		<title>最近一周来，我为一些在平常并不会烦我的事而烦扰。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+  
+	<question qid="q2">
+		<title>最近一周来，我不想吃东西，食欲很差。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="q3">
+		<title>最近一周来，即使在家人或朋友的帮助下，我还觉得摆脱不了忧郁。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="E81" tag="E">
+		<title>在公园里或马路上，你是否总是把果皮或废纸扔到垃圾箱里？</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q4">
+		<title>最近一周来，我感到我和别人一样好。</title>
+		<answer aid="a" score="4">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="3">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="2">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="1">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="E7" tag="E">
+		<title>你曾经有过贪心使自己多得份外的物质利益吗?</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q5">
+		<title>最近一周来，我难以把心思集中于正在做的事情上。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+
+	<question qid="q6">
+		<title>最近一周来，我感到沮丧。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+
+	<question qid="M89" tag="M">
+		<title>要使大数人相信事实的真相，是要经过一番辩论的。</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+	<question qid="q7">
+		<title>最近一周来，我感到自己所做的每一件事都很费力。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+
+	<question qid="q8">
+		<title>最近一周来，我对前途充满希望。</title>
+		<answer aid="a" score="4">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="3">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="2">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="1">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+
+	<question qid="M129" tag="M">
+		<title>我自己时常弄不清为什么会这样爱生气和发牢骚。</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+	<question qid="q9">
+		<title>最近一周来，我认为我的一生是一个失败。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+
+	<question qid="q10">
+		<title>最近一周来，我感到害怕。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+
+	<question qid="q11">
+		<title>最近一周来，我睡不安稳。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+
+	<question qid="E68" tag="E">
+		<title>我的言行总是一致的。</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+
+	<question qid="q12">
+		<title>最近一周来，我很快乐。</title>
+		<answer aid="a" score="4">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="3">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="2">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="1">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="q13">
+		<title>最近一周来，我比平常说话少了。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="M461" tag="E">
+		<title>我希望我能避免因为破口伤人而引起的烦恼。</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q14">
+		<title>最近一周来，我感到孤独寂寞。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="q15">
+		<title>最近一周来，人们对我不友善。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="E171" tag="E">
+		<title>在聚会当中，尽管有人出风头，如果让我也这样做，我会感到很不舒服。</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q16">
+		<title>最近一周来，我享受生活的惬意。</title>
+		<answer aid="a" score="4">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="3">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="2">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="1">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="q17">
+		<title>最近一周来，我曾一阵阵的哭过。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="q18">
+		<title>最近一周来，我感到悲伤。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="M39" tag="E">
+		<title>有时我真想摔东西。</title>
+		<answer aid="a" score="0">是的</answer>
+		<answer aid="b" score="1">不是</answer>
+    </question>
+	
+	<question qid="q19">
+		<title>最近一周来，我感到别人不喜欢我。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+	
+	<question qid="q20">
+		<title>最近一周来，我提不起劲儿来做事。</title>
+		<answer aid="a" score="1">极少或从未有过（少于1天）</answer>
+		<answer aid="b" score="2">较少的时候是这样（1~2天）</answer>
+		<answer aid="c" score="3">较多的时候是这样（3~4天）</answer>
+		<answer aid="d" score="4">大多数或所有的时候都是这样（5~7天）</answer>
+    </question>
+
+  </questions>
+  
+  <remarks>
+    <remark minScore="min" maxScore="16">非常感谢您填写我们的问卷！</remark>
+	<remark minScore="16" maxScore="max">感谢您的填写！您有一定的可能性存在抑郁的情况，</remark>
+  </remarks>
+
+</questionnaire>

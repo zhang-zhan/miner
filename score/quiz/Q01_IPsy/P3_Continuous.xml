@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE questionnaire SYSTEM "Questionnaire.dtd">
+
+<!--
+	此问卷由心理所提供，源问卷参见Word文件《第三部分 持续使用意愿》。
+-->
+
+<questionnaire>
+  <description>
+    <identifier>Q1_Continuous</identifier>
+    <caption>微博持续使用意愿调查</caption>
+    <information><![CDATA[欢迎您填写本问卷调查，本调查是针对微博持续使用意愿用而设计的。
+您的填写结果将用作科学研究之用，谢谢您的积极配合！]]>
+	</information>
+  </description>
+
+  <questions>
+	<question qid="q1">
+      <title>新浪微博带给我的经验和感受比我预期的要好</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+  
+    <question qid="q2">
+      <title>新浪微博对我很有用</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q3">
+      <title>与我联系的许多人都使用新浪微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q4">
+      <title>使用新浪微博已经成为我的一种习惯了</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q5">
+      <title>比起停用新浪微博，我更希望能接着使用它</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q6">
+      <title>新浪微博已经成为我解决问题的一种方法了</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q7">
+      <title>总体来说，使用新浪微博是有益的</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q8">
+      <title>如果可以，我希望就此停用新浪微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q9">
+      <title>我平时经常联系的人们很多都使用新浪微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q10">
+      <title>新浪微博提供的服务水平比我预期的要好</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q11">
+      <title>新浪微博的优点多于它的缺点</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q12">
+      <title>跟我联系的人们会继续使用新浪微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q13">
+      <title>比起其他微博工具，我更希望能接着使用新浪微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q14">
+      <title>总的来说，在使用新浪微博的过程中，我大部分的预期得到了满足</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q15">
+      <title>我已经可以轻松自如地使用新浪微博了</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+	<question qid="q16">
+      <title>现在跟我联系并使用新浪微博的人们以后也会继续使用新浪微博</title>
+      <answer aid="a" score="1">非常不同意</answer>
+      <answer aid="b" score="2">比较不同意</answer>
+	  <answer aid="c" score="3">不太同意</answer>
+	  <answer aid="d" score="4">不确定</answer>
+	  <answer aid="e" score="5">同意</answer>
+	  <answer aid="f" score="6">比较同意</answer>
+	  <answer aid="g" score="7">非常同意</answer>
+    </question>
+	
+  </questions>
+
+  <tags>
+	<tag name="" label="致谢"><![CDATA[非常感谢您填写我们的问卷调查！]]></tag>
+  </tags>
+
+  <remarks>
+    <remark minScore="min" maxScore="max">您的填写结果将用作科学研究。</remark>
+  </remarks>
+
+</questionnaire>
