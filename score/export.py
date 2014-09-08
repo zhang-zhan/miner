@@ -1,9 +1,11 @@
 # -*- coding: UTF-8 -*-
 __author__ = 'Peter_Howe<haobibo@gmail.com>'
 
+import sys,codecs
 from collections import OrderedDict
 from datetime import datetime
 import dbutil,meta
+
 
 dimensions = OrderedDict()
 users = dict()
@@ -50,7 +52,23 @@ def get_exp_fills(ExpId):
 
 
 if __name__ == '__main__':
-    get_exp_fills(2)
+    exp_id = 2
+    if len(sys.argv)<=1:
+        print('Usage: python exp_id [output_file_path]')
+        exit()
+
+    if len(sys.argv)>1:
+        exp_id = int(sys.argv[1])
+
+    if len(sys.argv)>2:
+        fpath = sys.argv[2]
+        try:
+            fp = codecs.open(fpath, 'w', 'utf-8')
+            sys.stdout = fp
+        except:
+            raise RuntimeError('Unable to open file [%s] to write.' % fpath)
+
+    get_exp_fills(exp_id)
 
     header = "SinaUid\t"
     for dim in dimensions:
