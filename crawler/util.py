@@ -9,7 +9,6 @@ import time
 base_dir = 'J:/Compare-New'
 
 def get_user_path_list(dir='/'):
-    #获取要抓取用户的昵称
     uids = get_lines(base_dir+'/TaskList.txt')
 
     updic = dict()
@@ -23,7 +22,7 @@ def get_user_path_list(dir='/'):
 
 def get_lines(path_txt):
     lines = set()
-    with codecs.open(path_txt,'r',encoding='utf-8') as f:
+    with codecs.open(path_txt,'r',encoding='utf-8-sig') as f:
         for line in f:
             e = line.strip(' \t\r\n')
             if len(e)>0:

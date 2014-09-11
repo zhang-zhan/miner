@@ -1,31 +1,33 @@
-﻿__author__ = 'Peter_Howe<haobibo@gmail.com>'
+﻿# -*- coding: utf-8 -*-
+__author__ = 'Peter_Howe<haobibo@gmail.com>'
 
 '''
 此脚本用于根据csv格式文件的第一列作为主键，将多个文件依主键按行合并
 文件中，列分隔符可以是Tab键，或者半角英文逗号
 '''
 
+import sys,codecs
 from collections import OrderedDict
 
 def mergeCol(files, outputfile):
     header = ["SinaUid"]
-    data = {}
+    data = OrderedDict()
     nCol = 0
 
     for flag in files:
         fname = files[flag]
-        f = open(fname)
+        f = codecs.open(fname,'r',encoding='utf-8-sig')
         lines = f.readlines()
         spliter = "," if "," in lines[0] else "\t"
 
         #表头处理
-        headerCols = lines[0].strip(' \n\t,').split(spliter)[1:]
+        headerCols = lines[0].strip(' \t\r\n,').split(spliter)[1:]
         for col in headerCols:
             header.append(flag + col)
 
         #数据从第二行开始
         for line in lines[1:]:
-            line = line.strip(' \n\t,')
+            line = line.strip(' \t\r\n,')
             fields = line.split(spliter)
 
             #第一列是UID，第二列开始是特征数据
@@ -42,8 +44,9 @@ def mergeCol(files, outputfile):
                 if len ( data.get(uid) )> nCol:
                     nCol = len( data.get(uid) )
 
-    f = open(outputfile,"w")
+    f = codecs.open(outputfile,"w",encoding='utf-8')
 
+    f.write(u'\uFEFF')
     f.write(header[0])
     for h in header[1:]:
         f.write(","+h)
@@ -66,12 +69,21 @@ for month in Month:
 
 '''
 
+if __name__ == '__main__':
+    if len(sys.argv) < 4:
+        print 'Usage: python merge_join.py PREFIX_file1 PREFIX_file2 [PREFIX_fileN...] result_file'
+        exit(-1)
 
-base = u'E:/Study/Research-Suicide/Data-用户实验/csv/'
-outputFile = base + u'Merged.csv'
-files=OrderedDict([
-    ('S_', base + u"用户实验用户问卷数据.csv"),
-    ('B_', base + u"用户实验微博行为数据.csv"),
-    ('L_', base + u"用户实验微博内容数据.csv")
-])
-mergeCol(files,outputFile)
+    outputFile = sys.argv[-1]
+
+    files=OrderedDict()
+    for arg in sys.argv[1:-1]:
+        print arg
+        args = arg.split('_')
+        if len(args)>1:
+            prefix, fname = args
+        else:
+            prefix, fname = '', args[0]
+        files[prefix+'_'] = fname
+
+    mergeCol(files,outputFile)

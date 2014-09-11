@@ -10,7 +10,7 @@ import dbutil,meta
 dimensions = OrderedDict()
 users = dict()
 
-quiz_with_answer = ['Q2_Demographic']
+quiz_with_answer = ['Q2_Demographic','HKU-CSRP']
 
 def get_exp_fills(ExpId):
     cur = dbutil.get_cur()
@@ -52,9 +52,12 @@ def get_exp_fills(ExpId):
 
 
 if __name__ == '__main__':
-    exp_id = 2
+    exp_id = 0
+
+    print sys.argv
+
     if len(sys.argv)<=1:
-        print('Usage: python exp_id [output_file_path]')
+        print('Usage: python export.py exp_id [output_file_path]')
         exit()
 
     if len(sys.argv)>1:

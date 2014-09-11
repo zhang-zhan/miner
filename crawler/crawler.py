@@ -64,16 +64,27 @@ def get_commnets_by_status(id, comments_count):
     nPages = int( nPages )
 
     cc = []
-    min_page = max(nPages-10,0)
-    for i in range(nPages,min_page,-1):
-        c = client.comments.show.get(id=id, count=200, page=i)
-        comments = c['comments']
+    min_page = min(nPages,0)
+    for i in range(nPages,min_page, -1):
+        c = None
+        max_try = 3
+        while max_try>0:
+            try:
+                c = client.comments.show.get(id=id, count=200, page=i)
+                break
+            except:
+                max_try -= 1
+                continue
+
+        if c is None or len(c)==0:
+            continue
+
+        comments = c.get('comments',[])
         for t in comments:
             try:
                 t.pop('status')
             except Exception as e:
-                #pass
-                print e
+                print e #pass
 
             cc.append(t)
     return cc
@@ -81,38 +92,54 @@ def get_commnets_by_status(id, comments_count):
 
 def download_user_statuses_comments(uid_tasks):
     for uid, path in uid_tasks.iteritems():
-        if os.path.exists('%s/Status/%s.json' % (base_dir, uid)):
+        print('Downloading user status of [%s].' % uid)
+        status_fpath = '%s/Status/%s.json' % (base_dir, uid)
+        if not os.path.exists(status_fpath):
+            print('Downloading info of user: %s ...' % uid)
+            try:
+                statuses = get_all_statuses(uid=uid)
+                with codecs.open((path % 'Status')+'.json', 'w', encoding='utf-8') as f:
+                    json.dump(statuses,f,ensure_ascii=False)
+            except APIError as e:
+                print uid, e
+            except Exception as e:
+                print uid, e
+        else:
+            with codecs.open(status_fpath,'r','utf-8-sig') as fp_status:
+               statuses = json.load(fp_status,encoding='utf-8')
+
+        #download status comments
+        cmt_folder = '%s/Comments/%s/' % (base_dir, uid)
+        if os.path.exists(cmt_folder + 'done'):
             continue
 
-        print('Downloading info of user: %s ...' % uid)
-        try:
-            statuses = get_all_statuses(uid=uid)
-            with codecs.open((path % 'Status')+'.json', 'w', encoding='utf-8') as f:
-                json.dump(statuses,f,ensure_ascii=False)
-        except APIError as e:
-            print uid, e
-        except Exception as e:
-            print uid, e
-        '''
+        try: os.makedirs(cmt_folder)
+        except: pass
+
         for status in statuses:
+            #time.sleep(sleep_span)
+
             cmts_count = int( status['comments_count'] )
-            if cmts_count < 10:continue
+            if cmts_count < 1:continue
 
             mid = str( status['id'] )
 
-            #############
-            time.sleep(sleep_span)
+            cmt_fpath = cmt_folder + '%s.json' % mid
+            if os.path.exists(cmt_fpath):
+                continue
+
             comments = get_commnets_by_status(mid,cmts_count)
-            if len(comments) < 5:continue
+            cmt_len = len(comments)
+            print('  Download Comment [%s].[%s]->[%d]' % (uid,mid,cmt_len))
+            if cmt_len < 1:continue
 
-            try:
-                os.makedirs(path)
-            except:
-                pass
-
-            with codecs.open(path + '/' + mid + '.json','w',encoding='utf-8') as f:
+            with codecs.open(cmt_fpath,'w',encoding='utf-8') as f:
                 json.dump(comments, f, ensure_ascii=False)
-        '''
+
+        with codecs.open(cmt_folder + 'done', 'w', encoding='utf-8') as fp:
+            fp.write('done')
+
+
 
 def download_user_profile(uid_tasks):
     for uid, path in uid_tasks.iteritems():
