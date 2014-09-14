@@ -15,12 +15,18 @@ class Question:
         self.title = title
         self.tag = tag
         self.answers = OrderedDict()
+        self.answers_text = OrderedDict()
 
-    def add_answer(self, aid, score):
+    def add_answer(self, aid, score, text=None):
         self.answers[aid] = score
+        if text is not None:
+            self.answers_text[aid] = text
 
     def get_score(self,aid):
         return self.answers.get(aid,0)
+
+    def get_answer_text(self,aid):
+        return self.answers_text.get(aid,aid)
 
 class Quiz:
     def __init__(self, quizid):
@@ -46,31 +52,44 @@ class Quiz:
                 if a.name is None or a.name!='answer':continue
                 aid = a['aid']
                 score = a['score']
-                _q.add_answer(aid,score)
+                text = a.string
+                _q.add_answer(aid,score,text=text)
 
             self.questions[qid] = _q
 
 
-    def parse(self, s, col_name=None):
+    def parse(self, s, translate_question=True, translate_answer=True, col_name=None):
         result = OrderedDict()
 
         ll = s.split('#')
         for l in ll:
             if len(l)==0: continue
             a = l.split('@')
-            key = a[0]
-            value = a[1].strip(' \t\r\n[]')
-            if col_name is not None:
-                key = col_name if key=='_def' else"%s_%s" % (col_name, key)
+            key_ = key = a[0]
+            value_ = value = a[1].strip(' \t\r\n[]')
 
-            result[key] = value
+            tmp_q = self.questions.get(key,None)
+
+            if col_name is not None:
+                if key=='_def':
+                    key_ = col_name
+                else:
+                    if translate_question:
+                        key_ = tmp_q.title if tmp_q is not None else key
+
+                    key_ = "%s_%s" % (col_name, key_)
+
+            if translate_answer and tmp_q is not None:
+                value_ =tmp_q.get_answer_text(value)
+
+            result[key_] = value_
         return result
 
     def score(self, s, col_name=None):
         '''Given an answer str s, parse the string and calculate the score according to xml questionnaire file.'''
         dimensions = dict()
 
-        ans = self.parse(s)
+        ans = self.parse(s,translate_answer=False,translate_question=False)
         for qid,aid in ans.iteritems():
 
             _q = self.questions.get(qid)

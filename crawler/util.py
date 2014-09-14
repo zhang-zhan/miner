@@ -1,7 +1,7 @@
 # -*- encoding=utf-8 -*-
 __author__ = 'Peter'
 
-import os,codecs
+import os,codecs,urllib2
 from collections import OrderedDict
 from datetime import datetime
 import time
@@ -52,3 +52,28 @@ def time_format(time_str):
 
     stamp = time.strftime("%Y/%m/%d", time.localtime(stamp))
     return stamp
+
+def store_image(source_url,dest_fname,headers=None):
+    head = {}
+    if headers is not None:
+        head.update(headers)
+
+    data = 3
+    while data>0:
+        data -= 1
+        try:
+            req = urllib2.Request(source_url, None, head)
+            data=urllib2.urlopen(req).read()
+            break
+        except Exception as e:
+            print('Unable to download image [Time:%d][%s]' % (data,source_url))
+            #raise RuntimeWarning('Unable to download image [%s]' % source_url)
+
+    if isinstance(data,int):
+        print('Unable to save image [%s]' % source_url)
+        return False
+
+    fout = file(dest_fname,"wb")
+    fout.write(data)
+    fout.close()
+    return True

@@ -34,7 +34,7 @@ def get_exp_fills(ExpId):
             dimensions[s] = 0
 
         if quiz_id in quiz_with_answer:
-            answers = quiz.parse(answer,quiz_id)
+            answers = quiz.parse(answer, col_name=quiz_id)
             u.update(answers)
             for a in answers:
                 dimensions[a] = 0
@@ -67,20 +67,21 @@ if __name__ == '__main__':
         fpath = sys.argv[2]
         try:
             fp = codecs.open(fpath, 'w', 'utf-8')
+            fp.write(u'\uFEFF')
             sys.stdout = fp
         except:
             raise RuntimeError('Unable to open file [%s] to write.' % fpath)
 
     get_exp_fills(exp_id)
 
-    header = "SinaUid\t"
+    header = "SinaUid,"
     for dim in dimensions:
-        header += "%s\t" % dim
+        header += "%s," % dim
     print header
 
     for u,scores in users.iteritems():
-        line = '%s\t' % u
+        line = '%s,' % u
         for dim in dimensions:
-            line += '%s\t' % scores[dim]
+            line += '%s,' % scores[dim]
 
         print line
